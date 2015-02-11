@@ -8,5 +8,11 @@ var data = {"users": [
   "firstName": "Genoveva",
   "lastName": "Rossel",
   "joined": 1997
+},
+{
+  "firstName": "Thomas",
+  "lastName": "zum Felde",
+  "joined": 2004
 }
+
 ]};
