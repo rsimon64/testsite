@@ -1,0 +1,11 @@
+CACHE MANIFEST
+#This is a comment: the cached files are updated when this file changes!
+
+CACHE:
+index.html
+
+NETWORK:
+*
+
+FALLBACK:
+/
