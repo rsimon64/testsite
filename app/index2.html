@@ -263,7 +263,7 @@ function showItem( urlObj, options )
 		for ( var i = 0; i < numAttrs; i++ ) {
 		  if(cAttr[i].name.search(" image") !== -1){
 		    markup += "<li><img src='" + cAttr[i].valu + "' alt='" + cAttr[i].name 
-  			+ "' width = 100%/></li>";
+  			+ "'/></li>";
 		  } else {
 		  
   			markup += "<li>" + cAttr[i].name + ": <b>" + cAttr[i].valu 
