@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# version 0.8
+# version 0.8.1
 # <html manifest="/manifest.appcache">
 #This is a comment: the cached files are updated when this file changes!
 
@@ -23,4 +23,17 @@ NETWORK:
 *
 
 FALLBACK:
-/
+index.html
+https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css
+jquery-1.4.3.min.js
+jqm-docs.js
+https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js
+tuber/374080.1.jpg
+plant/374080.1.jpg
+sprout/374080.1.jpg
+tuber/CIP379666.501.jpg
+plant/CIP379666.501.jpg
+sprout/CIP379666.501.jpg
+tuber/CIP386040.9.jpg
+plant/CIP386040.9.jpg
+sprout/CIP386040.9.jpg
