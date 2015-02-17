@@ -15,7 +15,7 @@
 // for demonstration purposes, but could be loaded dynamically
 // via ajax.
 var categoryData = {
-	clones: {
+	varieties: {
 		name: "Potato Varieties",
 		description: "The Potato Catalogue contains information of 70 potato varieties selected from breeding material provided by the International Potato Center (CIP) and released by national potato program.",
 		items: [
@@ -27,6 +27,18 @@ var categoryData = {
 			},
 			{
 				name: "CIP386040.9"
+			}
+		]
+	},
+	varieties: {
+		name: "Potato Advanced Clones",
+		description: "This catalogue is intended to provide relevant information about advanced potato clones developed at the International Potato Center (CIP). These clones are currently available for worldwide distribution to potato research programs and other interested parties, including national programs, universities, producer associations and farmer communities. The advanced clones listed in this catalogue combine several traits, such as resistance to late blight, viruses, high productivity, among others. They were selected from CIP’s breeding program and can be used to generate new varieties through further selection and validation with farmers and other chain actors according to the specific context and needs within each recipient country.",
+		items: [
+			{
+				name: "CIP300046.22"
+			},
+			{
+				name: "CIP300048.12"
 			}
 		]
 	},
@@ -173,12 +185,18 @@ var itemData = {
 }
 
 
+function getLang(){
+  var userLang = navigator.language || navigator.userLanguage;
+  return(userLang)
+}
+
 // Load the data for a specific category, based on
 // the URL passed in. Generate markup for the items in the
 // category, inject it into an embedded page, and then make
 // that page the current active page.
 function showCategory( urlObj, options )
 {
+  //alert(getLang())
 	var categoryName = urlObj.hash.replace( /.*category=/, "" ),
 
 		// Get the object that represents the category we
@@ -368,15 +386,16 @@ $(document).bind( "pagebeforechange", function( e, data ) {
 
 <body>
 <div id="home" data-role="page">
-  <div data-role="header"><h1>CIP catalog</h1></div><p>of potato</p>
+  <div data-role="header"><h1>CIP catalog</h1></div><p><center>of potato</center></p>
   <div data-role="content">
     <!--
   	<h2>Select a Category Below:</h2>
   	-->
   	<ul data-role="listview" data-inset="true">
-    	<li><a href="#category-items?category=clones">Varieties</a></li>
+    	<li><a href="#category-items?category=clones">Clones</a></li>
+    	
+    	<li><a href="#category-items?category=varieties">Varieties</a></li>
     	<!--
-    	<li><a href="#category-items?category=countries">Countries</a></li>
     	<li><a href="#category-items?category=reactions">Reactions</a></li>
     	-->
     </ul>
