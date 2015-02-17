@@ -31,8 +31,8 @@ var categoryData = {
 		]
 	},
 	clones: {
-		name: "Potato Advanced Clones",
-		description: "This catalogue is intended to provide relevant information about advanced potato clones developed at the International Potato Center (CIP). These clones are currently available for worldwide distribution to potato research programs and other interested parties, including national programs, universities, producer associations and farmer communities. The advanced clones listed in this catalogue combine several traits, such as resistance to late blight, viruses, high productivity, among others. They were selected from CIP’s breeding program and can be used to generate new varieties through further selection and validation with farmers and other chain actors according to the specific context and needs within each recipient country.",
+		name: "_PACT",
+		description: "_PACC",
 		items: [
 			{
 				name: "CIP300046.22"
@@ -177,14 +177,14 @@ var itemData = {
 				valu: "white-cream"
 			},
 			{
-				name: "Resistance to Late Blight",
-				valu: "moderately resistant"
+				name: "_RLB",
+				valu: "_MR"
 			}
 		]
 	},
 'CIP300046.22': {
 		name: "CIP300046.22",
-		description: "Population LTVR",
+		description: "_LTVR",
 		attr: [
 		  {
 				name: "Tuber image",
@@ -196,22 +196,22 @@ var itemData = {
 			},
 			
 			{
-				name: "Tuber flesh color",
-				valu: "cream"
+				name: "_TBFLSH",
+				valu: "_CR"
 			},
 			{
-				name: "Tuber skin color",
-				valu: "white-cream"
+				name: "_TBSKN",
+				valu: "_WCR"
 			},
 			{
-				name: "Resistance to Late Blight",
-				valu: "resistant"
+				name: "_RLB",
+				valu: "_R"
 			}
 		]
 	},
 'CIP300048.12': {
 		name: "CIP300048.12",
-		description: "Population LTVR",
+		description: "_LTVR",
 		attr: [
 		  {
 				name: "Tuber image",
@@ -227,16 +227,16 @@ var itemData = {
 			},
 		  
 			{
-				name: "Tuber flesh color",
-				valu: "cream"
+				name: "_TBFLSH",
+				valu: "_CR"
 			},
 			{
-				name: "Tuber skin color",
-				valu: "white-cream"
+				name: "_TBSKN",
+				valu: "_WCR"
 			},
 			{
-				name: "Resistance to Late Blight",
-				valu: "highly susceptible"
+				name: "_RLB",
+				valu: "_HS"
 			}
 		]
 	}
@@ -245,7 +245,78 @@ var itemData = {
 
 function getLang(){
   var userLang = navigator.language || navigator.userLanguage;
-  return(userLang)
+  return(userLang.substring(0,2) );
+}
+
+var lang = getLang();
+
+var dataDict = {
+    _PACT: {
+        en: "Potato Advanced Clones",
+        de: "Verbesserte Klone",
+        es: "Clones avanzados"
+    },
+    _PACC: {
+        en: "This catalogue is intended to provide relevant information about advanced potato clones developed at the International Potato Center (CIP). These clones are currently available for worldwide distribution to potato research programs and other interested parties, including national programs, universities, producer associations and farmer communities. The advanced clones listed in this catalogue combine several traits, such as resistance to late blight, viruses, high productivity, among others. They were selected from CIP’s breeding program and can be used to generate new varieties through further selection and validation with farmers and other chain actors according to the specific context and needs within each recipient country.",
+        de: "Dieser Kartoffelkatalog beschreibt die Eigenschaften von fortgeschrittenem Zuechtungsmaterial am Internationalen Kartoffelforschungszentrum (CIP). Das Zuechtungsmaterial ist fuer die weltweite Lieferung an andere Kartoffelzuechter verfuegbar, insbesondere an: nationale Programme, Universitaeten, Produktionsgenosssenschaften und Bauerngemeinschaften. Die im Katalog aufgefuehrten Materialien vereinen mehrere Merkmale - Resistenzen gegen Kraut- und Knollenfaeule und verschiedenen Viruskrankheiten sowie hohem Ertragspotential. Dieses Material stammt aus CIPs Kartoffelzuechtungsprogramm und kann fuer die Sortenerzeugung in nationalen Zuechtungsprogrammen weiterverwendet werden - je nach spezifischem Kontext und Anforderungen. ",
+        es: "Este catálogo tiene como objetivo proporcionar información sobre los clones avanzados y variedades de papa con los que cuenta el CIP, y que están disponibles para ser distribuidos a los diferentes programas de investigación en papa, universidades, asociaciones de productores, comunidades campesinas, empresas, etc. a nivel de Latinoamérica principalmente y también del mundo. Los clones avanzados a los que se hace referencia tienen fuentes de resistencia a tizón tardío, virus y otros. Estos fueron seleccionados a través de años de investigación y la idea es que sirvan a los investigadores de los programas nacionales para generar nuevas variedades mediante su validación con los agricultores. Con respecto a las variedades, éstas ya fueron validadas en algunas regiones y lo que se quiere lograr es que sean cultivados en varios países de Latinoamérica adaptándolas a contextos específicos y que sean económicamente accesibles a pequeños productores."
+    },
+    _LTVR: {
+        en: "Population LTVR",
+        de: "Population LTVR",
+        es: "Poblacion LTVR"
+        },
+    _CLONES: {
+        en: "Clones",
+        de: "Klone",
+        es: "Clons"
+    },
+    _TBFLSH: {
+        en: "Primary Tuber Flesh Color",
+        de: "Vorherrschende Fleischfarbe",
+        es: "Color de pulpa"
+    },
+    _CR: {
+        en: "cream",
+        de: "creme farben",
+        es: "crema"
+        },
+    _WCR: {
+        en: "white-cream",
+        de: "weiss-creme farben",
+        es: "blanco-crema"
+        },    
+    _TBSKN: {
+        en: "Tuber skin",
+        de: "Knollenschale",
+        es: "Color predominante de la piel"
+    },
+    _RLB: {
+        es: "Resistencia a Tizón tardío",
+        de: "Kraut- und Knollenfaeuleresistenz",
+        en: "Resistance to Late Blight"
+    },
+    _R: {
+        en: "resistant",
+        de: "resistent",
+        es: "resistente"
+    },
+    _MR: {
+        en: "moderately resistant",
+        de: "wenig resistant",
+        es: "moderadamente resistente"
+    }
+    
+};
+
+
+
+
+function translate(aterm){
+  if(aterm.search("_") !== -1) {
+    aterm = dataDict[aterm][lang];
+  }
+  return(aterm);
 }
 
 // Load the data for a specific category, based on
@@ -281,7 +352,7 @@ function showCategory( urlObj, options )
 
 			// The markup we are going to inject into the content
 			// area of the page.
-			markup = "<p>" + category.description + "</p><ul data-role='listview' data-inset='true'>",
+			markup = "<p>" + translate(category.description) + "</p><ul data-role='listview' data-inset='true'>",
 
 			// The array of items for this category.
 			cItems = category.items,
@@ -300,7 +371,7 @@ function showCategory( urlObj, options )
 
 		// Find the h1 element in our header and inject the name of
 		// the category into it.
-		$header.find( "h1" ).html( category.name );
+		$header.find( "h1" ).html( translate(category.name) );
     
 		// Inject the category items markup into the content element.
 		
@@ -357,7 +428,7 @@ function showItem( urlObj, options )
 
 			// The markup we are going to inject into the content
 			// area of the page.
-			markup = "<p>" + item.description + "</p><ul data-role='listview' data-inset='true'>",
+			markup = "<p>" + translate(item.description) + "</p><ul data-role='listview' data-inset='true'>",
 
 			// The array of items for this category.
 			cAttr = item.attr,
@@ -373,7 +444,8 @@ function showItem( urlObj, options )
   			+ "'/></li>";
 		  } else {
 		  
-  			markup += "<li>" + cAttr[i].name + ": <b>" + cAttr[i].valu 
+  			markup += "<li>" + translate(cAttr[i].name) + ": <b>" + 
+  			                   translate(cAttr[i].valu )
   			+ "</b></li>";
 		  }
 		}
@@ -414,6 +486,9 @@ function showItem( urlObj, options )
 $(document).bind( "pagebeforechange", function( e, data ) {
 	// We only want to handle changePage() calls where the caller is
 	// asking us to load a page by URL.
+	
+	//$content.find("_CLONES").html(translate("_CLONES"));
+	
 	if ( typeof data.toPage === "string" ) {
 		// We are being asked to load a page by URL, but we only
 		// want to handle URLs that request the data for a specific
@@ -450,9 +525,9 @@ $(document).bind( "pagebeforechange", function( e, data ) {
   	<h2>Select a Category Below:</h2>
   	-->
   	<ul data-role="listview" data-inset="true">
-    	<li><a href="#category-items?category=clones">Clones</a></li>
+    	<li><a href="#category-items?category=clones" id="_CLONES">Clones</a></li>
     	
-    	<li><a href="#category-items?category=varieties">Varieties</a></li>
+    	<li><a href="#category-items?category=varieties" >Varieties</a></li>
     	<!--
     	<li><a href="#category-items?category=reactions">Reactions</a></li>
     	-->
