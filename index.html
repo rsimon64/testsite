@@ -318,6 +318,7 @@ var dataDict = {
 
 
 function translate(aterm){
+  if(lang != "en" & lang != "es" & lang!="de") lang = "en";
   if(aterm.search("_") !== -1) {
     aterm = dataDict[aterm][lang];
   }
