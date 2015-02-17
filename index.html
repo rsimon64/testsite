@@ -445,8 +445,8 @@ function showItem( urlObj, options )
 		// and add it to our markup.
 		for ( var i = 0; i < numAttrs; i++ ) {
 		  if(cAttr[i].name.search(" image") !== -1){
-		    markup += "<li><img src='" + cAttr[i].valu + "' alt='" + cAttr[i].name 
-  			+ "'/></li>";
+		    markup += "<li><center><img src='" + cAttr[i].valu + "' alt='" + cAttr[i].name 
+  			+ "'/></center></li>";
 		  } else {
 		  
   			markup += "<li>" + translate(cAttr[i].name) + ": <b>" + 
