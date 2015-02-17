@@ -97,6 +97,10 @@ var itemData = {
 		description: "My favorite CIP clone.",
 		attr: [
 		  {
+				name: "Tuber image",
+				valu: "tuber/374080.1.jpg"
+			},
+		  {
 				name: "Country of selection",
 				valu: "Peru"
 			},
@@ -257,8 +261,14 @@ function showItem( urlObj, options )
 		// Generate a list item for each item in the category
 		// and add it to our markup.
 		for ( var i = 0; i < numAttrs; i++ ) {
-			markup += "<li>" + cAttr[i].name + ": <b>" + cAttr[i].valu 
-			+ "</b></li>";
+		  if(cAttr[i].name.search(" image") !== -1){
+		    markup += "<li><img src='" + cAttr[i].valu + "' alt='" + cAttr[i].name 
+  			+ "' width = 100%/></li>";
+		  } else {
+		  
+  			markup += "<li>" + cAttr[i].name + ": <b>" + cAttr[i].valu 
+  			+ "</b></li>";
+		  }
 		}
 		markup += "</ul>";
 
