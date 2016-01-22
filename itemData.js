@@ -32,67 +32,67 @@ name: "Male parent",
 valu: "393613.2 (TXY.2)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.98"
+valu: "0.980000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "74.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -101,58 +101,58 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -209,67 +209,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.58"
+valu: "0.580000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -278,28 +278,28 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "54.450000"
@@ -329,10 +329,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.000000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -386,67 +386,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.76"
+valu: "0.760000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "102.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -455,58 +455,58 @@ name: "Oil Absorption Rate (%)",
 valu: "26.000000"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -563,67 +563,67 @@ name: "Male parent",
 valu: "393613.2 (TXY.2)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.63611111"
+valu: "0.64"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "16"
@@ -632,61 +632,61 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -740,67 +740,67 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "3"
+valu: "In areas around the eyes (splashed)"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.72"
+valu: "0.720000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "106.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -809,58 +809,58 @@ name: "Oil Absorption Rate (%)",
 valu: "26.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -917,67 +917,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.667037035925926"
+valu: "0.67"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -986,28 +986,28 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "66.260000"
@@ -1037,10 +1037,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.150000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -1094,67 +1094,67 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.76611111"
+valu: "0.77"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
@@ -1163,61 +1163,61 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -1271,67 +1271,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.68"
+valu: "0.680000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "84.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -1340,58 +1340,58 @@ name: "Oil Absorption Rate (%)",
 valu: "36.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -1448,67 +1448,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.59"
+valu: "0.590000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "100.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "17"
@@ -1517,58 +1517,58 @@ name: "Oil Absorption Rate (%)",
 valu: "32.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -1625,67 +1625,67 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "2"
+valu: "Scattered areas"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.904814814814815"
+valu: "0.90"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -1694,28 +1694,28 @@ name: "Oil Absorption Rate (%)",
 valu: "27.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "62.390000"
@@ -1745,10 +1745,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.180000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -1802,67 +1802,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.66"
+valu: "0.660000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "87.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "17"
@@ -1871,58 +1871,58 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -1979,67 +1979,67 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "2"
+valu: "Yellow"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.86222222"
+valu: "0.86"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "112.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
@@ -2048,28 +2048,28 @@ name: "Oil Absorption Rate (%)",
 valu: "27.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "68.160000"
@@ -2099,7 +2099,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.400000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -2156,67 +2156,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.723333333333333"
+valu: "0.72"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -2225,28 +2225,28 @@ name: "Oil Absorption Rate (%)",
 valu: "32.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "68.000000"
@@ -2276,10 +2276,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "8.130000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -2333,67 +2333,67 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.57"
+valu: "0.570000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -2402,28 +2402,28 @@ name: "Oil Absorption Rate (%)",
 valu: "26.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "58.450000"
@@ -2453,10 +2453,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "8.640000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -2510,130 +2510,130 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.812483335"
+valu: "0.81"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -2687,97 +2687,97 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "3"
+valu: "In areas around the eyes (splashed)"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.11"
+valu: "1.110000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "48.030000"
@@ -2807,10 +2807,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "6.410000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -2864,130 +2864,130 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9558"
+valu: "0.96"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "17"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -3041,130 +3041,130 @@ name: "Male parent",
 valu: "BOGNA"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.04"
+valu: "1.040000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -3218,67 +3218,67 @@ name: "Male parent",
 valu: "C95.397"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.95"
+valu: "0.950000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -3287,28 +3287,28 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "35.880000"
@@ -3338,10 +3338,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "8.270000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -3395,97 +3395,97 @@ name: "Male parent",
 valu: "702853 (LOP-868)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.67"
+valu: "0.670000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "22.320000"
@@ -3515,10 +3515,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.120000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -3572,97 +3572,97 @@ name: "Male parent",
 valu: "702853 (LOP-868)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.77"
+valu: "0.770000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "66.160000"
@@ -3692,10 +3692,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "7.370000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -3749,130 +3749,130 @@ name: "Male parent",
 valu: "LOP-886"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.911983335"
+valu: "0.91"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -3926,130 +3926,130 @@ name: "Male parent",
 valu: "LOP-886"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.77"
+valu: "0.770000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -4103,130 +4103,130 @@ name: "Male parent",
 valu: "391207.2 (LR93.050)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7704"
+valu: "0.77"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "17"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -4280,130 +4280,130 @@ name: "Male parent",
 valu: "393617.1 (TXY.11)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.91"
+valu: "0.910000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -4457,97 +4457,97 @@ name: "Male parent",
 valu: "393613.2 (TXY.2)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.6"
+valu: "0.600000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "45.010000"
@@ -4577,10 +4577,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.190000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -4634,31 +4634,31 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "9"
+valu: "Blackish"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "7"
+valu: "Purple"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
@@ -4682,7 +4682,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.27"
+valu: "0.270000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -4703,7 +4703,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -4754,7 +4754,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.700000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -4811,40 +4811,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "4"
+valu: "In a broad vascular ring"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -4859,7 +4859,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.841"
+valu: "0.841000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -4880,7 +4880,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -4931,7 +4931,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "8.330000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -4988,31 +4988,31 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
@@ -5021,7 +5021,7 @@ name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -5036,7 +5036,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.68"
+valu: "0.680000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -5057,7 +5057,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -5108,7 +5108,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.700000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -5165,40 +5165,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -5213,7 +5213,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.586047619047619"
+valu: "0.59"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -5234,7 +5234,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -5285,7 +5285,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -5342,31 +5342,31 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "9"
+valu: "Blackish"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "7"
+valu: "Purple"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
@@ -5375,7 +5375,7 @@ name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -5390,7 +5390,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.55"
+valu: "0.550000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -5411,7 +5411,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -5462,7 +5462,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.900000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -5519,40 +5519,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "9"
+valu: "Blackish"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "8"
+valu: "Violet"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "4"
+valu: "In a broad vascular ring"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -5567,7 +5567,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.23375"
+valu: "1.23"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -5588,7 +5588,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -5639,7 +5639,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "8.310000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -5696,40 +5696,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -5744,7 +5744,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.08"
+valu: "1.080000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -5765,7 +5765,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -5816,7 +5816,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -5873,40 +5873,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "4"
+valu: "In a broad vascular ring"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -5921,7 +5921,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.976309523809524"
+valu: "0.99"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -5942,7 +5942,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -5993,7 +5993,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.190000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -6050,40 +6050,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "4"
+valu: "In a broad vascular ring"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -6098,7 +6098,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.54"
+valu: "1.540000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -6119,7 +6119,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -6170,7 +6170,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -6227,40 +6227,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "1"
+valu: "Scattered spots"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -6275,7 +6275,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.34950396825397"
+valu: "1.3"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -6296,7 +6296,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -6347,7 +6347,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "7.700000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -6404,40 +6404,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -6452,7 +6452,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.03"
+valu: "1.030000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -6473,7 +6473,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -6524,7 +6524,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.240000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -6581,40 +6581,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -6629,7 +6629,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.32510714285714"
+valu: "1.33"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -6650,7 +6650,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -6701,7 +6701,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "7.080000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -6758,40 +6758,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "9"
+valu: "Blackish"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "4"
+valu: "In a broad vascular ring"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -6806,7 +6806,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.935449735449735"
+valu: "0.94"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -6827,7 +6827,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -6878,7 +6878,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.880000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -6935,40 +6935,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "9"
+valu: "Blackish"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "4"
+valu: "In a broad vascular ring"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -6983,7 +6983,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.72"
+valu: "0.720000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -7004,7 +7004,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -7055,7 +7055,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.820000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -7112,40 +7112,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -7160,7 +7160,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9215"
+valu: "0.92"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -7181,7 +7181,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -7232,7 +7232,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -7289,37 +7289,37 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
 valu: "NA"
@@ -7337,7 +7337,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.785392857142857"
+valu: "0.79"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -7358,7 +7358,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -7409,7 +7409,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.600000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -7466,40 +7466,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -7514,7 +7514,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.114"
+valu: "1.11"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -7535,7 +7535,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -7586,7 +7586,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -7643,40 +7643,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "7"
+valu: "Purple"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -7691,7 +7691,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.56"
+valu: "0.560000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -7712,7 +7712,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -7763,7 +7763,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "7.680000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -7820,40 +7820,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -7868,7 +7868,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.86"
+valu: "0.860000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -7889,7 +7889,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -7940,7 +7940,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -7997,40 +7997,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -8045,7 +8045,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1"
+valu: "1.000000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -8066,7 +8066,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -8117,7 +8117,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "8.160000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -8174,40 +8174,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -8222,7 +8222,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.18742063492063"
+valu: "1.19"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -8243,7 +8243,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -8294,7 +8294,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -8351,37 +8351,37 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
 valu: "NA"
@@ -8399,7 +8399,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.13116666666667"
+valu: "1.13"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -8420,7 +8420,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -8471,7 +8471,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.120000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -8528,37 +8528,37 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
 valu: "NA"
@@ -8576,7 +8576,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.945952380952381"
+valu: "0.95"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -8597,7 +8597,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -8648,7 +8648,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "8.410000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -8705,31 +8705,31 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "9"
+valu: "Blackish"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "7"
+valu: "Purple"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
@@ -8753,7 +8753,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.6565"
+valu: "0.66"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -8774,7 +8774,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -8825,7 +8825,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -8882,40 +8882,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "7"
+valu: "Purple"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -8930,7 +8930,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.835535714285714"
+valu: "0.84"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -8951,7 +8951,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -9002,7 +9002,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.250000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -9059,40 +9059,40 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -9107,7 +9107,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.639166666666667"
+valu: "0.639167"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -9128,7 +9128,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -9179,7 +9179,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.130000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -9236,37 +9236,37 @@ name: "Male parent",
 valu: "Adg purple flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "7"
+valu: "Purple"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
 valu: "NA"
@@ -9284,7 +9284,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.80075"
+valu: "0.800750"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -9305,7 +9305,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -9356,7 +9356,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "7.900000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -9413,31 +9413,31 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
@@ -9446,7 +9446,7 @@ name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -9461,7 +9461,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.83"
+valu: "0.830000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -9482,7 +9482,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -9533,7 +9533,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "7.380000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -9590,37 +9590,37 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "7"
+valu: "Purplish-red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "8"
+valu: "Violet"
 },{
 name: "Tuber flesh secondary color",
-valu: "1"
+valu: "White"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "2"
+valu: "Scattered areas"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
 valu: "NA"
@@ -9638,7 +9638,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.815428571428571"
+valu: "0.815429"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -9659,7 +9659,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -9710,7 +9710,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.650000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -9767,31 +9767,31 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
@@ -9800,7 +9800,7 @@ name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -9815,7 +9815,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7"
+valu: "0.700000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -9836,7 +9836,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -9887,7 +9887,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -9944,40 +9944,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "7"
+valu: "Purplish-red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -9992,7 +9992,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.17568783068783"
+valu: "1.175688"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -10013,7 +10013,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -10064,7 +10064,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "8.670000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -10121,40 +10121,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -10169,7 +10169,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.68"
+valu: "1.680000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -10190,7 +10190,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -10241,7 +10241,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -10298,40 +10298,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "7"
+valu: "Purplish-red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "8"
+valu: "Violet"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -10346,7 +10346,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.983285714285714"
+valu: "0.983286"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -10367,7 +10367,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -10418,7 +10418,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -10475,40 +10475,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "7"
+valu: "Purplish-red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -10523,7 +10523,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.37289285714286"
+valu: "1.372893"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -10544,7 +10544,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -10595,7 +10595,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.490000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -10652,40 +10652,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "8"
+valu: "Violet"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "1"
+valu: "Scattered spots"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -10700,7 +10700,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.06466666666667"
+valu: "1.064667"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -10721,7 +10721,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -10772,7 +10772,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "7.220000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -10829,31 +10829,31 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
@@ -10862,7 +10862,7 @@ name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -10877,7 +10877,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.53"
+valu: "1.530000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -10898,7 +10898,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -10949,7 +10949,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "8.810000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -11006,37 +11006,37 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
 valu: "NA"
@@ -11054,7 +11054,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.832035714285714"
+valu: "0.832036"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -11075,7 +11075,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -11126,7 +11126,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -11183,40 +11183,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "7"
+valu: "Purplish-red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -11231,7 +11231,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.28"
+valu: "1.280000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -11252,7 +11252,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -11303,7 +11303,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.480000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -11360,31 +11360,31 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "8"
+valu: "Violet"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
@@ -11393,7 +11393,7 @@ name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -11408,7 +11408,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.35941666666667"
+valu: "1.359417"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -11429,7 +11429,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -11480,7 +11480,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.760000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -11537,40 +11537,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -11585,7 +11585,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.02"
+valu: "1.020000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -11606,7 +11606,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -11657,7 +11657,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.570000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -11714,40 +11714,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -11762,7 +11762,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.97"
+valu: "0.970000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -11783,7 +11783,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -11834,7 +11834,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.890000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -11891,37 +11891,37 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "7"
+valu: "Purplish-red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "8"
+valu: "Violet"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
 valu: "NA"
@@ -11939,7 +11939,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.960214285714286"
+valu: "0.960214"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -11960,7 +11960,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -12011,7 +12011,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.880000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -12068,40 +12068,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "7"
+valu: "Purplish-red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "8"
+valu: "Violet"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -12116,7 +12116,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.29"
+valu: "1.290000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -12137,7 +12137,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -12188,7 +12188,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.190000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -12245,40 +12245,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "8"
+valu: "Violet"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "6"
+valu: "All flesh except medulla"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -12293,7 +12293,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "2.51"
+valu: "2.510000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -12314,7 +12314,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -12365,7 +12365,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.790000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -12422,31 +12422,31 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "9"
+valu: "Blackish"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
@@ -12455,7 +12455,7 @@ name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -12470,7 +12470,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.94"
+valu: "0.940000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -12491,7 +12491,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -12542,7 +12542,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.460000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -12599,31 +12599,31 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "9"
+valu: "Blackish"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "7"
+valu: "Purple"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
@@ -12632,7 +12632,7 @@ name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -12647,7 +12647,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.95"
+valu: "0.950000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -12668,7 +12668,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -12719,7 +12719,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.550000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -12776,31 +12776,31 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "8"
+valu: "Violet"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
@@ -12824,7 +12824,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.95"
+valu: "0.950000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -12845,7 +12845,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -12896,7 +12896,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "8.970000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -12953,37 +12953,37 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "8"
+valu: "Violet"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "4"
+valu: "In a broad vascular ring"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
 valu: "NA"
@@ -13001,7 +13001,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.815321428571429"
+valu: "0.815321"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -13022,7 +13022,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -13073,7 +13073,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -13130,40 +13130,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "9"
+valu: "Blackish"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "4"
+valu: "In a broad vascular ring"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -13178,7 +13178,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.684166666666667"
+valu: "0.684167"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -13199,7 +13199,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -13250,7 +13250,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.440000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -13307,40 +13307,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -13355,7 +13355,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.05"
+valu: "1.050000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -13376,7 +13376,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -13427,7 +13427,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -13484,40 +13484,40 @@ name: "Male parent",
 valu: "Adg red flesh bulk"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "5"
+valu: "In the vascular ring and medulla"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -13532,7 +13532,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.17"
+valu: "1.170000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -13553,7 +13553,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -13604,7 +13604,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "6.980000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -13661,40 +13661,40 @@ name: "Male parent",
 valu: "392745.7 (92.187)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -13709,7 +13709,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.628"
+valu: "0.628000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -13718,7 +13718,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -13730,7 +13730,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -13781,7 +13781,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -13838,40 +13838,40 @@ name: "Male parent",
 valu: "392745.7 (92.187)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -13886,7 +13886,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.749"
+valu: "0.749000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -13895,7 +13895,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -13907,7 +13907,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "-"
+valu: "NA"
 },{
 name: "French Fry",
 valu: "NA"
@@ -13958,7 +13958,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.910000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -14015,40 +14015,40 @@ name: "Male parent",
 valu: "391180.6 (C90.266)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -14063,7 +14063,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.748444444444444"
+valu: "0.748444"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -14072,7 +14072,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -14084,7 +14084,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -14135,7 +14135,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -14192,40 +14192,40 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -14240,7 +14240,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.605777777777778"
+valu: "0.605778"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -14249,7 +14249,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -14261,7 +14261,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -14312,7 +14312,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -14369,40 +14369,40 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -14417,7 +14417,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.600666666666667"
+valu: "0.600667"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -14426,7 +14426,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -14438,7 +14438,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -14489,7 +14489,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.950000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -14546,40 +14546,40 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -14594,7 +14594,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.619555555555556"
+valu: "0.619556"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -14603,7 +14603,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -14615,7 +14615,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "-"
+valu: "NA"
 },{
 name: "French Fry",
 valu: "NA"
@@ -14666,7 +14666,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -14723,40 +14723,40 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -14771,7 +14771,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.772"
+valu: "0.772000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -14780,7 +14780,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -14792,7 +14792,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -14843,7 +14843,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -14900,40 +14900,40 @@ name: "Male parent",
 valu: "I.1039"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -14948,7 +14948,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.5695"
+valu: "0.569500"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -14957,7 +14957,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -14969,7 +14969,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -15020,7 +15020,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -15077,40 +15077,40 @@ name: "Male parent",
 valu: "92.187000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -15125,7 +15125,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.67133333333333"
+valu: "1.671333"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -15134,7 +15134,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -15146,7 +15146,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -15197,7 +15197,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -15254,40 +15254,40 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -15302,7 +15302,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.492666666666667"
+valu: "0.492667"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -15311,7 +15311,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -15323,7 +15323,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -15374,7 +15374,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.070000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -15431,40 +15431,40 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -15479,7 +15479,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.828"
+valu: "0.828000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -15488,7 +15488,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -15500,7 +15500,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -15551,7 +15551,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "20.450000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -15608,40 +15608,40 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -15656,7 +15656,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.656"
+valu: "0.656000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -15665,7 +15665,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -15677,7 +15677,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -15728,7 +15728,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.200000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -15785,40 +15785,40 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -15833,7 +15833,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.724"
+valu: "0.724000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -15842,7 +15842,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -15854,7 +15854,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -15905,7 +15905,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -15962,40 +15962,40 @@ name: "Male parent",
 valu: "C93.154"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -16010,7 +16010,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.885"
+valu: "0.885000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -16019,7 +16019,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "L"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -16031,7 +16031,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -16082,7 +16082,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -16139,40 +16139,40 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -16187,7 +16187,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.466666666666667"
+valu: "0.466667"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -16196,7 +16196,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -16208,7 +16208,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -16259,7 +16259,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -16316,40 +16316,40 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -16364,7 +16364,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.763777777777778"
+valu: "0.763778"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -16373,7 +16373,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -16385,7 +16385,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -16436,7 +16436,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -16493,40 +16493,40 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -16541,7 +16541,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.78"
+valu: "0.780000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -16550,7 +16550,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -16562,7 +16562,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -16613,7 +16613,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -16670,40 +16670,40 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -16718,7 +16718,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.965333333333333"
+valu: "0.965333"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -16727,7 +16727,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -16739,7 +16739,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -16790,7 +16790,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.120000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -16847,40 +16847,40 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -16895,7 +16895,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.05"
+valu: "1.050000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -16904,7 +16904,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -16916,7 +16916,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -16967,7 +16967,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -17024,40 +17024,40 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -17072,7 +17072,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.716777777777778"
+valu: "0.716778"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -17081,7 +17081,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -17093,7 +17093,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -17144,7 +17144,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.600000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -17201,40 +17201,40 @@ name: "Male parent",
 valu: "92.187000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -17249,7 +17249,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.690333333333333"
+valu: "0.690333"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -17258,7 +17258,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -17270,7 +17270,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -17321,7 +17321,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "20.120000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -17378,40 +17378,40 @@ name: "Male parent",
 valu: "92.187000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -17426,7 +17426,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.088"
+valu: "1.088000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -17435,7 +17435,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -17447,7 +17447,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -17498,7 +17498,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -17555,40 +17555,40 @@ name: "Male parent",
 valu: "92.187000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -17603,7 +17603,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.681"
+valu: "0.681000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -17612,7 +17612,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -17624,7 +17624,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -17675,7 +17675,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "20.870000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -17732,40 +17732,40 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -17780,7 +17780,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7325"
+valu: "0.732500"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -17789,7 +17789,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -17801,7 +17801,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -17852,7 +17852,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "24.720000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -17909,40 +17909,40 @@ name: "Male parent",
 valu: "92.187000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -17957,7 +17957,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.834"
+valu: "0.834000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -17966,7 +17966,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -18029,7 +18029,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -18086,40 +18086,40 @@ name: "Male parent",
 valu: "92.187000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -18134,7 +18134,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.554"
+valu: "0.554000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -18143,7 +18143,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -18155,7 +18155,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -18206,7 +18206,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -18263,40 +18263,40 @@ name: "Male parent",
 valu: "92.187000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -18311,7 +18311,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.556111111111111"
+valu: "0.556111"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -18320,7 +18320,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -18332,7 +18332,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "-"
+valu: "NA"
 },{
 name: "French Fry",
 valu: "NA"
@@ -18383,7 +18383,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -18440,40 +18440,40 @@ name: "Male parent",
 valu: "92.187000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -18488,7 +18488,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.79"
+valu: "0.790000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -18497,7 +18497,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -18509,7 +18509,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -18560,7 +18560,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -18617,40 +18617,40 @@ name: "Male parent",
 valu: "92.187000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -18665,7 +18665,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.502666666666667"
+valu: "0.502667"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -18674,7 +18674,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -18686,7 +18686,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -18737,7 +18737,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -18794,40 +18794,40 @@ name: "Male parent",
 valu: "LR93.050"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -18842,7 +18842,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.76"
+valu: "0.760000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -18851,7 +18851,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -18863,7 +18863,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -18914,7 +18914,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -18971,40 +18971,40 @@ name: "Male parent",
 valu: "92.187000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -19019,7 +19019,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.685"
+valu: "0.685000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -19028,7 +19028,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -19040,7 +19040,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -19091,7 +19091,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -19148,34 +19148,34 @@ name: "Male parent",
 valu: "92.187000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
@@ -19196,7 +19196,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.708"
+valu: "0.708000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -19205,7 +19205,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -19268,7 +19268,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -19325,40 +19325,40 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -19373,7 +19373,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.753333333333333"
+valu: "0.753333"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -19382,7 +19382,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -19394,7 +19394,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -19445,7 +19445,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "18.800000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -19502,40 +19502,40 @@ name: "Male parent",
 valu: "I.1039"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -19550,7 +19550,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.746666666666667"
+valu: "0.746667"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -19559,7 +19559,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -19622,7 +19622,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -19679,40 +19679,40 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -19727,7 +19727,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.696666666666667"
+valu: "0.696667"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -19736,7 +19736,7 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
 valu: "NA"
@@ -19748,7 +19748,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -19799,7 +19799,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "18.390000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -19856,67 +19856,67 @@ name: "Male parent",
 valu: "KUFRI JYOTI"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "HS "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MR "
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.2133333333"
+valu: "1.213333"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
@@ -19925,61 +19925,61 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -20033,67 +20033,67 @@ name: "Male parent",
 valu: "PS-4904"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "S "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.0693333333"
+valu: "1.069333"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -20102,61 +20102,61 @@ name: "Oil Absorption Rate (%)",
 valu: "42.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -20210,67 +20210,67 @@ name: "Male parent",
 valu: "KUFRI JYOTI"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "S "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R "
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R "
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.027"
+valu: "1.027000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -20279,61 +20279,61 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TIB"
+valu: "Intermediate and lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -20387,67 +20387,67 @@ name: "Male parent",
 valu: "(EXP.A-723)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
 valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R "
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.76233333333"
+valu: "0.762333"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -20456,61 +20456,61 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -20564,67 +20564,67 @@ name: "Male parent",
 valu: "NA"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "7"
+valu: "Deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MS "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "HS"
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.90866666667"
+valu: "0.908667"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -20633,61 +20633,61 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -20741,55 +20741,55 @@ name: "Male parent",
 valu: "SEEDLINGS 79 BULK"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.02"
+valu: "1.020000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "84.000000"
@@ -20798,10 +20798,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "25"
@@ -20810,7 +20810,7 @@ name: "Oil Absorption Rate (%)",
 valu: "27.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -20861,7 +20861,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.780000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -20918,55 +20918,55 @@ name: "Male parent",
 valu: "377964.500000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7"
+valu: "0.700000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "84.000000"
@@ -20975,10 +20975,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -20987,7 +20987,7 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -21038,7 +21038,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -21095,67 +21095,67 @@ name: "Male parent",
 valu: "BULK-1 (85LB54.11)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.3143333333"
+valu: "1.314333"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -21164,22 +21164,22 @@ name: "Oil Absorption Rate (%)",
 valu: "32.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -21188,37 +21188,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -21272,67 +21272,67 @@ name: "Male parent",
 valu: "BULK-1"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.3576666667"
+valu: "1.357667"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
@@ -21341,61 +21341,61 @@ name: "Oil Absorption Rate (%)",
 valu: "23.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -21449,67 +21449,67 @@ name: "Male parent",
 valu: "NT 91.002"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.87"
+valu: "0.870000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "80.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -21518,16 +21518,16 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "2.000000"
@@ -21536,40 +21536,40 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -21626,67 +21626,67 @@ name: "Male parent",
 valu: "NT 91.002"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.01"
+valu: "1.010000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -21695,10 +21695,10 @@ name: "Oil Absorption Rate (%)",
 valu: "31.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -21713,43 +21713,43 @@ name: "Flesh Color after cooking",
 valu: "WHI"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -21803,55 +21803,55 @@ name: "Male parent",
 valu: "ML 91.007"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "U"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "H"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.63"
+valu: "0.630000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "80.000000"
@@ -21860,10 +21860,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -21872,19 +21872,19 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
 valu: "NA"
@@ -21923,7 +21923,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -21980,67 +21980,67 @@ name: "Male parent",
 valu: "575049 (CEW-69-1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "H"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.94433333333"
+valu: "0.944333"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -22049,61 +22049,61 @@ name: "Oil Absorption Rate (%)",
 valu: "36.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -22157,67 +22157,67 @@ name: "Male parent",
 valu: "386614.16 (XY.16)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.795"
+valu: "0.795000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "112.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -22226,28 +22226,28 @@ name: "Oil Absorption Rate (%)",
 valu: "37.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "72.740000"
@@ -22259,25 +22259,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "72.840000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -22334,67 +22334,67 @@ name: "Male parent",
 valu: "377964.500000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.804"
+valu: "0.804000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "84.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -22403,58 +22403,58 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Multiple"
@@ -22511,67 +22511,67 @@ name: "Male parent",
 valu: "386614.16 (XY.16)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "4"
+valu: "Brownish"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "H"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.792"
+valu: "0.792000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -22580,28 +22580,28 @@ name: "Oil Absorption Rate (%)",
 valu: "32.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "73.400000"
@@ -22613,28 +22613,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "77.570000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -22688,67 +22688,67 @@ name: "Male parent",
 valu: "388216.1 (YY.5)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.039"
+valu: "1.039000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "122.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -22757,10 +22757,10 @@ name: "Oil Absorption Rate (%)",
 valu: "32.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "BC"
@@ -22775,10 +22775,10 @@ name: "Flesh Color after cooking",
 valu: "DCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "89.050000"
@@ -22808,7 +22808,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "22.710000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -22865,67 +22865,67 @@ name: "Male parent",
 valu: "386614.16 (XY.16)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "2"
+valu: "In the eyebrows"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.1423333333"
+valu: "1.142333"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -22934,61 +22934,61 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -23042,67 +23042,67 @@ name: "Male parent",
 valu: "385305.1 (XY.9)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.629"
+valu: "0.629000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "102.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -23111,28 +23111,28 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "79.800000"
@@ -23144,25 +23144,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "81.920000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -23219,67 +23219,67 @@ name: "Male parent",
 valu: "386316.14 (XY.14)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "H"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.78"
+valu: "0.780000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "91.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -23288,58 +23288,58 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Multiple"
@@ -23396,67 +23396,67 @@ name: "Male parent",
 valu: "386206.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.69733333333"
+valu: "0.697333"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -23465,28 +23465,28 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "97.530000"
@@ -23516,10 +23516,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.440000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -23573,55 +23573,55 @@ name: "Male parent",
 valu: "386206.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.77"
+valu: "0.770000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -23630,10 +23630,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -23642,7 +23642,7 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -23657,13 +23657,13 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "94.930000"
@@ -23693,7 +23693,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.940000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -23750,55 +23750,55 @@ name: "Male parent",
 valu: "386206.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.95"
+valu: "0.950000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -23807,10 +23807,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -23819,7 +23819,7 @@ name: "Oil Absorption Rate (%)",
 valu: "31.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -23828,13 +23828,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -23870,10 +23870,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.560000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -23927,55 +23927,55 @@ name: "Male parent",
 valu: "387338.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.66"
+valu: "0.660000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -23984,10 +23984,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "60"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -23996,7 +23996,7 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -24011,7 +24011,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -24047,10 +24047,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.560000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -24104,55 +24104,55 @@ name: "Male parent",
 valu: "387338.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.79"
+valu: "0.790000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -24161,10 +24161,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -24173,7 +24173,7 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -24188,7 +24188,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -24224,10 +24224,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.020000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -24281,55 +24281,55 @@ name: "Male parent",
 valu: "387338.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "1"
+valu: "Flattened"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.86"
+valu: "0.860000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -24338,10 +24338,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -24350,7 +24350,7 @@ name: "Oil Absorption Rate (%)",
 valu: "23.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -24365,7 +24365,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -24401,10 +24401,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.690000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -24458,55 +24458,55 @@ name: "Male parent",
 valu: "387338.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.6"
+valu: "0.600000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -24515,10 +24515,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "18"
@@ -24527,7 +24527,7 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -24542,7 +24542,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -24578,7 +24578,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.510000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -24635,55 +24635,55 @@ name: "Male parent",
 valu: "387338.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "1"
+valu: "Flattened"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.73"
+valu: "0.730000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -24692,10 +24692,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "18"
@@ -24704,7 +24704,7 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -24719,7 +24719,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -24755,7 +24755,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.870000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -24812,67 +24812,67 @@ name: "Male parent",
 valu: "387338.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.189"
+valu: "1.189000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -24881,22 +24881,22 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -24905,37 +24905,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -24989,67 +24989,67 @@ name: "Male parent",
 valu: "378017.2 (LT-7)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.697"
+valu: "0.697000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "92.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -25058,10 +25058,10 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -25076,10 +25076,10 @@ name: "Flesh Color after cooking",
 valu: "DCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "78.520000"
@@ -25109,7 +25109,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.850000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -25166,67 +25166,67 @@ name: "Male parent",
 valu: "385305.1 (XY.9)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HR"
+valu: "Highly resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.689"
+valu: "0.689000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -25235,28 +25235,28 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "69.230000"
@@ -25268,28 +25268,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "70.310000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -25343,67 +25343,67 @@ name: "Male parent",
 valu: "385280.1 (XY.13)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HR"
+valu: "Highly resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.598"
+valu: "0.598000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "65.000000"
 },{
 name: "Growing period in lowland",
-valu: "L"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -25412,10 +25412,10 @@ name: "Oil Absorption Rate (%)",
 valu: "32.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -25430,10 +25430,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "61.920000"
@@ -25445,25 +25445,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "69.240000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -25520,55 +25520,55 @@ name: "Male parent",
 valu: "387214.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.73"
+valu: "0.730000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -25577,10 +25577,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "60"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -25589,22 +25589,22 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -25613,37 +25613,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -25697,55 +25697,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.83"
+valu: "0.830000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -25754,10 +25754,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -25766,7 +25766,7 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -25775,13 +25775,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -25817,7 +25817,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.110000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Multiple"
@@ -25874,55 +25874,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.0548412698"
+valu: "1.054841"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -25931,10 +25931,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -25943,7 +25943,7 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -25994,10 +25994,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.400000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -26051,55 +26051,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HR"
+valu: "Highly resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.01"
+valu: "1.010000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -26108,10 +26108,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -26120,7 +26120,7 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -26129,13 +26129,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -26171,10 +26171,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.030000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -26228,55 +26228,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.82"
+valu: "0.820000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -26285,10 +26285,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -26297,7 +26297,7 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -26306,13 +26306,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury "
@@ -26321,37 +26321,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -26405,55 +26405,55 @@ name: "Male parent",
 valu: "LB-CUZ.1"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.78"
+valu: "0.780000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -26474,7 +26474,7 @@ name: "Oil Absorption Rate (%)",
 valu: "31.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -26525,7 +26525,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.460000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -26582,67 +26582,67 @@ name: "Male parent",
 valu: "386316.1 (XY.20)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "4"
+valu: "Obovate"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "HS "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.84583333333"
+valu: "0.845833"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "87.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -26651,10 +26651,10 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -26669,10 +26669,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "72.030000"
@@ -26702,7 +26702,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "21.700000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -26759,67 +26759,67 @@ name: "Male parent",
 valu: "385305.1 (XY.9)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "HS "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R "
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.70633333333"
+valu: "0.706333"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -26828,28 +26828,28 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "74.300000"
@@ -26879,10 +26879,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.300000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -26936,67 +26936,67 @@ name: "Male parent",
 valu: "-"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "5"
+valu: "areas around eyes do not show secondary color but reminder of tuber does (spectacled)"
 },{
 name: "Predominant tuber flesh color ",
-valu: "5"
+valu: "Intense Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "4"
+valu: "In a broad vascular ring"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "HR "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R "
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.90386574074"
+valu: "0.903866"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "56.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -27005,10 +27005,10 @@ name: "Oil Absorption Rate (%)",
 valu: "36.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -27023,10 +27023,10 @@ name: "Flesh Color after cooking",
 valu: "YEL"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "80.070000"
@@ -27056,7 +27056,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.280000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Multiple"
@@ -27113,55 +27113,55 @@ name: "Male parent",
 valu: "SELF"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.89"
+valu: "0.890000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "129.000000"
@@ -27170,10 +27170,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -27182,7 +27182,7 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -27233,7 +27233,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "33.830000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -27290,55 +27290,55 @@ name: "Male parent",
 valu: "SELF"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.92"
+valu: "0.920000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "62.000000"
@@ -27347,10 +27347,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -27359,7 +27359,7 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -27410,7 +27410,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -27467,67 +27467,67 @@ name: "Male parent",
 valu: "386614.16 (XY.16)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.99160714286"
+valu: "0.991607"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "62.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -27536,10 +27536,10 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -27554,10 +27554,10 @@ name: "Flesh Color after cooking",
 valu: "LYE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "84.690000"
@@ -27587,7 +27587,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "26.560000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -27644,67 +27644,67 @@ name: "Male parent",
 valu: "385280.1 (XY.13)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.903"
+valu: "0.903000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "24"
@@ -27713,10 +27713,10 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -27731,10 +27731,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "54.190000"
@@ -27764,7 +27764,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "20.350000"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -27821,67 +27821,67 @@ name: "Male parent",
 valu: "382157.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "S "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MR "
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.91842592593"
+valu: "0.918426"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -27890,16 +27890,16 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "2.000000"
@@ -27908,10 +27908,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "76.140000"
@@ -27923,28 +27923,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "76.480000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -27998,55 +27998,55 @@ name: "Male parent",
 valu: "382157.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HR "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9"
+valu: "0.900000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -28055,10 +28055,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "25"
@@ -28067,7 +28067,7 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -28118,7 +28118,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.140000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -28175,55 +28175,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.83"
+valu: "0.830000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -28232,10 +28232,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -28244,7 +28244,7 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -28259,7 +28259,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -28295,7 +28295,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.150000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -28352,55 +28352,55 @@ name: "Male parent",
 valu: "387334.500000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.91"
+valu: "0.910000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -28409,10 +28409,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -28421,7 +28421,7 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -28430,13 +28430,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -28472,10 +28472,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.470000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -28529,55 +28529,55 @@ name: "Male parent",
 valu: "387334.500000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "1"
+valu: "Flattened"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.79"
+valu: "0.790000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -28586,10 +28586,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -28598,7 +28598,7 @@ name: "Oil Absorption Rate (%)",
 valu: "36.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -28607,13 +28607,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -28649,10 +28649,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.260000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -28706,55 +28706,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.83"
+valu: "0.830000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -28763,10 +28763,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -28775,7 +28775,7 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -28784,13 +28784,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -28826,7 +28826,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.450000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -28883,55 +28883,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.68"
+valu: "0.680000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -28940,10 +28940,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -28952,7 +28952,7 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -28967,7 +28967,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -29003,7 +29003,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.410000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -29060,55 +29060,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.81"
+valu: "0.810000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -29117,10 +29117,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -29129,22 +29129,22 @@ name: "Oil Absorption Rate (%)",
 valu: "25.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury "
@@ -29153,37 +29153,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -29237,55 +29237,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1"
+valu: "1.000000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "138.000000"
@@ -29294,10 +29294,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "18"
@@ -29306,7 +29306,7 @@ name: "Oil Absorption Rate (%)",
 valu: "37.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -29315,7 +29315,7 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "2"
@@ -29357,7 +29357,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "18.020000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -29414,55 +29414,55 @@ name: "Male parent",
 valu: "387334.500000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.94"
+valu: "0.940000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -29471,10 +29471,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -29483,7 +29483,7 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -29492,13 +29492,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -29534,10 +29534,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.100000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -29591,55 +29591,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HR"
+valu: "Highly resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1"
+valu: "1.000000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -29648,10 +29648,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -29660,7 +29660,7 @@ name: "Oil Absorption Rate (%)",
 valu: "23.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -29669,13 +29669,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -29711,10 +29711,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "18.010000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -29768,55 +29768,55 @@ name: "Male parent",
 valu: "NA"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.91"
+valu: "0.910000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "122.000000"
@@ -29825,10 +29825,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -29837,7 +29837,7 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -29846,7 +29846,7 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1"
@@ -29888,7 +29888,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.890000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -29945,55 +29945,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.82"
+valu: "0.820000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -30002,10 +30002,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -30014,7 +30014,7 @@ name: "Oil Absorption Rate (%)",
 valu: "27.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -30029,7 +30029,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -30038,34 +30038,34 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Multiple"
@@ -30122,55 +30122,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.03"
+valu: "1.030000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -30179,10 +30179,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -30191,7 +30191,7 @@ name: "Oil Absorption Rate (%)",
 valu: "38.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -30200,13 +30200,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -30215,37 +30215,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -30299,67 +30299,67 @@ name: "Male parent",
 valu: "390357.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "6"
+valu: "Spots uniformely distributed (stippled)"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "H"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.0368963"
+valu: "1.036896"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -30368,61 +30368,61 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -30476,55 +30476,55 @@ name: "Male parent",
 valu: "386614.16=(XY.16)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.08"
+valu: "1.080000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "96.000000"
@@ -30533,10 +30533,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -30545,7 +30545,7 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -30596,7 +30596,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.690000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -30653,67 +30653,67 @@ name: "Male parent",
 valu: "386614.16 (XY.16)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.88564814815"
+valu: "0.885648"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "92.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -30722,13 +30722,13 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
 valu: "21-25"
@@ -30740,10 +30740,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "92.610000"
@@ -30773,7 +30773,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "25.890000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -30830,67 +30830,67 @@ name: "Male parent",
 valu: "386316.1 (XY.20)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.992"
+valu: "0.992000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "65.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -30899,10 +30899,10 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -30917,10 +30917,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "93.870000"
@@ -30950,7 +30950,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.430000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -31007,67 +31007,67 @@ name: "Male parent",
 valu: "PENTLAND CROWN"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.04"
+valu: "1.040000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "94.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "24"
@@ -31076,10 +31076,10 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "C"
@@ -31094,10 +31094,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "93.150000"
@@ -31127,7 +31127,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.280000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -31184,67 +31184,67 @@ name: "Male parent",
 valu: "APHRODITE"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.963"
+valu: "0.963000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "109.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -31253,28 +31253,28 @@ name: "Oil Absorption Rate (%)",
 valu: "39.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "77.780000"
@@ -31304,7 +31304,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "25.860000"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -31361,67 +31361,67 @@ name: "Male parent",
 valu: "388216.1 (YY.5)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HR"
+valu: "Highly resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.67"
+valu: "0.670000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "106.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -31430,10 +31430,10 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -31448,10 +31448,10 @@ name: "Flesh Color after cooking",
 valu: "CRE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "125.110000"
@@ -31481,7 +31481,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.510000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -31538,67 +31538,67 @@ name: "Male parent",
 valu: "385280.1 (XY.13)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R "
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
 valu: "0.900625"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "73.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "25"
@@ -31607,10 +31607,10 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -31625,10 +31625,10 @@ name: "Flesh Color after cooking",
 valu: "LYE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "79.360000"
@@ -31658,7 +31658,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.150000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -31715,67 +31715,67 @@ name: "Male parent",
 valu: "YY.1"}, 
 {
 name: "Predominant tuber skin color",
-valu: "4"
+valu: "Brownish"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R "
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.645"
+valu: "0.645000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -31784,28 +31784,28 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "80.270000"
@@ -31817,28 +31817,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "82.800000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -31892,67 +31892,67 @@ name: "Male parent",
 valu: "385305.1 (XY.9)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S "
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.104"
+valu: "1.104000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -31961,28 +31961,28 @@ name: "Oil Absorption Rate (%)",
 valu: "40.000000"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "111.580000"
@@ -31994,28 +31994,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "120.640000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -32069,67 +32069,67 @@ name: "Male parent",
 valu: "386614.16 (XY.16)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.64821428571"
+valu: "0.648214"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "80.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -32138,10 +32138,10 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -32156,10 +32156,10 @@ name: "Flesh Color after cooking",
 valu: "WHI"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "89.770000"
@@ -32171,25 +32171,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "89.870000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -32246,55 +32246,55 @@ name: "Male parent",
 valu: "389746.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.79"
+valu: "0.790000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -32303,10 +32303,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "18"
@@ -32315,7 +32315,7 @@ name: "Oil Absorption Rate (%)",
 valu: "38.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -32366,7 +32366,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "25.640000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -32423,55 +32423,55 @@ name: "Male parent",
 valu: "389746.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "1"
+valu: "Flattened"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HR"
+valu: "Highly resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.74"
+valu: "0.740000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -32480,10 +32480,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -32492,7 +32492,7 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -32543,7 +32543,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.580000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Multiple"
@@ -32600,55 +32600,55 @@ name: "Male parent",
 valu: "389746.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: " -"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.98"
+valu: "0.980000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -32657,10 +32657,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -32669,7 +32669,7 @@ name: "Oil Absorption Rate (%)",
 valu: "25.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -32678,19 +32678,19 @@ name: "Cooking Quality",
 valu: "AB"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "86.800000"
@@ -32720,10 +32720,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.440000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -32777,55 +32777,55 @@ name: "Male parent",
 valu: "389746.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HR"
+valu: "Highly resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.08"
+valu: "1.080000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -32834,10 +32834,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -32846,28 +32846,28 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "51.270000"
@@ -32897,10 +32897,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.660000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -32954,67 +32954,67 @@ name: "Male parent",
 valu: "389746.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "2"
+valu: "In the eyebrows"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.92"
+valu: "0.920000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -33023,7 +33023,7 @@ name: "Oil Absorption Rate (%)",
 valu: "37.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -33038,7 +33038,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -33056,28 +33056,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: " - "
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -33131,55 +33131,55 @@ name: "Male parent",
 valu: "389746.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.83"
+valu: "0.830000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -33188,10 +33188,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -33200,7 +33200,7 @@ name: "Oil Absorption Rate (%)",
 valu: "41.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -33209,13 +33209,13 @@ name: "Cooking Quality",
 valu: "CD"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -33251,10 +33251,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.700000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -33308,55 +33308,55 @@ name: "Male parent",
 valu: "390357.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9"
+valu: "0.900000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -33365,10 +33365,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -33377,7 +33377,7 @@ name: "Oil Absorption Rate (%)",
 valu: "27.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -33386,13 +33386,13 @@ name: "Cooking Quality",
 valu: "C"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -33428,10 +33428,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.470000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -33485,55 +33485,55 @@ name: "Male parent",
 valu: "390357.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.88"
+valu: "0.880000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -33542,10 +33542,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -33554,7 +33554,7 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -33563,13 +33563,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -33605,10 +33605,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.080000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -33662,55 +33662,55 @@ name: "Male parent",
 valu: "390357.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.55"
+valu: "0.550000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -33719,10 +33719,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "17"
@@ -33731,7 +33731,7 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -33782,10 +33782,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "18.390000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -33839,55 +33839,55 @@ name: "Male parent",
 valu: "390357.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.67"
+valu: "0.670000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -33896,10 +33896,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -33908,7 +33908,7 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -33923,7 +33923,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -33941,28 +33941,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: " - "
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -34016,55 +34016,55 @@ name: "Male parent",
 valu: "390357.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.64"
+valu: "0.640000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -34073,10 +34073,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -34085,7 +34085,7 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -34094,13 +34094,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -34136,10 +34136,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.850000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -34193,55 +34193,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "H"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.66"
+valu: "0.660000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -34250,10 +34250,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -34262,7 +34262,7 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -34271,13 +34271,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -34313,10 +34313,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.750000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -34370,55 +34370,55 @@ name: "Male parent",
 valu: "381400.220000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.01"
+valu: "1.010000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -34427,10 +34427,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -34439,7 +34439,7 @@ name: "Oil Absorption Rate (%)",
 valu: "38.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -34448,13 +34448,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -34490,7 +34490,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.730000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -34547,55 +34547,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7"
+valu: "0.700000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -34604,10 +34604,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "L"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -34616,7 +34616,7 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -34631,7 +34631,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -34667,7 +34667,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.430000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -34724,55 +34724,55 @@ name: "Male parent",
 valu: "381400.220000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.45"
+valu: "0.450000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -34781,10 +34781,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -34793,22 +34793,22 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -34817,37 +34817,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -34901,55 +34901,55 @@ name: "Male parent",
 valu: "386614.16 (XY.16)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.15"
+valu: "1.150000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -34958,10 +34958,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -34970,7 +34970,7 @@ name: "Oil Absorption Rate (%)",
 valu: "38.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -34979,13 +34979,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -35021,10 +35021,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.260000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -35078,55 +35078,55 @@ name: "Male parent",
 valu: "386316.14 (XY.14)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.97"
+valu: "0.970000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -35135,10 +35135,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "16"
@@ -35147,7 +35147,7 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -35156,13 +35156,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -35180,28 +35180,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: " - "
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -35255,55 +35255,55 @@ name: "Male parent",
 valu: "386316.14 (XY.14)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.78"
+valu: "0.780000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -35312,10 +35312,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -35324,28 +35324,28 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "81.820000"
@@ -35375,7 +35375,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.070000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -35432,55 +35432,55 @@ name: "Male parent",
 valu: "386316.14 (XY.14)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.02"
+valu: "1.020000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -35489,10 +35489,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -35501,7 +35501,7 @@ name: "Oil Absorption Rate (%)",
 valu: "31.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -35552,10 +35552,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.940000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -35609,67 +35609,67 @@ name: "Male parent",
 valu: "386316.14 (XY.14)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.02"
+valu: "1.020000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -35678,7 +35678,7 @@ name: "Oil Absorption Rate (%)",
 valu: "26.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -35687,13 +35687,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -35708,31 +35708,31 @@ name: "Vitamin C (mg/100g, dry weight basis) min",
 valu: " - "
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -35786,55 +35786,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "1"
+valu: "Flattened"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.83"
+valu: "0.830000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -35843,10 +35843,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -35855,7 +35855,7 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -35870,7 +35870,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -35885,28 +35885,28 @@ name: "Vitamin C (mg/100g, dry weight basis) min",
 valu: " - "
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -35963,55 +35963,55 @@ name: "Male parent",
 valu: "SANI IMILLA"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.82"
+valu: "0.820000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -36020,10 +36020,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -36032,7 +36032,7 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -36041,13 +36041,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -36083,10 +36083,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.730000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -36140,55 +36140,55 @@ name: "Male parent",
 valu: "387338.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "2"
+valu: "In the eyebrows"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "1"
+valu: "Flattened"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.04"
+valu: "1.040000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -36197,10 +36197,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -36209,7 +36209,7 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -36260,10 +36260,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.380000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -36317,55 +36317,55 @@ name: "Male parent",
 valu: "389746.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "1"
+valu: "Flattened"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.16"
+valu: "1.160000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -36374,10 +36374,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -36386,7 +36386,7 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -36395,13 +36395,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -36437,10 +36437,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.020000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -36494,55 +36494,55 @@ name: "Male parent",
 valu: "389746.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "5"
+valu: "Elliptic"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.58"
+valu: "0.580000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -36551,10 +36551,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -36563,28 +36563,28 @@ name: "Oil Absorption Rate (%)",
 valu: "26.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "45.670000"
@@ -36614,10 +36614,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.700000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -36671,55 +36671,55 @@ name: "Male parent",
 valu: "389746.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.85"
+valu: "0.850000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -36728,10 +36728,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -36740,7 +36740,7 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -36791,7 +36791,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.400000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -36848,55 +36848,55 @@ name: "Male parent",
 valu: "389746.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "2"
+valu: "In the eyebrows"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.43"
+valu: "1.430000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -36905,10 +36905,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -36917,7 +36917,7 @@ name: "Oil Absorption Rate (%)",
 valu: "31.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -36926,13 +36926,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -36941,37 +36941,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -37025,55 +37025,55 @@ name: "Male parent",
 valu: "387338.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "1"
+valu: "Flattened"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.81"
+valu: "0.810000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -37082,10 +37082,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -37094,7 +37094,7 @@ name: "Oil Absorption Rate (%)",
 valu: "32.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -37145,7 +37145,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "23.220000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -37202,55 +37202,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "H"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.2"
+valu: "1.200000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -37259,10 +37259,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -37271,7 +37271,7 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -37280,13 +37280,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -37304,28 +37304,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: " - "
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -37379,55 +37379,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1"
+valu: "1.000000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -37436,10 +37436,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -37448,7 +37448,7 @@ name: "Oil Absorption Rate (%)",
 valu: "37.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -37457,13 +37457,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -37472,37 +37472,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -37556,55 +37556,55 @@ name: "Male parent",
 valu: "387170.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "1"
+valu: "Flattened"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.8"
+valu: "0.800000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -37613,10 +37613,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "L"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -37625,7 +37625,7 @@ name: "Oil Absorption Rate (%)",
 valu: "31.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -37640,7 +37640,7 @@ name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -37676,10 +37676,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "18.790000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -37733,67 +37733,67 @@ name: "Male parent",
 valu: "386287.1 (XY.4)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.799"
+valu: "0.799000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "65.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "26"
@@ -37802,10 +37802,10 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "C"
@@ -37820,10 +37820,10 @@ name: "Flesh Color after cooking",
 valu: "DCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "69.730000"
@@ -37853,7 +37853,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "31.360000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -37910,67 +37910,67 @@ name: "Male parent",
 valu: "385305.1 (XY.9)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.684"
+valu: "0.684000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -37979,28 +37979,28 @@ name: "Oil Absorption Rate (%)",
 valu: "26.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "61.050000"
@@ -38012,28 +38012,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "62.070000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -38087,67 +38087,67 @@ name: "Male parent",
 valu: "391894.7 (DXY.7)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.714"
+valu: "0.714000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "62.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "26"
@@ -38156,10 +38156,10 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -38174,10 +38174,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "83.780000"
@@ -38207,7 +38207,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.780000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -38264,67 +38264,67 @@ name: "Male parent",
 valu: "391896.15 (DXY.15)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R "
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.0108796296"
+valu: "1.010880"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "62.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "25"
@@ -38333,10 +38333,10 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -38351,10 +38351,10 @@ name: "Flesh Color after cooking",
 valu: "CRE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "100.880000"
@@ -38384,7 +38384,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.900000"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -38441,67 +38441,67 @@ name: "Male parent",
 valu: "391896.15 (DXY.15)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.805"
+valu: "0.805000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "24"
@@ -38510,10 +38510,10 @@ name: "Oil Absorption Rate (%)",
 valu: "27.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -38528,10 +38528,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "94.970000"
@@ -38561,10 +38561,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "20.620000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -38618,67 +38618,67 @@ name: "Male parent",
 valu: "DXY.33"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.946"
+valu: "0.946000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "68.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -38687,10 +38687,10 @@ name: "Oil Absorption Rate (%)",
 valu: "31.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -38705,10 +38705,10 @@ name: "Flesh Color after cooking",
 valu: "WHI"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "110.990000"
@@ -38738,7 +38738,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.070000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -38795,67 +38795,67 @@ name: "Male parent",
 valu: "391895.10 (DXY.10)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.948"
+valu: "0.948000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "87.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "26"
@@ -38864,10 +38864,10 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "C"
@@ -38882,10 +38882,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "75.680000"
@@ -38915,7 +38915,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.640000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -38972,67 +38972,67 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "H"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "H"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.688"
+valu: "0.688000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -39041,28 +39041,28 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "89.090000"
@@ -39074,28 +39074,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "92.260000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -39149,67 +39149,67 @@ name: "Male parent",
 valu: "388972.22 (C89.315)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.17"
+valu: "1.170000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "80.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -39218,16 +39218,16 @@ name: "Oil Absorption Rate (%)",
 valu: "36.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "2.000000"
@@ -39236,10 +39236,10 @@ name: "Flesh Color after cooking",
 valu: "CRE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "111.490000"
@@ -39251,25 +39251,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "115.670000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -39326,67 +39326,67 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.867"
+valu: "0.867000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "109.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "24"
@@ -39395,10 +39395,10 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -39413,10 +39413,10 @@ name: "Flesh Color after cooking",
 valu: "YEL"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "119.630000"
@@ -39446,7 +39446,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "20.530000"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -39503,67 +39503,67 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.086"
+valu: "1.086000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "98.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "25"
@@ -39572,10 +39572,10 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "C"
@@ -39590,10 +39590,10 @@ name: "Flesh Color after cooking",
 valu: "CRE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "116.570000"
@@ -39623,7 +39623,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.420000"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -39680,67 +39680,67 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.95"
+valu: "0.950000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "114.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "24"
@@ -39749,10 +39749,10 @@ name: "Oil Absorption Rate (%)",
 valu: "36.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "D"
@@ -39767,10 +39767,10 @@ name: "Flesh Color after cooking",
 valu: "CRE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "90.670000"
@@ -39800,7 +39800,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.260000"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -39857,67 +39857,67 @@ name: "Male parent",
 valu: "676008 (I-1039)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.138"
+valu: "1.138000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "98.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -39926,10 +39926,10 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -39944,10 +39944,10 @@ name: "Flesh Color after cooking",
 valu: "LYE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "95.130000"
@@ -39977,7 +39977,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.170000"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -40034,67 +40034,67 @@ name: "Male parent",
 valu: "386287.1 (XY.4)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.321"
+valu: "0.321000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -40103,28 +40103,28 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "66.610000"
@@ -40136,28 +40136,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "69.620000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -40211,67 +40211,67 @@ name: "Male parent",
 valu: "C90.205"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.021712963"
+valu: "1.021713"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "87.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -40280,10 +40280,10 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -40298,10 +40298,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "82.720000"
@@ -40331,7 +40331,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.890000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -40388,67 +40388,67 @@ name: "Male parent",
 valu: "C90.205"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.91"
+valu: "0.910000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "56.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -40457,10 +40457,10 @@ name: "Oil Absorption Rate (%)",
 valu: "32.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -40475,10 +40475,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "54.040000"
@@ -40490,25 +40490,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "58.080000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -40565,67 +40565,67 @@ name: "Male parent",
 valu: "BWH-87.183"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R "
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MR "
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.98467592593"
+valu: "0.984676"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "L"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -40634,13 +40634,13 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
 valu: "16-20"
@@ -40652,43 +40652,43 @@ name: "Flesh Color after cooking",
 valu: "YEL"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -40742,55 +40742,55 @@ name: "Male parent",
 valu: "C90.205"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HR "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "H"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.96"
+valu: "0.960000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -40799,10 +40799,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "25"
@@ -40811,7 +40811,7 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -40862,7 +40862,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "22.700000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -40919,67 +40919,67 @@ name: "Male parent",
 valu: "C90.205"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9"
+valu: "0.900000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -40988,10 +40988,10 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -41006,10 +41006,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "77.650000"
@@ -41021,28 +41021,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "79.730000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -41096,67 +41096,67 @@ name: "Male parent",
 valu: "C90.205"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "H"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.87043981481"
+valu: "0.870440"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "108.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -41165,10 +41165,10 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -41183,40 +41183,40 @@ name: "Flesh Color after cooking",
 valu: "WHI"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -41273,67 +41273,67 @@ name: "Male parent",
 valu: "C90.205"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HR "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.1452777778"
+valu: "1.145278"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "97.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -41342,10 +41342,10 @@ name: "Oil Absorption Rate (%)",
 valu: "31.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -41360,10 +41360,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "81.800000"
@@ -41393,7 +41393,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.880000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -41450,55 +41450,55 @@ name: "Male parent",
 valu: "392639.800000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.51"
+valu: "0.510000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -41507,19 +41507,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -41528,13 +41528,13 @@ name: "Cooking Quality",
 valu: "C"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -41543,37 +41543,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -41627,55 +41627,55 @@ name: "Male parent",
 valu: "391679.120000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.77"
+valu: "0.770000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -41684,19 +41684,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "60"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -41705,13 +41705,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -41747,10 +41747,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.130000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -41804,55 +41804,55 @@ name: "Male parent",
 valu: "392639.800000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9195747"
+valu: "0.919575"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -41861,19 +41861,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -41882,13 +41882,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -41924,10 +41924,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.980000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -41981,55 +41981,55 @@ name: "Male parent",
 valu: "392639.800000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.1602173"
+valu: "1.160217"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -42038,19 +42038,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -42059,13 +42059,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Watery"
@@ -42101,10 +42101,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.910000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -42158,55 +42158,55 @@ name: "Male parent",
 valu: "392639.800000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.03"
+valu: "1.030000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -42215,19 +42215,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "60"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -42236,13 +42236,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -42278,10 +42278,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.520000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -42335,55 +42335,55 @@ name: "Male parent",
 valu: "392639.800000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.22"
+valu: "1.220000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -42392,40 +42392,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "65.130000"
@@ -42455,10 +42455,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.470000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -42512,55 +42512,55 @@ name: "Male parent",
 valu: "391679.120000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.11"
+valu: "1.110000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -42569,19 +42569,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -42590,13 +42590,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -42632,10 +42632,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.720000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -42689,76 +42689,76 @@ name: "Male parent",
 valu: "393053.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.75"
+valu: "0.750000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -42767,13 +42767,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -42782,37 +42782,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -42866,76 +42866,76 @@ name: "Male parent",
 valu: "393053.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.51"
+valu: "0.510000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -42944,13 +42944,13 @@ name: "Cooking Quality",
 valu: "D"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -42959,37 +42959,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -43043,55 +43043,55 @@ name: "Male parent",
 valu: "393053.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "3"
+valu: "In areas around the eyes (splashed)"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9189081"
+valu: "0.918908"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -43100,19 +43100,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -43121,13 +43121,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -43163,10 +43163,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.820000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -43220,55 +43220,55 @@ name: "Male parent",
 valu: "393079.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.15"
+valu: "1.150000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -43277,19 +43277,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -43298,13 +43298,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -43313,37 +43313,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -43397,55 +43397,55 @@ name: "Male parent",
 valu: "393079.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.48"
+valu: "0.480000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -43454,19 +43454,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -43475,13 +43475,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -43517,10 +43517,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.310000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -43574,55 +43574,55 @@ name: "Male parent",
 valu: "393079.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.91"
+valu: "0.910000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -43631,34 +43631,34 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -43694,10 +43694,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.590000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -43751,55 +43751,55 @@ name: "Male parent",
 valu: "393079.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.18"
+valu: "1.180000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -43808,34 +43808,34 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -43871,10 +43871,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.810000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -43928,76 +43928,76 @@ name: "Male parent",
 valu: "393079.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.23"
+valu: "1.230000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -44006,13 +44006,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -44048,10 +44048,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.890000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -44105,55 +44105,55 @@ name: "Male parent",
 valu: "393079.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.14"
+valu: "1.140000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -44162,34 +44162,34 @@ name: "Dormancy period  (DLS) Highland",
 valu: "60"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -44225,10 +44225,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.760000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -44282,55 +44282,55 @@ name: "Male parent",
 valu: "393079.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.95"
+valu: "0.950000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -44339,19 +44339,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "60"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -44360,13 +44360,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -44402,10 +44402,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.620000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -44459,55 +44459,55 @@ name: "Male parent",
 valu: "393079.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7042629"
+valu: "0.704263"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -44516,19 +44516,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -44537,13 +44537,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -44579,10 +44579,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.040000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -44636,55 +44636,55 @@ name: "Male parent",
 valu: "393079.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.0285638"
+valu: "1.028564"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -44693,19 +44693,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -44714,13 +44714,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -44756,10 +44756,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.790000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -44813,55 +44813,55 @@ name: "Male parent",
 valu: "393079.400000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.6"
+valu: "0.600000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -44870,19 +44870,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -44891,13 +44891,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -44933,10 +44933,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.310000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -44990,55 +44990,55 @@ name: "Male parent",
 valu: "391679.120000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.72"
+valu: "0.720000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -45047,19 +45047,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -45068,13 +45068,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -45110,10 +45110,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.730000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -45167,76 +45167,76 @@ name: "Male parent",
 valu: "391679.120000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.5322801"
+valu: "0.532280"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "-"
+valu: "NA"
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -45245,13 +45245,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -45260,37 +45260,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -45344,67 +45344,67 @@ name: "Male parent",
 valu: "C92.044"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "HS"
+valu: ""
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.74"
+valu: "0.740000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "108.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -45413,28 +45413,28 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "63.720000"
@@ -45446,25 +45446,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "63.960000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -45521,67 +45521,67 @@ name: "Male parent",
 valu: "C92.030"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.693"
+valu: "0.693000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "102.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -45590,28 +45590,28 @@ name: "Oil Absorption Rate (%)",
 valu: "32.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "121.140000"
@@ -45623,25 +45623,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "121.880000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -45698,55 +45698,55 @@ name: "Male parent",
 valu: "C93.030"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "H"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "ER"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.83"
+valu: "0.830000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "59.000000"
@@ -45755,10 +45755,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -45767,19 +45767,19 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
 valu: "NA"
@@ -45818,7 +45818,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Multiple"
@@ -45875,67 +45875,67 @@ name: "Male parent",
 valu: "C92.167"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.886"
+valu: "0.886000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "95.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -45944,28 +45944,28 @@ name: "Oil Absorption Rate (%)",
 valu: "36.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "46.380000"
@@ -45977,25 +45977,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "51.290000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -46052,67 +46052,67 @@ name: "Male parent",
 valu: "BK-RKN-1"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.707"
+valu: "0.707000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "59.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -46121,28 +46121,28 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "80.820000"
@@ -46154,25 +46154,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "84.250000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -46229,67 +46229,67 @@ name: "Male parent",
 valu: "BK-RKN-3"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HR"
+valu: "Highly resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.881"
+valu: "0.881000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "59.000000"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -46298,28 +46298,28 @@ name: "Oil Absorption Rate (%)",
 valu: "36.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "54.930000"
@@ -46331,25 +46331,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "56.350000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -46406,67 +46406,67 @@ name: "Male parent",
 valu: "C92.030"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.105"
+valu: "1.105000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "73.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "25"
@@ -46475,10 +46475,10 @@ name: "Oil Absorption Rate (%)",
 valu: "26.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -46493,10 +46493,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "69.170000"
@@ -46526,7 +46526,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.050000"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -46583,67 +46583,67 @@ name: "Male parent",
 valu: "N93.067"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.928"
+valu: "0.928000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "92.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "24"
@@ -46652,16 +46652,16 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "2.000000"
@@ -46670,10 +46670,10 @@ name: "Flesh Color after cooking",
 valu: "LYE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "78.310000"
@@ -46685,25 +46685,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "78.390000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -46760,67 +46760,67 @@ name: "Male parent",
 valu: "388615.22 (C91.640)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "3"
+valu: "In a narrow vascular ring"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MS "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.97597222222"
+valu: "0.975972"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "73.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -46829,16 +46829,16 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "3.000000"
@@ -46847,10 +46847,10 @@ name: "Flesh Color after cooking",
 valu: "WHI"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "74.870000"
@@ -46862,25 +46862,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "88.770000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -46937,67 +46937,67 @@ name: "Male parent",
 valu: "393617.1 (TXY.11)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "4"
+valu: "In a broad vascular ring"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.71597222222"
+valu: "0.715972"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "129.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "24"
@@ -47006,10 +47006,10 @@ name: "Oil Absorption Rate (%)",
 valu: "32.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "BC"
@@ -47024,40 +47024,40 @@ name: "Flesh Color after cooking",
 valu: "LYE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -47114,67 +47114,67 @@ name: "Male parent",
 valu: "391894.7=(DXY.7)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.88"
+valu: "0.880000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -47183,7 +47183,7 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -47234,10 +47234,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "21.830000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -47291,55 +47291,55 @@ name: "Male parent",
 valu: "393613.2 (TXY.2)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.91"
+valu: "0.910000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -47348,10 +47348,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "L"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "26"
@@ -47360,7 +47360,7 @@ name: "Oil Absorption Rate (%)",
 valu: "26.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -47411,7 +47411,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "36.160000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -47468,67 +47468,67 @@ name: "Male parent",
 valu: "BWH-87.344R"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.81"
+valu: "0.810000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "122.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -47537,10 +47537,10 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -47552,13 +47552,13 @@ name: "After cooking darkening",
 valu: "2.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "77.580000"
@@ -47570,25 +47570,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "80.560000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -47645,55 +47645,55 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.65"
+valu: "0.650000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -47702,40 +47702,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "93.270000"
@@ -47765,10 +47765,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.640000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -47822,55 +47822,55 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.91"
+valu: "0.910000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -47879,73 +47879,73 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -47999,55 +47999,55 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.71"
+valu: "0.710000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -48056,34 +48056,34 @@ name: "Dormancy period  (DLS) Highland",
 valu: "60"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -48119,10 +48119,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: " - "
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -48176,76 +48176,76 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.6665"
+valu: "1.666500"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -48254,13 +48254,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -48269,37 +48269,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -48353,55 +48353,55 @@ name: "Male parent",
 valu: "393280.580000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.97"
+valu: "0.970000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -48410,40 +48410,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "109.750000"
@@ -48473,10 +48473,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.130000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -48530,55 +48530,55 @@ name: "Male parent",
 valu: "393280.580000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.93"
+valu: "0.930000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -48587,40 +48587,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "98.810000"
@@ -48650,10 +48650,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.880000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -48707,55 +48707,55 @@ name: "Male parent",
 valu: "393280.580000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.05"
+valu: "1.050000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -48764,19 +48764,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "60"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -48785,13 +48785,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -48827,10 +48827,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.920000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -48884,55 +48884,55 @@ name: "Male parent",
 valu: "393280.580000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.91"
+valu: "0.910000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -48941,73 +48941,73 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -49061,130 +49061,130 @@ name: "Male parent",
 valu: "393280.580000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.29"
+valu: "1.290000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -49238,55 +49238,55 @@ name: "Male parent",
 valu: "393280.570000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.03"
+valu: "1.030000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -49295,19 +49295,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "60"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -49316,13 +49316,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -49358,10 +49358,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: " - "
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -49415,55 +49415,55 @@ name: "Male parent",
 valu: "393280.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.83"
+valu: "0.830000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -49472,19 +49472,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -49493,13 +49493,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -49535,10 +49535,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.710000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -49592,76 +49592,76 @@ name: "Male parent",
 valu: "393280.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.46"
+valu: "0.460000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -49670,13 +49670,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -49685,37 +49685,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -49769,76 +49769,76 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.8728127"
+valu: "1.872813"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "60"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -49847,13 +49847,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -49862,37 +49862,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -49946,76 +49946,76 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.18"
+valu: "1.180000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -50024,13 +50024,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -50066,10 +50066,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: " - "
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -50123,55 +50123,55 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.85"
+valu: "0.850000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -50180,19 +50180,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -50201,13 +50201,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Watery"
@@ -50243,10 +50243,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: " - "
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -50300,55 +50300,55 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.26"
+valu: "1.260000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -50357,73 +50357,73 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -50477,55 +50477,55 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.92"
+valu: "0.920000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -50534,19 +50534,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -50555,13 +50555,13 @@ name: "Cooking Quality",
 valu: "C"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -50597,10 +50597,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.650000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -50654,55 +50654,55 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.94"
+valu: "0.940000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -50711,19 +50711,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -50732,13 +50732,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -50747,37 +50747,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -50831,55 +50831,55 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.94"
+valu: "0.940000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -50888,19 +50888,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -50909,13 +50909,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -50924,37 +50924,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -51008,76 +51008,76 @@ name: "Male parent",
 valu: "393280.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.04"
+valu: "1.040000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -51086,13 +51086,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -51101,37 +51101,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -51185,55 +51185,55 @@ name: "Male parent",
 valu: "393280.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.39"
+valu: "1.390000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -51242,73 +51242,73 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -51362,130 +51362,130 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.5761757"
+valu: "1.576176"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -51539,55 +51539,55 @@ name: "Male parent",
 valu: "393382.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.8919108"
+valu: "0.891911"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -51596,73 +51596,73 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -51716,91 +51716,91 @@ name: "Male parent",
 valu: "393280.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7"
+valu: "0.700000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -51836,10 +51836,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: " - "
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -51893,76 +51893,76 @@ name: "Male parent",
 valu: "393280.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.01"
+valu: "1.010000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -51971,13 +51971,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -52013,10 +52013,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.260000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -52070,55 +52070,55 @@ name: "Male parent",
 valu: "393280.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.71"
+valu: "0.710000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -52127,19 +52127,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -52148,13 +52148,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -52163,37 +52163,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -52247,91 +52247,91 @@ name: "Male parent",
 valu: "393280.570000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9522381"
+valu: "0.952238"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -52340,37 +52340,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -52424,55 +52424,55 @@ name: "Male parent",
 valu: "393280.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.99"
+valu: "0.990000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -52481,19 +52481,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -52502,13 +52502,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -52544,10 +52544,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: " - "
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -52601,55 +52601,55 @@ name: "Male parent",
 valu: "391679.700000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.09"
+valu: "1.090000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -52658,40 +52658,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: " - "
@@ -52718,13 +52718,13 @@ name: "Zn (mg/kg, dry weight basis) min",
 valu: " - "
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -52778,55 +52778,55 @@ name: "Male parent",
 valu: "391679.120000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.69"
+valu: "0.690000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -52835,73 +52835,73 @@ name: "Dormancy period  (DLS) Highland",
 valu: "60"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -52955,55 +52955,55 @@ name: "Male parent",
 valu: "391679.120000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.67"
+valu: "0.670000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -53012,73 +53012,73 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "NA"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "-"
+valu: "NA"
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -53132,55 +53132,55 @@ name: "Male parent",
 valu: "392626.900000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.08"
+valu: "1.080000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -53189,73 +53189,73 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -53309,55 +53309,55 @@ name: "Male parent",
 valu: "392633.10"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.48"
+valu: "0.480000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -53366,73 +53366,73 @@ name: "Dormancy period  (DLS) Highland",
 valu: "60"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -53486,55 +53486,55 @@ name: "Male parent",
 valu: "391580.30"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.8085858"
+valu: "0.808586"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -53543,19 +53543,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -53564,13 +53564,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -53579,37 +53579,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -53663,52 +53663,52 @@ name: "Male parent",
 valu: "391580.30"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
 valu: "0.759924"
@@ -53720,34 +53720,34 @@ name: "Dormancy period  (DLS) Highland",
 valu: ">120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -53756,37 +53756,37 @@ name: "Flavour",
 valu: "Very good"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TAB"
+valu: "Lowland and highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -53840,67 +53840,67 @@ name: "Male parent",
 valu: "104.12 LB"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.638"
+valu: "0.638000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -53909,28 +53909,28 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "66.600000"
@@ -53942,28 +53942,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "68.050000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -54017,67 +54017,67 @@ name: "Male parent",
 valu: "C92.030"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.097"
+valu: "1.097000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "109.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -54086,28 +54086,28 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "2.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "88.830000"
@@ -54119,25 +54119,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "89.080000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -54194,67 +54194,67 @@ name: "Male parent",
 valu: "88.052000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.897"
+valu: "0.897000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "73.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -54263,10 +54263,10 @@ name: "Oil Absorption Rate (%)",
 valu: "43.000000"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -54281,10 +54281,10 @@ name: "Flesh Color after cooking",
 valu: "LYE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "54.820000"
@@ -54314,7 +54314,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "21.980000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -54371,67 +54371,67 @@ name: "Male parent",
 valu: "88.052000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.846"
+valu: "0.846000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "106.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -54440,16 +54440,16 @@ name: "Oil Absorption Rate (%)",
 valu: "36.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "C"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
@@ -54458,10 +54458,10 @@ name: "Flesh Color after cooking",
 valu: "LYE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "63.380000"
@@ -54491,7 +54491,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.880000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -54548,67 +54548,67 @@ name: "Male parent",
 valu: "88.108000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.809"
+valu: "0.809000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -54617,10 +54617,10 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -54635,10 +54635,10 @@ name: "Flesh Color after cooking",
 valu: "DCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "58.790000"
@@ -54668,10 +54668,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "28.500000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -54725,67 +54725,67 @@ name: "Male parent",
 valu: "92.187000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.974"
+valu: "0.974000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "87.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -54794,10 +54794,10 @@ name: "Oil Absorption Rate (%)",
 valu: "36.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "BC"
@@ -54809,13 +54809,13 @@ name: "After cooking darkening",
 valu: "4.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "68.310000"
@@ -54845,7 +54845,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "18.800000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -54902,67 +54902,67 @@ name: "Male parent",
 valu: "392745.7 (92.187)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.528"
+valu: "1.528000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "87.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "17"
@@ -54971,16 +54971,16 @@ name: "Oil Absorption Rate (%)",
 valu: "37.000000"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "3.000000"
@@ -54989,10 +54989,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "98.060000"
@@ -55022,7 +55022,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.580000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -55079,67 +55079,67 @@ name: "Male parent",
 valu: "388972.22 (C89.315)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.827"
+valu: "0.827000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "96.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -55148,10 +55148,10 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -55166,10 +55166,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "72.900000"
@@ -55181,25 +55181,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "75.990000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -55256,67 +55256,67 @@ name: "Male parent",
 valu: "388972.22 (C89.315)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.87"
+valu: "0.870000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "103.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -55325,16 +55325,16 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "2.000000"
@@ -55343,10 +55343,10 @@ name: "Flesh Color after cooking",
 valu: "WHI"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "87.060000"
@@ -55358,25 +55358,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "100.690000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -55433,67 +55433,67 @@ name: "Male parent",
 valu: "391180.6 (C90.266)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.674"
+valu: "0.674000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "17"
@@ -55502,10 +55502,10 @@ name: "Oil Absorption Rate (%)",
 valu: "36.000000"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -55520,10 +55520,10 @@ name: "Flesh Color after cooking",
 valu: "DCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "95.660000"
@@ -55535,28 +55535,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "105.900000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -55610,67 +55610,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.899"
+valu: "0.899000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "96.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "19"
@@ -55679,10 +55679,10 @@ name: "Oil Absorption Rate (%)",
 valu: "37.000000"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -55697,10 +55697,10 @@ name: "Flesh Color after cooking",
 valu: "CRE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "89.980000"
@@ -55730,7 +55730,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "26.800000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -55787,67 +55787,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "2"
+valu: "Yellow"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.74070767196"
+valu: "0.740708"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -55856,10 +55856,10 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -55874,10 +55874,10 @@ name: "Flesh Color after cooking",
 valu: "LYE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "85.620000"
@@ -55907,10 +55907,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "29.230000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -55964,67 +55964,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.092"
+valu: "1.092000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "87.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -56033,10 +56033,10 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -56051,10 +56051,10 @@ name: "Flesh Color after cooking",
 valu: "WHI"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "81.170000"
@@ -56084,7 +56084,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.510000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -56141,67 +56141,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.133"
+valu: "1.133000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "98.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -56210,10 +56210,10 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -56228,10 +56228,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "90.080000"
@@ -56261,7 +56261,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.660000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -56318,67 +56318,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.847"
+valu: "0.847000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "65.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "25"
@@ -56387,10 +56387,10 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "BC"
@@ -56405,10 +56405,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "89.600000"
@@ -56438,7 +56438,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "25.730000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -56495,67 +56495,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.671"
+valu: "0.671000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -56564,10 +56564,10 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -56582,10 +56582,10 @@ name: "Flesh Color after cooking",
 valu: "LYE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "53.800000"
@@ -56615,10 +56615,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.920000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -56672,67 +56672,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "2"
+valu: "Scattered areas"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R "
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MR "
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.0777777778"
+valu: "1.077778"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "129.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -56741,10 +56741,10 @@ name: "Oil Absorption Rate (%)",
 valu: "35.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -56759,10 +56759,10 @@ name: "Flesh Color after cooking",
 valu: "LYE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "100.970000"
@@ -56792,7 +56792,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "18.160000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -56849,67 +56849,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.996"
+valu: "0.996000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "62.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -56918,10 +56918,10 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -56936,10 +56936,10 @@ name: "Flesh Color after cooking",
 valu: "CRE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "103.620000"
@@ -56951,25 +56951,25 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "109.530000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -57026,67 +57026,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.021"
+valu: "1.021000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "112.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -57095,10 +57095,10 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -57113,10 +57113,10 @@ name: "Flesh Color after cooking",
 valu: "WHI"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "90.220000"
@@ -57146,7 +57146,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.920000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -57203,67 +57203,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS"
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.807"
+valu: "0.807000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "71.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -57272,10 +57272,10 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "B"
@@ -57290,10 +57290,10 @@ name: "Flesh Color after cooking",
 valu: "CRE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "89.510000"
@@ -57323,7 +57323,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "18.880000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -57380,67 +57380,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.96666666667"
+valu: "0.966667"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "114.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -57449,10 +57449,10 @@ name: "Oil Absorption Rate (%)",
 valu: "28.000000"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -57467,10 +57467,10 @@ name: "Flesh Color after cooking",
 valu: "LCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "96.820000"
@@ -57500,7 +57500,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "28.520000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -57557,67 +57557,67 @@ name: "Male parent",
 valu: "392820.1 (C93.154)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.066"
+valu: "1.066000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "114.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -57626,13 +57626,13 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
 valu: "21-25"
@@ -57644,10 +57644,10 @@ name: "Flesh Color after cooking",
 valu: "WHI"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "91.360000"
@@ -57677,7 +57677,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.410000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -57734,67 +57734,67 @@ name: "Male parent",
 valu: "391207.2 (LR93.050)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.083"
+valu: "1.083000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "68.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -57803,16 +57803,16 @@ name: "Oil Absorption Rate (%)",
 valu: "31.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "2.000000"
@@ -57821,10 +57821,10 @@ name: "Flesh Color after cooking",
 valu: "DCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "47.620000"
@@ -57854,7 +57854,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.150000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -57911,67 +57911,67 @@ name: "Male parent",
 valu: "391207.2 (LR93.050)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7"
+valu: "0.700000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "94.000000"
 },{
 name: "Growing period in lowland",
-valu: "E"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -57980,10 +57980,10 @@ name: "Oil Absorption Rate (%)",
 valu: "31.000000"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -57998,40 +57998,40 @@ name: "Flesh Color after cooking",
 valu: "CRE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -58088,67 +58088,67 @@ name: "Male parent",
 valu: "391207.2 (LR93.050)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.746"
+valu: "0.746000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "109.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "L"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "17"
@@ -58157,10 +58157,10 @@ name: "Oil Absorption Rate (%)",
 valu: "42.000000"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -58175,10 +58175,10 @@ name: "Flesh Color after cooking",
 valu: "LYE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "90.560000"
@@ -58208,7 +58208,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "28.400000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -58265,67 +58265,67 @@ name: "Male parent",
 valu: "388611.22 (C91.612)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.034212963"
+valu: "1.034213"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "122.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -58334,10 +58334,10 @@ name: "Oil Absorption Rate (%)",
 valu: "31.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "CD"
@@ -58352,10 +58352,10 @@ name: "Flesh Color after cooking",
 valu: "WHI"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "83.390000"
@@ -58385,7 +58385,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.210000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -58442,67 +58442,67 @@ name: "Male parent",
 valu: "388611.22 (C91.612)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS "
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "HS"
+valu: ""
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "HS "
+valu: ""
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.76476851852"
+valu: "0.764769"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "E"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "20"
@@ -58511,10 +58511,10 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -58529,10 +58529,10 @@ name: "Flesh Color after cooking",
 valu: "LYE"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "96.770000"
@@ -58562,10 +58562,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.980000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -58619,67 +58619,67 @@ name: "Male parent",
 valu: "388972.220000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.87"
+valu: "0.870000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -58688,10 +58688,10 @@ name: "Oil Absorption Rate (%)",
 valu: "33.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -58706,10 +58706,10 @@ name: "Flesh Color after cooking",
 valu: "WHI"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "87.800000"
@@ -58721,28 +58721,28 @@ name: "Vitamin C (mg/100g, dry weight basis) max",
 valu: "94.510000"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -58796,40 +58796,40 @@ name: "Male parent",
 valu: "392639.310000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -58844,7 +58844,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9239076"
+valu: "0.923908"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -58865,10 +58865,10 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -58916,7 +58916,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -58973,40 +58973,40 @@ name: "Male parent",
 valu: "392639.310000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -59021,7 +59021,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.6536013"
+valu: "0.653601"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -59042,7 +59042,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -59093,7 +59093,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -59150,40 +59150,40 @@ name: "Male parent",
 valu: "392639.310000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -59219,10 +59219,10 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -59270,7 +59270,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -59327,40 +59327,40 @@ name: "Male parent",
 valu: "392639.310000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -59396,10 +59396,10 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -59447,7 +59447,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -59504,40 +59504,40 @@ name: "Male parent",
 valu: "392639.310000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -59552,7 +59552,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7255941"
+valu: "0.725594"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -59573,10 +59573,10 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -59624,7 +59624,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -59681,91 +59681,91 @@ name: "Male parent",
 valu: "392639.310000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7979202"
+valu: "0.797920"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury "
@@ -59774,37 +59774,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "Tolerant"
@@ -59858,76 +59858,76 @@ name: "Male parent",
 valu: "392639.310000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7072626"
+valu: "0.707263"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "NA"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -59936,13 +59936,13 @@ name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy "
@@ -59951,37 +59951,37 @@ name: "Flavour",
 valu: "Intermediate "
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "Tolerant"
@@ -60035,40 +60035,40 @@ name: "Male parent",
 valu: "392639.310000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "2"
+valu: "In the eyebrows"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -60083,7 +60083,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.8019198"
+valu: "0.801920"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -60104,7 +60104,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -60155,7 +60155,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -60212,40 +60212,40 @@ name: "Male parent",
 valu: "392639.310000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -60260,7 +60260,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.5552778"
+valu: "0.555278"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -60281,10 +60281,10 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -60332,7 +60332,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -60389,40 +60389,40 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -60437,7 +60437,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.6069393"
+valu: "0.606939"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -60458,7 +60458,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "4.000000"
@@ -60509,7 +60509,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -60566,40 +60566,40 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -60614,7 +60614,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7085958"
+valu: "0.708596"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -60635,7 +60635,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -60686,7 +60686,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -60743,40 +60743,40 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -60791,7 +60791,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.8375829"
+valu: "0.837583"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -60815,7 +60815,7 @@ name: "Chipping color",
 valu: "NA"
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -60863,7 +60863,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -60920,40 +60920,40 @@ name: "Male parent",
 valu: "392639.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "2"
+valu: "In the eyebrows"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -60968,7 +60968,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.6586008"
+valu: "0.658601"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -60989,7 +60989,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -61040,7 +61040,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -61097,76 +61097,76 @@ name: "Male parent",
 valu: "392639.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.6309369"
+valu: "0.630937"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -61175,13 +61175,13 @@ name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy "
@@ -61190,37 +61190,37 @@ name: "Flavour",
 valu: "Intermediate "
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "Tolerant"
@@ -61274,40 +61274,40 @@ name: "Male parent",
 valu: "392639.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -61322,7 +61322,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.6449355"
+valu: "0.644935"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -61343,7 +61343,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -61394,7 +61394,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -61451,40 +61451,40 @@ name: "Male parent",
 valu: "392639.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "2"
+valu: "In the eyebrows"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -61499,7 +61499,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.6679332"
+valu: "0.667933"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -61520,10 +61520,10 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -61571,7 +61571,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -61628,76 +61628,76 @@ name: "Male parent",
 valu: "392639.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.5392794"
+valu: "0.539279"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -61706,13 +61706,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy "
@@ -61721,37 +61721,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "Tolerant"
@@ -61805,40 +61805,40 @@ name: "Male parent",
 valu: "392639.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "2"
+valu: "In the eyebrows"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -61853,7 +61853,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.6182715"
+valu: "0.618271"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -61874,10 +61874,10 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -61925,7 +61925,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -61982,76 +61982,76 @@ name: "Male parent",
 valu: "392639.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7019298"
+valu: "0.701930"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -62060,13 +62060,13 @@ name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy "
@@ -62075,37 +62075,37 @@ name: "Flavour",
 valu: "Intermediate "
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "Tolerant"
@@ -62159,40 +62159,40 @@ name: "Male parent",
 valu: "392633.540000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "2"
+valu: "In the eyebrows"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -62207,7 +62207,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7092624"
+valu: "0.709262"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -62228,7 +62228,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -62279,7 +62279,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -62336,91 +62336,91 @@ name: "Male parent",
 valu: "392633.540000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9505716"
+valu: "0.950572"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy "
@@ -62429,37 +62429,37 @@ name: "Flavour",
 valu: "Intermediate "
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "Tolerant"
@@ -62513,40 +62513,40 @@ name: "Male parent",
 valu: "392633.540000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -62561,7 +62561,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.4472886"
+valu: "0.447289"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -62582,10 +62582,10 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -62633,7 +62633,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -62690,91 +62690,91 @@ name: "Male parent",
 valu: "392633.540000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.6076059"
+valu: "0.607606"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy "
@@ -62783,37 +62783,37 @@ name: "Flavour",
 valu: "Intermediate "
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "Tolerant"
@@ -62867,40 +62867,40 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "2"
+valu: "In the eyebrows"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -62915,7 +62915,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.4662867"
+valu: "0.466287"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -62936,10 +62936,10 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A"
@@ -62987,7 +62987,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -63044,40 +63044,40 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -63092,7 +63092,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7989201"
+valu: "0.798920"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -63113,7 +63113,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -63164,7 +63164,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -63221,91 +63221,91 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7609239"
+valu: "0.760924"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy "
@@ -63314,37 +63314,37 @@ name: "Flavour",
 valu: "Intermediate "
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "Tolerant"
@@ -63398,34 +63398,34 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
@@ -63446,7 +63446,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.8822451"
+valu: "0.882245"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -63467,7 +63467,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -63518,7 +63518,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -63575,34 +63575,34 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
@@ -63623,7 +63623,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.1618838"
+valu: "1.161884"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -63644,7 +63644,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -63695,7 +63695,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -63752,40 +63752,40 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -63800,7 +63800,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9685698"
+valu: "0.968570"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -63821,7 +63821,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -63872,7 +63872,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -63929,40 +63929,40 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -63977,7 +63977,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.8412492"
+valu: "0.841249"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -63998,7 +63998,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -64049,7 +64049,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -64106,40 +64106,40 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -64154,7 +64154,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.4742859"
+valu: "0.474286"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -64175,7 +64175,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "-"
+valu: "NA"
 },{
 name: "French Fry",
 valu: "NA"
@@ -64226,7 +64226,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -64283,76 +64283,76 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9802353"
+valu: "0.980235"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -64361,13 +64361,13 @@ name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury "
@@ -64376,37 +64376,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "Tolerant"
@@ -64460,76 +64460,76 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7222611"
+valu: "0.722261"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -64538,13 +64538,13 @@ name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury "
@@ -64553,37 +64553,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "Tolerant"
@@ -64637,40 +64637,40 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -64685,7 +64685,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.8135853"
+valu: "0.813585"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -64706,7 +64706,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -64757,7 +64757,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -64814,91 +64814,91 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7682565"
+valu: "0.768257"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury "
@@ -64907,37 +64907,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "Tolerant"
@@ -64991,91 +64991,91 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
 valu: "1.006566"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury "
@@ -65084,37 +65084,37 @@ name: "Flavour",
 valu: "Very good "
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "Tolerant"
@@ -65168,34 +65168,34 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
 valu: "NA"
@@ -65216,7 +65216,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.0705596"
+valu: "1.070560"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -65237,7 +65237,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -65288,7 +65288,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -65345,40 +65345,40 @@ name: "Male parent",
 valu: "392633.640000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
 valu: "NA"
@@ -65393,7 +65393,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7539246"
+valu: "0.753925"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -65414,7 +65414,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -65465,7 +65465,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -65522,67 +65522,67 @@ name: "Male parent",
 valu: "393613.2 (TXY.2)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.754"
+valu: "0.754000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "25"
@@ -65591,10 +65591,10 @@ name: "Oil Absorption Rate (%)",
 valu: "26.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -65609,10 +65609,10 @@ name: "Flesh Color after cooking",
 valu: "DCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "56.740000"
@@ -65642,10 +65642,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "23.170000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -65699,55 +65699,55 @@ name: "Male parent",
 valu: "395255.3 (B1C4035.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.8185848"
+valu: "0.818585"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -65756,40 +65756,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "78.220000"
@@ -65819,10 +65819,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -65876,55 +65876,55 @@ name: "Male parent",
 valu: "395255.3 (B1C4035.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.3262007"
+valu: "1.326201"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -65933,40 +65933,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "96.620000"
@@ -65996,10 +65996,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -66053,55 +66053,55 @@ name: "Male parent",
 valu: "395255.3 (B1C4035.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.0972236"
+valu: "1.097224"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -66110,40 +66110,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "57.990000"
@@ -66173,10 +66173,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -66230,55 +66230,55 @@ name: "Male parent",
 valu: "395292.3 (B1C4072.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1"
+valu: "1.000000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -66287,19 +66287,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "4.000000"
@@ -66308,13 +66308,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -66350,10 +66350,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.260000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -66407,55 +66407,55 @@ name: "Male parent",
 valu: "395292.3 (B1C4072.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "5"
+valu: "Intense Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.27"
+valu: "1.270000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "120"
@@ -66464,19 +66464,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "26"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -66485,13 +66485,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -66527,10 +66527,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.440000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -66584,55 +66584,55 @@ name: "Male parent",
 valu: "395292.3 (B1C4072.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.28"
+valu: "1.280000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -66641,19 +66641,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "4.000000"
@@ -66662,13 +66662,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -66704,10 +66704,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -66761,55 +66761,55 @@ name: "Male parent",
 valu: "395292.3 (B1C4072.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "5"
+valu: "Intense Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.19"
+valu: "1.190000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -66818,40 +66818,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "62.640000"
@@ -66881,10 +66881,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.290000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -66938,55 +66938,55 @@ name: "Male parent",
 valu: "395292.3 (B1C4072.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.89"
+valu: "0.890000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -66995,19 +66995,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "25"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -67016,13 +67016,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -67058,10 +67058,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.170000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -67115,55 +67115,55 @@ name: "Male parent",
 valu: "395272.2 (B1C4025.2)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.6"
+valu: "1.600000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -67172,19 +67172,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "4.000000"
@@ -67193,13 +67193,13 @@ name: "Cooking Quality",
 valu: "C"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -67235,10 +67235,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -67292,55 +67292,55 @@ name: "Male parent",
 valu: "395255.3 (B1C4035.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.19"
+valu: "1.190000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -67349,40 +67349,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "4.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "90.170000"
@@ -67412,10 +67412,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "23.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -67469,55 +67469,55 @@ name: "Male parent",
 valu: "395257.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "5"
+valu: "Intense Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.1"
+valu: "1.100000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -67526,19 +67526,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -67547,13 +67547,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -67589,10 +67589,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.410000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -67646,55 +67646,55 @@ name: "Male parent",
 valu: "395273.1 (B1C4053.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.0745592"
+valu: "1.074559"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -67703,40 +67703,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "4.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "64.270000"
@@ -67766,10 +67766,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.060000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -67823,55 +67823,55 @@ name: "Male parent",
 valu: "395273.1 (B1C4053.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.07"
+valu: "1.070000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -67880,40 +67880,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "72.760000"
@@ -67943,10 +67943,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.460000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -68000,55 +68000,55 @@ name: "Male parent",
 valu: "395273.1 (B1C4053.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "8"
+valu: "Violet"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "3"
+valu: "In a narrow vascular ring"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.32"
+valu: "1.320000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -68057,40 +68057,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "59.490000"
@@ -68120,10 +68120,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.530000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -68177,55 +68177,55 @@ name: "Male parent",
 valu: "395273.1 (B1C4053.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.0162317"
+valu: "1.016232"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -68234,40 +68234,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "4.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "81.770000"
@@ -68297,10 +68297,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -68354,130 +68354,130 @@ name: "Male parent",
 valu: "395300.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.92"
+valu: "0.920000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "4.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -68531,55 +68531,55 @@ name: "Male parent",
 valu: "395257.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "1"
+valu: "Flattened"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.4"
+valu: "1.400000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -68588,19 +68588,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -68609,13 +68609,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -68651,10 +68651,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -68708,76 +68708,76 @@ name: "Male parent",
 valu: "395257.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "8"
+valu: "Violet"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "3"
+valu: "In a narrow vascular ring"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.0188981"
+valu: "1.018898"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -68786,13 +68786,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -68801,37 +68801,37 @@ name: "Flavour",
 valu: "Intermediate"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -68885,55 +68885,55 @@ name: "Male parent",
 valu: "395257.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.36"
+valu: "1.360000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -68942,19 +68942,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -68963,13 +68963,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -69005,10 +69005,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.430000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -69062,55 +69062,55 @@ name: "Male parent",
 valu: "395292.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.27"
+valu: "1.270000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -69119,40 +69119,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "25"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "65.820000"
@@ -69182,10 +69182,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "8.140000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -69239,55 +69239,55 @@ name: "Male parent",
 valu: "395322.110000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "1"
+valu: "Flattened"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.07"
+valu: "1.070000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -69296,40 +69296,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "83.590000"
@@ -69359,10 +69359,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -69416,55 +69416,55 @@ name: "Male parent",
 valu: "395322.110000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.2"
+valu: "1.200000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -69473,19 +69473,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -69494,13 +69494,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -69536,10 +69536,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -69593,97 +69593,97 @@ name: "Male parent",
 valu: "395322.110000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.31"
+valu: "1.310000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "4.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "76.890000"
@@ -69713,10 +69713,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -69770,55 +69770,55 @@ name: "Male parent",
 valu: "395322.110000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.61"
+valu: "1.610000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -69827,19 +69827,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "4.000000"
@@ -69848,13 +69848,13 @@ name: "Cooking Quality",
 valu: "C"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -69890,10 +69890,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -69947,55 +69947,55 @@ name: "Male parent",
 valu: "395299.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.5735093"
+valu: "1.573509"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -70004,19 +70004,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -70025,13 +70025,13 @@ name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury "
@@ -70067,10 +70067,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.220000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -70124,55 +70124,55 @@ name: "Male parent",
 valu: "395299.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.1"
+valu: "1.100000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -70181,40 +70181,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "78.120000"
@@ -70244,10 +70244,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "10.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -70301,52 +70301,52 @@ name: "Male parent",
 valu: "395319.200000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
 valu: "1.829817"
@@ -70358,40 +70358,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "19"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "5.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "114.630000"
@@ -70421,10 +70421,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.330000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -70478,55 +70478,55 @@ name: "Male parent",
 valu: "395282.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.3262007"
+valu: "1.326201"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -70535,40 +70535,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "25"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "50.980000"
@@ -70598,10 +70598,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -70655,55 +70655,55 @@ name: "Male parent",
 valu: "395282.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.39"
+valu: "1.390000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -70712,40 +70712,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "25"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "66.890000"
@@ -70775,10 +70775,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -70832,55 +70832,55 @@ name: "Male parent",
 valu: "395282.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.6"
+valu: "1.600000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "120"
@@ -70889,19 +70889,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -70910,13 +70910,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -70952,10 +70952,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -71009,55 +71009,55 @@ name: "Male parent",
 valu: "395282.300000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "3"
+valu: "In a narrow vascular ring"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.25"
+valu: "1.250000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -71066,40 +71066,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "58.450000"
@@ -71129,10 +71129,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.020000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -71186,97 +71186,97 @@ name: "Male parent",
 valu: "395233.800000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "1"
+valu: "In the eyes"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.6058394"
+valu: "1.605839"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "76.880000"
@@ -71306,10 +71306,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -71363,97 +71363,97 @@ name: "Male parent",
 valu: "395233.800000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.1318868"
+valu: "1.131887"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "61.620000"
@@ -71483,10 +71483,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -71540,55 +71540,55 @@ name: "Male parent",
 valu: "395271.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.12"
+valu: "1.120000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -71597,40 +71597,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "54.840000"
@@ -71660,10 +71660,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -71717,55 +71717,55 @@ name: "Male parent",
 valu: "395271.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.99"
+valu: "0.990000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -71774,19 +71774,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -71795,13 +71795,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -71837,10 +71837,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -71894,55 +71894,55 @@ name: "Male parent",
 valu: "395235.8 (B1C4015.8)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "1"
+valu: "Flattened"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.12"
+valu: "1.120000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -71951,40 +71951,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "75.810000"
@@ -72014,10 +72014,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "18.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -72071,55 +72071,55 @@ name: "Male parent",
 valu: "395271.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.32"
+valu: "1.320000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -72128,40 +72128,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "18"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "4.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "44.640000"
@@ -72191,10 +72191,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.340000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -72248,55 +72248,55 @@ name: "Male parent",
 valu: "395271.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.14"
+valu: "1.140000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -72305,40 +72305,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "86.280000"
@@ -72368,10 +72368,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -72425,55 +72425,55 @@ name: "Male parent",
 valu: "395271.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.31"
+valu: "1.310000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -72482,40 +72482,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "72.050000"
@@ -72545,10 +72545,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -72602,55 +72602,55 @@ name: "Male parent",
 valu: "395271.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.31"
+valu: "1.310000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -72659,40 +72659,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "66.750000"
@@ -72722,10 +72722,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -72779,55 +72779,55 @@ name: "Male parent",
 valu: "395256.1 (B1C4036.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.12"
+valu: "1.120000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -72836,19 +72836,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -72857,13 +72857,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -72899,10 +72899,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -72956,55 +72956,55 @@ name: "Male parent",
 valu: "395256.1 (B1C4036.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.2292104"
+valu: "1.229210"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "120"
@@ -73013,19 +73013,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -73034,13 +73034,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -73076,10 +73076,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.030000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -73133,55 +73133,55 @@ name: "Male parent",
 valu: "395256.1 (B1C4036.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1"
+valu: "1.000000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -73190,40 +73190,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "66.380000"
@@ -73253,10 +73253,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -73310,55 +73310,55 @@ name: "Male parent",
 valu: "395256.1 (B1C4036.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "9"
+valu: "Blackish"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.97"
+valu: "0.970000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "120"
@@ -73367,40 +73367,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "25"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "71.190000"
@@ -73430,10 +73430,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "17.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -73487,55 +73487,55 @@ name: "Male parent",
 valu: "395247.1 (B1C4027.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.31"
+valu: "1.310000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -73544,40 +73544,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "131.170000"
@@ -73607,10 +73607,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "18.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -73664,55 +73664,55 @@ name: "Male parent",
 valu: "395247.1 (B1C4027.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.18"
+valu: "1.180000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -73721,40 +73721,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "88.160000"
@@ -73784,10 +73784,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.940000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -73841,97 +73841,97 @@ name: "Male parent",
 valu: "395282.3 (B1C4062.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.8949105"
+valu: "0.894910"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "66.370000"
@@ -73961,10 +73961,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "20.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -74018,55 +74018,55 @@ name: "Male parent",
 valu: "395282.3 (B1C4062.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "2"
+valu: "Yellow"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.0468953"
+valu: "1.046895"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -74075,40 +74075,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "58.970000"
@@ -74138,10 +74138,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.220000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -74195,76 +74195,76 @@ name: "Male parent",
 valu: "395282.3 (B1C4062.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "7"
+valu: "Purplish-red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.9"
+valu: "0.900000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "1.000000"
@@ -74273,13 +74273,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -74315,10 +74315,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -74372,55 +74372,55 @@ name: "Male parent",
 valu: "395282.3 (B1C4062.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.03"
+valu: "1.030000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -74429,40 +74429,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "1.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "43.440000"
@@ -74492,10 +74492,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.300000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -74549,55 +74549,55 @@ name: "Male parent",
 valu: "395282.3 (B1C4062.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "7"
+valu: "Purple"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "3"
+valu: "In a narrow vascular ring"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.1805486"
+valu: "1.180549"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -74606,19 +74606,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -74627,13 +74627,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -74669,10 +74669,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -74726,55 +74726,55 @@ name: "Male parent",
 valu: "395282.3 (B1C4062.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "6"
+valu: "Red"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "2"
+valu: "Scattered areas"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.04"
+valu: "1.040000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -74783,40 +74783,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "56.330000"
@@ -74846,10 +74846,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.190000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -74903,55 +74903,55 @@ name: "Male parent",
 valu: "395235.8 (B1C4015.8)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.3018698"
+valu: "1.301870"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -74960,19 +74960,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "4.000000"
@@ -74981,13 +74981,13 @@ name: "Cooking Quality",
 valu: "B"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -75023,10 +75023,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.530000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -75080,55 +75080,55 @@ name: "Male parent",
 valu: "395235.8 (B1C4015.8)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "4"
+valu: "Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.1735493"
+valu: "1.173549"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -75137,40 +75137,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "5.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "77.550000"
@@ -75200,10 +75200,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -75257,97 +75257,97 @@ name: "Male parent",
 valu: "395260.8 (B1C4040.8)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "7"
+valu: "Purplish-red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.27"
+valu: "1.270000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "20"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "102.060000"
@@ -75377,10 +75377,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "25.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -75434,52 +75434,52 @@ name: "Male parent",
 valu: "395257.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
 valu: "1.539846"
@@ -75491,40 +75491,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "96.480000"
@@ -75554,10 +75554,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -75611,97 +75611,97 @@ name: "Male parent",
 valu: "395257.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "3"
+valu: "Pale Yellow"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.3"
+valu: "1.300000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "81.580000"
@@ -75731,10 +75731,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.610000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -75788,55 +75788,55 @@ name: "Male parent",
 valu: "395257.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.68"
+valu: "1.680000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -75845,40 +75845,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "21"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "83.380000"
@@ -75908,10 +75908,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.940000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -75965,97 +75965,97 @@ name: "Male parent",
 valu: "395257.600000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "4"
+valu: "In scattered areas"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.03"
+valu: "1.030000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "76.720000"
@@ -76085,10 +76085,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "16.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -76142,76 +76142,76 @@ name: "Male parent",
 valu: "395247.1 (B1C4027.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.21"
+valu: "1.210000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "120"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "24"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
@@ -76220,13 +76220,13 @@ name: "Cooking Quality",
 valu: "A"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -76262,10 +76262,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "9.130000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -76319,55 +76319,55 @@ name: "Male parent",
 valu: "395256.1 (B1C4036.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.15"
+valu: "1.150000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -76376,40 +76376,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "34.450000"
@@ -76439,10 +76439,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.330000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -76496,43 +76496,43 @@ name: "Male parent",
 valu: "395256.1 (B1C4036.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "1"
+valu: "White-cream"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "5"
+valu: "areas around eyes do not show secondary color but reminder of tuber does (spectacled)"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
 valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
 valu: "NA"
@@ -76544,7 +76544,7 @@ name: "Leaf Miner Fly (LMF)",
 valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.7539246"
+valu: "0.753925"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -76565,7 +76565,7 @@ name: "Oil Absorption Rate (%)",
 valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -76616,7 +76616,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "NA"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "NA"
@@ -76673,55 +76673,55 @@ name: "Male parent",
 valu: "395256.1 (B1C4036.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.4825184"
+valu: "1.482518"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -76730,40 +76730,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "39.100000"
@@ -76793,10 +76793,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "11.180000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -76850,55 +76850,55 @@ name: "Male parent",
 valu: "395255.3 (B1C4035.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.49985"
+valu: "1.499850"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -76907,19 +76907,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -76928,13 +76928,13 @@ name: "Cooking Quality",
 valu: "C"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Waxy"
@@ -76970,10 +76970,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "15.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -77027,55 +77027,55 @@ name: "Male parent",
 valu: "395255.3 (B1C4035.3)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "5"
+valu: "Pink"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.3851948"
+valu: "1.385195"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -77084,40 +77084,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "25"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "71.440000"
@@ -77147,10 +77147,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "18.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -77204,55 +77204,55 @@ name: "Male parent",
 valu: "395256.1 (B1C4036.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "7"
+valu: "Long-oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato virus Y (PVY)",
-valu: "-"
+valu: "NA"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "-"
+valu: "NA"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.3661967"
+valu: "1.366197"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "60"
@@ -77261,19 +77261,19 @@ name: "Dormancy period  (DLS) Highland",
 valu: "90"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "23"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "2.000000"
@@ -77282,13 +77282,13 @@ name: "Cooking Quality",
 valu: "A "
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
 valu: "1.000000"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
 valu: "Floury"
@@ -77324,10 +77324,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "14.000000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -77381,55 +77381,55 @@ name: "Male parent",
 valu: "395256.1 (B1C4036.1)"}, 
 {
 name: "Predominant tuber skin color",
-valu: "8"
+valu: "Purple"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "1"
+valu: "White"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.4338566"
+valu: "1.433857"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "90"
@@ -77438,40 +77438,40 @@ name: "Dormancy period  (DLS) Highland",
 valu: "150"
 },{
 name: "Growing period in lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Growing period in highland",
-valu: "-"
+valu: "NA"
 },{
 name: "Percentage Dry matter",
 valu: "22"
 },{
 name: "Oil Absorption Rate (%)",
-valu: "-"
+valu: "NA"
 },{
 name: "Chipping color",
-valu: "4.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "3.000000"
 },{
 name: "Cooking Quality",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Time (minutes)",
-valu: "-"
+valu: "NA"
 },{
 name: "After cooking darkening",
-valu: "-"
+valu: "NA"
 },{
 name: "Flesh Color after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "39.660000"
@@ -77501,10 +77501,10 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "12.600000"
 },{
 name: "Adaptability",
-valu: "TA"
+valu: "Highland tropics"
 },{
 name: "Sprouting pattern",
-valu: "-"
+valu: "NA"
 },{
 name: "Heat",
 valu: "NA"
@@ -77558,67 +77558,67 @@ name: "Male parent",
 valu: "388972.220000"}, 
 {
 name: "Predominant tuber skin color",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber skin secondary color",
-valu: "NA"
+valu: ""
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "NA"
+valu: ""
 },{
 name: "Predominant tuber flesh color ",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Unusual Tuber shape",
-valu: "NA"
+valu: ""
 },{
 name: "Tuber shape depth of eyes",
-valu: "NA"
+valu: ""
 },{
 name: "Resistance to Late Blight",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Potato virus X (PVX)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "HS"
+valu: ""
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.251"
+valu: "1.251000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "94.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "22"
@@ -77627,10 +77627,10 @@ name: "Oil Absorption Rate (%)",
 valu: "30.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -77645,10 +77645,10 @@ name: "Flesh Color after cooking",
 valu: "DCR"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
 valu: "80.920000"
@@ -77678,7 +77678,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "19.230000"
 },{
 name: "Adaptability",
-valu: "TB"
+valu: "lowland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Partial dominance"
@@ -77735,55 +77735,55 @@ name: "Male parent",
 valu: "2x-5.26"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "6"
+valu: "Oblong"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "3"
+valu: "Shallow"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "ER"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "MR"
+valu: "Medium resistant"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "S"
+valu: "Susceptible"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "1.12"
+valu: "1.120000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
 valu: "NA"
@@ -77792,10 +77792,10 @@ name: "Dormancy period  (DLS) Highland",
 valu: "NA"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "23"
@@ -77804,7 +77804,7 @@ name: "Oil Absorption Rate (%)",
 valu: "29.000000"
 },{
 name: "Chipping color",
-valu: "3.000000"
+valu: ""
 },{
 name: "French Fry",
 valu: "NA"
@@ -77855,7 +77855,7 @@ name: "Zn (mg/kg, dry weight basis) max",
 valu: "13.490000"
 },{
 name: "Adaptability",
-valu: "TIA"
+valu: "Intermediate and highland tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"
@@ -77912,67 +77912,67 @@ name: "Male parent",
 valu: "2x-5.26"}, 
 {
 name: "Predominant tuber skin color",
-valu: "6"
+valu: "Red"
 },{
 name: "Tuber skin secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary tuber skin colour",
-valu: "0"
+valu: "Absent"
 },{
 name: "Predominant tuber flesh color ",
-valu: "2"
+valu: "Cream"
 },{
 name: "Tuber flesh secondary color",
-valu: "0"
+valu: "Absent"
 },{
 name: "Distribution of secondary flesh color ",
-valu: "0"
+valu: "Absent"
 },{
 name: "General tuber shape",
-valu: "2"
+valu: "Round"
 },{
 name: "Unusual Tuber shape",
-valu: "0"
+valu: "Absent"
 },{
 name: "Tuber shape depth of eyes",
-valu: "5"
+valu: "Slightly deep"
 },{
 name: "Resistance to Late Blight",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato virus X (PVX)",
-valu: "HS"
+valu: ""
 },{
 name: "Potato virus Y (PVY)",
-valu: "R"
+valu: "Resistant"
 },{
 name: "Potato Leaf Roll Virus (PRLV)",
-valu: "MS"
+valu: "Medium susceptible"
 },{
 name: "Bacterial Wilt (BW)",
-valu: "-"
+valu: "NA"
 },{
 name: "Root Knot Nematode (RKN)",
-valu: "-"
+valu: "NA"
 },{
 name: "Leaf Miner Fly (LMF)",
-valu: "-"
+valu: "NA"
 },{
 name: "Tuber yield   (Kg/plants)",
-valu: "0.91"
+valu: "0.910000"
 },{
 name: "Dormancy Period   (DLS) Lowland",
-valu: "-"
+valu: "NA"
 },{
 name: "Dormancy period  (DLS) Highland",
 valu: "73.000000"
 },{
 name: "Growing period in lowland",
-valu: "M"
+valu: ""
 },{
 name: "Growing period in highland",
-valu: "M"
+valu: ""
 },{
 name: "Percentage Dry matter",
 valu: "21"
@@ -77981,10 +77981,10 @@ name: "Oil Absorption Rate (%)",
 valu: "34.000000"
 },{
 name: "Chipping color",
-valu: "2.000000"
+valu: ""
 },{
 name: "French Fry",
-valu: "-"
+valu: "NA"
 },{
 name: "Cooking Quality",
 valu: "AB"
@@ -77999,40 +77999,40 @@ name: "Flesh Color after cooking",
 valu: "WHI"
 },{
 name: "Texture of tuber after cooking",
-valu: "-"
+valu: "NA"
 },{
 name: "Flavour",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Vitamin C (mg/100g, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Fe (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) Average",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) min",
-valu: "-"
+valu: "NA"
 },{
 name: "Zn (mg/kg, dry weight basis) max",
-valu: "-"
+valu: "NA"
 },{
 name: "Adaptability",
-valu: "TI"
+valu: "Mid elevation tropics"
 },{
 name: "Sprouting pattern",
 valu: "Apical dominance"

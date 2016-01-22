@@ -1,5 +1,29 @@
 # read data
 
+dfl = "D:/data/catalogs/potato_2014/data-dict-add.xlsx"
+dic = readxl::read_excel(dfl)
+
+code_to_val <- function(avar, acode){
+  out = acode
+  if(is.na(acode)) return("NA")
+  if(acode == "-") return("NA")
+  if(acode == "") return("NA")
+  if(acode == " ") return("NA")
+  #print(acode)
+  
+  try({
+    rec = dic[dic$Name == avar, ]
+    if(nrow(rec) == 1){
+      x = rec[which(names(rec) == acode)]
+      #print(x)
+      #if(!is.na(x)) 
+      out = x
+    } 
+  })
+  as.character(out)
+}
+
+
 fil = "D:/data/catalogs/potato_2014/Catalogo2014_03_28.xls"
 dat = readxl::read_excel(fil)
 
@@ -44,7 +68,9 @@ to_cat_item <- function(rec){
     txt = ""
     for(j in 12:59){
       txt = paste0(txt, "\nname: \"",names(rec)[j],"\",")
-      txt = paste0(txt, "\nvalu: \"",rec[j],"\"\n}")
+      val = code_to_val(names(rec)[j], as.character(rec[j]))
+      
+      txt = paste0(txt, "\nvalu: \"",val,"\"\n}")
       if(j < 59) txt = paste0(txt, ",{")
     }
     txt
