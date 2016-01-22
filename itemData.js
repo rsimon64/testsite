@@ -1,5 +1,5 @@
 var itemData = {
-'CIP300046.22': {name: "CIP300046.22",description: ": NA",
+'CIP300046.22': {name: "CIP300046.22",description: "NA: NA",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300046.22.jpg"},
@@ -20000,7 +20000,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP370120': {name: "CIP370120",description: "",
+'CIP370120': {name: "CIP370120",description: "Fries",
 attr: [{
 name: "Tuber image",
 valu: "tuber/370120.jpg"},
@@ -21062,7 +21062,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP385524.9': {name: "CIP385524.9",description: "",
+'CIP385524.9': {name: "CIP385524.9",description: "Duran",
 attr: [{
 name: "Tuber image",
 valu: "tuber/385524.9.jpg"},
@@ -26372,7 +26372,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391691.96': {name: "CIP391691.96",description: ": This variety is moderately resistant to late blight (horizontal), resistant to PVX and PLRV . Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, purple flower color and regular flowering habit. Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have round shape with cream flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
+'CIP391691.96': {name: "CIP391691.96",description: "INIA 309, SERRANITA: This variety is moderately resistant to late blight (horizontal), resistant to PVX and PLRV . Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, purple flower color and regular flowering habit. Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have round shape with cream flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391691.96.jpg"},
@@ -31151,7 +31151,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392797.22': {name: "CIP392797.22",description: ": Is a variety resistant to PVY. The plant have medium vegetative period with decumbent plant habit and lilac flowers with white acumen abaxial surface. The variety has a wide adaptation to the tropics under short days. The tubers are oblong with cream flesh are excellent for processing as chips (crisps) and French fry (chips). The variety was realized in Peru in 1998.",
+'CIP392797.22': {name: "CIP392797.22",description: "Unica: Is a variety resistant to PVY. The plant have medium vegetative period with decumbent plant habit and lilac flowers with white acumen abaxial surface. The variety has a wide adaptation to the tropics under short days. The tubers are oblong with cream flesh are excellent for processing as chips (crisps) and French fry (chips). The variety was realized in Peru in 1998.",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392797.22.jpg"},
@@ -33098,7 +33098,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393077.54': {name: "CIP393077.54",description: ": This variety is highly resistance to late blight (horizontal), extreme resistance to PVX and moderately resistant to BW. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit.Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have long-oblong shape with white flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
+'CIP393077.54': {name: "CIP393077.54",description: "Wa kaya: This variety is highly resistance to late blight (horizontal), extreme resistance to PVX and moderately resistant to BW. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit.Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have long-oblong shape with white flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393077.54.jpg"},
@@ -35222,7 +35222,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393280.64': {name: "CIP393280.64",description: "",
+'CIP393280.64': {name: "CIP393280.64",description: "Pasqu",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393280.64.jpg"},
@@ -36815,7 +36815,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393371.58': {name: "CIP393371.58",description: ": This variety is resistant to late blight (horizontal) and extreme resistance to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, white flower color and regular flowering habit. Tubers have oblong shape, cream flesh with superficial eyes, medium to large tuber sizes, intermediate tuber number per plant.Yield high under LB disease. Tubers are good for processing specially for chips (crisps) and French fry (chips). The Variety was released in Peru in 2007",
+'CIP393371.58': {name: "CIP393371.58",description: "INIA 310;Chucmarina: This variety is resistant to late blight (horizontal) and extreme resistance to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, white flower color and regular flowering habit. Tubers have oblong shape, cream flesh with superficial eyes, medium to large tuber sizes, intermediate tuber number per plant.Yield high under LB disease. Tubers are good for processing specially for chips (crisps) and French fry (chips). The Variety was released in Peru in 2007",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393371.58.jpg"},
@@ -37169,7 +37169,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393385.39': {name: "CIP393385.39",description: ": This variety is resistant to late blight (horizontal) and resistant to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit. Tubers with red skin color with pink eyes, cream flesh, oblong shape with intermediate eyes, medium to large tuber sizes, intermediate tuber number per plant with good yield production are good for processing as chips (crisps) and French fry . Variety with wide range of adaptation within short and intermediate day lengths, and cool low and high lands.",
+'CIP393385.39': {name: "CIP393385.39",description: "Sherekea: This variety is resistant to late blight (horizontal) and resistant to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit. Tubers with red skin color with pink eyes, cream flesh, oblong shape with intermediate eyes, medium to large tuber sizes, intermediate tuber number per plant with good yield production are good for processing as chips (crisps) and French fry . Variety with wide range of adaptation within short and intermediate day lengths, and cool low and high lands.",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393385.39.jpg"},
@@ -41417,7 +41417,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395011.2': {name: "CIP395011.2",description: "",
+'CIP395011.2': {name: "CIP395011.2",description: "Kholophete",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395011.2.jpg"},
@@ -41594,7 +41594,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395015.6': {name: "CIP395015.6",description: "",
+'CIP395015.6': {name: "CIP395015.6",description: "Chitikuko",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395015.6.jpg"},
@@ -49913,7 +49913,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396027.205': {name: "CIP396027.205",description: "",
+'CIP396027.205': {name: "CIP396027.205",description: "Njuli",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396027.205.jpg"},
@@ -51329,7 +51329,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396036.201': {name: "CIP396036.201",description: "",
+'CIP396036.201': {name: "CIP396036.201",description: "Mwai",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396036.201.jpg"},
@@ -56816,7 +56816,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397073.16': {name: "CIP397073.16",description: "",
+'CIP397073.16': {name: "CIP397073.16",description: "Serkhosil",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397073.16.jpg"},
@@ -57170,7 +57170,7 @@ name: "Pollen viability (%)",
 valu: "86.2"
 }]},
  
-'CIP397077.16': {name: "CIP397077.16",description: "",
+'CIP397077.16': {name: "CIP397077.16",description: "Alliance",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397077.16.jpg"},
@@ -74693,7 +74693,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399075.7': {name: "CIP399075.7",description: "",
+'CIP399075.7': {name: "CIP399075.7",description: "Puca Lliclla INIA 312",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399075.7.jpg"},
@@ -76463,7 +76463,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399085.23': {name: "CIP399085.23",description: "",
+'CIP399085.23': {name: "CIP399085.23",description: "INIA 311, Pallay Poncho",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399085.23.jpg"},

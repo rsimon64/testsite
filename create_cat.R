@@ -51,7 +51,7 @@ to_cat_item <- function(rec){
   }
   atts = attr_to_json(rec)
   desc = ""
-  if(!is.na(rec$Name)) desc = paste0(desc, ": ", rec$Name)
+  if(!is.na(rec$Name)) desc = paste0(desc, rec$Name)
   if(!is.na(rec$Description)) desc = paste0(desc, ": ", rec$Description)
   
   
