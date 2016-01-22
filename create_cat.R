@@ -59,7 +59,7 @@ to_cat_item <- function(rec){
     "\nname: \"Flower image\",",
     "\nvalu: \"flower/", stringr::str_replace(rec$`Accession number`,"CIP",""),".jpg\"},\n{",
     "\nname: \"Fingerprint image\",",
-    "\nvalu: \"finger/", stringr::str_replace(rec$`Accession number`,"CIP",""),".jpg\"},\n{",
+    "\nvalu: \"finger/", rec$`Accession number`,".jpg\"},\n{",
     "\nname: \"CIP population group\",",
     "\nvalu: \"", rec$`Population Group`, "\"},\n{",
     "\nname: \"Female parent\",",
