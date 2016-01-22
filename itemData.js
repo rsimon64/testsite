@@ -1,5 +1,5 @@
 var itemData = {
-'CIP300046.22': {name: "CIP300046.22",description: "NA: none",
+'CIP300046.22': {name: "CIP300046.22",description: ": NA",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300046.22.jpg"},
@@ -176,7 +176,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300048.12': {name: "CIP300048.12",description: "NA",
+'CIP300048.12': {name: "CIP300048.12",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300048.12.jpg"},
@@ -353,7 +353,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300054.29': {name: "CIP300054.29",description: "NA",
+'CIP300054.29': {name: "CIP300054.29",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300054.29.jpg"},
@@ -530,7 +530,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300055.32': {name: "CIP300055.32",description: "NA",
+'CIP300055.32': {name: "CIP300055.32",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300055.32.jpg"},
@@ -707,7 +707,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300056.33': {name: "CIP300056.33",description: "NA",
+'CIP300056.33': {name: "CIP300056.33",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300056.33.jpg"},
@@ -884,7 +884,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300063.9': {name: "CIP300063.9",description: "NA",
+'CIP300063.9': {name: "CIP300063.9",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300063.9.jpg"},
@@ -1061,7 +1061,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300065.4': {name: "CIP300065.4",description: "NA",
+'CIP300065.4': {name: "CIP300065.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300065.4.jpg"},
@@ -1238,7 +1238,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300066.11': {name: "CIP300066.11",description: "NA",
+'CIP300066.11': {name: "CIP300066.11",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300066.11.jpg"},
@@ -1415,7 +1415,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300072.1': {name: "CIP300072.1",description: "NA",
+'CIP300072.1': {name: "CIP300072.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300072.1.jpg"},
@@ -1592,7 +1592,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300089.36': {name: "CIP300089.36",description: "NA",
+'CIP300089.36': {name: "CIP300089.36",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300089.36.jpg"},
@@ -1769,7 +1769,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300099.22': {name: "CIP300099.22",description: "NA",
+'CIP300099.22': {name: "CIP300099.22",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300099.22.jpg"},
@@ -1946,7 +1946,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300101.11': {name: "CIP300101.11",description: "NA",
+'CIP300101.11': {name: "CIP300101.11",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300101.11.jpg"},
@@ -2123,7 +2123,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300135.14': {name: "CIP300135.14",description: "NA",
+'CIP300135.14': {name: "CIP300135.14",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300135.14.jpg"},
@@ -2300,7 +2300,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP300137.31': {name: "CIP300137.31",description: "NA",
+'CIP300137.31': {name: "CIP300137.31",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300137.31.jpg"},
@@ -2477,7 +2477,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP301023.15': {name: "CIP301023.15",description: "NA",
+'CIP301023.15': {name: "CIP301023.15",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/301023.15.jpg"},
@@ -2654,7 +2654,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP301024.14': {name: "CIP301024.14",description: "NA",
+'CIP301024.14': {name: "CIP301024.14",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/301024.14.jpg"},
@@ -2831,7 +2831,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP301024.95': {name: "CIP301024.95",description: "NA",
+'CIP301024.95': {name: "CIP301024.95",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/301024.95.jpg"},
@@ -3008,7 +3008,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP301026.23': {name: "CIP301026.23",description: "NA",
+'CIP301026.23': {name: "CIP301026.23",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/301026.23.jpg"},
@@ -3185,7 +3185,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP301029.18': {name: "CIP301029.18",description: "NA",
+'CIP301029.18': {name: "CIP301029.18",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/301029.18.jpg"},
@@ -3362,7 +3362,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP301037.85': {name: "CIP301037.85",description: "NA",
+'CIP301037.85': {name: "CIP301037.85",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/301037.85.jpg"},
@@ -3539,7 +3539,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP301040.63': {name: "CIP301040.63",description: "NA",
+'CIP301040.63': {name: "CIP301040.63",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/301040.63.jpg"},
@@ -3716,7 +3716,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP301041.26': {name: "CIP301041.26",description: "NA",
+'CIP301041.26': {name: "CIP301041.26",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/301041.26.jpg"},
@@ -3893,7 +3893,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP301044.36': {name: "CIP301044.36",description: "NA",
+'CIP301044.36': {name: "CIP301044.36",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/301044.36.jpg"},
@@ -4070,7 +4070,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP301045.74': {name: "CIP301045.74",description: "NA",
+'CIP301045.74': {name: "CIP301045.74",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/301045.74.jpg"},
@@ -4247,7 +4247,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP301055.53': {name: "CIP301055.53",description: "NA",
+'CIP301055.53': {name: "CIP301055.53",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/301055.53.jpg"},
@@ -4424,7 +4424,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP301056.54': {name: "CIP301056.54",description: "NA",
+'CIP301056.54': {name: "CIP301056.54",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/301056.54.jpg"},
@@ -4601,7 +4601,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302278.28': {name: "CIP302278.28",description: "NA",
+'CIP302278.28': {name: "CIP302278.28",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302278.28.jpg"},
@@ -4778,7 +4778,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302279.11': {name: "CIP302279.11",description: "NA",
+'CIP302279.11': {name: "CIP302279.11",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302279.11.jpg"},
@@ -4955,7 +4955,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302280.14': {name: "CIP302280.14",description: "NA",
+'CIP302280.14': {name: "CIP302280.14",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302280.14.jpg"},
@@ -5132,7 +5132,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302280.21': {name: "CIP302280.21",description: "NA",
+'CIP302280.21': {name: "CIP302280.21",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302280.21.jpg"},
@@ -5309,7 +5309,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302280.23': {name: "CIP302280.23",description: "NA",
+'CIP302280.23': {name: "CIP302280.23",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302280.23.jpg"},
@@ -5486,7 +5486,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302281.15': {name: "CIP302281.15",description: "NA",
+'CIP302281.15': {name: "CIP302281.15",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302281.15.jpg"},
@@ -5663,7 +5663,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302281.17': {name: "CIP302281.17",description: "NA",
+'CIP302281.17': {name: "CIP302281.17",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302281.17.jpg"},
@@ -5840,7 +5840,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302281.18': {name: "CIP302281.18",description: "NA",
+'CIP302281.18': {name: "CIP302281.18",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302281.18.jpg"},
@@ -6017,7 +6017,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302281.25': {name: "CIP302281.25",description: "NA",
+'CIP302281.25': {name: "CIP302281.25",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302281.25.jpg"},
@@ -6194,7 +6194,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302281.27': {name: "CIP302281.27",description: "NA",
+'CIP302281.27': {name: "CIP302281.27",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302281.27.jpg"},
@@ -6371,7 +6371,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302281.39': {name: "CIP302281.39",description: "NA",
+'CIP302281.39': {name: "CIP302281.39",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302281.39.jpg"},
@@ -6548,7 +6548,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302284.17': {name: "CIP302284.17",description: "NA",
+'CIP302284.17': {name: "CIP302284.17",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302284.17.jpg"},
@@ -6725,7 +6725,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302285.27': {name: "CIP302285.27",description: "NA",
+'CIP302285.27': {name: "CIP302285.27",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302285.27.jpg"},
@@ -6902,7 +6902,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302285.31': {name: "CIP302285.31",description: "NA",
+'CIP302285.31': {name: "CIP302285.31",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302285.31.jpg"},
@@ -7079,7 +7079,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302286.13': {name: "CIP302286.13",description: "NA",
+'CIP302286.13': {name: "CIP302286.13",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302286.13.jpg"},
@@ -7256,7 +7256,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302286.26': {name: "CIP302286.26",description: "NA",
+'CIP302286.26': {name: "CIP302286.26",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302286.26.jpg"},
@@ -7433,7 +7433,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302286.28': {name: "CIP302286.28",description: "NA",
+'CIP302286.28': {name: "CIP302286.28",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302286.28.jpg"},
@@ -7610,7 +7610,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302288.14': {name: "CIP302288.14",description: "NA",
+'CIP302288.14': {name: "CIP302288.14",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302288.14.jpg"},
@@ -7787,7 +7787,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302288.31': {name: "CIP302288.31",description: "NA",
+'CIP302288.31': {name: "CIP302288.31",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302288.31.jpg"},
@@ -7964,7 +7964,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302288.35': {name: "CIP302288.35",description: "NA",
+'CIP302288.35': {name: "CIP302288.35",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302288.35.jpg"},
@@ -8141,7 +8141,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302288.39': {name: "CIP302288.39",description: "NA",
+'CIP302288.39': {name: "CIP302288.39",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302288.39.jpg"},
@@ -8318,7 +8318,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302288.42': {name: "CIP302288.42",description: "NA",
+'CIP302288.42': {name: "CIP302288.42",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302288.42.jpg"},
@@ -8495,7 +8495,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302289.32': {name: "CIP302289.32",description: "NA",
+'CIP302289.32': {name: "CIP302289.32",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302289.32.jpg"},
@@ -8672,7 +8672,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302289.41': {name: "CIP302289.41",description: "NA",
+'CIP302289.41': {name: "CIP302289.41",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302289.41.jpg"},
@@ -8849,7 +8849,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302290.11': {name: "CIP302290.11",description: "NA",
+'CIP302290.11': {name: "CIP302290.11",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302290.11.jpg"},
@@ -9026,7 +9026,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302290.13': {name: "CIP302290.13",description: "NA",
+'CIP302290.13': {name: "CIP302290.13",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302290.13.jpg"},
@@ -9203,7 +9203,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302290.23': {name: "CIP302290.23",description: "NA",
+'CIP302290.23': {name: "CIP302290.23",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302290.23.jpg"},
@@ -9380,7 +9380,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302293.22': {name: "CIP302293.22",description: "NA",
+'CIP302293.22': {name: "CIP302293.22",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302293.22.jpg"},
@@ -9557,7 +9557,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302295.32': {name: "CIP302295.32",description: "NA",
+'CIP302295.32': {name: "CIP302295.32",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302295.32.jpg"},
@@ -9734,7 +9734,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302296.21': {name: "CIP302296.21",description: "NA",
+'CIP302296.21': {name: "CIP302296.21",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302296.21.jpg"},
@@ -9911,7 +9911,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302297.35': {name: "CIP302297.35",description: "NA",
+'CIP302297.35': {name: "CIP302297.35",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302297.35.jpg"},
@@ -10088,7 +10088,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302298.16': {name: "CIP302298.16",description: "NA",
+'CIP302298.16': {name: "CIP302298.16",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302298.16.jpg"},
@@ -10265,7 +10265,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302298.17': {name: "CIP302298.17",description: "NA",
+'CIP302298.17': {name: "CIP302298.17",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302298.17.jpg"},
@@ -10442,7 +10442,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302298.23': {name: "CIP302298.23",description: "NA",
+'CIP302298.23': {name: "CIP302298.23",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302298.23.jpg"},
@@ -10619,7 +10619,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302298.42': {name: "CIP302298.42",description: "NA",
+'CIP302298.42': {name: "CIP302298.42",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302298.42.jpg"},
@@ -10796,7 +10796,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302298.44': {name: "CIP302298.44",description: "NA",
+'CIP302298.44': {name: "CIP302298.44",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302298.44.jpg"},
@@ -10973,7 +10973,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302299.13': {name: "CIP302299.13",description: "NA",
+'CIP302299.13': {name: "CIP302299.13",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302299.13.jpg"},
@@ -11150,7 +11150,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302299.16': {name: "CIP302299.16",description: "NA",
+'CIP302299.16': {name: "CIP302299.16",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302299.16.jpg"},
@@ -11327,7 +11327,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302300.25': {name: "CIP302300.25",description: "NA",
+'CIP302300.25': {name: "CIP302300.25",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302300.25.jpg"},
@@ -11504,7 +11504,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302301.19': {name: "CIP302301.19",description: "NA",
+'CIP302301.19': {name: "CIP302301.19",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302301.19.jpg"},
@@ -11681,7 +11681,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302302.11': {name: "CIP302302.11",description: "NA",
+'CIP302302.11': {name: "CIP302302.11",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302302.11.jpg"},
@@ -11858,7 +11858,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302302.25': {name: "CIP302302.25",description: "NA",
+'CIP302302.25': {name: "CIP302302.25",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302302.25.jpg"},
@@ -12035,7 +12035,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302302.29': {name: "CIP302302.29",description: "NA",
+'CIP302302.29': {name: "CIP302302.29",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302302.29.jpg"},
@@ -12212,7 +12212,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302302.34': {name: "CIP302302.34",description: "NA",
+'CIP302302.34': {name: "CIP302302.34",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302302.34.jpg"},
@@ -12389,7 +12389,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302304.15': {name: "CIP302304.15",description: "NA",
+'CIP302304.15': {name: "CIP302304.15",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302304.15.jpg"},
@@ -12566,7 +12566,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302304.27': {name: "CIP302304.27",description: "NA",
+'CIP302304.27': {name: "CIP302304.27",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302304.27.jpg"},
@@ -12743,7 +12743,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302305.41': {name: "CIP302305.41",description: "NA",
+'CIP302305.41': {name: "CIP302305.41",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302305.41.jpg"},
@@ -12920,7 +12920,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302305.46': {name: "CIP302305.46",description: "NA",
+'CIP302305.46': {name: "CIP302305.46",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302305.46.jpg"},
@@ -13097,7 +13097,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302306.19': {name: "CIP302306.19",description: "NA",
+'CIP302306.19': {name: "CIP302306.19",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302306.19.jpg"},
@@ -13274,7 +13274,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302306.33': {name: "CIP302306.33",description: "NA",
+'CIP302306.33': {name: "CIP302306.33",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302306.33.jpg"},
@@ -13451,7 +13451,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302306.36': {name: "CIP302306.36",description: "NA",
+'CIP302306.36': {name: "CIP302306.36",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302306.36.jpg"},
@@ -13628,7 +13628,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP302428.20': {name: "CIP302428.20",description: "NA",
+'CIP302428.20': {name: "CIP302428.20",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302428.20.jpg"},
@@ -13805,7 +13805,7 @@ name: "Pollen viability (%)",
 valu: "91.6"
 }]},
  
-'CIP302476.108': {name: "CIP302476.108",description: "NA",
+'CIP302476.108': {name: "CIP302476.108",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302476.108.jpg"},
@@ -13982,7 +13982,7 @@ name: "Pollen viability (%)",
 valu: "77.5"
 }]},
  
-'CIP302498.70': {name: "CIP302498.70",description: "NA",
+'CIP302498.70': {name: "CIP302498.70",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302498.70.jpg"},
@@ -14159,7 +14159,7 @@ name: "Pollen viability (%)",
 valu: "76.5"
 }]},
  
-'CIP302499.24': {name: "CIP302499.24",description: "NA",
+'CIP302499.24': {name: "CIP302499.24",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302499.24.jpg"},
@@ -14336,7 +14336,7 @@ name: "Pollen viability (%)",
 valu: "79.1"
 }]},
  
-'CIP302499.30': {name: "CIP302499.30",description: "NA",
+'CIP302499.30': {name: "CIP302499.30",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/302499.30.jpg"},
@@ -14513,7 +14513,7 @@ name: "Pollen viability (%)",
 valu: "78.4"
 }]},
  
-'CIP303381.106': {name: "CIP303381.106",description: "NA",
+'CIP303381.106': {name: "CIP303381.106",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/303381.106.jpg"},
@@ -14690,7 +14690,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP303381.30': {name: "CIP303381.30",description: "NA",
+'CIP303381.30': {name: "CIP303381.30",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/303381.30.jpg"},
@@ -14867,7 +14867,7 @@ name: "Pollen viability (%)",
 valu: "84.5"
 }]},
  
-'CIP304345.102': {name: "CIP304345.102",description: "NA",
+'CIP304345.102': {name: "CIP304345.102",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304345.102.jpg"},
@@ -15044,7 +15044,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304349.4': {name: "CIP304349.4",description: "NA",
+'CIP304349.4': {name: "CIP304349.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304349.4.jpg"},
@@ -15221,7 +15221,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304350.100': {name: "CIP304350.100",description: "NA",
+'CIP304350.100': {name: "CIP304350.100",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304350.100.jpg"},
@@ -15398,7 +15398,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304350.118': {name: "CIP304350.118",description: "NA",
+'CIP304350.118': {name: "CIP304350.118",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304350.118.jpg"},
@@ -15575,7 +15575,7 @@ name: "Pollen viability (%)",
 valu: "78.6"
 }]},
  
-'CIP304350.18': {name: "CIP304350.18",description: "NA",
+'CIP304350.18': {name: "CIP304350.18",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304350.18.jpg"},
@@ -15752,7 +15752,7 @@ name: "Pollen viability (%)",
 valu: "77.4"
 }]},
  
-'CIP304350.26': {name: "CIP304350.26",description: "NA",
+'CIP304350.26': {name: "CIP304350.26",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304350.26.jpg"},
@@ -15929,7 +15929,7 @@ name: "Pollen viability (%)",
 valu: "82.8"
 }]},
  
-'CIP304350.78': {name: "CIP304350.78",description: "NA",
+'CIP304350.78': {name: "CIP304350.78",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304350.78.jpg"},
@@ -16106,7 +16106,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304350.95': {name: "CIP304350.95",description: "NA",
+'CIP304350.95': {name: "CIP304350.95",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304350.95.jpg"},
@@ -16283,7 +16283,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304351.109': {name: "CIP304351.109",description: "NA",
+'CIP304351.109': {name: "CIP304351.109",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304351.109.jpg"},
@@ -16460,7 +16460,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304351.31': {name: "CIP304351.31",description: "NA",
+'CIP304351.31': {name: "CIP304351.31",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304351.31.jpg"},
@@ -16637,7 +16637,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304366.46': {name: "CIP304366.46",description: "NA",
+'CIP304366.46': {name: "CIP304366.46",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304366.46.jpg"},
@@ -16814,7 +16814,7 @@ name: "Pollen viability (%)",
 valu: "82.1"
 }]},
  
-'CIP304368.46': {name: "CIP304368.46",description: "NA",
+'CIP304368.46': {name: "CIP304368.46",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304368.46.jpg"},
@@ -16991,7 +16991,7 @@ name: "Pollen viability (%)",
 valu: "85.3"
 }]},
  
-'CIP304369.22': {name: "CIP304369.22",description: "NA",
+'CIP304369.22': {name: "CIP304369.22",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304369.22.jpg"},
@@ -17168,7 +17168,7 @@ name: "Pollen viability (%)",
 valu: "80.9"
 }]},
  
-'CIP304371.20': {name: "CIP304371.20",description: "NA",
+'CIP304371.20': {name: "CIP304371.20",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304371.20.jpg"},
@@ -17345,7 +17345,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304371.58': {name: "CIP304371.58",description: "NA",
+'CIP304371.58': {name: "CIP304371.58",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304371.58.jpg"},
@@ -17522,7 +17522,7 @@ name: "Pollen viability (%)",
 valu: "78.9"
 }]},
  
-'CIP304371.67': {name: "CIP304371.67",description: "NA",
+'CIP304371.67': {name: "CIP304371.67",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304371.67.jpg"},
@@ -17699,7 +17699,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304372.7': {name: "CIP304372.7",description: "NA",
+'CIP304372.7': {name: "CIP304372.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304372.7.jpg"},
@@ -17876,7 +17876,7 @@ name: "Pollen viability (%)",
 valu: "87.7"
 }]},
  
-'CIP304383.41': {name: "CIP304383.41",description: "NA",
+'CIP304383.41': {name: "CIP304383.41",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304383.41.jpg"},
@@ -18053,7 +18053,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304383.80': {name: "CIP304383.80",description: "NA",
+'CIP304383.80': {name: "CIP304383.80",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304383.80.jpg"},
@@ -18230,7 +18230,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304387.17': {name: "CIP304387.17",description: "NA",
+'CIP304387.17': {name: "CIP304387.17",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304387.17.jpg"},
@@ -18407,7 +18407,7 @@ name: "Pollen viability (%)",
 valu: "79.9"
 }]},
  
-'CIP304387.39': {name: "CIP304387.39",description: "NA",
+'CIP304387.39': {name: "CIP304387.39",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304387.39.jpg"},
@@ -18584,7 +18584,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304387.92': {name: "CIP304387.92",description: "NA",
+'CIP304387.92': {name: "CIP304387.92",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304387.92.jpg"},
@@ -18761,7 +18761,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304394.56': {name: "CIP304394.56",description: "NA",
+'CIP304394.56': {name: "CIP304394.56",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304394.56.jpg"},
@@ -18938,7 +18938,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304399.15': {name: "CIP304399.15",description: "NA",
+'CIP304399.15': {name: "CIP304399.15",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304399.15.jpg"},
@@ -19115,7 +19115,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304399.5': {name: "CIP304399.5",description: "NA",
+'CIP304399.5': {name: "CIP304399.5",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304399.5.jpg"},
@@ -19292,7 +19292,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304405.42': {name: "CIP304405.42",description: "NA",
+'CIP304405.42': {name: "CIP304405.42",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304405.42.jpg"},
@@ -19469,7 +19469,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304405.47': {name: "CIP304405.47",description: "NA",
+'CIP304405.47': {name: "CIP304405.47",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304405.47.jpg"},
@@ -19646,7 +19646,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP304406.31': {name: "CIP304406.31",description: "NA",
+'CIP304406.31': {name: "CIP304406.31",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/304406.31.jpg"},
@@ -19823,7 +19823,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP370116': {name: "CIP370116",description: "NA",
+'CIP370116': {name: "CIP370116",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/370116.jpg"},
@@ -20000,7 +20000,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP370120': {name: "CIP370120",description: "NA",
+'CIP370120': {name: "CIP370120",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/370120.jpg"},
@@ -20177,7 +20177,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP370121': {name: "CIP370121",description: "NA",
+'CIP370121': {name: "CIP370121",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/370121.jpg"},
@@ -20354,7 +20354,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP370122': {name: "CIP370122",description: "NA",
+'CIP370122': {name: "CIP370122",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/370122.jpg"},
@@ -20531,7 +20531,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP370123': {name: "CIP370123",description: "NA",
+'CIP370123': {name: "CIP370123",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/370123.jpg"},
@@ -20708,7 +20708,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP380011.12': {name: "CIP380011.12",description: "NA",
+'CIP380011.12': {name: "CIP380011.12",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/380011.12.jpg"},
@@ -20885,7 +20885,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP385499.11': {name: "CIP385499.11",description: "NA",
+'CIP385499.11': {name: "CIP385499.11",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/385499.11.jpg"},
@@ -21062,7 +21062,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP385524.9': {name: "CIP385524.9",description: "NA",
+'CIP385524.9': {name: "CIP385524.9",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/385524.9.jpg"},
@@ -21239,7 +21239,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP385556.4': {name: "CIP385556.4",description: "NA",
+'CIP385556.4': {name: "CIP385556.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/385556.4.jpg"},
@@ -21416,7 +21416,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP385558.2': {name: "CIP385558.2",description: "NA",
+'CIP385558.2': {name: "CIP385558.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/385558.2.jpg"},
@@ -21593,7 +21593,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP385558.4': {name: "CIP385558.4",description: "NA",
+'CIP385558.4': {name: "CIP385558.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/385558.4.jpg"},
@@ -21770,7 +21770,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP385561.124': {name: "CIP385561.124",description: "NA",
+'CIP385561.124': {name: "CIP385561.124",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/385561.124.jpg"},
@@ -21947,7 +21947,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP387164.4': {name: "CIP387164.4",description: "NA",
+'CIP387164.4': {name: "CIP387164.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/387164.4.jpg"},
@@ -22124,7 +22124,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP388615.22': {name: "CIP388615.22",description: "NA",
+'CIP388615.22': {name: "CIP388615.22",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/388615.22.jpg"},
@@ -22301,7 +22301,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP388972.22': {name: "CIP388972.22",description: "NA",
+'CIP388972.22': {name: "CIP388972.22",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/388972.22.jpg"},
@@ -22478,7 +22478,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP389447.5': {name: "CIP389447.5",description: "NA",
+'CIP389447.5': {name: "CIP389447.5",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/389447.5.jpg"},
@@ -22655,7 +22655,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP389468.3': {name: "CIP389468.3",description: "NA",
+'CIP389468.3': {name: "CIP389468.3",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/389468.3.jpg"},
@@ -22832,7 +22832,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP389746.2': {name: "CIP389746.2",description: "NA",
+'CIP389746.2': {name: "CIP389746.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/389746.2.jpg"},
@@ -23009,7 +23009,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP390637.1': {name: "CIP390637.1",description: "NA",
+'CIP390637.1': {name: "CIP390637.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/390637.1.jpg"},
@@ -23186,7 +23186,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP390663.8': {name: "CIP390663.8",description: "NA",
+'CIP390663.8': {name: "CIP390663.8",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/390663.8.jpg"},
@@ -23363,7 +23363,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391002.6': {name: "CIP391002.6",description: "NA",
+'CIP391002.6': {name: "CIP391002.6",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391002.6.jpg"},
@@ -23540,7 +23540,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391004.18': {name: "CIP391004.18",description: "NA",
+'CIP391004.18': {name: "CIP391004.18",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391004.18.jpg"},
@@ -23717,7 +23717,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391011.17': {name: "CIP391011.17",description: "NA",
+'CIP391011.17': {name: "CIP391011.17",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391011.17.jpg"},
@@ -23894,7 +23894,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391046.14': {name: "CIP391046.14",description: "NA",
+'CIP391046.14': {name: "CIP391046.14",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391046.14.jpg"},
@@ -24071,7 +24071,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391047.34': {name: "CIP391047.34",description: "NA",
+'CIP391047.34': {name: "CIP391047.34",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391047.34.jpg"},
@@ -24248,7 +24248,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391058.175': {name: "CIP391058.175",description: "NA",
+'CIP391058.175': {name: "CIP391058.175",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391058.175.jpg"},
@@ -24425,7 +24425,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391065.69': {name: "CIP391065.69",description: "NA",
+'CIP391065.69': {name: "CIP391065.69",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391065.69.jpg"},
@@ -24602,7 +24602,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391065.81': {name: "CIP391065.81",description: "NA",
+'CIP391065.81': {name: "CIP391065.81",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391065.81.jpg"},
@@ -24779,7 +24779,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391137.7': {name: "CIP391137.7",description: "NA",
+'CIP391137.7': {name: "CIP391137.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391137.7.jpg"},
@@ -24956,7 +24956,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391180.6': {name: "CIP391180.6",description: "NA",
+'CIP391180.6': {name: "CIP391180.6",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391180.6.jpg"},
@@ -25133,7 +25133,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391207.2': {name: "CIP391207.2",description: "NA",
+'CIP391207.2': {name: "CIP391207.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391207.2.jpg"},
@@ -25310,7 +25310,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391533.1': {name: "CIP391533.1",description: "NA",
+'CIP391533.1': {name: "CIP391533.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391533.1.jpg"},
@@ -25487,7 +25487,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391580.30': {name: "CIP391580.30",description: "NA",
+'CIP391580.30': {name: "CIP391580.30",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391580.30.jpg"},
@@ -25664,7 +25664,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391583.25': {name: "CIP391583.25",description: "NA",
+'CIP391583.25': {name: "CIP391583.25",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391583.25.jpg"},
@@ -25841,7 +25841,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391585.167': {name: "CIP391585.167",description: "NA",
+'CIP391585.167': {name: "CIP391585.167",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391585.167.jpg"},
@@ -26018,7 +26018,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391585.179': {name: "CIP391585.179",description: "NA",
+'CIP391585.179': {name: "CIP391585.179",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391585.179.jpg"},
@@ -26195,7 +26195,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391585.5': {name: "CIP391585.5",description: "NA",
+'CIP391585.5': {name: "CIP391585.5",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391585.5.jpg"},
@@ -26372,7 +26372,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391691.96': {name: "CIP391691.96",description: "NA: This variety is moderately resistant to late blight (horizontal), resistant to PVX and PLRV . Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, purple flower color and regular flowering habit. Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have round shape with cream flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
+'CIP391691.96': {name: "CIP391691.96",description: ": This variety is moderately resistant to late blight (horizontal), resistant to PVX and PLRV . Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, purple flower color and regular flowering habit. Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have round shape with cream flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391691.96.jpg"},
@@ -26549,7 +26549,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391724.1': {name: "CIP391724.1",description: "NA",
+'CIP391724.1': {name: "CIP391724.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391724.1.jpg"},
@@ -26726,7 +26726,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391846.5': {name: "CIP391846.5",description: "NA",
+'CIP391846.5': {name: "CIP391846.5",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391846.5.jpg"},
@@ -26903,7 +26903,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391919.3': {name: "CIP391919.3",description: "NA",
+'CIP391919.3': {name: "CIP391919.3",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391919.3.jpg"},
@@ -27080,7 +27080,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391930.1': {name: "CIP391930.1",description: "NA",
+'CIP391930.1': {name: "CIP391930.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391930.1.jpg"},
@@ -27257,7 +27257,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391931.1': {name: "CIP391931.1",description: "NA",
+'CIP391931.1': {name: "CIP391931.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391931.1.jpg"},
@@ -27434,7 +27434,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392025.7': {name: "CIP392025.7",description: "NA",
+'CIP392025.7': {name: "CIP392025.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392025.7.jpg"},
@@ -27611,7 +27611,7 @@ name: "Pollen viability (%)",
 valu: "84.5"
 }]},
  
-'CIP392032.2': {name: "CIP392032.2",description: "NA",
+'CIP392032.2': {name: "CIP392032.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392032.2.jpg"},
@@ -27788,7 +27788,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392278.19': {name: "CIP392278.19",description: "NA",
+'CIP392278.19': {name: "CIP392278.19",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392278.19.jpg"},
@@ -27965,7 +27965,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392285.72': {name: "CIP392285.72",description: "NA",
+'CIP392285.72': {name: "CIP392285.72",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392285.72.jpg"},
@@ -28142,7 +28142,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392617.54': {name: "CIP392617.54",description: "NA",
+'CIP392617.54': {name: "CIP392617.54",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392617.54.jpg"},
@@ -28319,7 +28319,7 @@ name: "Pollen viability (%)",
 valu: "80.9"
 }]},
  
-'CIP392633.54': {name: "CIP392633.54",description: "NA",
+'CIP392633.54': {name: "CIP392633.54",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392633.54.jpg"},
@@ -28496,7 +28496,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392633.64': {name: "CIP392633.64",description: "NA",
+'CIP392633.64': {name: "CIP392633.64",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392633.64.jpg"},
@@ -28673,7 +28673,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392634.49': {name: "CIP392634.49",description: "NA",
+'CIP392634.49': {name: "CIP392634.49",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392634.49.jpg"},
@@ -28850,7 +28850,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392634.52': {name: "CIP392634.52",description: "NA",
+'CIP392634.52': {name: "CIP392634.52",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392634.52.jpg"},
@@ -29027,7 +29027,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392637.10': {name: "CIP392637.10",description: "NA",
+'CIP392637.10': {name: "CIP392637.10",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392637.10.jpg"},
@@ -29204,7 +29204,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392637.27': {name: "CIP392637.27",description: "NA",
+'CIP392637.27': {name: "CIP392637.27",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392637.27.jpg"},
@@ -29381,7 +29381,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392639.34': {name: "CIP392639.34",description: "NA",
+'CIP392639.34': {name: "CIP392639.34",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392639.34.jpg"},
@@ -29558,7 +29558,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392640.18': {name: "CIP392640.18",description: "NA",
+'CIP392640.18': {name: "CIP392640.18",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392640.18.jpg"},
@@ -29735,7 +29735,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392650.12': {name: "CIP392650.12",description: "NA",
+'CIP392650.12': {name: "CIP392650.12",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392650.12.jpg"},
@@ -29912,7 +29912,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392657.171': {name: "CIP392657.171",description: "NA",
+'CIP392657.171': {name: "CIP392657.171",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392657.171.jpg"},
@@ -30089,7 +30089,7 @@ name: "Pollen viability (%)",
 valu: "87.1"
 }]},
  
-'CIP392657.8': {name: "CIP392657.8",description: "NA",
+'CIP392657.8': {name: "CIP392657.8",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392657.8.jpg"},
@@ -30266,7 +30266,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392661.18': {name: "CIP392661.18",description: "NA",
+'CIP392661.18': {name: "CIP392661.18",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392661.18.jpg"},
@@ -30443,7 +30443,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392739.4': {name: "CIP392739.4",description: "NA",
+'CIP392739.4': {name: "CIP392739.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392739.4.jpg"},
@@ -30620,7 +30620,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392740.4': {name: "CIP392740.4",description: "NA",
+'CIP392740.4': {name: "CIP392740.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392740.4.jpg"},
@@ -30797,7 +30797,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392745.7': {name: "CIP392745.7",description: "NA",
+'CIP392745.7': {name: "CIP392745.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392745.7.jpg"},
@@ -30974,7 +30974,7 @@ name: "Pollen viability (%)",
 valu: "80.6"
 }]},
  
-'CIP392759.1': {name: "CIP392759.1",description: "NA",
+'CIP392759.1': {name: "CIP392759.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392759.1.jpg"},
@@ -31151,7 +31151,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392797.22': {name: "CIP392797.22",description: "NA: Is a variety resistant to PVY. The plant have medium vegetative period with decumbent plant habit and lilac flowers with white acumen abaxial surface. The variety has a wide adaptation to the tropics under short days. The tubers are oblong with cream flesh are excellent for processing as chips (crisps) and French fry (chips). The variety was realized in Peru in 1998.",
+'CIP392797.22': {name: "CIP392797.22",description: ": Is a variety resistant to PVY. The plant have medium vegetative period with decumbent plant habit and lilac flowers with white acumen abaxial surface. The variety has a wide adaptation to the tropics under short days. The tubers are oblong with cream flesh are excellent for processing as chips (crisps) and French fry (chips). The variety was realized in Peru in 1998.",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392797.22.jpg"},
@@ -31328,7 +31328,7 @@ name: "Pollen viability (%)",
 valu: "80.9"
 }]},
  
-'CIP392820.1': {name: "CIP392820.1",description: "NA",
+'CIP392820.1': {name: "CIP392820.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392820.1.jpg"},
@@ -31505,7 +31505,7 @@ name: "Pollen viability (%)",
 valu: "87.7"
 }]},
  
-'CIP392821.1': {name: "CIP392821.1",description: "NA",
+'CIP392821.1': {name: "CIP392821.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392821.1.jpg"},
@@ -31682,7 +31682,7 @@ name: "Pollen viability (%)",
 valu: "73.5"
 }]},
  
-'CIP392822.3': {name: "CIP392822.3",description: "NA",
+'CIP392822.3': {name: "CIP392822.3",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392822.3.jpg"},
@@ -31859,7 +31859,7 @@ name: "Pollen viability (%)",
 valu: "37.3"
 }]},
  
-'CIP392823.4': {name: "CIP392823.4",description: "NA",
+'CIP392823.4': {name: "CIP392823.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392823.4.jpg"},
@@ -32036,7 +32036,7 @@ name: "Pollen viability (%)",
 valu: "76.7"
 }]},
  
-'CIP392824.1': {name: "CIP392824.1",description: "NA",
+'CIP392824.1': {name: "CIP392824.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392824.1.jpg"},
@@ -32213,7 +32213,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393073.179': {name: "CIP393073.179",description: "NA",
+'CIP393073.179': {name: "CIP393073.179",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393073.179.jpg"},
@@ -32390,7 +32390,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393073.197': {name: "CIP393073.197",description: "NA",
+'CIP393073.197': {name: "CIP393073.197",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393073.197.jpg"},
@@ -32567,7 +32567,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393075.54': {name: "CIP393075.54",description: "NA",
+'CIP393075.54': {name: "CIP393075.54",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393075.54.jpg"},
@@ -32744,7 +32744,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393077.159': {name: "CIP393077.159",description: "NA",
+'CIP393077.159': {name: "CIP393077.159",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393077.159.jpg"},
@@ -32921,7 +32921,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393077.162': {name: "CIP393077.162",description: "NA",
+'CIP393077.162': {name: "CIP393077.162",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393077.162.jpg"},
@@ -33098,7 +33098,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393077.54': {name: "CIP393077.54",description: "NA: This variety is highly resistance to late blight (horizontal), extreme resistance to PVX and moderately resistant to BW. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit.Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have long-oblong shape with white flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
+'CIP393077.54': {name: "CIP393077.54",description: ": This variety is highly resistance to late blight (horizontal), extreme resistance to PVX and moderately resistant to BW. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit.Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have long-oblong shape with white flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393077.54.jpg"},
@@ -33275,7 +33275,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393079.24': {name: "CIP393079.24",description: "NA",
+'CIP393079.24': {name: "CIP393079.24",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393079.24.jpg"},
@@ -33452,7 +33452,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393079.4': {name: "CIP393079.4",description: "NA",
+'CIP393079.4': {name: "CIP393079.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393079.4.jpg"},
@@ -33629,7 +33629,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393083.2': {name: "CIP393083.2",description: "NA",
+'CIP393083.2': {name: "CIP393083.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393083.2.jpg"},
@@ -33806,7 +33806,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393084.31': {name: "CIP393084.31",description: "NA",
+'CIP393084.31': {name: "CIP393084.31",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393084.31.jpg"},
@@ -33983,7 +33983,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393085.5': {name: "CIP393085.5",description: "NA",
+'CIP393085.5': {name: "CIP393085.5",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393085.5.jpg"},
@@ -34160,7 +34160,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393220.54': {name: "CIP393220.54",description: "NA",
+'CIP393220.54': {name: "CIP393220.54",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393220.54.jpg"},
@@ -34337,7 +34337,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393227.66': {name: "CIP393227.66",description: "NA",
+'CIP393227.66': {name: "CIP393227.66",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393227.66.jpg"},
@@ -34514,7 +34514,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393228.67': {name: "CIP393228.67",description: "NA",
+'CIP393228.67': {name: "CIP393228.67",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393228.67.jpg"},
@@ -34691,7 +34691,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393242.50': {name: "CIP393242.50",description: "NA",
+'CIP393242.50': {name: "CIP393242.50",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393242.50.jpg"},
@@ -34868,7 +34868,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393248.55': {name: "CIP393248.55",description: "NA",
+'CIP393248.55': {name: "CIP393248.55",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393248.55.jpg"},
@@ -35045,7 +35045,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393280.57': {name: "CIP393280.57",description: "NA",
+'CIP393280.57': {name: "CIP393280.57",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393280.57.jpg"},
@@ -35222,7 +35222,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393280.64': {name: "CIP393280.64",description: "NA",
+'CIP393280.64': {name: "CIP393280.64",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393280.64.jpg"},
@@ -35399,7 +35399,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393280.82': {name: "CIP393280.82",description: "NA",
+'CIP393280.82': {name: "CIP393280.82",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393280.82.jpg"},
@@ -35576,7 +35576,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393280.83': {name: "CIP393280.83",description: "NA",
+'CIP393280.83': {name: "CIP393280.83",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393280.83.jpg"},
@@ -35753,7 +35753,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393284.39': {name: "CIP393284.39",description: "NA",
+'CIP393284.39': {name: "CIP393284.39",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393284.39.jpg"},
@@ -35930,7 +35930,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393339.242': {name: "CIP393339.242",description: "NA",
+'CIP393339.242': {name: "CIP393339.242",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393339.242.jpg"},
@@ -36107,7 +36107,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393349.68': {name: "CIP393349.68",description: "NA",
+'CIP393349.68': {name: "CIP393349.68",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393349.68.jpg"},
@@ -36284,7 +36284,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393371.157': {name: "CIP393371.157",description: "NA",
+'CIP393371.157': {name: "CIP393371.157",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393371.157.jpg"},
@@ -36461,7 +36461,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393371.159': {name: "CIP393371.159",description: "NA",
+'CIP393371.159': {name: "CIP393371.159",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393371.159.jpg"},
@@ -36638,7 +36638,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393371.164': {name: "CIP393371.164",description: "NA",
+'CIP393371.164': {name: "CIP393371.164",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393371.164.jpg"},
@@ -36815,7 +36815,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393371.58': {name: "CIP393371.58",description: "NA: This variety is resistant to late blight (horizontal) and extreme resistance to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, white flower color and regular flowering habit. Tubers have oblong shape, cream flesh with superficial eyes, medium to large tuber sizes, intermediate tuber number per plant.Yield high under LB disease. Tubers are good for processing specially for chips (crisps) and French fry (chips). The Variety was released in Peru in 2007",
+'CIP393371.58': {name: "CIP393371.58",description: ": This variety is resistant to late blight (horizontal) and extreme resistance to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, white flower color and regular flowering habit. Tubers have oblong shape, cream flesh with superficial eyes, medium to large tuber sizes, intermediate tuber number per plant.Yield high under LB disease. Tubers are good for processing specially for chips (crisps) and French fry (chips). The Variety was released in Peru in 2007",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393371.58.jpg"},
@@ -36992,7 +36992,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393382.44': {name: "CIP393382.44",description: "NA",
+'CIP393382.44': {name: "CIP393382.44",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393382.44.jpg"},
@@ -37169,7 +37169,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393385.39': {name: "CIP393385.39",description: "NA: This variety is resistant to late blight (horizontal) and resistant to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit. Tubers with red skin color with pink eyes, cream flesh, oblong shape with intermediate eyes, medium to large tuber sizes, intermediate tuber number per plant with good yield production are good for processing as chips (crisps) and French fry . Variety with wide range of adaptation within short and intermediate day lengths, and cool low and high lands.",
+'CIP393385.39': {name: "CIP393385.39",description: ": This variety is resistant to late blight (horizontal) and resistant to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit. Tubers with red skin color with pink eyes, cream flesh, oblong shape with intermediate eyes, medium to large tuber sizes, intermediate tuber number per plant with good yield production are good for processing as chips (crisps) and French fry . Variety with wide range of adaptation within short and intermediate day lengths, and cool low and high lands.",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393385.39.jpg"},
@@ -37346,7 +37346,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393385.47': {name: "CIP393385.47",description: "NA",
+'CIP393385.47': {name: "CIP393385.47",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393385.47.jpg"},
@@ -37523,7 +37523,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393385.57': {name: "CIP393385.57",description: "NA",
+'CIP393385.57': {name: "CIP393385.57",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393385.57.jpg"},
@@ -37700,7 +37700,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393536.13': {name: "CIP393536.13",description: "NA",
+'CIP393536.13': {name: "CIP393536.13",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393536.13.jpg"},
@@ -37877,7 +37877,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393595.1': {name: "CIP393595.1",description: "NA",
+'CIP393595.1': {name: "CIP393595.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393595.1.jpg"},
@@ -38054,7 +38054,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393613.2': {name: "CIP393613.2",description: "NA",
+'CIP393613.2': {name: "CIP393613.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393613.2.jpg"},
@@ -38231,7 +38231,7 @@ name: "Pollen viability (%)",
 valu: "79.6"
 }]},
  
-'CIP393614.3': {name: "CIP393614.3",description: "NA",
+'CIP393614.3': {name: "CIP393614.3",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393614.3.jpg"},
@@ -38408,7 +38408,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393615.6': {name: "CIP393615.6",description: "NA",
+'CIP393615.6': {name: "CIP393615.6",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393615.6.jpg"},
@@ -38585,7 +38585,7 @@ name: "Pollen viability (%)",
 valu: "84.8"
 }]},
  
-'CIP393617.1': {name: "CIP393617.1",description: "NA",
+'CIP393617.1': {name: "CIP393617.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393617.1.jpg"},
@@ -38762,7 +38762,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393708.31': {name: "CIP393708.31",description: "NA",
+'CIP393708.31': {name: "CIP393708.31",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393708.31.jpg"},
@@ -38939,7 +38939,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394034.7': {name: "CIP394034.7",description: "NA",
+'CIP394034.7': {name: "CIP394034.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394034.7.jpg"},
@@ -39116,7 +39116,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394600.52': {name: "CIP394600.52",description: "NA",
+'CIP394600.52': {name: "CIP394600.52",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394600.52.jpg"},
@@ -39293,7 +39293,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394611.112': {name: "CIP394611.112",description: "NA",
+'CIP394611.112': {name: "CIP394611.112",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394611.112.jpg"},
@@ -39470,7 +39470,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394613.139': {name: "CIP394613.139",description: "NA",
+'CIP394613.139': {name: "CIP394613.139",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394613.139.jpg"},
@@ -39647,7 +39647,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394613.32': {name: "CIP394613.32",description: "NA",
+'CIP394613.32': {name: "CIP394613.32",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394613.32.jpg"},
@@ -39824,7 +39824,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394614.117': {name: "CIP394614.117",description: "NA",
+'CIP394614.117': {name: "CIP394614.117",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394614.117.jpg"},
@@ -40001,7 +40001,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394881.8': {name: "CIP394881.8",description: "NA",
+'CIP394881.8': {name: "CIP394881.8",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394881.8.jpg"},
@@ -40178,7 +40178,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394895.7': {name: "CIP394895.7",description: "NA",
+'CIP394895.7': {name: "CIP394895.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394895.7.jpg"},
@@ -40355,7 +40355,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394899.5': {name: "CIP394899.5",description: "NA",
+'CIP394899.5': {name: "CIP394899.5",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394899.5.jpg"},
@@ -40532,7 +40532,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394903.3': {name: "CIP394903.3",description: "NA",
+'CIP394903.3': {name: "CIP394903.3",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394903.3.jpg"},
@@ -40709,7 +40709,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394904.20': {name: "CIP394904.20",description: "NA",
+'CIP394904.20': {name: "CIP394904.20",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394904.20.jpg"},
@@ -40886,7 +40886,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394904.21': {name: "CIP394904.21",description: "NA",
+'CIP394904.21': {name: "CIP394904.21",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394904.21.jpg"},
@@ -41063,7 +41063,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394905.8': {name: "CIP394905.8",description: "NA",
+'CIP394905.8': {name: "CIP394905.8",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394905.8.jpg"},
@@ -41240,7 +41240,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP394906.6': {name: "CIP394906.6",description: "NA",
+'CIP394906.6': {name: "CIP394906.6",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/394906.6.jpg"},
@@ -41417,7 +41417,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395011.2': {name: "CIP395011.2",description: "NA",
+'CIP395011.2': {name: "CIP395011.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395011.2.jpg"},
@@ -41594,7 +41594,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395015.6': {name: "CIP395015.6",description: "NA",
+'CIP395015.6': {name: "CIP395015.6",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395015.6.jpg"},
@@ -41771,7 +41771,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395017.14': {name: "CIP395017.14",description: "NA",
+'CIP395017.14': {name: "CIP395017.14",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395017.14.jpg"},
@@ -41948,7 +41948,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395017.227': {name: "CIP395017.227",description: "NA",
+'CIP395017.227': {name: "CIP395017.227",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395017.227.jpg"},
@@ -42125,7 +42125,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395017.229': {name: "CIP395017.229",description: "NA",
+'CIP395017.229': {name: "CIP395017.229",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395017.229.jpg"},
@@ -42302,7 +42302,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395017.242': {name: "CIP395017.242",description: "NA",
+'CIP395017.242': {name: "CIP395017.242",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395017.242.jpg"},
@@ -42479,7 +42479,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395037.107': {name: "CIP395037.107",description: "NA",
+'CIP395037.107': {name: "CIP395037.107",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395037.107.jpg"},
@@ -42656,7 +42656,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395077.12': {name: "CIP395077.12",description: "NA",
+'CIP395077.12': {name: "CIP395077.12",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395077.12.jpg"},
@@ -42833,7 +42833,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395084.9': {name: "CIP395084.9",description: "NA",
+'CIP395084.9': {name: "CIP395084.9",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395084.9.jpg"},
@@ -43010,7 +43010,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395096.2': {name: "CIP395096.2",description: "NA",
+'CIP395096.2': {name: "CIP395096.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395096.2.jpg"},
@@ -43187,7 +43187,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395109.29': {name: "CIP395109.29",description: "NA",
+'CIP395109.29': {name: "CIP395109.29",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395109.29.jpg"},
@@ -43364,7 +43364,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395109.34': {name: "CIP395109.34",description: "NA",
+'CIP395109.34': {name: "CIP395109.34",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395109.34.jpg"},
@@ -43541,7 +43541,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395111.13': {name: "CIP395111.13",description: "NA",
+'CIP395111.13': {name: "CIP395111.13",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395111.13.jpg"},
@@ -43718,7 +43718,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395112.19': {name: "CIP395112.19",description: "NA",
+'CIP395112.19': {name: "CIP395112.19",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395112.19.jpg"},
@@ -43895,7 +43895,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395112.32': {name: "CIP395112.32",description: "NA",
+'CIP395112.32': {name: "CIP395112.32",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395112.32.jpg"},
@@ -44072,7 +44072,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395112.36': {name: "CIP395112.36",description: "NA",
+'CIP395112.36': {name: "CIP395112.36",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395112.36.jpg"},
@@ -44249,7 +44249,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395112.6': {name: "CIP395112.6",description: "NA",
+'CIP395112.6': {name: "CIP395112.6",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395112.6.jpg"},
@@ -44426,7 +44426,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395112.9': {name: "CIP395112.9",description: "NA",
+'CIP395112.9': {name: "CIP395112.9",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395112.9.jpg"},
@@ -44603,7 +44603,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395114.5': {name: "CIP395114.5",description: "NA",
+'CIP395114.5': {name: "CIP395114.5",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395114.5.jpg"},
@@ -44780,7 +44780,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395123.6': {name: "CIP395123.6",description: "NA",
+'CIP395123.6': {name: "CIP395123.6",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395123.6.jpg"},
@@ -44957,7 +44957,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395169.17': {name: "CIP395169.17",description: "NA",
+'CIP395169.17': {name: "CIP395169.17",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395169.17.jpg"},
@@ -45134,7 +45134,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395169.4': {name: "CIP395169.4",description: "NA",
+'CIP395169.4': {name: "CIP395169.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395169.4.jpg"},
@@ -45311,7 +45311,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395192.1': {name: "CIP395192.1",description: "NA",
+'CIP395192.1': {name: "CIP395192.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395192.1.jpg"},
@@ -45488,7 +45488,7 @@ name: "Pollen viability (%)",
 valu: "90.3"
 }]},
  
-'CIP395193.6': {name: "CIP395193.6",description: "NA",
+'CIP395193.6': {name: "CIP395193.6",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395193.6.jpg"},
@@ -45665,7 +45665,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395194.9': {name: "CIP395194.9",description: "NA",
+'CIP395194.9': {name: "CIP395194.9",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395194.9.jpg"},
@@ -45842,7 +45842,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395195.7': {name: "CIP395195.7",description: "NA",
+'CIP395195.7': {name: "CIP395195.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395195.7.jpg"},
@@ -46019,7 +46019,7 @@ name: "Pollen viability (%)",
 valu: "69.4"
 }]},
  
-'CIP395196.4': {name: "CIP395196.4",description: "NA",
+'CIP395196.4': {name: "CIP395196.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395196.4.jpg"},
@@ -46196,7 +46196,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395197.5': {name: "CIP395197.5",description: "NA",
+'CIP395197.5': {name: "CIP395197.5",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395197.5.jpg"},
@@ -46373,7 +46373,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395432.51': {name: "CIP395432.51",description: "NA",
+'CIP395432.51': {name: "CIP395432.51",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395432.51.jpg"},
@@ -46550,7 +46550,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395434.1': {name: "CIP395434.1",description: "NA",
+'CIP395434.1': {name: "CIP395434.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395434.1.jpg"},
@@ -46727,7 +46727,7 @@ name: "Pollen viability (%)",
 valu: "84.8"
 }]},
  
-'CIP395436.8': {name: "CIP395436.8",description: "NA",
+'CIP395436.8': {name: "CIP395436.8",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395436.8.jpg"},
@@ -46904,7 +46904,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395438.1': {name: "CIP395438.1",description: "NA",
+'CIP395438.1': {name: "CIP395438.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395438.1.jpg"},
@@ -47081,7 +47081,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395445.16': {name: "CIP395445.16",description: "NA",
+'CIP395445.16': {name: "CIP395445.16",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395445.16.jpg"},
@@ -47258,7 +47258,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP395446.1': {name: "CIP395446.1",description: "NA",
+'CIP395446.1': {name: "CIP395446.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395446.1.jpg"},
@@ -47435,7 +47435,7 @@ name: "Pollen viability (%)",
 valu: "82.8"
 }]},
  
-'CIP395448.1': {name: "CIP395448.1",description: "NA",
+'CIP395448.1': {name: "CIP395448.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/395448.1.jpg"},
@@ -47612,7 +47612,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396004.225': {name: "CIP396004.225",description: "NA",
+'CIP396004.225': {name: "CIP396004.225",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396004.225.jpg"},
@@ -47789,7 +47789,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396004.263': {name: "CIP396004.263",description: "NA",
+'CIP396004.263': {name: "CIP396004.263",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396004.263.jpg"},
@@ -47966,7 +47966,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396004.337': {name: "CIP396004.337",description: "NA",
+'CIP396004.337': {name: "CIP396004.337",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396004.337.jpg"},
@@ -48143,7 +48143,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396008.104': {name: "CIP396008.104",description: "NA",
+'CIP396008.104': {name: "CIP396008.104",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396008.104.jpg"},
@@ -48320,7 +48320,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396009.239': {name: "CIP396009.239",description: "NA",
+'CIP396009.239': {name: "CIP396009.239",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396009.239.jpg"},
@@ -48497,7 +48497,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396009.240': {name: "CIP396009.240",description: "NA",
+'CIP396009.240': {name: "CIP396009.240",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396009.240.jpg"},
@@ -48674,7 +48674,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396009.258': {name: "CIP396009.258",description: "NA",
+'CIP396009.258': {name: "CIP396009.258",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396009.258.jpg"},
@@ -48851,7 +48851,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396012.266': {name: "CIP396012.266",description: "NA",
+'CIP396012.266': {name: "CIP396012.266",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396012.266.jpg"},
@@ -49028,7 +49028,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396018.241': {name: "CIP396018.241",description: "NA",
+'CIP396018.241': {name: "CIP396018.241",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396018.241.jpg"},
@@ -49205,7 +49205,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396023.109': {name: "CIP396023.109",description: "NA",
+'CIP396023.109': {name: "CIP396023.109",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396023.109.jpg"},
@@ -49382,7 +49382,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396026.101': {name: "CIP396026.101",description: "NA",
+'CIP396026.101': {name: "CIP396026.101",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396026.101.jpg"},
@@ -49559,7 +49559,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396026.103': {name: "CIP396026.103",description: "NA",
+'CIP396026.103': {name: "CIP396026.103",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396026.103.jpg"},
@@ -49736,7 +49736,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396027.111': {name: "CIP396027.111",description: "NA",
+'CIP396027.111': {name: "CIP396027.111",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396027.111.jpg"},
@@ -49913,7 +49913,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396027.205': {name: "CIP396027.205",description: "NA",
+'CIP396027.205': {name: "CIP396027.205",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396027.205.jpg"},
@@ -50090,7 +50090,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396029.205': {name: "CIP396029.205",description: "NA",
+'CIP396029.205': {name: "CIP396029.205",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396029.205.jpg"},
@@ -50267,7 +50267,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396029.250': {name: "CIP396029.250",description: "NA",
+'CIP396029.250': {name: "CIP396029.250",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396029.250.jpg"},
@@ -50444,7 +50444,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396031.108': {name: "CIP396031.108",description: "NA",
+'CIP396031.108': {name: "CIP396031.108",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396031.108.jpg"},
@@ -50621,7 +50621,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396031.119': {name: "CIP396031.119",description: "NA",
+'CIP396031.119': {name: "CIP396031.119",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396031.119.jpg"},
@@ -50798,7 +50798,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396033.102': {name: "CIP396033.102",description: "NA",
+'CIP396033.102': {name: "CIP396033.102",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396033.102.jpg"},
@@ -50975,7 +50975,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396034.103': {name: "CIP396034.103",description: "NA",
+'CIP396034.103': {name: "CIP396034.103",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396034.103.jpg"},
@@ -51152,7 +51152,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396034.268': {name: "CIP396034.268",description: "NA",
+'CIP396034.268': {name: "CIP396034.268",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396034.268.jpg"},
@@ -51329,7 +51329,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396036.201': {name: "CIP396036.201",description: "NA",
+'CIP396036.201': {name: "CIP396036.201",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396036.201.jpg"},
@@ -51506,7 +51506,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396037.215': {name: "CIP396037.215",description: "NA",
+'CIP396037.215': {name: "CIP396037.215",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396037.215.jpg"},
@@ -51683,7 +51683,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396038.101': {name: "CIP396038.101",description: "NA",
+'CIP396038.101': {name: "CIP396038.101",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396038.101.jpg"},
@@ -51860,7 +51860,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396038.105': {name: "CIP396038.105",description: "NA",
+'CIP396038.105': {name: "CIP396038.105",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396038.105.jpg"},
@@ -52037,7 +52037,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396038.107': {name: "CIP396038.107",description: "NA",
+'CIP396038.107': {name: "CIP396038.107",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396038.107.jpg"},
@@ -52214,7 +52214,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396043.226': {name: "CIP396043.226",description: "NA",
+'CIP396043.226': {name: "CIP396043.226",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396043.226.jpg"},
@@ -52391,7 +52391,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396046.105': {name: "CIP396046.105",description: "NA",
+'CIP396046.105': {name: "CIP396046.105",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396046.105.jpg"},
@@ -52568,7 +52568,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396236.20': {name: "CIP396236.20",description: "NA",
+'CIP396236.20': {name: "CIP396236.20",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396236.20.jpg"},
@@ -52745,7 +52745,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396240.2': {name: "CIP396240.2",description: "NA",
+'CIP396240.2': {name: "CIP396240.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396240.2.jpg"},
@@ -52922,7 +52922,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396240.23': {name: "CIP396240.23",description: "NA",
+'CIP396240.23': {name: "CIP396240.23",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396240.23.jpg"},
@@ -53099,7 +53099,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396241.4': {name: "CIP396241.4",description: "NA",
+'CIP396241.4': {name: "CIP396241.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396241.4.jpg"},
@@ -53276,7 +53276,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396244.12': {name: "CIP396244.12",description: "NA",
+'CIP396244.12': {name: "CIP396244.12",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396244.12.jpg"},
@@ -53453,7 +53453,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396244.17': {name: "CIP396244.17",description: "NA",
+'CIP396244.17': {name: "CIP396244.17",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396244.17.jpg"},
@@ -53630,7 +53630,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396247.15': {name: "CIP396247.15",description: "NA",
+'CIP396247.15': {name: "CIP396247.15",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396247.15.jpg"},
@@ -53807,7 +53807,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396285.1': {name: "CIP396285.1",description: "NA",
+'CIP396285.1': {name: "CIP396285.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396285.1.jpg"},
@@ -53984,7 +53984,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP396311.1': {name: "CIP396311.1",description: "NA",
+'CIP396311.1': {name: "CIP396311.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/396311.1.jpg"},
@@ -54161,7 +54161,7 @@ name: "Pollen viability (%)",
 valu: "85.8"
 }]},
  
-'CIP397006.18': {name: "CIP397006.18",description: "NA",
+'CIP397006.18': {name: "CIP397006.18",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397006.18.jpg"},
@@ -54338,7 +54338,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397012.22': {name: "CIP397012.22",description: "NA",
+'CIP397012.22': {name: "CIP397012.22",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397012.22.jpg"},
@@ -54515,7 +54515,7 @@ name: "Pollen viability (%)",
 valu: "77.2"
 }]},
  
-'CIP397016.7': {name: "CIP397016.7",description: "NA",
+'CIP397016.7': {name: "CIP397016.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397016.7.jpg"},
@@ -54692,7 +54692,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397029.21': {name: "CIP397029.21",description: "NA",
+'CIP397029.21': {name: "CIP397029.21",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397029.21.jpg"},
@@ -54869,7 +54869,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397036.7': {name: "CIP397036.7",description: "NA",
+'CIP397036.7': {name: "CIP397036.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397036.7.jpg"},
@@ -55046,7 +55046,7 @@ name: "Pollen viability (%)",
 valu: "80.1"
 }]},
  
-'CIP397039.51': {name: "CIP397039.51",description: "NA",
+'CIP397039.51': {name: "CIP397039.51",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397039.51.jpg"},
@@ -55223,7 +55223,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397039.53': {name: "CIP397039.53",description: "NA",
+'CIP397039.53': {name: "CIP397039.53",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397039.53.jpg"},
@@ -55400,7 +55400,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397044.25': {name: "CIP397044.25",description: "NA",
+'CIP397044.25': {name: "CIP397044.25",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397044.25.jpg"},
@@ -55577,7 +55577,7 @@ name: "Pollen viability (%)",
 valu: "73.8"
 }]},
  
-'CIP397055.2': {name: "CIP397055.2",description: "NA",
+'CIP397055.2': {name: "CIP397055.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397055.2.jpg"},
@@ -55754,7 +55754,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397060.19': {name: "CIP397060.19",description: "NA",
+'CIP397060.19': {name: "CIP397060.19",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397060.19.jpg"},
@@ -55931,7 +55931,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397065.2': {name: "CIP397065.2",description: "NA",
+'CIP397065.2': {name: "CIP397065.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397065.2.jpg"},
@@ -56108,7 +56108,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397065.28': {name: "CIP397065.28",description: "NA",
+'CIP397065.28': {name: "CIP397065.28",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397065.28.jpg"},
@@ -56285,7 +56285,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397067.2': {name: "CIP397067.2",description: "NA",
+'CIP397067.2': {name: "CIP397067.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397067.2.jpg"},
@@ -56462,7 +56462,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397069.11': {name: "CIP397069.11",description: "NA",
+'CIP397069.11': {name: "CIP397069.11",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397069.11.jpg"},
@@ -56639,7 +56639,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397069.5': {name: "CIP397069.5",description: "NA",
+'CIP397069.5': {name: "CIP397069.5",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397069.5.jpg"},
@@ -56816,7 +56816,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397073.16': {name: "CIP397073.16",description: "NA",
+'CIP397073.16': {name: "CIP397073.16",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397073.16.jpg"},
@@ -56993,7 +56993,7 @@ name: "Pollen viability (%)",
 valu: "89.3"
 }]},
  
-'CIP397073.7': {name: "CIP397073.7",description: "NA",
+'CIP397073.7': {name: "CIP397073.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397073.7.jpg"},
@@ -57170,7 +57170,7 @@ name: "Pollen viability (%)",
 valu: "86.2"
 }]},
  
-'CIP397077.16': {name: "CIP397077.16",description: "NA",
+'CIP397077.16': {name: "CIP397077.16",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397077.16.jpg"},
@@ -57347,7 +57347,7 @@ name: "Pollen viability (%)",
 valu: "88.7"
 }]},
  
-'CIP397079.26': {name: "CIP397079.26",description: "NA",
+'CIP397079.26': {name: "CIP397079.26",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397079.26.jpg"},
@@ -57524,7 +57524,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397079.6': {name: "CIP397079.6",description: "NA",
+'CIP397079.6': {name: "CIP397079.6",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397079.6.jpg"},
@@ -57701,7 +57701,7 @@ name: "Pollen viability (%)",
 valu: "86.5"
 }]},
  
-'CIP397098.12': {name: "CIP397098.12",description: "NA",
+'CIP397098.12': {name: "CIP397098.12",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397098.12.jpg"},
@@ -57878,7 +57878,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397099.4': {name: "CIP397099.4",description: "NA",
+'CIP397099.4': {name: "CIP397099.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397099.4.jpg"},
@@ -58055,7 +58055,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397100.9': {name: "CIP397100.9",description: "NA",
+'CIP397100.9': {name: "CIP397100.9",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397100.9.jpg"},
@@ -58232,7 +58232,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397196.3': {name: "CIP397196.3",description: "NA",
+'CIP397196.3': {name: "CIP397196.3",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397196.3.jpg"},
@@ -58409,7 +58409,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP397196.8': {name: "CIP397196.8",description: "NA",
+'CIP397196.8': {name: "CIP397196.8",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397196.8.jpg"},
@@ -58586,7 +58586,7 @@ name: "Pollen viability (%)",
 valu: "85.6"
 }]},
  
-'CIP397197.9': {name: "CIP397197.9",description: "NA",
+'CIP397197.9': {name: "CIP397197.9",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/397197.9.jpg"},
@@ -58763,7 +58763,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398017.53': {name: "CIP398017.53",description: "NA",
+'CIP398017.53': {name: "CIP398017.53",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398017.53.jpg"},
@@ -58940,7 +58940,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398098.119': {name: "CIP398098.119",description: "NA",
+'CIP398098.119': {name: "CIP398098.119",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398098.119.jpg"},
@@ -59117,7 +59117,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398098.203': {name: "CIP398098.203",description: "NA",
+'CIP398098.203': {name: "CIP398098.203",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398098.203.jpg"},
@@ -59294,7 +59294,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398098.204': {name: "CIP398098.204",description: "NA",
+'CIP398098.204': {name: "CIP398098.204",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398098.204.jpg"},
@@ -59471,7 +59471,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398098.205': {name: "CIP398098.205",description: "NA",
+'CIP398098.205': {name: "CIP398098.205",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398098.205.jpg"},
@@ -59648,7 +59648,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398098.231': {name: "CIP398098.231",description: "NA",
+'CIP398098.231': {name: "CIP398098.231",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398098.231.jpg"},
@@ -59825,7 +59825,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398098.570': {name: "CIP398098.570",description: "NA",
+'CIP398098.570': {name: "CIP398098.570",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398098.570.jpg"},
@@ -60002,7 +60002,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398098.65': {name: "CIP398098.65",description: "NA",
+'CIP398098.65': {name: "CIP398098.65",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398098.65.jpg"},
@@ -60179,7 +60179,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398098.98': {name: "CIP398098.98",description: "NA",
+'CIP398098.98': {name: "CIP398098.98",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398098.98.jpg"},
@@ -60356,7 +60356,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398180.144': {name: "CIP398180.144",description: "NA",
+'CIP398180.144': {name: "CIP398180.144",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398180.144.jpg"},
@@ -60533,7 +60533,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398180.289': {name: "CIP398180.289",description: "NA",
+'CIP398180.289': {name: "CIP398180.289",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398180.289.jpg"},
@@ -60710,7 +60710,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398180.292': {name: "CIP398180.292",description: "NA",
+'CIP398180.292': {name: "CIP398180.292",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398180.292.jpg"},
@@ -60887,7 +60887,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398190.200': {name: "CIP398190.200",description: "NA",
+'CIP398190.200': {name: "CIP398190.200",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398190.200.jpg"},
@@ -61064,7 +61064,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398190.404': {name: "CIP398190.404",description: "NA",
+'CIP398190.404': {name: "CIP398190.404",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398190.404.jpg"},
@@ -61241,7 +61241,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398190.571': {name: "CIP398190.571",description: "NA",
+'CIP398190.571': {name: "CIP398190.571",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398190.571.jpg"},
@@ -61418,7 +61418,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398190.605': {name: "CIP398190.605",description: "NA",
+'CIP398190.605': {name: "CIP398190.605",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398190.605.jpg"},
@@ -61595,7 +61595,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398190.615': {name: "CIP398190.615",description: "NA",
+'CIP398190.615': {name: "CIP398190.615",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398190.615.jpg"},
@@ -61772,7 +61772,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398190.735': {name: "CIP398190.735",description: "NA",
+'CIP398190.735': {name: "CIP398190.735",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398190.735.jpg"},
@@ -61949,7 +61949,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398190.89': {name: "CIP398190.89",description: "NA",
+'CIP398190.89': {name: "CIP398190.89",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398190.89.jpg"},
@@ -62126,7 +62126,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398192.213': {name: "CIP398192.213",description: "NA",
+'CIP398192.213': {name: "CIP398192.213",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398192.213.jpg"},
@@ -62303,7 +62303,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398192.41': {name: "CIP398192.41",description: "NA",
+'CIP398192.41': {name: "CIP398192.41",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398192.41.jpg"},
@@ -62480,7 +62480,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398192.553': {name: "CIP398192.553",description: "NA",
+'CIP398192.553': {name: "CIP398192.553",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398192.553.jpg"},
@@ -62657,7 +62657,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398192.592': {name: "CIP398192.592",description: "NA",
+'CIP398192.592': {name: "CIP398192.592",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398192.592.jpg"},
@@ -62834,7 +62834,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398193.158': {name: "CIP398193.158",description: "NA",
+'CIP398193.158': {name: "CIP398193.158",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398193.158.jpg"},
@@ -63011,7 +63011,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398193.511': {name: "CIP398193.511",description: "NA",
+'CIP398193.511': {name: "CIP398193.511",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398193.511.jpg"},
@@ -63188,7 +63188,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398193.553': {name: "CIP398193.553",description: "NA",
+'CIP398193.553': {name: "CIP398193.553",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398193.553.jpg"},
@@ -63365,7 +63365,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398193.650': {name: "CIP398193.650",description: "NA",
+'CIP398193.650': {name: "CIP398193.650",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398193.650.jpg"},
@@ -63542,7 +63542,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398201.510': {name: "CIP398201.510",description: "NA",
+'CIP398201.510': {name: "CIP398201.510",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398201.510.jpg"},
@@ -63719,7 +63719,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398203.244': {name: "CIP398203.244",description: "NA",
+'CIP398203.244': {name: "CIP398203.244",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398203.244.jpg"},
@@ -63896,7 +63896,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398203.5': {name: "CIP398203.5",description: "NA",
+'CIP398203.5': {name: "CIP398203.5",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398203.5.jpg"},
@@ -64073,7 +64073,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398203.509': {name: "CIP398203.509",description: "NA",
+'CIP398203.509': {name: "CIP398203.509",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398203.509.jpg"},
@@ -64250,7 +64250,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398208.219': {name: "CIP398208.219",description: "NA",
+'CIP398208.219': {name: "CIP398208.219",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398208.219.jpg"},
@@ -64427,7 +64427,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398208.29': {name: "CIP398208.29",description: "NA",
+'CIP398208.29': {name: "CIP398208.29",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398208.29.jpg"},
@@ -64604,7 +64604,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398208.33': {name: "CIP398208.33",description: "NA",
+'CIP398208.33': {name: "CIP398208.33",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398208.33.jpg"},
@@ -64781,7 +64781,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398208.505': {name: "CIP398208.505",description: "NA",
+'CIP398208.505': {name: "CIP398208.505",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398208.505.jpg"},
@@ -64958,7 +64958,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398208.620': {name: "CIP398208.620",description: "NA",
+'CIP398208.620': {name: "CIP398208.620",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398208.620.jpg"},
@@ -65135,7 +65135,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398208.670': {name: "CIP398208.670",description: "NA",
+'CIP398208.670': {name: "CIP398208.670",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398208.670.jpg"},
@@ -65312,7 +65312,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398208.704': {name: "CIP398208.704",description: "NA",
+'CIP398208.704': {name: "CIP398208.704",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398208.704.jpg"},
@@ -65489,7 +65489,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP398211.35': {name: "CIP398211.35",description: "NA",
+'CIP398211.35': {name: "CIP398211.35",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/398211.35.jpg"},
@@ -65666,7 +65666,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399001.16': {name: "CIP399001.16",description: "NA",
+'CIP399001.16': {name: "CIP399001.16",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399001.16.jpg"},
@@ -65843,7 +65843,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399001.44': {name: "CIP399001.44",description: "NA",
+'CIP399001.44': {name: "CIP399001.44",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399001.44.jpg"},
@@ -66020,7 +66020,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399001.53': {name: "CIP399001.53",description: "NA",
+'CIP399001.53': {name: "CIP399001.53",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399001.53.jpg"},
@@ -66197,7 +66197,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399002.38': {name: "CIP399002.38",description: "NA",
+'CIP399002.38': {name: "CIP399002.38",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399002.38.jpg"},
@@ -66374,7 +66374,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399002.42': {name: "CIP399002.42",description: "NA",
+'CIP399002.42': {name: "CIP399002.42",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399002.42.jpg"},
@@ -66551,7 +66551,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399002.52': {name: "CIP399002.52",description: "NA",
+'CIP399002.52': {name: "CIP399002.52",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399002.52.jpg"},
@@ -66728,7 +66728,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399002.57': {name: "CIP399002.57",description: "NA",
+'CIP399002.57': {name: "CIP399002.57",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399002.57.jpg"},
@@ -66905,7 +66905,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399002.7': {name: "CIP399002.7",description: "NA",
+'CIP399002.7': {name: "CIP399002.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399002.7.jpg"},
@@ -67082,7 +67082,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399003.9': {name: "CIP399003.9",description: "NA",
+'CIP399003.9': {name: "CIP399003.9",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399003.9.jpg"},
@@ -67259,7 +67259,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399004.19': {name: "CIP399004.19",description: "NA",
+'CIP399004.19': {name: "CIP399004.19",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399004.19.jpg"},
@@ -67436,7 +67436,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399048.39': {name: "CIP399048.39",description: "NA",
+'CIP399048.39': {name: "CIP399048.39",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399048.39.jpg"},
@@ -67613,7 +67613,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399049.14': {name: "CIP399049.14",description: "NA",
+'CIP399049.14': {name: "CIP399049.14",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399049.14.jpg"},
@@ -67790,7 +67790,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399049.16': {name: "CIP399049.16",description: "NA",
+'CIP399049.16': {name: "CIP399049.16",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399049.16.jpg"},
@@ -67967,7 +67967,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399049.22': {name: "CIP399049.22",description: "NA",
+'CIP399049.22': {name: "CIP399049.22",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399049.22.jpg"},
@@ -68144,7 +68144,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399049.27': {name: "CIP399049.27",description: "NA",
+'CIP399049.27': {name: "CIP399049.27",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399049.27.jpg"},
@@ -68321,7 +68321,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399050.3': {name: "CIP399050.3",description: "NA",
+'CIP399050.3': {name: "CIP399050.3",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399050.3.jpg"},
@@ -68498,7 +68498,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399051.1': {name: "CIP399051.1",description: "NA",
+'CIP399051.1': {name: "CIP399051.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399051.1.jpg"},
@@ -68675,7 +68675,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399051.10': {name: "CIP399051.10",description: "NA",
+'CIP399051.10': {name: "CIP399051.10",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399051.10.jpg"},
@@ -68852,7 +68852,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399051.9': {name: "CIP399051.9",description: "NA",
+'CIP399051.9': {name: "CIP399051.9",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399051.9.jpg"},
@@ -69029,7 +69029,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399052.3': {name: "CIP399052.3",description: "NA",
+'CIP399052.3': {name: "CIP399052.3",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399052.3.jpg"},
@@ -69206,7 +69206,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399053.11': {name: "CIP399053.11",description: "NA",
+'CIP399053.11': {name: "CIP399053.11",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399053.11.jpg"},
@@ -69383,7 +69383,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399053.12': {name: "CIP399053.12",description: "NA",
+'CIP399053.12': {name: "CIP399053.12",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399053.12.jpg"},
@@ -69560,7 +69560,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399053.15': {name: "CIP399053.15",description: "NA",
+'CIP399053.15': {name: "CIP399053.15",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399053.15.jpg"},
@@ -69737,7 +69737,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399053.7': {name: "CIP399053.7",description: "NA",
+'CIP399053.7': {name: "CIP399053.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399053.7.jpg"},
@@ -69914,7 +69914,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399054.1': {name: "CIP399054.1",description: "NA",
+'CIP399054.1': {name: "CIP399054.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399054.1.jpg"},
@@ -70091,7 +70091,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399054.16': {name: "CIP399054.16",description: "NA",
+'CIP399054.16': {name: "CIP399054.16",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399054.16.jpg"},
@@ -70268,7 +70268,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399058.12': {name: "CIP399058.12",description: "NA",
+'CIP399058.12': {name: "CIP399058.12",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399058.12.jpg"},
@@ -70445,7 +70445,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399062.108': {name: "CIP399062.108",description: "NA",
+'CIP399062.108': {name: "CIP399062.108",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399062.108.jpg"},
@@ -70622,7 +70622,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399062.115': {name: "CIP399062.115",description: "NA",
+'CIP399062.115': {name: "CIP399062.115",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399062.115.jpg"},
@@ -70799,7 +70799,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399062.118': {name: "CIP399062.118",description: "NA",
+'CIP399062.118': {name: "CIP399062.118",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399062.118.jpg"},
@@ -70976,7 +70976,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399062.119': {name: "CIP399062.119",description: "NA",
+'CIP399062.119': {name: "CIP399062.119",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399062.119.jpg"},
@@ -71153,7 +71153,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399064.12': {name: "CIP399064.12",description: "NA",
+'CIP399064.12': {name: "CIP399064.12",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399064.12.jpg"},
@@ -71330,7 +71330,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399064.3': {name: "CIP399064.3",description: "NA",
+'CIP399064.3': {name: "CIP399064.3",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399064.3.jpg"},
@@ -71507,7 +71507,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399067.14': {name: "CIP399067.14",description: "NA",
+'CIP399067.14': {name: "CIP399067.14",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399067.14.jpg"},
@@ -71684,7 +71684,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399067.22': {name: "CIP399067.22",description: "NA",
+'CIP399067.22': {name: "CIP399067.22",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399067.22.jpg"},
@@ -71861,7 +71861,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399071.17': {name: "CIP399071.17",description: "NA",
+'CIP399071.17': {name: "CIP399071.17",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399071.17.jpg"},
@@ -72038,7 +72038,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399072.11': {name: "CIP399072.11",description: "NA",
+'CIP399072.11': {name: "CIP399072.11",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399072.11.jpg"},
@@ -72215,7 +72215,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399072.2': {name: "CIP399072.2",description: "NA",
+'CIP399072.2': {name: "CIP399072.2",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399072.2.jpg"},
@@ -72392,7 +72392,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399072.21': {name: "CIP399072.21",description: "NA",
+'CIP399072.21': {name: "CIP399072.21",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399072.21.jpg"},
@@ -72569,7 +72569,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399072.28': {name: "CIP399072.28",description: "NA",
+'CIP399072.28': {name: "CIP399072.28",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399072.28.jpg"},
@@ -72746,7 +72746,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399073.18': {name: "CIP399073.18",description: "NA",
+'CIP399073.18': {name: "CIP399073.18",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399073.18.jpg"},
@@ -72923,7 +72923,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399073.23': {name: "CIP399073.23",description: "NA",
+'CIP399073.23': {name: "CIP399073.23",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399073.23.jpg"},
@@ -73100,7 +73100,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399073.8': {name: "CIP399073.8",description: "NA",
+'CIP399073.8': {name: "CIP399073.8",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399073.8.jpg"},
@@ -73277,7 +73277,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399073.9': {name: "CIP399073.9",description: "NA",
+'CIP399073.9': {name: "CIP399073.9",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399073.9.jpg"},
@@ -73454,7 +73454,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399074.23': {name: "CIP399074.23",description: "NA",
+'CIP399074.23': {name: "CIP399074.23",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399074.23.jpg"},
@@ -73631,7 +73631,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399074.32': {name: "CIP399074.32",description: "NA",
+'CIP399074.32': {name: "CIP399074.32",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399074.32.jpg"},
@@ -73808,7 +73808,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399075.20': {name: "CIP399075.20",description: "NA",
+'CIP399075.20': {name: "CIP399075.20",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399075.20.jpg"},
@@ -73985,7 +73985,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399075.22': {name: "CIP399075.22",description: "NA",
+'CIP399075.22': {name: "CIP399075.22",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399075.22.jpg"},
@@ -74162,7 +74162,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399075.26': {name: "CIP399075.26",description: "NA",
+'CIP399075.26': {name: "CIP399075.26",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399075.26.jpg"},
@@ -74339,7 +74339,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399075.32': {name: "CIP399075.32",description: "NA",
+'CIP399075.32': {name: "CIP399075.32",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399075.32.jpg"},
@@ -74516,7 +74516,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399075.6': {name: "CIP399075.6",description: "NA",
+'CIP399075.6': {name: "CIP399075.6",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399075.6.jpg"},
@@ -74693,7 +74693,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399075.7': {name: "CIP399075.7",description: "NA",
+'CIP399075.7': {name: "CIP399075.7",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399075.7.jpg"},
@@ -74870,7 +74870,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399076.12': {name: "CIP399076.12",description: "NA",
+'CIP399076.12': {name: "CIP399076.12",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399076.12.jpg"},
@@ -75047,7 +75047,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399076.16': {name: "CIP399076.16",description: "NA",
+'CIP399076.16': {name: "CIP399076.16",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399076.16.jpg"},
@@ -75224,7 +75224,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399078.11': {name: "CIP399078.11",description: "NA",
+'CIP399078.11': {name: "CIP399078.11",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399078.11.jpg"},
@@ -75401,7 +75401,7 @@ name: "Pollen viability (%)",
 valu: "79.1"
 }]},
  
-'CIP399079.22': {name: "CIP399079.22",description: "NA",
+'CIP399079.22': {name: "CIP399079.22",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399079.22.jpg"},
@@ -75578,7 +75578,7 @@ name: "Pollen viability (%)",
 valu: "76.9"
 }]},
  
-'CIP399079.27': {name: "CIP399079.27",description: "NA",
+'CIP399079.27': {name: "CIP399079.27",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399079.27.jpg"},
@@ -75755,7 +75755,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399079.28': {name: "CIP399079.28",description: "NA",
+'CIP399079.28': {name: "CIP399079.28",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399079.28.jpg"},
@@ -75932,7 +75932,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399079.42': {name: "CIP399079.42",description: "NA",
+'CIP399079.42': {name: "CIP399079.42",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399079.42.jpg"},
@@ -76109,7 +76109,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399083.4': {name: "CIP399083.4",description: "NA",
+'CIP399083.4': {name: "CIP399083.4",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399083.4.jpg"},
@@ -76286,7 +76286,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399085.17': {name: "CIP399085.17",description: "NA",
+'CIP399085.17': {name: "CIP399085.17",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399085.17.jpg"},
@@ -76463,7 +76463,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399085.23': {name: "CIP399085.23",description: "NA",
+'CIP399085.23': {name: "CIP399085.23",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399085.23.jpg"},
@@ -76640,7 +76640,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399090.48': {name: "CIP399090.48",description: "NA",
+'CIP399090.48': {name: "CIP399090.48",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399090.48.jpg"},
@@ -76817,7 +76817,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399092.116': {name: "CIP399092.116",description: "NA",
+'CIP399092.116': {name: "CIP399092.116",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399092.116.jpg"},
@@ -76994,7 +76994,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399092.36': {name: "CIP399092.36",description: "NA",
+'CIP399092.36': {name: "CIP399092.36",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399092.36.jpg"},
@@ -77171,7 +77171,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399094.16': {name: "CIP399094.16",description: "NA",
+'CIP399094.16': {name: "CIP399094.16",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399094.16.jpg"},
@@ -77348,7 +77348,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399094.25': {name: "CIP399094.25",description: "NA",
+'CIP399094.25': {name: "CIP399094.25",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399094.25.jpg"},
@@ -77525,7 +77525,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP399101.1': {name: "CIP399101.1",description: "NA",
+'CIP399101.1': {name: "CIP399101.1",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/399101.1.jpg"},
@@ -77702,7 +77702,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP694474.16': {name: "CIP694474.16",description: "NA",
+'CIP694474.16': {name: "CIP694474.16",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/694474.16.jpg"},
@@ -77879,7 +77879,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP694474.33': {name: "CIP694474.33",description: "NA",
+'CIP694474.33': {name: "CIP694474.33",description: "",
 attr: [{
 name: "Tuber image",
 valu: "tuber/694474.33.jpg"},
