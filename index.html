@@ -10,45 +10,14 @@
 	<script src="jquery-1.4.3.min.js"></script>
 	<script src="jqm-docs.js"></script>
 	<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-	<script src="item_data.js"></script>
+	<script src="categoryData.js"></script>
+	<script src="itemData.js"></script>
 
 <script>
 
 // Some sample categorized data. This data is in-memory
 // for demonstration purposes, but could be loaded dynamically
 // via ajax.
-var categoryData = {
-	varieties: {
-		name: "Potato Varieties",
-		description: "The Potato Catalogue contains information of 70 potato varieties selected from breeding material provided by the International Potato Center (CIP) and released by national potato program.",
-		items: [
-			{
-				name: "CIP374080.1"
-			},
-			{
-				name: "CIP379666.501"
-			},
-			{
-				name: "CIP386040.9"
-			}
-		]
-	},
-	clones: {
-		name: "_PACT",
-		description: "_PACC",
-		items: [
-			{
-				name: "CIP300046.22"
-			},
-			{
-				name: "CIP300048.12"
-			}
-		]
-	}	
-};
-
-
-
 
 
 function getLang(){
@@ -59,6 +28,14 @@ function getLang(){
 var lang = getLang();
 
 var dataDict = {
+    _PVT: {
+      en: "Potato Varieties",
+      es: "Variedades de papa"
+    },
+    _PVC: {
+      en: "The Potato Catalogue contains information of 70 potato varieties selected from breeding material provided by the International Potato Center (CIP) and released by national potato program.",
+      es: "The Potato Catalogue contains information of 70 potato varieties selected from breeding material provided by the International Potato Center (CIP) and released by national potato program."
+    },
     _PACT: {
         en: "Potato Advanced Clones",
         de: "Verbesserte Klone",
