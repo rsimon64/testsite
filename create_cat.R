@@ -50,10 +50,13 @@ to_cat_item <- function(rec){
     txt
   }
   atts = attr_to_json(rec)
+  desc = rec$Name
+  if(!is.na(rec$Description)) desc = paste0(desc, ": ", rec$Description)
+  
   
   txt = paste0("\n'", rec$`Accession number`, "': {",
     "name: ", "\"",rec$`Accession number`,"\",",
-    "description: ", "\"",rec$Description,"\",",
+    "description: ", "\"",  desc,"\",",
     "\nattr: [{",
        "\nname: \"Tuber image\",",
       "\nvalu: \"tuber/", stringr::str_replace(rec$`Accession number`,"CIP",""),".jpg\"},\n{",

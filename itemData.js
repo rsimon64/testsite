@@ -1,5 +1,5 @@
 var itemData = {
-'CIP300046.22': {name: "CIP300046.22",description: "none",
+'CIP300046.22': {name: "CIP300046.22",description: "NA: none",
 attr: [{
 name: "Tuber image",
 valu: "tuber/300046.22.jpg"},
@@ -26372,7 +26372,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP391691.96': {name: "CIP391691.96",description: "This variety is moderately resistant to late blight (horizontal), resistant to PVX and PLRV . Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, purple flower color and regular flowering habit. Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have round shape with cream flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
+'CIP391691.96': {name: "CIP391691.96",description: "NA: This variety is moderately resistant to late blight (horizontal), resistant to PVX and PLRV . Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, purple flower color and regular flowering habit. Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have round shape with cream flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
 attr: [{
 name: "Tuber image",
 valu: "tuber/391691.96.jpg"},
@@ -31151,7 +31151,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP392797.22': {name: "CIP392797.22",description: "Is a variety resistant to PVY. The plant have medium vegetative period with decumbent plant habit and lilac flowers with white acumen abaxial surface. The variety has a wide adaptation to the tropics under short days. The tubers are oblong with cream flesh are excellent for processing as chips (crisps) and French fry (chips). The variety was realized in Peru in 1998.",
+'CIP392797.22': {name: "CIP392797.22",description: "NA: Is a variety resistant to PVY. The plant have medium vegetative period with decumbent plant habit and lilac flowers with white acumen abaxial surface. The variety has a wide adaptation to the tropics under short days. The tubers are oblong with cream flesh are excellent for processing as chips (crisps) and French fry (chips). The variety was realized in Peru in 1998.",
 attr: [{
 name: "Tuber image",
 valu: "tuber/392797.22.jpg"},
@@ -33098,7 +33098,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393077.54': {name: "CIP393077.54",description: "This variety is highly resistance to late blight (horizontal), extreme resistance to PVX and moderately resistant to BW. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit.Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have long-oblong shape with white flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
+'CIP393077.54': {name: "CIP393077.54",description: "NA: This variety is highly resistance to late blight (horizontal), extreme resistance to PVX and moderately resistant to BW. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit.Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have long-oblong shape with white flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393077.54.jpg"},
@@ -36815,7 +36815,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393371.58': {name: "CIP393371.58",description: "This variety is resistant to late blight (horizontal) and extreme resistance to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, white flower color and regular flowering habit. Tubers have oblong shape, cream flesh with superficial eyes, medium to large tuber sizes, intermediate tuber number per plant.Yield high under LB disease. Tubers are good for processing specially for chips (crisps) and French fry (chips). The Variety was released in Peru in 2007",
+'CIP393371.58': {name: "CIP393371.58",description: "NA: This variety is resistant to late blight (horizontal) and extreme resistance to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, white flower color and regular flowering habit. Tubers have oblong shape, cream flesh with superficial eyes, medium to large tuber sizes, intermediate tuber number per plant.Yield high under LB disease. Tubers are good for processing specially for chips (crisps) and French fry (chips). The Variety was released in Peru in 2007",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393371.58.jpg"},
@@ -37169,7 +37169,7 @@ name: "Pollen viability (%)",
 valu: "NA"
 }]},
  
-'CIP393385.39': {name: "CIP393385.39",description: "This variety is resistant to late blight (horizontal) and resistant to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit. Tubers with red skin color with pink eyes, cream flesh, oblong shape with intermediate eyes, medium to large tuber sizes, intermediate tuber number per plant with good yield production are good for processing as chips (crisps) and French fry . Variety with wide range of adaptation within short and intermediate day lengths, and cool low and high lands.",
+'CIP393385.39': {name: "CIP393385.39",description: "NA: This variety is resistant to late blight (horizontal) and resistant to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit. Tubers with red skin color with pink eyes, cream flesh, oblong shape with intermediate eyes, medium to large tuber sizes, intermediate tuber number per plant with good yield production are good for processing as chips (crisps) and French fry . Variety with wide range of adaptation within short and intermediate day lengths, and cool low and high lands.",
 attr: [{
 name: "Tuber image",
 valu: "tuber/393385.39.jpg"},
