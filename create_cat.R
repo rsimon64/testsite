@@ -40,6 +40,17 @@ write(txt, "categoryData.js")
 
 
 to_cat_item <- function(rec){
+  attr_to_json <- function(rec){
+    txt = ""
+    for(j in 12:59){
+      txt = paste0(txt, "\nname: \"",names(rec)[j],"\",")
+      txt = paste0(txt, "\nvalu: \"",rec[j],"\"\n}")
+      if(j < 59) txt = paste0(txt, ",{")
+    }
+    txt
+  }
+  atts = attr_to_json(rec)
+  
   txt = paste0("\n'", rec$`Accession number`, "': {",
     "name: ", "\"",rec$`Accession number`,"\",",
     "description: ", "\"",rec$Description,"\",",
@@ -65,8 +76,8 @@ to_cat_item <- function(rec){
     "\nname: \"Female parent\",",
     "\nvalu: \"", rec$`Parent Female`, "\"},\n{",
     "\nname: \"Male parent\",",
-    "\nvalu: \"", rec$`Parent Male`, "\"}",
-    
+    "\nvalu: \"", rec$`Parent Male`, "\"}, \n{",
+    atts,
      
     "]}"
     ,""           )
