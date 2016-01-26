@@ -24,13 +24,11 @@ code_to_val <- function(avar, acode){
 }
 
 
-fil = "D:/data/catalogs/potato_2014/Catalogo2014_03_28.xls"
+fil = "D:/data/catalogs/potato_2014/Catalogo2016_01_26.xls"
 dat = readxl::read_excel(fil)
 
-#vrs = dat[dat$`Variety or Clone` == "V", ]
+vrs = dat[dat$`Variety or Clone` == "V", ]
 cls = dat[dat$`Variety or Clone` == "C", ]
-
-
 
 to_item = function(x){
   txt = ""
@@ -68,19 +66,31 @@ write(txt, "categoryData.js")
 to_cat_item <- function(rec){
   attr_to_json <- function(rec){
     txt = ""
-    for(j in 12:59){
-      txt = paste0(txt, "\nname: \"",names(rec)[j],"\",")
+    for (j in 6:61){
       val = code_to_val(names(rec)[j], as.character(rec[j]))
-      
-      txt = paste0(txt, "\nvalu: \"",val,"\"\n}")
-      if(j < 59) txt = paste0(txt, ",{")
+      val = stringr::str_trim(val)
+      if (length(val) > 0 ) {
+        if (val != "NA") {
+        txt = paste0(txt, "\n{name: \"", stringr::str_trim(names(rec)[j]),"\",")
+        if(stringr::str_detect(val, "[0-9]{1}\\.[0-9]{1,7}")) {
+          val = as.character(round(as.numeric(val), 2))
+          #val = sprintf("%.2f", round(val, 2))
+          #cat(val)
+        }
+        txt = paste0(txt, " valu: \"",val,"\"},")
+        #if (j < 61) txt = paste0(txt, ",")        
+        }
+      }
     }
+    # Remove trailing comma
+    txt = stringr::str_sub(txt,1, (stringr::str_length(txt)-1))
     txt
   }
   atts = attr_to_json(rec)
   desc = ""
-  if(!is.na(rec$Name)) desc = paste0(desc, rec$Name)
-  if(!is.na(rec$Description)) desc = paste0(desc, ": ", rec$Description)
+  if(!is.na(rec$`Accession name`)) desc = paste0(desc, rec$`Accession name`)
+  if(!is.na(rec$Description) & rec$Description != "NA") desc = paste0(desc, ": ", 
+                                            stringr::str_trim(rec$Description))
   
   
   txt = paste0("\n'", rec$`Accession number`, "': {",
@@ -102,13 +112,7 @@ to_cat_item <- function(rec){
     "\nname: \"Flower image\",",
     "\nvalu: \"flower/", stringr::str_replace(rec$`Accession number`,"CIP",""),".jpg\"},\n{",
     "\nname: \"Fingerprint image\",",
-    "\nvalu: \"finger/", rec$`Accession number`,".jpg\"},\n{",
-    "\nname: \"CIP population group\",",
-    "\nvalu: \"", rec$`Population Group`, "\"},\n{",
-    "\nname: \"Female parent\",",
-    "\nvalu: \"", rec$`Parent Female`, "\"},\n{",
-    "\nname: \"Male parent\",",
-    "\nvalu: \"", rec$`Parent Male`, "\"}, \n{",
+    "\nvalu: \"finger/", rec$`Accession number`,".jpg\"},\n",
     atts,
      
     "]}"
