@@ -1,30 +1,11 @@
-var itemData = {
-'CIP300046.22': {name: "CIP300046.22",description: "NA",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300046.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/300046.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/300046.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300046.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/300046.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/300046.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300046.22.jpg"},
+var itemData = {'CIP300046.22': {name: "CIP300046.22",description: "NA",
+attr: [
+{name: "Tuber image", valu: "Tuber/300046.22.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Flower image", valu: "Flower/300046.22.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.003"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392973.48 (95.048) x 393613.2 (TXY.2)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -44,31 +25,15 @@ valu: "finger/CIP300046.22.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP300048.12': {name: "CIP300048.12",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300048.12.jpg"},
-{
-name: "Fry image",
-valu: "fry/300048.12.jpg"},
-{
-name: "Chips image",
-valu: "chips/300048.12.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300048.12.jpg"},
-{
-name: "Plant image",
-valu: "plant/300048.12.jpg"},
-{
-name: "Flower image",
-valu: "flower/300048.12.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300048.12.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300048.12.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/300048.12.jpg"}, 
+
+{name: "Flower image", valu: "Flower/300048.12.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.006"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392973.48 (95.048) x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -94,31 +59,15 @@ valu: "finger/CIP300048.12.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP300054.29': {name: "CIP300054.29",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300054.29.jpg"},
-{
-name: "Fry image",
-valu: "fry/300054.29.jpg"},
-{
-name: "Chips image",
-valu: "chips/300054.29.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300054.29.jpg"},
-{
-name: "Plant image",
-valu: "plant/300054.29.jpg"},
-{
-name: "Flower image",
-valu: "flower/300054.29.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300054.29.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300054.29.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/300054.29.jpg"}, 
+
+{name: "Flower image", valu: "Flower/300054.29.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.010"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "95.059 x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -137,31 +86,15 @@ valu: "finger/CIP300054.29.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP300055.32': {name: "CIP300055.32",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300055.32.jpg"},
-{
-name: "Fry image",
-valu: "fry/300055.32.jpg"},
-{
-name: "Chips image",
-valu: "chips/300055.32.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300055.32.jpg"},
-{
-name: "Plant image",
-valu: "plant/300055.32.jpg"},
-{
-name: "Flower image",
-valu: "flower/300055.32.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300055.32.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300055.32.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/300055.32.jpg"}, 
+
+{name: "Flower image", valu: "Flower/300055.32.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.012"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "95.071 x 393613.2 (TXY.2)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -178,31 +111,15 @@ valu: "finger/CIP300055.32.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP300056.33': {name: "CIP300056.33",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300056.33.jpg"},
-{
-name: "Fry image",
-valu: "fry/300056.33.jpg"},
-{
-name: "Chips image",
-valu: "chips/300056.33.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300056.33.jpg"},
-{
-name: "Plant image",
-valu: "plant/300056.33.jpg"},
-{
-name: "Flower image",
-valu: "flower/300056.33.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300056.33.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300056.33.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/300056.33.jpg"}, 
+
+{name: "Flower image", valu: "Flower/300056.33.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.014"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "95.071 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Red"},
 {name: "Distribution of secondary tuber skin colour", valu: "In areas around the eyes (splashed)"},
@@ -221,31 +138,13 @@ valu: "finger/CIP300056.33.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP300063.9': {name: "CIP300063.9",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300063.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/300063.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/300063.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300063.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/300063.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/300063.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300063.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300063.9.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/300063.9.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.019"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393536.13 (95.103) x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -271,31 +170,15 @@ valu: "finger/CIP300063.9.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP300065.4': {name: "CIP300065.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300065.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/300065.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/300065.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300065.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/300065.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/300065.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300065.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300065.4.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/300065.4.jpg"}, 
+
+{name: "Flower image", valu: "Flower/300065.4.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.020"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391382.18 (95.108) x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -313,31 +196,15 @@ valu: "finger/CIP300065.4.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP300066.11': {name: "CIP300066.11",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300066.11.jpg"},
-{
-name: "Fry image",
-valu: "fry/300066.11.jpg"},
-{
-name: "Chips image",
-valu: "chips/300066.11.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300066.11.jpg"},
-{
-name: "Plant image",
-valu: "plant/300066.11.jpg"},
-{
-name: "Flower image",
-valu: "flower/300066.11.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300066.11.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300066.11.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/300066.11.jpg"}, 
+
+{name: "Flower image", valu: "Flower/300066.11.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.021"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391382.18 (95.108) x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -357,31 +224,15 @@ valu: "finger/CIP300066.11.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP300072.1': {name: "CIP300072.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300072.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/300072.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/300072.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300072.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/300072.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/300072.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300072.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300072.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/300072.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/300072.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.022"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "95.139 x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -400,31 +251,15 @@ valu: "finger/CIP300072.1.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP300089.36': {name: "CIP300089.36",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300089.36.jpg"},
-{
-name: "Fry image",
-valu: "fry/300089.36.jpg"},
-{
-name: "Chips image",
-valu: "chips/300089.36.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300089.36.jpg"},
-{
-name: "Plant image",
-valu: "plant/300089.36.jpg"},
-{
-name: "Flower image",
-valu: "flower/300089.36.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300089.36.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300089.36.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/300089.36.jpg"}, 
+
+{name: "Flower image", valu: "Flower/300089.36.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.023"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "95.202 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -450,31 +285,15 @@ valu: "finger/CIP300089.36.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP300099.22': {name: "CIP300099.22",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300099.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/300099.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/300099.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300099.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/300099.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/300099.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300099.22.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300099.22.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/300099.22.jpg"}, 
+
+{name: "Flower image", valu: "Flower/300099.22.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.031"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393533.2 (95.302) x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -494,31 +313,15 @@ valu: "finger/CIP300099.22.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP300101.11': {name: "CIP300101.11",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300101.11.jpg"},
-{
-name: "Fry image",
-valu: "fry/300101.11.jpg"},
-{
-name: "Chips image",
-valu: "chips/300101.11.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300101.11.jpg"},
-{
-name: "Plant image",
-valu: "plant/300101.11.jpg"},
-{
-name: "Flower image",
-valu: "flower/300101.11.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300101.11.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300101.11.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/300101.11.jpg"}, 
+
+{name: "Flower image", valu: "Flower/300101.11.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.032"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "390674.33 (95.303) x 387170.9"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Yellow"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -547,31 +350,15 @@ valu: "finger/CIP300101.11.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP300135.14': {name: "CIP300135.14",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300135.14.jpg"},
-{
-name: "Fry image",
-valu: "fry/300135.14.jpg"},
-{
-name: "Chips image",
-valu: "chips/300135.14.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300135.14.jpg"},
-{
-name: "Plant image",
-valu: "plant/300135.14.jpg"},
-{
-name: "Flower image",
-valu: "flower/300135.14.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300135.14.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300135.14.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/300135.14.jpg"}, 
+
+{name: "Flower image", valu: "Flower/300135.14.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.044"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "MARIVA x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -597,31 +384,13 @@ valu: "finger/CIP300135.14.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP300137.31': {name: "CIP300137.31",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/300137.31.jpg"},
-{
-name: "Fry image",
-valu: "fry/300137.31.jpg"},
-{
-name: "Chips image",
-valu: "chips/300137.31.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/300137.31.jpg"},
-{
-name: "Plant image",
-valu: "plant/300137.31.jpg"},
-{
-name: "Flower image",
-valu: "flower/300137.31.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP300137.31.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/300137.31.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Flower image", valu: "Flower/300137.31.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR00.046"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "95.187 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Red"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -649,31 +418,15 @@ valu: "finger/CIP300137.31.jpg"},
 {name: "Antioxidant Ability Hydrophilic (ug Trolox equiv/g fw)", valu: ""}]},
  
 'CIP301023.15': {name: "CIP301023.15",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/301023.15.jpg"},
-{
-name: "Fry image",
-valu: "fry/301023.15.jpg"},
-{
-name: "Chips image",
-valu: "chips/301023.15.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/301023.15.jpg"},
-{
-name: "Plant image",
-valu: "plant/301023.15.jpg"},
-{
-name: "Flower image",
-valu: "flower/301023.15.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP301023.15.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/301023.15.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/301023.15.jpg"}, 
+
+{name: "Flower image", valu: "Flower/301023.15.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C01.020"},
 {name: "Population Group", valu: "Intermediate LT-LB"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391180.6 (C90.266) x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -690,31 +443,15 @@ valu: "finger/CIP301023.15.jpg"},
 {name: "Adaptability", valu: "Mid elevation tropics"}]},
  
 'CIP301024.14': {name: "CIP301024.14",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/301024.14.jpg"},
-{
-name: "Fry image",
-valu: "fry/301024.14.jpg"},
-{
-name: "Chips image",
-valu: "chips/301024.14.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/301024.14.jpg"},
-{
-name: "Plant image",
-valu: "plant/301024.14.jpg"},
-{
-name: "Flower image",
-valu: "flower/301024.14.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP301024.14.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/301024.14.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/301024.14.jpg"}, 
+
+{name: "Flower image", valu: "Flower/301024.14.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C01.018"},
 {name: "Population Group", valu: "Intermediate LT-LB"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388615.22 (C91.640) x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Red"},
 {name: "Distribution of secondary tuber skin colour", valu: "In areas around the eyes (splashed)"},
@@ -739,31 +476,13 @@ valu: "finger/CIP301024.14.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP301024.95': {name: "CIP301024.95",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/301024.95.jpg"},
-{
-name: "Fry image",
-valu: "fry/301024.95.jpg"},
-{
-name: "Chips image",
-valu: "chips/301024.95.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/301024.95.jpg"},
-{
-name: "Plant image",
-valu: "plant/301024.95.jpg"},
-{
-name: "Flower image",
-valu: "flower/301024.95.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP301024.95.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/301024.95.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Flower image", valu: "Flower/301024.95.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C01.242"},
 {name: "Population Group", valu: "Intermediate LT-LB"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388615.22 (C91.640) x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -780,31 +499,15 @@ valu: "finger/CIP301024.95.jpg"},
 {name: "Adaptability", valu: "Mid elevation tropics"}]},
  
 'CIP301026.23': {name: "CIP301026.23",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/301026.23.jpg"},
-{
-name: "Fry image",
-valu: "fry/301026.23.jpg"},
-{
-name: "Chips image",
-valu: "chips/301026.23.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/301026.23.jpg"},
-{
-name: "Plant image",
-valu: "plant/301026.23.jpg"},
-{
-name: "Flower image",
-valu: "flower/301026.23.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP301026.23.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/301026.23.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/301026.23.jpg"}, 
+
+{name: "Flower image", valu: "Flower/301026.23.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C01.040"},
 {name: "Population Group", valu: "Intermediate LT-LB"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "389746.2 x BOGNA"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -821,31 +524,13 @@ valu: "finger/CIP301026.23.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP301029.18': {name: "CIP301029.18",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/301029.18.jpg"},
-{
-name: "Fry image",
-valu: "fry/301029.18.jpg"},
-{
-name: "Chips image",
-valu: "chips/301029.18.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/301029.18.jpg"},
-{
-name: "Plant image",
-valu: "plant/301029.18.jpg"},
-{
-name: "Flower image",
-valu: "flower/301029.18.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP301029.18.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/301029.18.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Flower image", valu: "Flower/301029.18.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C01.030"},
 {name: "Population Group", valu: "Intermediate LT-LB"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "C97.255 x C95.397"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -872,31 +557,15 @@ valu: "finger/CIP301029.18.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP301037.85': {name: "CIP301037.85",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/301037.85.jpg"},
-{
-name: "Fry image",
-valu: "fry/301037.85.jpg"},
-{
-name: "Chips image",
-valu: "chips/301037.85.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/301037.85.jpg"},
-{
-name: "Plant image",
-valu: "plant/301037.85.jpg"},
-{
-name: "Flower image",
-valu: "flower/301037.85.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP301037.85.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/301037.85.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/301037.85.jpg"}, 
+
+{name: "Flower image", valu: "Flower/301037.85.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C01.210"},
 {name: "Population Group", valu: "Intermediate LT-LB"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387205.5 x 702853 (LOP-868)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -923,29 +592,13 @@ valu: "finger/CIP301037.85.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP301040.63': {name: "CIP301040.63",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/301040.63.jpg"},
-{
-name: "Fry image",
-valu: "fry/301040.63.jpg"},
-{
-name: "Chips image",
-valu: "chips/301040.63.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/301040.63.jpg"},
-{
-name: "Plant image",
-valu: "plant/301040.63.jpg"},
-{
-name: "Flower image",
-valu: "flower/301040.63.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP301040.63.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/301040.63.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/301040.63.jpg"}, 
+
+{name: "Flower image", valu: "Flower/301040.63.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C01.154"},
 {name: "Population Group", valu: "Intermediate LT-LB"},
 {name: "Parentage", valu: "UNICA x 702853 (LOP-868)"},
 {name: "Predominant tuber skin color", valu: "Red"},
@@ -974,31 +627,13 @@ valu: "finger/CIP301040.63.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP301041.26': {name: "CIP301041.26",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/301041.26.jpg"},
-{
-name: "Fry image",
-valu: "fry/301041.26.jpg"},
-{
-name: "Chips image",
-valu: "chips/301041.26.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/301041.26.jpg"},
-{
-name: "Plant image",
-valu: "plant/301041.26.jpg"},
-{
-name: "Flower image",
-valu: "flower/301041.26.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP301041.26.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/301041.26.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Flower image", valu: "Flower/301041.26.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C01.051"},
 {name: "Population Group", valu: "Intermediate LT-LB"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "389746.2 x LOP-886"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Red"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -1015,31 +650,15 @@ valu: "finger/CIP301041.26.jpg"},
 {name: "Adaptability", valu: "Mid elevation tropics"}]},
  
 'CIP301044.36': {name: "CIP301044.36",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/301044.36.jpg"},
-{
-name: "Fry image",
-valu: "fry/301044.36.jpg"},
-{
-name: "Chips image",
-valu: "chips/301044.36.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/301044.36.jpg"},
-{
-name: "Plant image",
-valu: "plant/301044.36.jpg"},
-{
-name: "Flower image",
-valu: "flower/301044.36.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP301044.36.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/301044.36.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/301044.36.jpg"}, 
+
+{name: "Flower image", valu: "Flower/301044.36.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C01.085"},
 {name: "Population Group", valu: "Intermediate LT-LB"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392025.7 (LR93.221) x LOP-886"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Purple"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -1056,31 +675,13 @@ valu: "finger/CIP301044.36.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP301045.74': {name: "CIP301045.74",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/301045.74.jpg"},
-{
-name: "Fry image",
-valu: "fry/301045.74.jpg"},
-{
-name: "Chips image",
-valu: "chips/301045.74.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/301045.74.jpg"},
-{
-name: "Plant image",
-valu: "plant/301045.74.jpg"},
-{
-name: "Flower image",
-valu: "flower/301045.74.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP301045.74.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/301045.74.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Flower image", valu: "Flower/301045.74.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C01.174"},
 {name: "Population Group", valu: "Intermediate LT-LB"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387205.5 x 391207.2 (LR93.050)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1097,31 +698,13 @@ valu: "finger/CIP301045.74.jpg"},
 {name: "Adaptability", valu: "Mid elevation tropics"}]},
  
 'CIP301055.53': {name: "CIP301055.53",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/301055.53.jpg"},
-{
-name: "Fry image",
-valu: "fry/301055.53.jpg"},
-{
-name: "Chips image",
-valu: "chips/301055.53.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/301055.53.jpg"},
-{
-name: "Plant image",
-valu: "plant/301055.53.jpg"},
-{
-name: "Flower image",
-valu: "flower/301055.53.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP301055.53.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/301055.53.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Flower image", valu: "Flower/301055.53.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C01.120"},
 {name: "Population Group", valu: "Intermediate LT-LB"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "389746.2 x 393617.1 (TXY.11)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1137,31 +720,15 @@ valu: "finger/CIP301055.53.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP301056.54': {name: "CIP301056.54",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/301056.54.jpg"},
-{
-name: "Fry image",
-valu: "fry/301056.54.jpg"},
-{
-name: "Chips image",
-valu: "chips/301056.54.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/301056.54.jpg"},
-{
-name: "Plant image",
-valu: "plant/301056.54.jpg"},
-{
-name: "Flower image",
-valu: "flower/301056.54.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP301056.54.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/301056.54.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/301056.54.jpg"}, 
+
+{name: "Flower image", valu: "Flower/301056.54.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C01.122"},
 {name: "Population Group", valu: "Intermediate LT-LB"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "385205.5 x 393613.2 (TXY.2)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1186,31 +753,11 @@ valu: "finger/CIP301056.54.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP302278.28': {name: "CIP302278.28",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302278.28.jpg"},
-{
-name: "Fry image",
-valu: "fry/302278.28.jpg"},
-{
-name: "Chips image",
-valu: "chips/302278.28.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302278.28.jpg"},
-{
-name: "Plant image",
-valu: "plant/302278.28.jpg"},
-{
-name: "Flower image",
-valu: "flower/302278.28.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302278.28.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302278.28.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-005"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393613.2=(TXY.2) x Adg purple flesh bulk"},
 {name: "Predominant tuber skin color", valu: "Blackish"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1235,31 +782,11 @@ valu: "finger/CIP302278.28.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "1.71"}]},
  
 'CIP302279.11': {name: "CIP302279.11",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302279.11.jpg"},
-{
-name: "Fry image",
-valu: "fry/302279.11.jpg"},
-{
-name: "Chips image",
-valu: "chips/302279.11.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302279.11.jpg"},
-{
-name: "Plant image",
-valu: "plant/302279.11.jpg"},
-{
-name: "Flower image",
-valu: "flower/302279.11.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302279.11.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302279.11.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-006"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "386733.3 (88.108) x Adg purple flesh bulk"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1286,28 +813,8 @@ valu: "finger/CIP302279.11.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.22"}]},
  
 'CIP302280.14': {name: "CIP302280.14",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302280.14.jpg"},
-{
-name: "Fry image",
-valu: "fry/302280.14.jpg"},
-{
-name: "Chips image",
-valu: "chips/302280.14.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302280.14.jpg"},
-{
-name: "Plant image",
-valu: "plant/302280.14.jpg"},
-{
-name: "Flower image",
-valu: "flower/302280.14.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302280.14.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302280.14.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-022"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "800827=(ATLANTIC) x Adg purple flesh bulk"},
@@ -1336,28 +843,8 @@ valu: "finger/CIP302280.14.jpg"},
 {name: "Antioxidant Ability Hydrophilic (ug Trolox equiv/g fw)", valu: "843.28"}]},
  
 'CIP302280.21': {name: "CIP302280.21",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302280.21.jpg"},
-{
-name: "Fry image",
-valu: "fry/302280.21.jpg"},
-{
-name: "Chips image",
-valu: "chips/302280.21.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302280.21.jpg"},
-{
-name: "Plant image",
-valu: "plant/302280.21.jpg"},
-{
-name: "Flower image",
-valu: "flower/302280.21.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302280.21.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302280.21.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-025"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "800827 (ATLANTIC) x Adg purple flesh bulk"},
@@ -1377,28 +864,8 @@ valu: "finger/CIP302280.21.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302280.23': {name: "CIP302280.23",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302280.23.jpg"},
-{
-name: "Fry image",
-valu: "fry/302280.23.jpg"},
-{
-name: "Chips image",
-valu: "chips/302280.23.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302280.23.jpg"},
-{
-name: "Plant image",
-valu: "plant/302280.23.jpg"},
-{
-name: "Flower image",
-valu: "flower/302280.23.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302280.23.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302280.23.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-027"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "800827=(ATLANTIC) x Adg purple flesh bulk"},
@@ -1426,31 +893,11 @@ valu: "finger/CIP302280.23.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302281.15': {name: "CIP302281.15",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302281.15.jpg"},
-{
-name: "Fry image",
-valu: "fry/302281.15.jpg"},
-{
-name: "Chips image",
-valu: "chips/302281.15.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302281.15.jpg"},
-{
-name: "Plant image",
-valu: "plant/302281.15.jpg"},
-{
-name: "Flower image",
-valu: "flower/302281.15.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302281.15.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302281.15.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-030"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22 (C91.612) x Adg purple flesh bulk"},
 {name: "Predominant tuber skin color", valu: "Blackish"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1479,31 +926,11 @@ valu: "finger/CIP302281.15.jpg"},
 {name: "Antioxidant Ability Lypophilic (ug Trolox equiv/g fw)", valu: "87.04"}]},
  
 'CIP302281.17': {name: "CIP302281.17",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302281.17.jpg"},
-{
-name: "Fry image",
-valu: "fry/302281.17.jpg"},
-{
-name: "Chips image",
-valu: "chips/302281.17.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302281.17.jpg"},
-{
-name: "Plant image",
-valu: "plant/302281.17.jpg"},
-{
-name: "Flower image",
-valu: "flower/302281.17.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302281.17.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302281.17.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-032"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22=(C91.612) x Adg purple flesh bulk"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1520,31 +947,11 @@ valu: "finger/CIP302281.17.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302281.18': {name: "CIP302281.18",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302281.18.jpg"},
-{
-name: "Fry image",
-valu: "fry/302281.18.jpg"},
-{
-name: "Chips image",
-valu: "chips/302281.18.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302281.18.jpg"},
-{
-name: "Plant image",
-valu: "plant/302281.18.jpg"},
-{
-name: "Flower image",
-valu: "flower/302281.18.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302281.18.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302281.18.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-033"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22 (C91.612) x Adg purple flesh bulk"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1573,31 +980,11 @@ valu: "finger/CIP302281.18.jpg"},
 {name: "Antioxidant Ability Lypophilic (ug Trolox equiv/g fw)", valu: "66.54"}]},
  
 'CIP302281.25': {name: "CIP302281.25",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302281.25.jpg"},
-{
-name: "Fry image",
-valu: "fry/302281.25.jpg"},
-{
-name: "Chips image",
-valu: "chips/302281.25.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302281.25.jpg"},
-{
-name: "Plant image",
-valu: "plant/302281.25.jpg"},
-{
-name: "Flower image",
-valu: "flower/302281.25.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302281.25.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302281.25.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-036"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22=(C91.612) x Adg purple flesh bulk"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1617,31 +1004,11 @@ valu: "finger/CIP302281.25.jpg"},
 {name: "Antioxidant Ability Lypophilic (ug Trolox equiv/g fw)", valu: "86.42"}]},
  
 'CIP302281.27': {name: "CIP302281.27",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302281.27.jpg"},
-{
-name: "Fry image",
-valu: "fry/302281.27.jpg"},
-{
-name: "Chips image",
-valu: "chips/302281.27.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302281.27.jpg"},
-{
-name: "Plant image",
-valu: "plant/302281.27.jpg"},
-{
-name: "Flower image",
-valu: "flower/302281.27.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302281.27.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302281.27.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-037"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22 (C91.612) x Adg purple flesh bulk"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1670,31 +1037,11 @@ valu: "finger/CIP302281.27.jpg"},
 {name: "Antioxidant Ability Lypophilic (ug Trolox equiv/g fw)", valu: "26.16"}]},
  
 'CIP302281.39': {name: "CIP302281.39",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302281.39.jpg"},
-{
-name: "Fry image",
-valu: "fry/302281.39.jpg"},
-{
-name: "Chips image",
-valu: "chips/302281.39.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302281.39.jpg"},
-{
-name: "Plant image",
-valu: "plant/302281.39.jpg"},
-{
-name: "Flower image",
-valu: "flower/302281.39.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302281.39.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302281.39.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-041"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22=(C91.612) x Adg purple flesh bulk"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1723,31 +1070,11 @@ valu: "finger/CIP302281.39.jpg"},
 {name: "Antioxidant Ability Lypophilic (ug Trolox equiv/g fw)", valu: "76.31"}]},
  
 'CIP302284.17': {name: "CIP302284.17",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302284.17.jpg"},
-{
-name: "Fry image",
-valu: "fry/302284.17.jpg"},
-{
-name: "Chips image",
-valu: "chips/302284.17.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302284.17.jpg"},
-{
-name: "Plant image",
-valu: "plant/302284.17.jpg"},
-{
-name: "Flower image",
-valu: "flower/302284.17.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302284.17.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302284.17.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-067"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392011.1 (LR93.160) x Adg purple flesh bulk"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1776,31 +1103,11 @@ valu: "finger/CIP302284.17.jpg"},
 {name: "Antioxidant Ability Lypophilic (ug Trolox equiv/g fw)", valu: "70.5"}]},
  
 'CIP302285.27': {name: "CIP302285.27",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302285.27.jpg"},
-{
-name: "Fry image",
-valu: "fry/302285.27.jpg"},
-{
-name: "Chips image",
-valu: "chips/302285.27.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302285.27.jpg"},
-{
-name: "Plant image",
-valu: "plant/302285.27.jpg"},
-{
-name: "Flower image",
-valu: "flower/302285.27.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302285.27.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302285.27.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-079"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "379706.27 (LT-8) x Adg purple flesh bulk"},
 {name: "Predominant tuber skin color", valu: "Blackish"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1829,31 +1136,11 @@ valu: "finger/CIP302285.27.jpg"},
 {name: "Antioxidant Ability Lypophilic (ug Trolox equiv/g fw)", valu: "31.41"}]},
  
 'CIP302285.31': {name: "CIP302285.31",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302285.31.jpg"},
-{
-name: "Fry image",
-valu: "fry/302285.31.jpg"},
-{
-name: "Chips image",
-valu: "chips/302285.31.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302285.31.jpg"},
-{
-name: "Plant image",
-valu: "plant/302285.31.jpg"},
-{
-name: "Flower image",
-valu: "flower/302285.31.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302285.31.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302285.31.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-081"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "379706.27 (LT-8) x Adg purple flesh bulk"},
 {name: "Predominant tuber skin color", valu: "Blackish"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -1882,28 +1169,8 @@ valu: "finger/CIP302285.31.jpg"},
 {name: "Antioxidant Ability Lypophilic (ug Trolox equiv/g fw)", valu: "36.09"}]},
  
 'CIP302286.13': {name: "CIP302286.13",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302286.13.jpg"},
-{
-name: "Fry image",
-valu: "fry/302286.13.jpg"},
-{
-name: "Chips image",
-valu: "chips/302286.13.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302286.13.jpg"},
-{
-name: "Plant image",
-valu: "plant/302286.13.jpg"},
-{
-name: "Flower image",
-valu: "flower/302286.13.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302286.13.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302286.13.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-086"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "MONALISA x Adg purple flesh bulk"},
@@ -1923,28 +1190,8 @@ valu: "finger/CIP302286.13.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302286.26': {name: "CIP302286.26",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302286.26.jpg"},
-{
-name: "Fry image",
-valu: "fry/302286.26.jpg"},
-{
-name: "Chips image",
-valu: "chips/302286.26.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302286.26.jpg"},
-{
-name: "Plant image",
-valu: "plant/302286.26.jpg"},
-{
-name: "Flower image",
-valu: "flower/302286.26.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302286.26.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302286.26.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-090"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "MONALISA x Adg purple flesh bulk"},
@@ -1975,28 +1222,8 @@ valu: "finger/CIP302286.26.jpg"},
 {name: "Antioxidant Ability Lypophilic (ug Trolox equiv/g fw)", valu: "61.96"}]},
  
 'CIP302286.28': {name: "CIP302286.28",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302286.28.jpg"},
-{
-name: "Fry image",
-valu: "fry/302286.28.jpg"},
-{
-name: "Chips image",
-valu: "chips/302286.28.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302286.28.jpg"},
-{
-name: "Plant image",
-valu: "plant/302286.28.jpg"},
-{
-name: "Flower image",
-valu: "flower/302286.28.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302286.28.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302286.28.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-091"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "MONALISA x Adg purple flesh bulk"},
@@ -2016,28 +1243,8 @@ valu: "finger/CIP302286.28.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302288.14': {name: "CIP302288.14",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302288.14.jpg"},
-{
-name: "Fry image",
-valu: "fry/302288.14.jpg"},
-{
-name: "Chips image",
-valu: "chips/302288.14.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302288.14.jpg"},
-{
-name: "Plant image",
-valu: "plant/302288.14.jpg"},
-{
-name: "Flower image",
-valu: "flower/302288.14.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302288.14.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302288.14.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-104"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780278=(PW-88-6065) x Adg purple flesh bulk"},
@@ -2066,28 +1273,8 @@ valu: "finger/CIP302288.14.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302288.31': {name: "CIP302288.31",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302288.31.jpg"},
-{
-name: "Fry image",
-valu: "fry/302288.31.jpg"},
-{
-name: "Chips image",
-valu: "chips/302288.31.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302288.31.jpg"},
-{
-name: "Plant image",
-valu: "plant/302288.31.jpg"},
-{
-name: "Flower image",
-valu: "flower/302288.31.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302288.31.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302288.31.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-110"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780278=(PW-88-6065) x Adg purple flesh bulk"},
@@ -2110,28 +1297,8 @@ valu: "finger/CIP302288.31.jpg"},
 {name: "Antioxidant Ability Lypophilic (ug Trolox equiv/g fw)", valu: "49.22"}]},
  
 'CIP302288.35': {name: "CIP302288.35",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302288.35.jpg"},
-{
-name: "Fry image",
-valu: "fry/302288.35.jpg"},
-{
-name: "Chips image",
-valu: "chips/302288.35.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302288.35.jpg"},
-{
-name: "Plant image",
-valu: "plant/302288.35.jpg"},
-{
-name: "Flower image",
-valu: "flower/302288.35.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302288.35.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302288.35.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-113"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780278=(PW-88-6065) x Adg purple flesh bulk"},
@@ -2162,28 +1329,8 @@ valu: "finger/CIP302288.35.jpg"},
 {name: "Antioxidant Ability Hydrophilic (ug Trolox equiv/g fw)", valu: "531.89"}]},
  
 'CIP302288.39': {name: "CIP302288.39",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302288.39.jpg"},
-{
-name: "Fry image",
-valu: "fry/302288.39.jpg"},
-{
-name: "Chips image",
-valu: "chips/302288.39.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302288.39.jpg"},
-{
-name: "Plant image",
-valu: "plant/302288.39.jpg"},
-{
-name: "Flower image",
-valu: "flower/302288.39.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302288.39.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302288.39.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-116"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780278 (PW-88-6065) x Adg purple flesh bulk"},
@@ -2203,28 +1350,8 @@ valu: "finger/CIP302288.39.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302288.42': {name: "CIP302288.42",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302288.42.jpg"},
-{
-name: "Fry image",
-valu: "fry/302288.42.jpg"},
-{
-name: "Chips image",
-valu: "chips/302288.42.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302288.42.jpg"},
-{
-name: "Plant image",
-valu: "plant/302288.42.jpg"},
-{
-name: "Flower image",
-valu: "flower/302288.42.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302288.42.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302288.42.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-117"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780278 (PW-88-6065) x Adg purple flesh bulk"},
@@ -2254,28 +1381,8 @@ valu: "finger/CIP302288.42.jpg"},
 {name: "Antioxidant Ability Hydrophilic (ug Trolox equiv/g fw)", valu: "696.44"}]},
  
 'CIP302289.32': {name: "CIP302289.32",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302289.32.jpg"},
-{
-name: "Fry image",
-valu: "fry/302289.32.jpg"},
-{
-name: "Chips image",
-valu: "chips/302289.32.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302289.32.jpg"},
-{
-name: "Plant image",
-valu: "plant/302289.32.jpg"},
-{
-name: "Flower image",
-valu: "flower/302289.32.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302289.32.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302289.32.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-122"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780279 (PW-88-6187) x Adg purple flesh bulk"},
@@ -2305,28 +1412,8 @@ valu: "finger/CIP302289.32.jpg"},
 {name: "Antioxidant Ability Hydrophilic (ug Trolox equiv/g fw)", valu: "926.86"}]},
  
 'CIP302289.41': {name: "CIP302289.41",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302289.41.jpg"},
-{
-name: "Fry image",
-valu: "fry/302289.41.jpg"},
-{
-name: "Chips image",
-valu: "chips/302289.41.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302289.41.jpg"},
-{
-name: "Plant image",
-valu: "plant/302289.41.jpg"},
-{
-name: "Flower image",
-valu: "flower/302289.41.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302289.41.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302289.41.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-127"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780279 (PW-88-6187) x Adg purple flesh bulk"},
@@ -2344,28 +1431,8 @@ valu: "finger/CIP302289.41.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302290.11': {name: "CIP302290.11",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302290.11.jpg"},
-{
-name: "Fry image",
-valu: "fry/302290.11.jpg"},
-{
-name: "Chips image",
-valu: "chips/302290.11.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302290.11.jpg"},
-{
-name: "Plant image",
-valu: "plant/302290.11.jpg"},
-{
-name: "Flower image",
-valu: "flower/302290.11.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302290.11.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302290.11.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-128"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "800923 (SPUNTA) x Adg purple flesh bulk"},
@@ -2396,28 +1463,8 @@ valu: "finger/CIP302290.11.jpg"},
 {name: "Antioxidant Ability Hydrophilic (ug Trolox equiv/g fw)", valu: "1083.23"}]},
  
 'CIP302290.13': {name: "CIP302290.13",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302290.13.jpg"},
-{
-name: "Fry image",
-valu: "fry/302290.13.jpg"},
-{
-name: "Chips image",
-valu: "chips/302290.13.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302290.13.jpg"},
-{
-name: "Plant image",
-valu: "plant/302290.13.jpg"},
-{
-name: "Flower image",
-valu: "flower/302290.13.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302290.13.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302290.13.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-129"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "800923 (SPUNTA) x Adg purple flesh bulk"},
@@ -2449,28 +1496,8 @@ valu: "finger/CIP302290.13.jpg"},
 {name: "Antioxidant Ability Lypophilic (ug Trolox equiv/g fw)", valu: "18.82"}]},
  
 'CIP302290.23': {name: "CIP302290.23",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302290.23.jpg"},
-{
-name: "Fry image",
-valu: "fry/302290.23.jpg"},
-{
-name: "Chips image",
-valu: "chips/302290.23.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302290.23.jpg"},
-{
-name: "Plant image",
-valu: "plant/302290.23.jpg"},
-{
-name: "Flower image",
-valu: "flower/302290.23.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302290.23.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302290.23.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-134"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "800923 (SPUNTA) x Adg purple flesh bulk"},
@@ -2499,28 +1526,8 @@ valu: "finger/CIP302290.23.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.18"}]},
  
 'CIP302293.22': {name: "CIP302293.22",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302293.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/302293.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/302293.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302293.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/302293.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/302293.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302293.22.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302293.22.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-144"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "800923=(SPUNTA) x Adg red flesh bulk"},
@@ -2548,31 +1555,11 @@ valu: "finger/CIP302293.22.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302295.32': {name: "CIP302295.32",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302295.32.jpg"},
-{
-name: "Fry image",
-valu: "fry/302295.32.jpg"},
-{
-name: "Chips image",
-valu: "chips/302295.32.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302295.32.jpg"},
-{
-name: "Plant image",
-valu: "plant/302295.32.jpg"},
-{
-name: "Flower image",
-valu: "flower/302295.32.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302295.32.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302295.32.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-150"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "386733.3 (88108) x Adg red flesh bulk"},
 {name: "Predominant tuber skin color", valu: "Purplish-red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -2598,28 +1585,8 @@ valu: "finger/CIP302295.32.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.17"}]},
  
 'CIP302296.21': {name: "CIP302296.21",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302296.21.jpg"},
-{
-name: "Fry image",
-valu: "fry/302296.21.jpg"},
-{
-name: "Chips image",
-valu: "chips/302296.21.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302296.21.jpg"},
-{
-name: "Plant image",
-valu: "plant/302296.21.jpg"},
-{
-name: "Flower image",
-valu: "flower/302296.21.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302296.21.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302296.21.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-154"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "800827=(ATLANTIC) x Adg red flesh bulk"},
@@ -2638,31 +1605,11 @@ valu: "finger/CIP302296.21.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302297.35': {name: "CIP302297.35",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302297.35.jpg"},
-{
-name: "Fry image",
-valu: "fry/302297.35.jpg"},
-{
-name: "Chips image",
-valu: "chips/302297.35.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302297.35.jpg"},
-{
-name: "Plant image",
-valu: "plant/302297.35.jpg"},
-{
-name: "Flower image",
-valu: "flower/302297.35.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302297.35.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302297.35.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-160"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22 (REICHE (C91.612)) x Adg red flesh bulk"},
 {name: "Predominant tuber skin color", valu: "Purplish-red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -2689,31 +1636,11 @@ valu: "finger/CIP302297.35.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.16"}]},
  
 'CIP302298.16': {name: "CIP302298.16",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302298.16.jpg"},
-{
-name: "Fry image",
-valu: "fry/302298.16.jpg"},
-{
-name: "Chips image",
-valu: "chips/302298.16.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302298.16.jpg"},
-{
-name: "Plant image",
-valu: "plant/302298.16.jpg"},
-{
-name: "Flower image",
-valu: "flower/302298.16.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302298.16.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302298.16.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-165"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392797.22=(C92.140) x Adg red flesh bulk"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -2731,31 +1658,11 @@ valu: "finger/CIP302298.16.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.06"}]},
  
 'CIP302298.17': {name: "CIP302298.17",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302298.17.jpg"},
-{
-name: "Fry image",
-valu: "fry/302298.17.jpg"},
-{
-name: "Chips image",
-valu: "chips/302298.17.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302298.17.jpg"},
-{
-name: "Plant image",
-valu: "plant/302298.17.jpg"},
-{
-name: "Flower image",
-valu: "flower/302298.17.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302298.17.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302298.17.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-166"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392797.22 (C92.140) x Adg red flesh bulk"},
 {name: "Predominant tuber skin color", valu: "Purplish-red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -2772,31 +1679,11 @@ valu: "finger/CIP302298.17.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302298.23': {name: "CIP302298.23",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302298.23.jpg"},
-{
-name: "Fry image",
-valu: "fry/302298.23.jpg"},
-{
-name: "Chips image",
-valu: "chips/302298.23.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302298.23.jpg"},
-{
-name: "Plant image",
-valu: "plant/302298.23.jpg"},
-{
-name: "Flower image",
-valu: "flower/302298.23.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302298.23.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302298.23.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-169"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392797.22 (C92.140) x Adg red flesh bulk"},
 {name: "Predominant tuber skin color", valu: "Purplish-red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -2825,31 +1712,11 @@ valu: "finger/CIP302298.23.jpg"},
 {name: "Antioxidant Ability Lypophilic (ug Trolox equiv/g fw)", valu: "80.9"}]},
  
 'CIP302298.42': {name: "CIP302298.42",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302298.42.jpg"},
-{
-name: "Fry image",
-valu: "fry/302298.42.jpg"},
-{
-name: "Chips image",
-valu: "chips/302298.42.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302298.42.jpg"},
-{
-name: "Plant image",
-valu: "plant/302298.42.jpg"},
-{
-name: "Flower image",
-valu: "flower/302298.42.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302298.42.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302298.42.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-174"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392797.22 (C92.140) x Adg red flesh bulk"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -2876,31 +1743,11 @@ valu: "finger/CIP302298.42.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.01"}]},
  
 'CIP302298.44': {name: "CIP302298.44",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302298.44.jpg"},
-{
-name: "Fry image",
-valu: "fry/302298.44.jpg"},
-{
-name: "Chips image",
-valu: "chips/302298.44.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302298.44.jpg"},
-{
-name: "Plant image",
-valu: "plant/302298.44.jpg"},
-{
-name: "Flower image",
-valu: "flower/302298.44.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302298.44.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302298.44.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-175"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392797.22=(C92.140) x Adg red flesh bulk"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -2926,28 +1773,8 @@ valu: "finger/CIP302298.44.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.04"}]},
  
 'CIP302299.13': {name: "CIP302299.13",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302299.13.jpg"},
-{
-name: "Fry image",
-valu: "fry/302299.13.jpg"},
-{
-name: "Chips image",
-valu: "chips/302299.13.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302299.13.jpg"},
-{
-name: "Plant image",
-valu: "plant/302299.13.jpg"},
-{
-name: "Flower image",
-valu: "flower/302299.13.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302299.13.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302299.13.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-180"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "DELCORA x Adg red flesh bulk"},
@@ -2966,28 +1793,8 @@ valu: "finger/CIP302299.13.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302299.16': {name: "CIP302299.16",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302299.16.jpg"},
-{
-name: "Fry image",
-valu: "fry/302299.16.jpg"},
-{
-name: "Chips image",
-valu: "chips/302299.16.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302299.16.jpg"},
-{
-name: "Plant image",
-valu: "plant/302299.16.jpg"},
-{
-name: "Flower image",
-valu: "flower/302299.16.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302299.16.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302299.16.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-183"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "DELCORA x Adg red flesh bulk"},
@@ -3017,31 +1824,11 @@ valu: "finger/CIP302299.16.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.04"}]},
  
 'CIP302300.25': {name: "CIP302300.25",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302300.25.jpg"},
-{
-name: "Fry image",
-valu: "fry/302300.25.jpg"},
-{
-name: "Chips image",
-valu: "chips/302300.25.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302300.25.jpg"},
-{
-name: "Plant image",
-valu: "plant/302300.25.jpg"},
-{
-name: "Flower image",
-valu: "flower/302300.25.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302300.25.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302300.25.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-191"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392011.1 (LR93.160) x Adg red flesh bulk"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -3067,31 +1854,11 @@ valu: "finger/CIP302300.25.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.05"}]},
  
 'CIP302301.19': {name: "CIP302301.19",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302301.19.jpg"},
-{
-name: "Fry image",
-valu: "fry/302301.19.jpg"},
-{
-name: "Chips image",
-valu: "chips/302301.19.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302301.19.jpg"},
-{
-name: "Plant image",
-valu: "plant/302301.19.jpg"},
-{
-name: "Flower image",
-valu: "flower/302301.19.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302301.19.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302301.19.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-194"},
 {name: "Population Group", valu: "FC"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "379706.27=(LT-8) x Adg red flesh bulk"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -3118,28 +1885,8 @@ valu: "finger/CIP302301.19.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.31"}]},
  
 'CIP302302.11': {name: "CIP302302.11",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302302.11.jpg"},
-{
-name: "Fry image",
-valu: "fry/302302.11.jpg"},
-{
-name: "Chips image",
-valu: "chips/302302.11.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302302.11.jpg"},
-{
-name: "Plant image",
-valu: "plant/302302.11.jpg"},
-{
-name: "Flower image",
-valu: "flower/302302.11.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302302.11.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302302.11.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-196"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "MONALISA x Adg red flesh bulk"},
@@ -3169,28 +1916,8 @@ valu: "finger/CIP302302.11.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.01"}]},
  
 'CIP302302.25': {name: "CIP302302.25",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302302.25.jpg"},
-{
-name: "Fry image",
-valu: "fry/302302.25.jpg"},
-{
-name: "Chips image",
-valu: "chips/302302.25.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302302.25.jpg"},
-{
-name: "Plant image",
-valu: "plant/302302.25.jpg"},
-{
-name: "Flower image",
-valu: "flower/302302.25.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302302.25.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302302.25.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-201"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "MONALISA x Adg red flesh bulk"},
@@ -3219,28 +1946,8 @@ valu: "finger/CIP302302.25.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.13"}]},
  
 'CIP302302.29': {name: "CIP302302.29",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302302.29.jpg"},
-{
-name: "Fry image",
-valu: "fry/302302.29.jpg"},
-{
-name: "Chips image",
-valu: "chips/302302.29.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302302.29.jpg"},
-{
-name: "Plant image",
-valu: "plant/302302.29.jpg"},
-{
-name: "Flower image",
-valu: "flower/302302.29.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302302.29.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302302.29.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-202"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "MONALISA x Adg red flesh bulk"},
@@ -3270,28 +1977,8 @@ valu: "finger/CIP302302.29.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.08"}]},
  
 'CIP302302.34': {name: "CIP302302.34",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302302.34.jpg"},
-{
-name: "Fry image",
-valu: "fry/302302.34.jpg"},
-{
-name: "Chips image",
-valu: "chips/302302.34.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302302.34.jpg"},
-{
-name: "Plant image",
-valu: "plant/302302.34.jpg"},
-{
-name: "Flower image",
-valu: "flower/302302.34.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302302.34.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302302.34.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-204"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "MONALISA x Adg red flesh bulk"},
@@ -3321,28 +2008,8 @@ valu: "finger/CIP302302.34.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.12"}]},
  
 'CIP302304.15': {name: "CIP302304.15",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302304.15.jpg"},
-{
-name: "Fry image",
-valu: "fry/302304.15.jpg"},
-{
-name: "Chips image",
-valu: "chips/302304.15.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302304.15.jpg"},
-{
-name: "Plant image",
-valu: "plant/302304.15.jpg"},
-{
-name: "Flower image",
-valu: "flower/302304.15.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302304.15.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302304.15.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-210"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780278=(PW-88-6065) x Adg red flesh bulk"},
@@ -3371,28 +2038,8 @@ valu: "finger/CIP302304.15.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.04"}]},
  
 'CIP302304.27': {name: "CIP302304.27",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302304.27.jpg"},
-{
-name: "Fry image",
-valu: "fry/302304.27.jpg"},
-{
-name: "Chips image",
-valu: "chips/302304.27.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302304.27.jpg"},
-{
-name: "Plant image",
-valu: "plant/302304.27.jpg"},
-{
-name: "Flower image",
-valu: "flower/302304.27.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302304.27.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302304.27.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-212"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780278=(PW-88-6065) x Adg red flesh bulk"},
@@ -3421,28 +2068,8 @@ valu: "finger/CIP302304.27.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.12"}]},
  
 'CIP302305.41': {name: "CIP302305.41",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302305.41.jpg"},
-{
-name: "Fry image",
-valu: "fry/302305.41.jpg"},
-{
-name: "Chips image",
-valu: "chips/302305.41.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302305.41.jpg"},
-{
-name: "Plant image",
-valu: "plant/302305.41.jpg"},
-{
-name: "Flower image",
-valu: "flower/302305.41.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302305.41.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302305.41.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-226"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780279=(PW-88-6187) x Adg red flesh bulk"},
@@ -3469,28 +2096,8 @@ valu: "finger/CIP302305.41.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302305.46': {name: "CIP302305.46",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302305.46.jpg"},
-{
-name: "Fry image",
-valu: "fry/302305.46.jpg"},
-{
-name: "Chips image",
-valu: "chips/302305.46.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302305.46.jpg"},
-{
-name: "Plant image",
-valu: "plant/302305.46.jpg"},
-{
-name: "Flower image",
-valu: "flower/302305.46.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302305.46.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302305.46.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-228"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780279 (PW-88-6187) x Adg red flesh bulk"},
@@ -3509,28 +2116,8 @@ valu: "finger/CIP302305.46.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302306.19': {name: "CIP302306.19",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302306.19.jpg"},
-{
-name: "Fry image",
-valu: "fry/302306.19.jpg"},
-{
-name: "Chips image",
-valu: "chips/302306.19.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302306.19.jpg"},
-{
-name: "Plant image",
-valu: "plant/302306.19.jpg"},
-{
-name: "Flower image",
-valu: "flower/302306.19.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302306.19.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302306.19.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-235"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780280 (PW-88-6203) x Adg red flesh bulk"},
@@ -3559,28 +2146,8 @@ valu: "finger/CIP302306.19.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302306.33': {name: "CIP302306.33",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302306.33.jpg"},
-{
-name: "Fry image",
-valu: "fry/302306.33.jpg"},
-{
-name: "Chips image",
-valu: "chips/302306.33.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302306.33.jpg"},
-{
-name: "Plant image",
-valu: "plant/302306.33.jpg"},
-{
-name: "Flower image",
-valu: "flower/302306.33.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302306.33.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302306.33.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-241"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780280=(PW-88-6203) x Adg red flesh bulk"},
@@ -3601,28 +2168,8 @@ valu: "finger/CIP302306.33.jpg"},
 {name: "Anthocyanins (g/kg fw)", valu: "0.1"}]},
  
 'CIP302306.36': {name: "CIP302306.36",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302306.36.jpg"},
-{
-name: "Fry image",
-valu: "fry/302306.36.jpg"},
-{
-name: "Chips image",
-valu: "chips/302306.36.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302306.36.jpg"},
-{
-name: "Plant image",
-valu: "plant/302306.36.jpg"},
-{
-name: "Flower image",
-valu: "flower/302306.36.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302306.36.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/302306.36.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "FC-243"},
 {name: "Population Group", valu: "FC"},
 {name: "Parentage", valu: "780280=(PW-88-6203) x Adg red flesh bulk"},
@@ -3651,30 +2198,14 @@ valu: "finger/CIP302306.36.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP302428.20': {name: "CIP302428.20",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302428.20.jpg"},
-{
-name: "Fry image",
-valu: "fry/302428.20.jpg"},
-{
-name: "Chips image",
-valu: "chips/302428.20.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302428.20.jpg"},
-{
-name: "Plant image",
-valu: "plant/302428.20.jpg"},
-{
-name: "Flower image",
-valu: "flower/302428.20.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302428.20.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/302428.20.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/302428.20.jpg"}, 
+
+{name: "Flower image", valu: "Flower/302428.20.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-54.20"},
+{name: "Parentage", valu: "MARIELA x 392745.7 (92.187)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -3693,30 +2224,14 @@ valu: "finger/CIP302428.20.jpg"},
 {name: "Pollen viability (%)", valu: "91.6"}]},
  
 'CIP302476.108': {name: "CIP302476.108",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302476.108.jpg"},
-{
-name: "Fry image",
-valu: "fry/302476.108.jpg"},
-{
-name: "Chips image",
-valu: "chips/302476.108.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302476.108.jpg"},
-{
-name: "Plant image",
-valu: "plant/302476.108.jpg"},
-{
-name: "Flower image",
-valu: "flower/302476.108.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302476.108.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/302476.108.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/302476.108.jpg"}, 
+
+{name: "Flower image", valu: "Flower/302476.108.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-88.108"},
+{name: "Parentage", valu: "TITIA x 392745.7 (92.187)"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -3740,30 +2255,14 @@ valu: "finger/CIP302476.108.jpg"},
 {name: "Pollen viability (%)", valu: "77.5"}]},
  
 'CIP302498.70': {name: "CIP302498.70",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302498.70.jpg"},
-{
-name: "Fry image",
-valu: "fry/302498.70.jpg"},
-{
-name: "Chips image",
-valu: "chips/302498.70.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302498.70.jpg"},
-{
-name: "Plant image",
-valu: "plant/302498.70.jpg"},
-{
-name: "Flower image",
-valu: "flower/302498.70.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302498.70.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/302498.70.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/302498.70.jpg"}, 
+
+{name: "Flower image", valu: "Flower/302498.70.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-94.70"},
+{name: "Parentage", valu: "720139 (YAGANA-INIA) x 391180.6 (C90.266)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -3781,30 +2280,14 @@ valu: "finger/CIP302498.70.jpg"},
 {name: "Pollen viability (%)", valu: "76.5"}]},
  
 'CIP302499.24': {name: "CIP302499.24",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302499.24.jpg"},
-{
-name: "Fry image",
-valu: "fry/302499.24.jpg"},
-{
-name: "Chips image",
-valu: "chips/302499.24.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302499.24.jpg"},
-{
-name: "Plant image",
-valu: "plant/302499.24.jpg"},
-{
-name: "Flower image",
-valu: "flower/302499.24.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302499.24.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/302499.24.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/302499.24.jpg"}, 
+
+{name: "Flower image", valu: "Flower/302499.24.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-95.24"},
+{name: "Parentage", valu: "720139 (YAGANA-INIA) x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -3823,30 +2306,14 @@ valu: "finger/CIP302499.24.jpg"},
 {name: "Pollen viability (%)", valu: "79.1"}]},
  
 'CIP302499.30': {name: "CIP302499.30",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/302499.30.jpg"},
-{
-name: "Fry image",
-valu: "fry/302499.30.jpg"},
-{
-name: "Chips image",
-valu: "chips/302499.30.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/302499.30.jpg"},
-{
-name: "Plant image",
-valu: "plant/302499.30.jpg"},
-{
-name: "Flower image",
-valu: "flower/302499.30.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP302499.30.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/302499.30.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/302499.30.jpg"}, 
+
+{name: "Flower image", valu: "Flower/302499.30.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-95.30"},
+{name: "Parentage", valu: "720139 (YAGANA-INIA) x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -3870,30 +2337,14 @@ valu: "finger/CIP302499.30.jpg"},
 {name: "Pollen viability (%)", valu: "78.4"}]},
  
 'CIP303381.106': {name: "CIP303381.106",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/303381.106.jpg"},
-{
-name: "Fry image",
-valu: "fry/303381.106.jpg"},
-{
-name: "Chips image",
-valu: "chips/303381.106.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/303381.106.jpg"},
-{
-name: "Plant image",
-valu: "plant/303381.106.jpg"},
-{
-name: "Flower image",
-valu: "flower/303381.106.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP303381.106.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/303381.106.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/303381.106.jpg"}, 
+
+{name: "Flower image", valu: "Flower/303381.106.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-26.106"},
+{name: "Parentage", valu: "388611.22 (C91.612) x 676008 (I-1039)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -3910,30 +2361,14 @@ valu: "finger/CIP303381.106.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP303381.30': {name: "CIP303381.30",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/303381.30.jpg"},
-{
-name: "Fry image",
-valu: "fry/303381.30.jpg"},
-{
-name: "Chips image",
-valu: "chips/303381.30.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/303381.30.jpg"},
-{
-name: "Plant image",
-valu: "plant/303381.30.jpg"},
-{
-name: "Flower image",
-valu: "flower/303381.30.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP303381.30.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/303381.30.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/303381.30.jpg"}, 
+
+{name: "Flower image", valu: "Flower/303381.30.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-26.30"},
+{name: "Parentage", valu: "388611.22 (C91.612) x 676008 (I-1039)"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -3951,30 +2386,10 @@ valu: "finger/CIP303381.30.jpg"},
 {name: "Pollen viability (%)", valu: "84.5"}]},
  
 'CIP304345.102': {name: "CIP304345.102",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304345.102.jpg"},
-{
-name: "Fry image",
-valu: "fry/304345.102.jpg"},
-{
-name: "Chips image",
-valu: "chips/304345.102.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304345.102.jpg"},
-{
-name: "Plant image",
-valu: "plant/304345.102.jpg"},
-{
-name: "Flower image",
-valu: "flower/304345.102.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304345.102.jpg"},
-
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304345.102.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-28.102"},
+{name: "Parentage", valu: "C91.640 x I.1039"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -3992,30 +2407,14 @@ valu: "finger/CIP304345.102.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP304349.4': {name: "CIP304349.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304349.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/304349.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/304349.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304349.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/304349.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/304349.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304349.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304349.4.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304349.4.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304349.4.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-32.4"},
+{name: "Parentage", valu: "CHIEFTAIN x 92.187"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4033,30 +2432,14 @@ valu: "finger/CIP304349.4.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP304350.100': {name: "CIP304350.100",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304350.100.jpg"},
-{
-name: "Fry image",
-valu: "fry/304350.100.jpg"},
-{
-name: "Chips image",
-valu: "chips/304350.100.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304350.100.jpg"},
-{
-name: "Plant image",
-valu: "plant/304350.100.jpg"},
-{
-name: "Flower image",
-valu: "flower/304350.100.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304350.100.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304350.100.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304350.100.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304350.100.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-33.100"},
+{name: "Parentage", valu: "CHIEFTAIN x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4080,30 +2463,14 @@ valu: "finger/CIP304350.100.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP304350.118': {name: "CIP304350.118",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304350.118.jpg"},
-{
-name: "Fry image",
-valu: "fry/304350.118.jpg"},
-{
-name: "Chips image",
-valu: "chips/304350.118.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304350.118.jpg"},
-{
-name: "Plant image",
-valu: "plant/304350.118.jpg"},
-{
-name: "Flower image",
-valu: "flower/304350.118.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304350.118.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304350.118.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304350.118.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304350.118.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-33.118"},
+{name: "Parentage", valu: "CHIEFTAIN x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4127,30 +2494,14 @@ valu: "finger/CIP304350.118.jpg"},
 {name: "Pollen viability (%)", valu: "78.6"}]},
  
 'CIP304350.18': {name: "CIP304350.18",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304350.18.jpg"},
-{
-name: "Fry image",
-valu: "fry/304350.18.jpg"},
-{
-name: "Chips image",
-valu: "chips/304350.18.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304350.18.jpg"},
-{
-name: "Plant image",
-valu: "plant/304350.18.jpg"},
-{
-name: "Flower image",
-valu: "flower/304350.18.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304350.18.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304350.18.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304350.18.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304350.18.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-33.18"},
+{name: "Parentage", valu: "CHIEFTAIN x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4175,30 +2526,14 @@ valu: "finger/CIP304350.18.jpg"},
 {name: "Pollen viability (%)", valu: "77.4"}]},
  
 'CIP304350.26': {name: "CIP304350.26",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304350.26.jpg"},
-{
-name: "Fry image",
-valu: "fry/304350.26.jpg"},
-{
-name: "Chips image",
-valu: "chips/304350.26.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304350.26.jpg"},
-{
-name: "Plant image",
-valu: "plant/304350.26.jpg"},
-{
-name: "Flower image",
-valu: "flower/304350.26.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304350.26.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304350.26.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304350.26.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304350.26.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-33.26"},
+{name: "Parentage", valu: "CHIEFTAIN x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4217,30 +2552,10 @@ valu: "finger/CIP304350.26.jpg"},
 {name: "Pollen viability (%)", valu: "82.8"}]},
  
 'CIP304350.78': {name: "CIP304350.78",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304350.78.jpg"},
-{
-name: "Fry image",
-valu: "fry/304350.78.jpg"},
-{
-name: "Chips image",
-valu: "chips/304350.78.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304350.78.jpg"},
-{
-name: "Plant image",
-valu: "plant/304350.78.jpg"},
-{
-name: "Flower image",
-valu: "flower/304350.78.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304350.78.jpg"},
-
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304350.78.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-33.78"},
+{name: "Parentage", valu: "CHIEFTAIN x C93.154"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4257,30 +2572,12 @@ valu: "finger/CIP304350.78.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP304350.95': {name: "CIP304350.95",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304350.95.jpg"},
-{
-name: "Fry image",
-valu: "fry/304350.95.jpg"},
-{
-name: "Chips image",
-valu: "chips/304350.95.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304350.95.jpg"},
-{
-name: "Plant image",
-valu: "plant/304350.95.jpg"},
-{
-name: "Flower image",
-valu: "flower/304350.95.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304350.95.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304350.95.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304350.95.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-33.95"},
+{name: "Parentage", valu: "CHIEFTAIN x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4298,29 +2595,11 @@ valu: "finger/CIP304350.95.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP304351.109': {name: "CIP304351.109",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304351.109.jpg"},
-{
-name: "Fry image",
-valu: "fry/304351.109.jpg"},
-{
-name: "Chips image",
-valu: "chips/304351.109.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304351.109.jpg"},
-{
-name: "Plant image",
-valu: "plant/304351.109.jpg"},
-{
-name: "Flower image",
-valu: "flower/304351.109.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304351.109.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304351.109.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304351.109.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-34.109"},
 {name: "Parentage", valu: "CHIEFTAIN x 676008 (I-1039)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
@@ -4337,29 +2616,11 @@ valu: "finger/CIP304351.109.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP304351.31': {name: "CIP304351.31",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304351.31.jpg"},
-{
-name: "Fry image",
-valu: "fry/304351.31.jpg"},
-{
-name: "Chips image",
-valu: "chips/304351.31.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304351.31.jpg"},
-{
-name: "Plant image",
-valu: "plant/304351.31.jpg"},
-{
-name: "Flower image",
-valu: "flower/304351.31.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304351.31.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304351.31.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304351.31.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-34.31"},
 {name: "Parentage", valu: "CHIEFTAIN x 676008 (I-1039)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
@@ -4377,30 +2638,14 @@ valu: "finger/CIP304351.31.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP304366.46': {name: "CIP304366.46",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304366.46.jpg"},
-{
-name: "Fry image",
-valu: "fry/304366.46.jpg"},
-{
-name: "Chips image",
-valu: "chips/304366.46.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304366.46.jpg"},
-{
-name: "Plant image",
-valu: "plant/304366.46.jpg"},
-{
-name: "Flower image",
-valu: "flower/304366.46.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304366.46.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304366.46.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304366.46.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304366.46.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-49.46"},
+{name: "Parentage", valu: "392823.4 (LR93.120) x 676008 (I-1039)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4425,30 +2670,14 @@ valu: "finger/CIP304366.46.jpg"},
 {name: "Pollen viability (%)", valu: "82.1"}]},
  
 'CIP304368.46': {name: "CIP304368.46",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304368.46.jpg"},
-{
-name: "Fry image",
-valu: "fry/304368.46.jpg"},
-{
-name: "Chips image",
-valu: "chips/304368.46.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304368.46.jpg"},
-{
-name: "Plant image",
-valu: "plant/304368.46.jpg"},
-{
-name: "Flower image",
-valu: "flower/304368.46.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304368.46.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304368.46.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304368.46.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304368.46.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-52.46"},
+{name: "Parentage", valu: "391846.5 (LR93.309) x 676008 (I-1039)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4467,29 +2696,13 @@ valu: "finger/CIP304368.46.jpg"},
 {name: "Pollen viability (%)", valu: "85.3"}]},
  
 'CIP304369.22': {name: "CIP304369.22",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304369.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/304369.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/304369.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304369.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/304369.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/304369.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304369.22.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304369.22.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304369.22.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304369.22.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-55.22"},
 {name: "Parentage", valu: "MARIELA x 676008 (I-1039)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
@@ -4513,30 +2726,14 @@ valu: "finger/CIP304369.22.jpg"},
 {name: "Pollen viability (%)", valu: "80.9"}]},
  
 'CIP304371.20': {name: "CIP304371.20",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304371.20.jpg"},
-{
-name: "Fry image",
-valu: "fry/304371.20.jpg"},
-{
-name: "Chips image",
-valu: "chips/304371.20.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304371.20.jpg"},
-{
-name: "Plant image",
-valu: "plant/304371.20.jpg"},
-{
-name: "Flower image",
-valu: "flower/304371.20.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304371.20.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304371.20.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304371.20.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304371.20.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-57.20"},
+{name: "Parentage", valu: "MONALISA x 92.187"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4560,30 +2757,14 @@ valu: "finger/CIP304371.20.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP304371.58': {name: "CIP304371.58",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304371.58.jpg"},
-{
-name: "Fry image",
-valu: "fry/304371.58.jpg"},
-{
-name: "Chips image",
-valu: "chips/304371.58.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304371.58.jpg"},
-{
-name: "Plant image",
-valu: "plant/304371.58.jpg"},
-{
-name: "Flower image",
-valu: "flower/304371.58.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304371.58.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304371.58.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304371.58.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304371.58.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-57.58"},
+{name: "Parentage", valu: "MONALISA x 92.187"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4600,30 +2781,12 @@ valu: "finger/CIP304371.58.jpg"},
 {name: "Pollen viability (%)", valu: "78.9"}]},
  
 'CIP304371.67': {name: "CIP304371.67",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304371.67.jpg"},
-{
-name: "Fry image",
-valu: "fry/304371.67.jpg"},
-{
-name: "Chips image",
-valu: "chips/304371.67.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304371.67.jpg"},
-{
-name: "Plant image",
-valu: "plant/304371.67.jpg"},
-{
-name: "Flower image",
-valu: "flower/304371.67.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304371.67.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304371.67.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304371.67.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-57.67"},
+{name: "Parentage", valu: "MONALISA x 92.187"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4647,29 +2810,13 @@ valu: "finger/CIP304371.67.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP304372.7': {name: "CIP304372.7",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304372.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/304372.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/304372.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304372.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/304372.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/304372.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304372.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304372.7.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304372.7.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304372.7.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-58.7"},
 {name: "Parentage", valu: "MONALISA x 676008 (I-1039)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
@@ -4694,30 +2841,10 @@ valu: "finger/CIP304372.7.jpg"},
 {name: "Pollen viability (%)", valu: "87.7"}]},
  
 'CIP304383.41': {name: "CIP304383.41",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304383.41.jpg"},
-{
-name: "Fry image",
-valu: "fry/304383.41.jpg"},
-{
-name: "Chips image",
-valu: "chips/304383.41.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304383.41.jpg"},
-{
-name: "Plant image",
-valu: "plant/304383.41.jpg"},
-{
-name: "Flower image",
-valu: "flower/304383.41.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304383.41.jpg"},
-
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304383.41.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-69.41"},
+{name: "Parentage", valu: "RED PONTIAC x 92.187"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4734,30 +2861,10 @@ valu: "finger/CIP304383.41.jpg"},
 {name: "Salinity", valu: "Tolerant"}]},
  
 'CIP304383.80': {name: "CIP304383.80",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304383.80.jpg"},
-{
-name: "Fry image",
-valu: "fry/304383.80.jpg"},
-{
-name: "Chips image",
-valu: "chips/304383.80.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304383.80.jpg"},
-{
-name: "Plant image",
-valu: "plant/304383.80.jpg"},
-{
-name: "Flower image",
-valu: "flower/304383.80.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304383.80.jpg"},
-
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304383.80.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-69.80"},
+{name: "Parentage", valu: "RED PONTIAC x 92.187"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4774,30 +2881,14 @@ valu: "finger/CIP304383.80.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP304387.17': {name: "CIP304387.17",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304387.17.jpg"},
-{
-name: "Fry image",
-valu: "fry/304387.17.jpg"},
-{
-name: "Chips image",
-valu: "chips/304387.17.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304387.17.jpg"},
-{
-name: "Plant image",
-valu: "plant/304387.17.jpg"},
-{
-name: "Flower image",
-valu: "flower/304387.17.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304387.17.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304387.17.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304387.17.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304387.17.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-73.17"},
+{name: "Parentage", valu: "REINHORT x 92.187"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4814,30 +2905,10 @@ valu: "finger/CIP304387.17.jpg"},
 {name: "Pollen viability (%)", valu: "79.9"}]},
  
 'CIP304387.39': {name: "CIP304387.39",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304387.39.jpg"},
-{
-name: "Fry image",
-valu: "fry/304387.39.jpg"},
-{
-name: "Chips image",
-valu: "chips/304387.39.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304387.39.jpg"},
-{
-name: "Plant image",
-valu: "plant/304387.39.jpg"},
-{
-name: "Flower image",
-valu: "flower/304387.39.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304387.39.jpg"},
-
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304387.39.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-73.39"},
+{name: "Parentage", valu: "REINHORT x 92.187"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4854,30 +2925,12 @@ valu: "finger/CIP304387.39.jpg"},
 {name: "Salinity", valu: "Tolerant"}]},
  
 'CIP304387.92': {name: "CIP304387.92",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304387.92.jpg"},
-{
-name: "Fry image",
-valu: "fry/304387.92.jpg"},
-{
-name: "Chips image",
-valu: "chips/304387.92.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304387.92.jpg"},
-{
-name: "Plant image",
-valu: "plant/304387.92.jpg"},
-{
-name: "Flower image",
-valu: "flower/304387.92.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304387.92.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304387.92.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304387.92.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-73.92"},
+{name: "Parentage", valu: "REINHORT x 92.187"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4893,30 +2946,10 @@ valu: "finger/CIP304387.92.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP304394.56': {name: "CIP304394.56",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304394.56.jpg"},
-{
-name: "Fry image",
-valu: "fry/304394.56.jpg"},
-{
-name: "Chips image",
-valu: "chips/304394.56.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304394.56.jpg"},
-{
-name: "Plant image",
-valu: "plant/304394.56.jpg"},
-{
-name: "Flower image",
-valu: "flower/304394.56.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304394.56.jpg"},
-
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304394.56.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-80.56"},
+{name: "Parentage", valu: "SHEPODY x LR93.050"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4934,30 +2967,10 @@ valu: "finger/CIP304394.56.jpg"},
 {name: "Salinity", valu: "Tolerant"}]},
  
 'CIP304399.15': {name: "CIP304399.15",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304399.15.jpg"},
-{
-name: "Fry image",
-valu: "fry/304399.15.jpg"},
-{
-name: "Chips image",
-valu: "chips/304399.15.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304399.15.jpg"},
-{
-name: "Plant image",
-valu: "plant/304399.15.jpg"},
-{
-name: "Flower image",
-valu: "flower/304399.15.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304399.15.jpg"},
-
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304399.15.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-85.15"},
+{name: "Parentage", valu: "SNOWDEN x 92.187"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -4975,30 +2988,10 @@ valu: "finger/CIP304399.15.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP304399.5': {name: "CIP304399.5",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304399.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/304399.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/304399.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304399.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/304399.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/304399.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304399.5.jpg"},
-
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304399.5.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-85.5"},
+{name: "Parentage", valu: "SNOWDEN x 92.187"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5013,29 +3006,11 @@ valu: "finger/CIP304399.5.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP304405.42': {name: "CIP304405.42",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304405.42.jpg"},
-{
-name: "Fry image",
-valu: "fry/304405.42.jpg"},
-{
-name: "Chips image",
-valu: "chips/304405.42.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304405.42.jpg"},
-{
-name: "Plant image",
-valu: "plant/304405.42.jpg"},
-{
-name: "Flower image",
-valu: "flower/304405.42.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304405.42.jpg"},
+attr: [
+{name: "Sprout image", valu: "Sprout/304405.42.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Flower image", valu: "Flower/304405.42.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-92.42"},
 {name: "Parentage", valu: "WA.018 x 676008 (I-1039)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
@@ -5060,29 +3035,9 @@ valu: "finger/CIP304405.42.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP304405.47': {name: "CIP304405.47",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304405.47.jpg"},
-{
-name: "Fry image",
-valu: "fry/304405.47.jpg"},
-{
-name: "Chips image",
-valu: "chips/304405.47.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304405.47.jpg"},
-{
-name: "Plant image",
-valu: "plant/304405.47.jpg"},
-{
-name: "Flower image",
-valu: "flower/304405.47.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304405.47.jpg"},
-
-{name: "Collecting number/Breeder code", valu: "NA"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304405.47.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-92.47"},
 {name: "Parentage", valu: "WA.018 x I.1039"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
@@ -5100,29 +3055,13 @@ valu: "finger/CIP304405.47.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP304406.31': {name: "CIP304406.31",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/304406.31.jpg"},
-{
-name: "Fry image",
-valu: "fry/304406.31.jpg"},
-{
-name: "Chips image",
-valu: "chips/304406.31.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/304406.31.jpg"},
-{
-name: "Plant image",
-valu: "plant/304406.31.jpg"},
-{
-name: "Flower image",
-valu: "flower/304406.31.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP304406.31.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/304406.31.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/304406.31.jpg"}, 
+
+{name: "Flower image", valu: "Flower/304406.31.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LD-93.31"},
 {name: "Parentage", valu: "WA.077 x 676008 (I-1039)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
@@ -5148,29 +3087,13 @@ valu: "finger/CIP304406.31.jpg"},
 {name: "Salinity", valu: "Tolerant"}]},
  
 'CIP370116': {name: "CIP370116",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/370116.jpg"},
-{
-name: "Fry image",
-valu: "fry/370116.jpg"},
-{
-name: "Chips image",
-valu: "chips/370116.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/370116.jpg"},
-{
-name: "Plant image",
-valu: "plant/370116.jpg"},
-{
-name: "Flower image",
-valu: "flower/370116.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP370116.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/370116.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/370116.jpg"}, 
+
+{name: "Flower image", valu: "Flower/370116.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "IP81001.1"},
 {name: "Parentage", valu: "KUFRI ALANKAR x KUFRI JYOTI"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
@@ -5190,29 +3113,15 @@ valu: "finger/CIP370116.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP370121': {name: "CIP370121",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/370121.jpg"},
-{
-name: "Fry image",
-valu: "fry/370121.jpg"},
-{
-name: "Chips image",
-valu: "chips/370121.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/370121.jpg"},
-{
-name: "Plant image",
-valu: "plant/370121.jpg"},
-{
-name: "Flower image",
-valu: "flower/370121.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP370121.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/370121.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/370121.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/370121.jpg"}, 
+
+{name: "Flower image", valu: "Flower/370121.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "IP84004.7"},
 {name: "Parentage", valu: "KUFRI NEELMANI x KUFRI JYOTI"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
@@ -5231,30 +3140,14 @@ valu: "finger/CIP370121.jpg"},
 {name: "Adaptability", valu: "Intermediate and lowland tropics"}]},
  
 'CIP370122': {name: "CIP370122",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/370122.jpg"},
-{
-name: "Fry image",
-valu: "fry/370122.jpg"},
-{
-name: "Chips image",
-valu: "chips/370122.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/370122.jpg"},
-{
-name: "Plant image",
-valu: "plant/370122.jpg"},
-{
-name: "Flower image",
-valu: "flower/370122.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP370122.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/370122.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/370122.jpg"}, 
+
+{name: "Flower image", valu: "Flower/370122.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "IP84007.67"},
+{name: "Parentage", valu: "EXP.A-680.16 x (EXP.A-723)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5272,29 +3165,15 @@ valu: "finger/CIP370122.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP370123': {name: "CIP370123",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/370123.jpg"},
-{
-name: "Fry image",
-valu: "fry/370123.jpg"},
-{
-name: "Chips image",
-valu: "chips/370123.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/370123.jpg"},
-{
-name: "Plant image",
-valu: "plant/370123.jpg"},
-{
-name: "Flower image",
-valu: "flower/370123.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP370123.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/370123.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/370123.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/370123.jpg"}, 
+
+{name: "Flower image", valu: "Flower/370123.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "IP84008.13"},
 {name: "Parentage", valu: "NA"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
@@ -5315,28 +3194,12 @@ valu: "finger/CIP370123.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP380011.12': {name: "CIP380011.12",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/380011.12.jpg"},
-{
-name: "Fry image",
-valu: "fry/380011.12.jpg"},
-{
-name: "Chips image",
-valu: "chips/380011.12.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/380011.12.jpg"},
-{
-name: "Plant image",
-valu: "plant/380011.12.jpg"},
-{
-name: "Flower image",
-valu: "flower/380011.12.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP380011.12.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/380011.12.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/380011.12.jpg"}, 
+
+{name: "Flower image", valu: "Flower/380011.12.jpg"}, 
 {name: "Population Group", valu: "A"},
 {name: "Parentage", valu: "GRETA x SEEDLINGS 79 BULK"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
@@ -5374,31 +3237,17 @@ valu: "finger/CIP380011.12.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP385499.11': {name: "CIP385499.11",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/385499.11.jpg"},
-{
-name: "Fry image",
-valu: "fry/385499.11.jpg"},
-{
-name: "Chips image",
-valu: "chips/385499.11.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/385499.11.jpg"},
-{
-name: "Plant image",
-valu: "plant/385499.11.jpg"},
-{
-name: "Flower image",
-valu: "flower/385499.11.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP385499.11.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/385499.11.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/385499.11.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/385499.11.jpg"}, 
+
+{name: "Flower image", valu: "Flower/385499.11.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "E86.011"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "65-ZA-5 x 377964.5"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5424,31 +3273,17 @@ valu: "finger/CIP385499.11.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP385556.4': {name: "CIP385556.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/385556.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/385556.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/385556.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/385556.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/385556.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/385556.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP385556.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/385556.4.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/385556.4.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/385556.4.jpg"}, 
+
+{name: "Flower image", valu: "Flower/385556.4.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "85LB51.4"},
 {name: "Population Group", valu: "A"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "380473.6 (85LB51.4)  x BULK-1"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5468,31 +3303,15 @@ valu: "finger/CIP385556.4.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP385558.2': {name: "CIP385558.2",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/385558.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/385558.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/385558.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/385558.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/385558.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/385558.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP385558.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/385558.2.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/385558.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/385558.2.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "NT91.002"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "32) 2 x NT 91.002"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5514,31 +3333,15 @@ valu: "finger/CIP385558.2.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP385558.4': {name: "CIP385558.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/385558.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/385558.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/385558.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/385558.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/385558.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/385558.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP385558.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/385558.4.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/385558.4.jpg"}, 
+
+{name: "Flower image", valu: "Flower/385558.4.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "NT91.004"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "32) 2 x NT 91.002"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5560,31 +3363,17 @@ valu: "finger/CIP385558.4.jpg"},
 {name: "Adaptability", valu: "Mid elevation tropics"}]},
  
 'CIP385561.124': {name: "CIP385561.124",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/385561.124.jpg"},
-{
-name: "Fry image",
-valu: "fry/385561.124.jpg"},
-{
-name: "Chips image",
-valu: "chips/385561.124.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/385561.124.jpg"},
-{
-name: "Plant image",
-valu: "plant/385561.124.jpg"},
-{
-name: "Flower image",
-valu: "flower/385561.124.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP385561.124.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/385561.124.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/385561.124.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/385561.124.jpg"}, 
+
+{name: "Flower image", valu: "Flower/385561.124.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "NE92.124"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "38) 8 x ML 91.007"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5608,31 +3397,15 @@ valu: "finger/CIP385561.124.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP387164.4': {name: "CIP387164.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/387164.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/387164.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/387164.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/387164.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/387164.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/387164.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP387164.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/387164.4.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/387164.4.jpg"}, 
+
+{name: "Flower image", valu: "Flower/387164.4.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "LBr-40"},
 {name: "Population Group", valu: "B3C0"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "382171.1 x 575049 (CEW-69-1)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5650,31 +3423,17 @@ valu: "finger/CIP387164.4.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP388615.22': {name: "CIP388615.22",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/388615.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/388615.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/388615.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/388615.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/388615.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/388615.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP388615.22.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/388615.22.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/388615.22.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/388615.22.jpg"}, 
+
+{name: "Flower image", valu: "Flower/388615.22.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C91.640"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "B-71-240.2 x 386614.16 (XY.16)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5695,31 +3454,17 @@ valu: "finger/CIP388615.22.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP388972.22': {name: "CIP388972.22",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/388972.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/388972.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/388972.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/388972.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/388972.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/388972.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP388972.22.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/388972.22.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/388972.22.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/388972.22.jpg"}, 
+
+{name: "Flower image", valu: "Flower/388972.22.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C89.315"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "386316.1 (XY.20) x 377964.5"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5736,31 +3481,15 @@ valu: "finger/CIP388972.22.jpg"},
 {name: "Sprouting pattern", valu: "Multiple"}]},
  
 'CIP389447.5': {name: "CIP389447.5",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/389447.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/389447.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/389447.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/389447.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/389447.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/389447.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP389447.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/389447.5.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "95.25"},
+{name: "Sprout image", valu: "Sprout/389447.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/389447.5.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "95.245000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "B-71-7448.11 x 386614.16 (XY.16)"},
 {name: "Predominant tuber skin color", valu: "Brownish"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5780,31 +3509,15 @@ valu: "finger/CIP389447.5.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP389468.3': {name: "CIP389468.3",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/389468.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/389468.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/389468.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/389468.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/389468.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/389468.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP389468.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/389468.3.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "92.12"},
+{name: "Sprout image", valu: "Sprout/389468.3.jpg"}, 
+
+{name: "Flower image", valu: "Flower/389468.3.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "92.119000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "720087 (SERRANA) x 388216.1 (YY.5)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5833,31 +3546,15 @@ valu: "finger/CIP389468.3.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP389746.2': {name: "CIP389746.2",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/389746.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/389746.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/389746.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/389746.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/389746.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/389746.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP389746.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/389746.2.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/389746.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/389746.2.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "LB-X"},
 {name: "Population Group", valu: "B3C0"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "381379.9 x 386614.16 (XY.16)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -5875,31 +3572,15 @@ valu: "finger/CIP389746.2.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP390637.1': {name: "CIP390637.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/390637.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/390637.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/390637.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/390637.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/390637.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/390637.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP390637.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/390637.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "93"},
+{name: "Sprout image", valu: "Sprout/390637.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/390637.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "93.003000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "PW-31 x 385305.1 (XY.9)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5919,31 +3600,17 @@ valu: "finger/CIP390637.1.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP390663.8': {name: "CIP390663.8",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/390663.8.jpg"},
-{
-name: "Fry image",
-valu: "fry/390663.8.jpg"},
-{
-name: "Chips image",
-valu: "chips/390663.8.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/390663.8.jpg"},
-{
-name: "Plant image",
-valu: "plant/390663.8.jpg"},
-{
-name: "Flower image",
-valu: "flower/390663.8.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP390663.8.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/390663.8.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/390663.8.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/390663.8.jpg"}, 
+
+{name: "Flower image", valu: "Flower/390663.8.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C91.628"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "720087 (SERRANA) x 386316.14 (XY.14)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -5961,30 +3628,14 @@ valu: "finger/CIP390663.8.jpg"},
 {name: "Sprouting pattern", valu: "Multiple"}]},
  
 'CIP391002.6': {name: "CIP391002.6",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391002.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/391002.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/391002.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391002.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/391002.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/391002.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391002.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391002.6.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/391002.6.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391002.6.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "386209.1 x 386206.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6014,30 +3665,14 @@ valu: "finger/CIP391002.6.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP391004.18': {name: "CIP391004.18",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391004.18.jpg"},
-{
-name: "Fry image",
-valu: "fry/391004.18.jpg"},
-{
-name: "Chips image",
-valu: "chips/391004.18.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391004.18.jpg"},
-{
-name: "Plant image",
-valu: "plant/391004.18.jpg"},
-{
-name: "Flower image",
-valu: "flower/391004.18.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391004.18.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391004.18.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/391004.18.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391004.18.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387004.4 x 386206.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6071,30 +3706,14 @@ valu: "finger/CIP391004.18.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP391011.17': {name: "CIP391011.17",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391011.17.jpg"},
-{
-name: "Fry image",
-valu: "fry/391011.17.jpg"},
-{
-name: "Chips image",
-valu: "chips/391011.17.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391011.17.jpg"},
-{
-name: "Plant image",
-valu: "plant/391011.17.jpg"},
-{
-name: "Flower image",
-valu: "flower/391011.17.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391011.17.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391011.17.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/391011.17.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391011.17.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387041.12 x 386206.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6131,30 +3750,16 @@ valu: "finger/CIP391011.17.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP391046.14': {name: "CIP391046.14",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391046.14.jpg"},
-{
-name: "Fry image",
-valu: "fry/391046.14.jpg"},
-{
-name: "Chips image",
-valu: "chips/391046.14.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391046.14.jpg"},
-{
-name: "Plant image",
-valu: "plant/391046.14.jpg"},
-{
-name: "Flower image",
-valu: "flower/391046.14.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391046.14.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391046.14.jpg"}, 
 
+{name: "Chips image", valu: "Chips/391046.14.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/391046.14.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391046.14.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "386209.1 x 387338.3"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6189,30 +3794,14 @@ valu: "finger/CIP391046.14.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP391047.34': {name: "CIP391047.34",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391047.34.jpg"},
-{
-name: "Fry image",
-valu: "fry/391047.34.jpg"},
-{
-name: "Chips image",
-valu: "chips/391047.34.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391047.34.jpg"},
-{
-name: "Plant image",
-valu: "plant/391047.34.jpg"},
-{
-name: "Flower image",
-valu: "flower/391047.34.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391047.34.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391047.34.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/391047.34.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391047.34.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "386209.10 x 387338.3"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6247,30 +3836,18 @@ valu: "finger/CIP391047.34.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP391058.175': {name: "CIP391058.175",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391058.175.jpg"},
-{
-name: "Fry image",
-valu: "fry/391058.175.jpg"},
-{
-name: "Chips image",
-valu: "chips/391058.175.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391058.175.jpg"},
-{
-name: "Plant image",
-valu: "plant/391058.175.jpg"},
-{
-name: "Flower image",
-valu: "flower/391058.175.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391058.175.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391058.175.jpg"}, 
 
+{name: "Fry image", valu: "Fry/391058.175.jpg"}, 
+
+{name: "Chips image", valu: "Chips/391058.175.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/391058.175.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391058.175.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387170.16 x 387338.3"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6306,30 +3883,14 @@ valu: "finger/CIP391058.175.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP391065.69': {name: "CIP391065.69",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391065.69.jpg"},
-{
-name: "Fry image",
-valu: "fry/391065.69.jpg"},
-{
-name: "Chips image",
-valu: "chips/391065.69.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391065.69.jpg"},
-{
-name: "Plant image",
-valu: "plant/391065.69.jpg"},
-{
-name: "Flower image",
-valu: "flower/391065.69.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391065.69.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391065.69.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/391065.69.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391065.69.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387348.20 x 387338.3"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6366,30 +3927,16 @@ valu: "finger/CIP391065.69.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP391065.81': {name: "CIP391065.81",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391065.81.jpg"},
-{
-name: "Fry image",
-valu: "fry/391065.81.jpg"},
-{
-name: "Chips image",
-valu: "chips/391065.81.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391065.81.jpg"},
-{
-name: "Plant image",
-valu: "plant/391065.81.jpg"},
-{
-name: "Flower image",
-valu: "flower/391065.81.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391065.81.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391065.81.jpg"}, 
 
+{name: "Chips image", valu: "Chips/391065.81.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/391065.81.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391065.81.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387348.20 x 387338.3"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6424,30 +3971,14 @@ valu: "finger/CIP391065.81.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP391137.7': {name: "CIP391137.7",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391137.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/391137.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/391137.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391137.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/391137.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/391137.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391137.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391137.7.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/391137.7.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391137.7.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387181.5 x 387338.3"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6471,31 +4002,15 @@ valu: "finger/CIP391137.7.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP391180.6': {name: "CIP391180.6",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391180.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/391180.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/391180.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391180.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/391180.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/391180.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391180.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391180.6.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/391180.6.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391180.6.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C90.266"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "385305.1 (XY.9) x 378017.2 (LT-7)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -6523,31 +4038,17 @@ valu: "finger/CIP391180.6.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP391207.2': {name: "CIP391207.2",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391207.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/391207.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/391207.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391207.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/391207.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/391207.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391207.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391207.2.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/391207.2.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/391207.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391207.2.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR-93.050"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "800959 (GRANOLA) x 385305.1 (XY.9)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6568,31 +4069,15 @@ valu: "finger/CIP391207.2.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP391533.1': {name: "CIP391533.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391533.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/391533.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/391533.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391533.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/391533.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/391533.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391533.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391533.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/391533.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391533.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR-93.060"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "G-7445 x 385280.1 (XY.13)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Highly resistant"},
@@ -6614,30 +4099,14 @@ valu: "finger/CIP391533.1.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP391580.30': {name: "CIP391580.30",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391580.30.jpg"},
-{
-name: "Fry image",
-valu: "fry/391580.30.jpg"},
-{
-name: "Chips image",
-valu: "chips/391580.30.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391580.30.jpg"},
-{
-name: "Plant image",
-valu: "plant/391580.30.jpg"},
-{
-name: "Flower image",
-valu: "flower/391580.30.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391580.30.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391580.30.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/391580.30.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391580.30.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387002.2 x 387214.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6665,30 +4134,16 @@ valu: "finger/CIP391580.30.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP391583.25': {name: "CIP391583.25",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391583.25.jpg"},
-{
-name: "Fry image",
-valu: "fry/391583.25.jpg"},
-{
-name: "Chips image",
-valu: "chips/391583.25.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391583.25.jpg"},
-{
-name: "Plant image",
-valu: "plant/391583.25.jpg"},
-{
-name: "Flower image",
-valu: "flower/391583.25.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391583.25.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391583.25.jpg"}, 
 
+{name: "Chips image", valu: "Chips/391583.25.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/391583.25.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391583.25.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "386209.15 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6724,30 +4179,14 @@ valu: "finger/CIP391583.25.jpg"},
 {name: "Sprouting pattern", valu: "Multiple"}]},
  
 'CIP391585.167': {name: "CIP391585.167",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391585.167.jpg"},
-{
-name: "Fry image",
-valu: "fry/391585.167.jpg"},
-{
-name: "Chips image",
-valu: "chips/391585.167.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391585.167.jpg"},
-{
-name: "Plant image",
-valu: "plant/391585.167.jpg"},
-{
-name: "Flower image",
-valu: "flower/391585.167.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391585.167.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391585.167.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/391585.167.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391585.167.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387132.2 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -6784,30 +4223,16 @@ valu: "finger/CIP391585.167.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP391585.179': {name: "CIP391585.179",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391585.179.jpg"},
-{
-name: "Fry image",
-valu: "fry/391585.179.jpg"},
-{
-name: "Chips image",
-valu: "chips/391585.179.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391585.179.jpg"},
-{
-name: "Plant image",
-valu: "plant/391585.179.jpg"},
-{
-name: "Flower image",
-valu: "flower/391585.179.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391585.179.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391585.179.jpg"}, 
 
+{name: "Chips image", valu: "Chips/391585.179.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/391585.179.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391585.179.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387132.2 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -6842,30 +4267,18 @@ valu: "finger/CIP391585.179.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP391585.5': {name: "CIP391585.5",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391585.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/391585.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/391585.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391585.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/391585.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/391585.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391585.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391585.5.jpg"}, 
 
+{name: "Fry image", valu: "Fry/391585.5.jpg"}, 
+
+{name: "Chips image", valu: "Chips/391585.5.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/391585.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391585.5.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387132.2 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "White-cream"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -6891,31 +4304,15 @@ valu: "finger/CIP391585.5.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP391724.1': {name: "CIP391724.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391724.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/391724.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/391724.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391724.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/391724.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/391724.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391724.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391724.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "92.08"},
+{name: "Sprout image", valu: "Sprout/391724.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391724.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "92.085000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "800959 (GRANOLA) x 386316.1 (XY.20)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -6950,31 +4347,17 @@ valu: "finger/CIP391724.1.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP391846.5': {name: "CIP391846.5",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391846.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/391846.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/391846.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391846.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/391846.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/391846.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391846.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391846.5.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/391846.5.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/391846.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391846.5.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR-93.309"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "MARIELA x 385305.1 (XY.9)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7001,31 +4384,17 @@ valu: "finger/CIP391846.5.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP391919.3': {name: "CIP391919.3",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391919.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/391919.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/391919.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391919.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/391919.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/391919.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391919.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391919.3.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "1043"},
+{name: "Chips image", valu: "Chips/391919.3.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/391919.3.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391919.3.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "1043.000000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "69.4 (1043) BW x -"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Red"},
 {name: "Distribution of secondary tuber skin colour", valu: "areas around eyes do not show secondary color but reminder of tuber does (spectacled)"},
@@ -7059,31 +4428,15 @@ valu: "finger/CIP391919.3.jpg"},
 {name: "Sprouting pattern", valu: "Multiple"}]},
  
 'CIP391930.1': {name: "CIP391930.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391930.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/391930.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/391930.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391930.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/391930.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/391930.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391930.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391930.1.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/391930.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391930.1.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "544"},
 {name: "Population Group", valu: "BW"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "BWH-87.338 x SELF"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7118,31 +4471,15 @@ valu: "finger/CIP391930.1.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP391931.1': {name: "CIP391931.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391931.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/391931.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/391931.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391931.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/391931.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/391931.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391931.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391931.1.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/391931.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391931.1.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "458"},
 {name: "Population Group", valu: "BW"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "SR-17.50 x SELF"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7168,31 +4505,15 @@ valu: "finger/CIP391931.1.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP392025.7': {name: "CIP392025.7",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392025.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/392025.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/392025.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392025.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/392025.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/392025.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392025.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392025.7.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/392025.7.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392025.7.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR-93.221"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "LINEA 21 x 386614.16 (XY.16)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7225,31 +4546,15 @@ valu: "finger/CIP392025.7.jpg"},
 {name: "Pollen viability (%)", valu: "84.5"}]},
  
 'CIP392032.2': {name: "CIP392032.2",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392032.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/392032.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/392032.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392032.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/392032.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/392032.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392032.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392032.2.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/392032.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392032.2.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR-93.162"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "LOTOS x 385280.1 (XY.13)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -7277,31 +4582,15 @@ valu: "finger/CIP392032.2.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP392278.19': {name: "CIP392278.19",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392278.19.jpg"},
-{
-name: "Fry image",
-valu: "fry/392278.19.jpg"},
-{
-name: "Chips image",
-valu: "chips/392278.19.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392278.19.jpg"},
-{
-name: "Plant image",
-valu: "plant/392278.19.jpg"},
-{
-name: "Flower image",
-valu: "flower/392278.19.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392278.19.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392278.19.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "619"},
+{name: "Sprout image", valu: "Sprout/392278.19.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392278.19.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "619.000000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "BWH-87.254 x 382157.3"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7323,30 +4612,14 @@ valu: "finger/CIP392278.19.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP392285.72': {name: "CIP392285.72",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392285.72.jpg"},
-{
-name: "Fry image",
-valu: "fry/392285.72.jpg"},
-{
-name: "Chips image",
-valu: "chips/392285.72.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392285.72.jpg"},
-{
-name: "Plant image",
-valu: "plant/392285.72.jpg"},
-{
-name: "Flower image",
-valu: "flower/392285.72.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392285.72.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392285.72.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "351"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/392285.72.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392285.72.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "351.000000"},
+{name: "Parentage", valu: "36.14 x 382157.3"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7378,30 +4651,14 @@ valu: "finger/CIP392285.72.jpg"},
 {name: "Adaptability", valu: "Intermediate and highland tropics"}]},
  
 'CIP392617.54': {name: "CIP392617.54",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392617.54.jpg"},
-{
-name: "Fry image",
-valu: "fry/392617.54.jpg"},
-{
-name: "Chips image",
-valu: "chips/392617.54.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392617.54.jpg"},
-{
-name: "Plant image",
-valu: "plant/392617.54.jpg"},
-{
-name: "Flower image",
-valu: "flower/392617.54.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392617.54.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392617.54.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/392617.54.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392617.54.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387002.11 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -7442,30 +4699,14 @@ valu: "finger/CIP392617.54.jpg"},
 {name: "Pollen viability (%)", valu: "80.9"}]},
  
 'CIP392633.54': {name: "CIP392633.54",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392633.54.jpg"},
-{
-name: "Fry image",
-valu: "fry/392633.54.jpg"},
-{
-name: "Chips image",
-valu: "chips/392633.54.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392633.54.jpg"},
-{
-name: "Plant image",
-valu: "plant/392633.54.jpg"},
-{
-name: "Flower image",
-valu: "flower/392633.54.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392633.54.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392633.54.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/392633.54.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392633.54.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387132.2 x 387334.5"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7501,30 +4742,16 @@ valu: "finger/CIP392633.54.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP392633.64': {name: "CIP392633.64",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392633.64.jpg"},
-{
-name: "Fry image",
-valu: "fry/392633.64.jpg"},
-{
-name: "Chips image",
-valu: "chips/392633.64.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392633.64.jpg"},
-{
-name: "Plant image",
-valu: "plant/392633.64.jpg"},
-{
-name: "Flower image",
-valu: "flower/392633.64.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392633.64.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392633.64.jpg"}, 
 
+{name: "Chips image", valu: "Chips/392633.64.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/392633.64.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392633.64.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387132.2 x 387334.5"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7560,30 +4787,14 @@ valu: "finger/CIP392633.64.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP392634.49': {name: "CIP392634.49",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392634.49.jpg"},
-{
-name: "Fry image",
-valu: "fry/392634.49.jpg"},
-{
-name: "Chips image",
-valu: "chips/392634.49.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392634.49.jpg"},
-{
-name: "Plant image",
-valu: "plant/392634.49.jpg"},
-{
-name: "Flower image",
-valu: "flower/392634.49.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392634.49.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392634.49.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/392634.49.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392634.49.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387136.14 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7619,30 +4830,16 @@ valu: "finger/CIP392634.49.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP392634.52': {name: "CIP392634.52",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392634.52.jpg"},
-{
-name: "Fry image",
-valu: "fry/392634.52.jpg"},
-{
-name: "Chips image",
-valu: "chips/392634.52.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392634.52.jpg"},
-{
-name: "Plant image",
-valu: "plant/392634.52.jpg"},
-{
-name: "Flower image",
-valu: "flower/392634.52.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392634.52.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392634.52.jpg"}, 
 
+{name: "Chips image", valu: "Chips/392634.52.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/392634.52.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392634.52.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387136.14 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7679,30 +4876,14 @@ valu: "finger/CIP392634.52.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP392637.10': {name: "CIP392637.10",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392637.10.jpg"},
-{
-name: "Fry image",
-valu: "fry/392637.10.jpg"},
-{
-name: "Chips image",
-valu: "chips/392637.10.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392637.10.jpg"},
-{
-name: "Plant image",
-valu: "plant/392637.10.jpg"},
-{
-name: "Flower image",
-valu: "flower/392637.10.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392637.10.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392637.10.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/392637.10.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392637.10.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387143.22 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -7728,30 +4909,12 @@ valu: "finger/CIP392637.10.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP392637.27': {name: "CIP392637.27",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392637.27.jpg"},
-{
-name: "Fry image",
-valu: "fry/392637.27.jpg"},
-{
-name: "Chips image",
-valu: "chips/392637.27.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392637.27.jpg"},
-{
-name: "Plant image",
-valu: "plant/392637.27.jpg"},
-{
-name: "Flower image",
-valu: "flower/392637.27.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392637.27.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392637.27.jpg"}, 
 
+{name: "Flower image", valu: "Flower/392637.27.jpg"}, 
 {name: "Population Group", valu: "B3"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387143.22 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -7782,30 +4945,14 @@ valu: "finger/CIP392637.27.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP392639.34': {name: "CIP392639.34",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392639.34.jpg"},
-{
-name: "Fry image",
-valu: "fry/392639.34.jpg"},
-{
-name: "Chips image",
-valu: "chips/392639.34.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392639.34.jpg"},
-{
-name: "Plant image",
-valu: "plant/392639.34.jpg"},
-{
-name: "Flower image",
-valu: "flower/392639.34.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392639.34.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392639.34.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/392639.34.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392639.34.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387143.22 x 387334.5"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7840,30 +4987,18 @@ valu: "finger/CIP392639.34.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP392640.18': {name: "CIP392640.18",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392640.18.jpg"},
-{
-name: "Fry image",
-valu: "fry/392640.18.jpg"},
-{
-name: "Chips image",
-valu: "chips/392640.18.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392640.18.jpg"},
-{
-name: "Plant image",
-valu: "plant/392640.18.jpg"},
-{
-name: "Flower image",
-valu: "flower/392640.18.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392640.18.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392640.18.jpg"}, 
 
+{name: "Fry image", valu: "Fry/392640.18.jpg"}, 
+
+{name: "Chips image", valu: "Chips/392640.18.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/392640.18.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392640.18.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387164.4 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7902,30 +5037,17 @@ valu: "finger/CIP392640.18.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP392650.12': {name: "CIP392650.12",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392650.12.jpg"},
-{
-name: "Fry image",
-valu: "fry/392650.12.jpg"},
-{
-name: "Chips image",
-valu: "chips/392650.12.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392650.12.jpg"},
-{
-name: "Plant image",
-valu: "plant/392650.12.jpg"},
-{
-name: "Flower image",
-valu: "flower/392650.12.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392650.12.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392650.12.jpg"}, 
 
+{name: "Fry image", valu: "Fry/392650.12.jpg"}, 
+
+{name: "Chips image", valu: "Chips/392650.12.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/392650.12.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392650.12.jpg"}, 
 {name: "Population Group", valu: "B3"},
-{name: "Parentage", valu: "x"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -7955,30 +5077,14 @@ valu: "finger/CIP392650.12.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP392657.171': {name: "CIP392657.171",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392657.171.jpg"},
-{
-name: "Fry image",
-valu: "fry/392657.171.jpg"},
-{
-name: "Chips image",
-valu: "chips/392657.171.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392657.171.jpg"},
-{
-name: "Plant image",
-valu: "plant/392657.171.jpg"},
-{
-name: "Flower image",
-valu: "flower/392657.171.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392657.171.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392657.171.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/392657.171.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392657.171.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387341.1 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -8006,30 +5112,16 @@ valu: "finger/CIP392657.171.jpg"},
 {name: "Pollen viability (%)", valu: "87.1"}]},
  
 'CIP392657.8': {name: "CIP392657.8",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392657.8.jpg"},
-{
-name: "Fry image",
-valu: "fry/392657.8.jpg"},
-{
-name: "Chips image",
-valu: "chips/392657.8.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392657.8.jpg"},
-{
-name: "Plant image",
-valu: "plant/392657.8.jpg"},
-{
-name: "Flower image",
-valu: "flower/392657.8.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392657.8.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392657.8.jpg"}, 
 
+{name: "Chips image", valu: "Chips/392657.8.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/392657.8.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392657.8.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387341.1 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -8056,30 +5148,14 @@ valu: "finger/CIP392657.8.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP392661.18': {name: "CIP392661.18",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392661.18.jpg"},
-{
-name: "Fry image",
-valu: "fry/392661.18.jpg"},
-{
-name: "Chips image",
-valu: "chips/392661.18.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392661.18.jpg"},
-{
-name: "Plant image",
-valu: "plant/392661.18.jpg"},
-{
-name: "Flower image",
-valu: "flower/392661.18.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392661.18.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392661.18.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/392661.18.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392661.18.jpg"}, 
 {name: "Population Group", valu: "A"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "389743.1 x 390357.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "Spots uniformely distributed (stippled)"},
@@ -8099,31 +5175,15 @@ valu: "finger/CIP392661.18.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP392739.4': {name: "CIP392739.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392739.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/392739.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/392739.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392739.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/392739.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/392739.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392739.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392739.4.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "92.06"},
+{name: "Sprout image", valu: "Sprout/392739.4.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392739.4.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "92.062"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "86001 x 386614.16=(XY.16)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -8157,31 +5217,15 @@ valu: "finger/CIP392739.4.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP392740.4': {name: "CIP392740.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392740.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/392740.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/392740.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392740.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/392740.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/392740.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392740.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392740.4.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "92.06"},
+{name: "Sprout image", valu: "Sprout/392740.4.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392740.4.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "92.065000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "87055 x 386614.16 (XY.16)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -8214,31 +5258,15 @@ valu: "finger/CIP392740.4.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP392745.7': {name: "CIP392745.7",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392745.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/392745.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/392745.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392745.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/392745.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/392745.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392745.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392745.7.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "92.19"},
+{name: "Sprout image", valu: "Sprout/392745.7.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392745.7.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "92.187000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "88078 x 386316.1 (XY.20)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -8266,31 +5294,15 @@ valu: "finger/CIP392745.7.jpg"},
 {name: "Pollen viability (%)", valu: "80.6"}]},
  
 'CIP392759.1': {name: "CIP392759.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392759.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/392759.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/392759.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392759.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/392759.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/392759.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392759.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392759.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "92.12"},
+{name: "Sprout image", valu: "Sprout/392759.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392759.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "92.118000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388676.1 (Y84.027) x PENTLAND CROWN"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -8317,31 +5329,15 @@ valu: "finger/CIP392759.1.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP392820.1': {name: "CIP392820.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392820.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/392820.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/392820.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392820.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/392820.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/392820.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392820.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392820.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/392820.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392820.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C93.154"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "MONALISA x 388216.1 (YY.5)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato Leaf Roll Virus (PRLV)", valu: "Highly resistant"},
@@ -8368,31 +5364,15 @@ valu: "finger/CIP392820.1.jpg"},
 {name: "Pollen viability (%)", valu: "87.7"}]},
  
 'CIP392821.1': {name: "CIP392821.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392821.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/392821.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/392821.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392821.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/392821.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/392821.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392821.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392821.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/392821.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392821.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C92.085"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "PW-31 x 385280.1 (XY.13)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -8428,29 +5408,13 @@ valu: "finger/CIP392821.1.jpg"},
 {name: "Pollen viability (%)", valu: "73.5"}]},
  
 'CIP392822.3': {name: "CIP392822.3",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392822.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/392822.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/392822.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392822.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/392822.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/392822.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392822.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392822.3.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/392822.3.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392822.3.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR-93.073"},
 {name: "Population Group", valu: "LTVR"},
 {name: "Parentage", valu: "MARIELA x YY.1"},
 {name: "Predominant tuber skin color", valu: "Brownish"},
@@ -8473,31 +5437,15 @@ valu: "finger/CIP392822.3.jpg"},
 {name: "Pollen viability (%)", valu: "37.3"}]},
  
 'CIP392823.4': {name: "CIP392823.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392823.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/392823.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/392823.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392823.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/392823.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/392823.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392823.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392823.4.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/392823.4.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392823.4.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR-93.120"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "LINEA-21 x 385305.1 (XY.9)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -8519,31 +5467,15 @@ valu: "finger/CIP392823.4.jpg"},
 {name: "Pollen viability (%)", valu: "76.7"}]},
  
 'CIP392824.1': {name: "CIP392824.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392824.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/392824.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/392824.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392824.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/392824.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/392824.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392824.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392824.1.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/392824.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392824.1.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "LR-93-271"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "800959 (GRANOLA) x 386614.16 (XY.16)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -8571,30 +5503,14 @@ valu: "finger/CIP392824.1.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP393073.179': {name: "CIP393073.179",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393073.179.jpg"},
-{
-name: "Fry image",
-valu: "fry/393073.179.jpg"},
-{
-name: "Chips image",
-valu: "chips/393073.179.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393073.179.jpg"},
-{
-name: "Plant image",
-valu: "plant/393073.179.jpg"},
-{
-name: "Flower image",
-valu: "flower/393073.179.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393073.179.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393073.179.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393073.179.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393073.179.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387015.13 x 389746.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -8635,30 +5551,16 @@ valu: "finger/CIP393073.179.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP393073.197': {name: "CIP393073.197",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393073.197.jpg"},
-{
-name: "Fry image",
-valu: "fry/393073.197.jpg"},
-{
-name: "Chips image",
-valu: "chips/393073.197.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393073.197.jpg"},
-{
-name: "Plant image",
-valu: "plant/393073.197.jpg"},
-{
-name: "Flower image",
-valu: "flower/393073.197.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393073.197.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393073.197.jpg"}, 
 
+{name: "Chips image", valu: "Chips/393073.197.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393073.197.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393073.197.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387015.13 x 389746.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -8700,30 +5602,16 @@ valu: "finger/CIP393073.197.jpg"},
 {name: "Sprouting pattern", valu: "Multiple"}]},
  
 'CIP393075.54': {name: "CIP393075.54",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393075.54.jpg"},
-{
-name: "Fry image",
-valu: "fry/393075.54.jpg"},
-{
-name: "Chips image",
-valu: "chips/393075.54.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393075.54.jpg"},
-{
-name: "Plant image",
-valu: "plant/393075.54.jpg"},
-{
-name: "Flower image",
-valu: "flower/393075.54.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393075.54.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393075.54.jpg"}, 
 
+{name: "Chips image", valu: "Chips/393075.54.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393075.54.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393075.54.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387315.27 x 389746.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -8755,30 +5643,18 @@ valu: "finger/CIP393075.54.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393077.159': {name: "CIP393077.159",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393077.159.jpg"},
-{
-name: "Fry image",
-valu: "fry/393077.159.jpg"},
-{
-name: "Chips image",
-valu: "chips/393077.159.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393077.159.jpg"},
-{
-name: "Plant image",
-valu: "plant/393077.159.jpg"},
-{
-name: "Flower image",
-valu: "flower/393077.159.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393077.159.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393077.159.jpg"}, 
 
+{name: "Fry image", valu: "Fry/393077.159.jpg"}, 
+
+{name: "Chips image", valu: "Chips/393077.159.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393077.159.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393077.159.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387348.20 x 389746.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -8813,30 +5689,12 @@ valu: "finger/CIP393077.159.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393077.162': {name: "CIP393077.162",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393077.162.jpg"},
-{
-name: "Fry image",
-valu: "fry/393077.162.jpg"},
-{
-name: "Chips image",
-valu: "chips/393077.162.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393077.162.jpg"},
-{
-name: "Plant image",
-valu: "plant/393077.162.jpg"},
-{
-name: "Flower image",
-valu: "flower/393077.162.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393077.162.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393077.162.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393077.162.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387348.20 x 389746.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -8865,30 +5723,14 @@ valu: "finger/CIP393077.162.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393079.24': {name: "CIP393079.24",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393079.24.jpg"},
-{
-name: "Fry image",
-valu: "fry/393079.24.jpg"},
-{
-name: "Chips image",
-valu: "chips/393079.24.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393079.24.jpg"},
-{
-name: "Plant image",
-valu: "plant/393079.24.jpg"},
-{
-name: "Flower image",
-valu: "flower/393079.24.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393079.24.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393079.24.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393079.24.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393079.24.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387004.13 x 390357.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -8922,30 +5764,18 @@ valu: "finger/CIP393079.24.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393079.4': {name: "CIP393079.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393079.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/393079.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/393079.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393079.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/393079.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/393079.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393079.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393079.4.jpg"}, 
 
+{name: "Fry image", valu: "Fry/393079.4.jpg"}, 
+
+{name: "Chips image", valu: "Chips/393079.4.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393079.4.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393079.4.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387004.13 x 390357.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -8983,30 +5813,18 @@ valu: "finger/CIP393079.4.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393083.2': {name: "CIP393083.2",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393083.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/393083.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/393083.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393083.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/393083.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/393083.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393083.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393083.2.jpg"}, 
 
+{name: "Fry image", valu: "Fry/393083.2.jpg"}, 
+
+{name: "Chips image", valu: "Chips/393083.2.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393083.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393083.2.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387315.27 x 390357.4"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "White-cream"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -9044,30 +5862,14 @@ valu: "finger/CIP393083.2.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393084.31': {name: "CIP393084.31",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393084.31.jpg"},
-{
-name: "Fry image",
-valu: "fry/393084.31.jpg"},
-{
-name: "Chips image",
-valu: "chips/393084.31.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393084.31.jpg"},
-{
-name: "Plant image",
-valu: "plant/393084.31.jpg"},
-{
-name: "Flower image",
-valu: "flower/393084.31.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393084.31.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393084.31.jpg"}, 
 
+{name: "Chips image", valu: "Chips/393084.31.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393084.31.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387326.27 x 390357.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -9096,30 +5898,16 @@ valu: "finger/CIP393084.31.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393085.5': {name: "CIP393085.5",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393085.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/393085.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/393085.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393085.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/393085.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/393085.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393085.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393085.5.jpg"}, 
 
+{name: "Chips image", valu: "Chips/393085.5.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393085.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393085.5.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387348.20 x 390357.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -9157,30 +5945,16 @@ valu: "finger/CIP393085.5.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393220.54': {name: "CIP393220.54",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393220.54.jpg"},
-{
-name: "Fry image",
-valu: "fry/393220.54.jpg"},
-{
-name: "Chips image",
-valu: "chips/393220.54.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393220.54.jpg"},
-{
-name: "Plant image",
-valu: "plant/393220.54.jpg"},
-{
-name: "Flower image",
-valu: "flower/393220.54.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393220.54.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393220.54.jpg"}, 
 
+{name: "Chips image", valu: "Chips/393220.54.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393220.54.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393220.54.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "381400.22 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -9217,30 +5991,14 @@ valu: "finger/CIP393220.54.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393227.66': {name: "CIP393227.66",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393227.66.jpg"},
-{
-name: "Fry image",
-valu: "fry/393227.66.jpg"},
-{
-name: "Chips image",
-valu: "chips/393227.66.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393227.66.jpg"},
-{
-name: "Plant image",
-valu: "plant/393227.66.jpg"},
-{
-name: "Flower image",
-valu: "flower/393227.66.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393227.66.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393227.66.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393227.66.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393227.66.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "386209.10 x 381400.22"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -9275,30 +6033,18 @@ valu: "finger/CIP393227.66.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP393228.67': {name: "CIP393228.67",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393228.67.jpg"},
-{
-name: "Fry image",
-valu: "fry/393228.67.jpg"},
-{
-name: "Chips image",
-valu: "chips/393228.67.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393228.67.jpg"},
-{
-name: "Plant image",
-valu: "plant/393228.67.jpg"},
-{
-name: "Flower image",
-valu: "flower/393228.67.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393228.67.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393228.67.jpg"}, 
 
+{name: "Fry image", valu: "Fry/393228.67.jpg"}, 
+
+{name: "Chips image", valu: "Chips/393228.67.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393228.67.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393228.67.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "386209.10 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -9337,30 +6083,14 @@ valu: "finger/CIP393228.67.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP393242.50': {name: "CIP393242.50",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393242.50.jpg"},
-{
-name: "Fry image",
-valu: "fry/393242.50.jpg"},
-{
-name: "Chips image",
-valu: "chips/393242.50.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393242.50.jpg"},
-{
-name: "Plant image",
-valu: "plant/393242.50.jpg"},
-{
-name: "Flower image",
-valu: "flower/393242.50.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393242.50.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393242.50.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393242.50.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393242.50.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387002.11 x 381400.22"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -9387,30 +6117,16 @@ valu: "finger/CIP393242.50.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393248.55': {name: "CIP393248.55",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393248.55.jpg"},
-{
-name: "Fry image",
-valu: "fry/393248.55.jpg"},
-{
-name: "Chips image",
-valu: "chips/393248.55.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393248.55.jpg"},
-{
-name: "Plant image",
-valu: "plant/393248.55.jpg"},
-{
-name: "Flower image",
-valu: "flower/393248.55.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393248.55.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393248.55.jpg"}, 
 
+{name: "Chips image", valu: "Chips/393248.55.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393248.55.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393248.55.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387002.11 x 386614.16 (XY.16)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -9447,30 +6163,14 @@ valu: "finger/CIP393248.55.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393280.57': {name: "CIP393280.57",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393280.57.jpg"},
-{
-name: "Fry image",
-valu: "fry/393280.57.jpg"},
-{
-name: "Chips image",
-valu: "chips/393280.57.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393280.57.jpg"},
-{
-name: "Plant image",
-valu: "plant/393280.57.jpg"},
-{
-name: "Flower image",
-valu: "flower/393280.57.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393280.57.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393280.57.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393280.57.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393280.57.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387015.3 x 386316.14 (XY.14)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -9502,30 +6202,14 @@ valu: "finger/CIP393280.57.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393280.82': {name: "CIP393280.82",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393280.82.jpg"},
-{
-name: "Fry image",
-valu: "fry/393280.82.jpg"},
-{
-name: "Chips image",
-valu: "chips/393280.82.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393280.82.jpg"},
-{
-name: "Plant image",
-valu: "plant/393280.82.jpg"},
-{
-name: "Flower image",
-valu: "flower/393280.82.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393280.82.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393280.82.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393280.82.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393280.82.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387015.3 x 386316.14 (XY.14)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -9565,30 +6249,14 @@ valu: "finger/CIP393280.82.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393280.83': {name: "CIP393280.83",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393280.83.jpg"},
-{
-name: "Fry image",
-valu: "fry/393280.83.jpg"},
-{
-name: "Chips image",
-valu: "chips/393280.83.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393280.83.jpg"},
-{
-name: "Plant image",
-valu: "plant/393280.83.jpg"},
-{
-name: "Flower image",
-valu: "flower/393280.83.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393280.83.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393280.83.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393280.83.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393280.83.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387015.3 x 386316.14 (XY.14)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -9615,30 +6283,14 @@ valu: "finger/CIP393280.83.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393284.39': {name: "CIP393284.39",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393284.39.jpg"},
-{
-name: "Fry image",
-valu: "fry/393284.39.jpg"},
-{
-name: "Chips image",
-valu: "chips/393284.39.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393284.39.jpg"},
-{
-name: "Plant image",
-valu: "plant/393284.39.jpg"},
-{
-name: "Flower image",
-valu: "flower/393284.39.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393284.39.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393284.39.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393284.39.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393284.39.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387015.12 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -9667,30 +6319,16 @@ valu: "finger/CIP393284.39.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP393339.242': {name: "CIP393339.242",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393339.242.jpg"},
-{
-name: "Fry image",
-valu: "fry/393339.242.jpg"},
-{
-name: "Chips image",
-valu: "chips/393339.242.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393339.242.jpg"},
-{
-name: "Plant image",
-valu: "plant/393339.242.jpg"},
-{
-name: "Flower image",
-valu: "flower/393339.242.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393339.242.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393339.242.jpg"}, 
 
+{name: "Chips image", valu: "Chips/393339.242.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393339.242.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393339.242.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387164.4 x SANI IMILLA"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -9729,30 +6367,14 @@ valu: "finger/CIP393339.242.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393349.68': {name: "CIP393349.68",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393349.68.jpg"},
-{
-name: "Fry image",
-valu: "fry/393349.68.jpg"},
-{
-name: "Chips image",
-valu: "chips/393349.68.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393349.68.jpg"},
-{
-name: "Plant image",
-valu: "plant/393349.68.jpg"},
-{
-name: "Flower image",
-valu: "flower/393349.68.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393349.68.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393349.68.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393349.68.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393349.68.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387170.6 x 387338.3"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -9792,30 +6414,16 @@ valu: "finger/CIP393349.68.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393371.157': {name: "CIP393371.157",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393371.157.jpg"},
-{
-name: "Fry image",
-valu: "fry/393371.157.jpg"},
-{
-name: "Chips image",
-valu: "chips/393371.157.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393371.157.jpg"},
-{
-name: "Plant image",
-valu: "plant/393371.157.jpg"},
-{
-name: "Flower image",
-valu: "flower/393371.157.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393371.157.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393371.157.jpg"}, 
 
+{name: "Chips image", valu: "Chips/393371.157.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393371.157.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393371.157.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387170.16 x 389746.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -9853,30 +6461,14 @@ valu: "finger/CIP393371.157.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393371.159': {name: "CIP393371.159",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393371.159.jpg"},
-{
-name: "Fry image",
-valu: "fry/393371.159.jpg"},
-{
-name: "Chips image",
-valu: "chips/393371.159.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393371.159.jpg"},
-{
-name: "Plant image",
-valu: "plant/393371.159.jpg"},
-{
-name: "Flower image",
-valu: "flower/393371.159.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393371.159.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393371.159.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393371.159.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393371.159.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387170.16 x 389746.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -9908,30 +6500,18 @@ valu: "finger/CIP393371.159.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393371.164': {name: "CIP393371.164",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393371.164.jpg"},
-{
-name: "Fry image",
-valu: "fry/393371.164.jpg"},
-{
-name: "Chips image",
-valu: "chips/393371.164.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393371.164.jpg"},
-{
-name: "Plant image",
-valu: "plant/393371.164.jpg"},
-{
-name: "Flower image",
-valu: "flower/393371.164.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393371.164.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393371.164.jpg"}, 
 
+{name: "Fry image", valu: "Fry/393371.164.jpg"}, 
+
+{name: "Chips image", valu: "Chips/393371.164.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393371.164.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393371.164.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387170.16 x 389746.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -9971,30 +6551,16 @@ valu: "finger/CIP393371.164.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP393382.44': {name: "CIP393382.44",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393382.44.jpg"},
-{
-name: "Fry image",
-valu: "fry/393382.44.jpg"},
-{
-name: "Chips image",
-valu: "chips/393382.44.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393382.44.jpg"},
-{
-name: "Plant image",
-valu: "plant/393382.44.jpg"},
-{
-name: "Flower image",
-valu: "flower/393382.44.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393382.44.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393382.44.jpg"}, 
 
+{name: "Chips image", valu: "Chips/393382.44.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393382.44.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393382.44.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387205.5 x 387338.3"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -10035,30 +6601,18 @@ valu: "finger/CIP393382.44.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP393385.47': {name: "CIP393385.47",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393385.47.jpg"},
-{
-name: "Fry image",
-valu: "fry/393385.47.jpg"},
-{
-name: "Chips image",
-valu: "chips/393385.47.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393385.47.jpg"},
-{
-name: "Plant image",
-valu: "plant/393385.47.jpg"},
-{
-name: "Flower image",
-valu: "flower/393385.47.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393385.47.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393385.47.jpg"}, 
 
+{name: "Fry image", valu: "Fry/393385.47.jpg"}, 
+
+{name: "Chips image", valu: "Chips/393385.47.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393385.47.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393385.47.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387231.7 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -10087,30 +6641,14 @@ valu: "finger/CIP393385.47.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393385.57': {name: "CIP393385.57",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393385.57.jpg"},
-{
-name: "Fry image",
-valu: "fry/393385.57.jpg"},
-{
-name: "Chips image",
-valu: "chips/393385.57.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393385.57.jpg"},
-{
-name: "Plant image",
-valu: "plant/393385.57.jpg"},
-{
-name: "Flower image",
-valu: "flower/393385.57.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393385.57.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393385.57.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393385.57.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393385.57.jpg"}, 
 {name: "Population Group", valu: "B3C1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387231.7 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -10146,31 +6684,15 @@ valu: "finger/CIP393385.57.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP393536.13': {name: "CIP393536.13",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393536.13.jpg"},
-{
-name: "Fry image",
-valu: "fry/393536.13.jpg"},
-{
-name: "Chips image",
-valu: "chips/393536.13.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393536.13.jpg"},
-{
-name: "Plant image",
-valu: "plant/393536.13.jpg"},
-{
-name: "Flower image",
-valu: "flower/393536.13.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393536.13.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393536.13.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "95.1"},
+{name: "Sprout image", valu: "Sprout/393536.13.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393536.13.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "95.103000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "BEROLINA x 386287.1 (XY.4)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "General tuber shape", valu: "Oblong"},
@@ -10199,31 +6721,17 @@ valu: "finger/CIP393536.13.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP393595.1': {name: "CIP393595.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393595.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/393595.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/393595.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393595.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/393595.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/393595.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393595.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393595.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "95.14"},
+{name: "Chips image", valu: "Chips/393595.1.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393595.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393595.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "95.141000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "B71.74.49.12 x 385305.1 (XY.9)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -10239,31 +6747,15 @@ valu: "finger/CIP393595.1.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP393613.2': {name: "CIP393613.2",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393613.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/393613.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/393613.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393613.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/393613.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/393613.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393613.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393613.2.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393613.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393613.2.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "TXY.2"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391896.15 (DXY.15) x 391894.7 (DXY.7)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Bacterial Wilt (BW)", valu: "Susceptible"},
@@ -10290,31 +6782,15 @@ valu: "finger/CIP393613.2.jpg"},
 {name: "Pollen viability (%)", valu: "79.6"}]},
  
 'CIP393614.3': {name: "CIP393614.3",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393614.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/393614.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/393614.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393614.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/393614.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/393614.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393614.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393614.3.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393614.3.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393614.3.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "TXY.3"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391895.10 (DXY.10) x 391896.15 (DXY.15)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -10348,31 +6824,15 @@ valu: "finger/CIP393614.3.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP393615.6': {name: "CIP393615.6",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393615.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/393615.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/393615.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393615.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/393615.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/393615.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393615.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393615.6.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393615.6.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393615.6.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "TXY.6"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "DXY.33 x 391896.15 (DXY.15)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -10397,31 +6857,15 @@ valu: "finger/CIP393615.6.jpg"},
 {name: "Pollen viability (%)", valu: "84.8"}]},
  
 'CIP393617.1': {name: "CIP393617.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393617.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/393617.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/393617.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393617.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/393617.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/393617.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393617.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393617.1.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393617.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393617.1.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "TXY.11"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391896.15 (DXY.15) x DXY.33"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Resistant"},
@@ -10449,31 +6893,15 @@ valu: "finger/CIP393617.1.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP393708.31': {name: "CIP393708.31",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393708.31.jpg"},
-{
-name: "Fry image",
-valu: "fry/393708.31.jpg"},
-{
-name: "Chips image",
-valu: "chips/393708.31.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393708.31.jpg"},
-{
-name: "Plant image",
-valu: "plant/393708.31.jpg"},
-{
-name: "Flower image",
-valu: "flower/393708.31.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393708.31.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393708.31.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "95.32"},
+{name: "Sprout image", valu: "Sprout/393708.31.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393708.31.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "95.320"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "PW-31 x 391895.10 (DXY.10)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -10503,31 +6931,17 @@ valu: "finger/CIP393708.31.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP394034.7': {name: "CIP394034.7",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394034.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/394034.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/394034.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394034.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/394034.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/394034.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394034.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394034.7.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/394034.7.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/394034.7.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394034.7.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C97.007"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "B79.638.1 x 676008 (I-1039)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Medium resistant"},
@@ -10542,31 +6956,15 @@ valu: "finger/CIP394034.7.jpg"},
 {name: "Adaptability", valu: "Mid elevation tropics"}]},
  
 'CIP394600.52': {name: "CIP394600.52",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394600.52.jpg"},
-{
-name: "Fry image",
-valu: "fry/394600.52.jpg"},
-{
-name: "Chips image",
-valu: "chips/394600.52.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394600.52.jpg"},
-{
-name: "Plant image",
-valu: "plant/394600.52.jpg"},
-{
-name: "Flower image",
-valu: "flower/394600.52.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394600.52.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394600.52.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/394600.52.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394600.52.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C97.158"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22 (C91.612) x 388972.22 (C89.315)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -10591,28 +6989,12 @@ valu: "finger/CIP394600.52.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP394611.112': {name: "CIP394611.112",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394611.112.jpg"},
-{
-name: "Fry image",
-valu: "fry/394611.112.jpg"},
-{
-name: "Chips image",
-valu: "chips/394611.112.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394611.112.jpg"},
-{
-name: "Plant image",
-valu: "plant/394611.112.jpg"},
-{
-name: "Flower image",
-valu: "flower/394611.112.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394611.112.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394611.112.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/394611.112.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394611.112.jpg"}, 
 {name: "Population Group", valu: "LTVR"},
 {name: "Parentage", valu: "780280 (PW-88-6203) x 676008 (I-1039)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
@@ -10644,28 +7026,12 @@ valu: "finger/CIP394611.112.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP394613.139': {name: "CIP394613.139",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394613.139.jpg"},
-{
-name: "Fry image",
-valu: "fry/394613.139.jpg"},
-{
-name: "Chips image",
-valu: "chips/394613.139.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394613.139.jpg"},
-{
-name: "Plant image",
-valu: "plant/394613.139.jpg"},
-{
-name: "Flower image",
-valu: "flower/394613.139.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394613.139.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394613.139.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/394613.139.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394613.139.jpg"}, 
 {name: "Population Group", valu: "LTVR"},
 {name: "Parentage", valu: "TXY.4 x 676008 (I-1039)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
@@ -10694,28 +7060,12 @@ valu: "finger/CIP394613.139.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP394613.32': {name: "CIP394613.32",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394613.32.jpg"},
-{
-name: "Fry image",
-valu: "fry/394613.32.jpg"},
-{
-name: "Chips image",
-valu: "chips/394613.32.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394613.32.jpg"},
-{
-name: "Plant image",
-valu: "plant/394613.32.jpg"},
-{
-name: "Flower image",
-valu: "flower/394613.32.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394613.32.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394613.32.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/394613.32.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394613.32.jpg"}, 
 {name: "Population Group", valu: "LTVR"},
 {name: "Parentage", valu: "TXY.4 x 676008 (I-1039)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
@@ -10743,28 +7093,12 @@ valu: "finger/CIP394613.32.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP394614.117': {name: "CIP394614.117",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394614.117.jpg"},
-{
-name: "Fry image",
-valu: "fry/394614.117.jpg"},
-{
-name: "Chips image",
-valu: "chips/394614.117.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394614.117.jpg"},
-{
-name: "Plant image",
-valu: "plant/394614.117.jpg"},
-{
-name: "Flower image",
-valu: "flower/394614.117.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394614.117.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394614.117.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/394614.117.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394614.117.jpg"}, 
 {name: "Population Group", valu: "LTVR"},
 {name: "Parentage", valu: "TXY.8 x 676008 (I-1039)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
@@ -10793,31 +7127,17 @@ valu: "finger/CIP394614.117.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP394881.8': {name: "CIP394881.8",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394881.8.jpg"},
-{
-name: "Fry image",
-valu: "fry/394881.8.jpg"},
-{
-name: "Chips image",
-valu: "chips/394881.8.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394881.8.jpg"},
-{
-name: "Plant image",
-valu: "plant/394881.8.jpg"},
-{
-name: "Flower image",
-valu: "flower/394881.8.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394881.8.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394881.8.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "95.12"},
+{name: "Chips image", valu: "Chips/394881.8.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/394881.8.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394881.8.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "95.118000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "B84-606.5 x 386287.1 (XY.4)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Bacterial Wilt (BW)", valu: "Susceptible"},
@@ -10831,31 +7151,15 @@ valu: "finger/CIP394881.8.jpg"},
 {name: "Adaptability", valu: "Mid elevation tropics"}]},
  
 'CIP394895.7': {name: "CIP394895.7",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394895.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/394895.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/394895.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394895.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/394895.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/394895.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394895.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394895.7.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "1279"},
+{name: "Sprout image", valu: "Sprout/394895.7.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394895.7.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "1279.000000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "BWH-87.230R x C90.205"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -10889,31 +7193,15 @@ valu: "finger/CIP394895.7.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP394899.5': {name: "CIP394899.5",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394899.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/394899.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/394899.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394899.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/394899.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/394899.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394899.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394899.5.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "1097"},
+{name: "Sprout image", valu: "Sprout/394899.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394899.5.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "1097.000000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "28.68 x C90.205"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -10939,31 +7227,15 @@ valu: "finger/CIP394899.5.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP394903.3': {name: "CIP394903.3",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394903.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/394903.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/394903.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394903.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/394903.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/394903.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394903.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394903.3.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "1136"},
+{name: "Sprout image", valu: "Sprout/394903.3.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394903.3.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "1136.000000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "720118.1 (37-35A) x BWH-87.183"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -10986,30 +7258,14 @@ valu: "finger/CIP394903.3.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP394904.20': {name: "CIP394904.20",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394904.20.jpg"},
-{
-name: "Fry image",
-valu: "fry/394904.20.jpg"},
-{
-name: "Chips image",
-valu: "chips/394904.20.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394904.20.jpg"},
-{
-name: "Plant image",
-valu: "plant/394904.20.jpg"},
-{
-name: "Flower image",
-valu: "flower/394904.20.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394904.20.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394904.20.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "1155"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/394904.20.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394904.20.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "1155.000000"},
+{name: "Parentage", valu: "720118.1 (37-35A) x C90.205"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11042,31 +7298,11 @@ valu: "finger/CIP394904.20.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP394904.21': {name: "CIP394904.21",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394904.21.jpg"},
-{
-name: "Fry image",
-valu: "fry/394904.21.jpg"},
-{
-name: "Chips image",
-valu: "chips/394904.21.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394904.21.jpg"},
-{
-name: "Plant image",
-valu: "plant/394904.21.jpg"},
-{
-name: "Flower image",
-valu: "flower/394904.21.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394904.21.jpg"},
-
-{name: "Collecting number/Breeder code", valu: "1156"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394904.21.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "1156.000000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "720118.1 (37-35A) x C90.205"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11091,31 +7327,15 @@ valu: "finger/CIP394904.21.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP394905.8': {name: "CIP394905.8",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394905.8.jpg"},
-{
-name: "Fry image",
-valu: "fry/394905.8.jpg"},
-{
-name: "Chips image",
-valu: "chips/394905.8.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394905.8.jpg"},
-{
-name: "Plant image",
-valu: "plant/394905.8.jpg"},
-{
-name: "Flower image",
-valu: "flower/394905.8.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394905.8.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394905.8.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "1218"},
+{name: "Sprout image", valu: "Sprout/394905.8.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394905.8.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "1218.000000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "720118 (CRUZA 148) x C90.205"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11139,31 +7359,15 @@ valu: "finger/CIP394905.8.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP394906.6': {name: "CIP394906.6",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/394906.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/394906.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/394906.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/394906.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/394906.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/394906.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP394906.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/394906.6.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "1296"},
+{name: "Sprout image", valu: "Sprout/394906.6.jpg"}, 
+
+{name: "Flower image", valu: "Flower/394906.6.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "1296.000000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "BWH-87.420 x C90.205"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11197,30 +7401,16 @@ valu: "finger/CIP394906.6.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP395017.14': {name: "CIP395017.14",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395017.14.jpg"},
-{
-name: "Fry image",
-valu: "fry/395017.14.jpg"},
-{
-name: "Chips image",
-valu: "chips/395017.14.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395017.14.jpg"},
-{
-name: "Plant image",
-valu: "plant/395017.14.jpg"},
-{
-name: "Flower image",
-valu: "flower/395017.14.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395017.14.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395017.14.jpg"}, 
 
+{name: "Fry image", valu: "Fry/395017.14.jpg"}, 
+
+{name: "Chips image", valu: "Chips/395017.14.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395017.14.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393085.13 x 392639.8"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11252,30 +7442,12 @@ valu: "finger/CIP395017.14.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395017.227': {name: "CIP395017.227",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395017.227.jpg"},
-{
-name: "Fry image",
-valu: "fry/395017.227.jpg"},
-{
-name: "Chips image",
-valu: "chips/395017.227.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395017.227.jpg"},
-{
-name: "Plant image",
-valu: "plant/395017.227.jpg"},
-{
-name: "Flower image",
-valu: "flower/395017.227.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395017.227.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395017.227.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/395017.227.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393085.13 x 392639.8"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11306,30 +7478,14 @@ valu: "finger/CIP395017.227.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395017.229': {name: "CIP395017.229",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395017.229.jpg"},
-{
-name: "Fry image",
-valu: "fry/395017.229.jpg"},
-{
-name: "Chips image",
-valu: "chips/395017.229.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395017.229.jpg"},
-{
-name: "Plant image",
-valu: "plant/395017.229.jpg"},
-{
-name: "Flower image",
-valu: "flower/395017.229.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395017.229.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395017.229.jpg"}, 
 
+{name: "Chips image", valu: "Chips/395017.229.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395017.229.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393085.13 x 392639.8"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11361,30 +7517,14 @@ valu: "finger/CIP395017.229.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395017.242': {name: "CIP395017.242",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395017.242.jpg"},
-{
-name: "Fry image",
-valu: "fry/395017.242.jpg"},
-{
-name: "Chips image",
-valu: "chips/395017.242.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395017.242.jpg"},
-{
-name: "Plant image",
-valu: "plant/395017.242.jpg"},
-{
-name: "Flower image",
-valu: "flower/395017.242.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395017.242.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395017.242.jpg"}, 
 
+{name: "Chips image", valu: "Chips/395017.242.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395017.242.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393085.13 x 392639.8"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11412,30 +7552,16 @@ valu: "finger/CIP395017.242.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395037.107': {name: "CIP395037.107",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395037.107.jpg"},
-{
-name: "Fry image",
-valu: "fry/395037.107.jpg"},
-{
-name: "Chips image",
-valu: "chips/395037.107.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395037.107.jpg"},
-{
-name: "Plant image",
-valu: "plant/395037.107.jpg"},
-{
-name: "Flower image",
-valu: "flower/395037.107.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395037.107.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395037.107.jpg"}, 
 
+{name: "Fry image", valu: "Fry/395037.107.jpg"}, 
+
+{name: "Chips image", valu: "Chips/395037.107.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395037.107.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391004.4 x 391679.12"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -11467,30 +7593,16 @@ valu: "finger/CIP395037.107.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395077.12': {name: "CIP395077.12",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395077.12.jpg"},
-{
-name: "Fry image",
-valu: "fry/395077.12.jpg"},
-{
-name: "Chips image",
-valu: "chips/395077.12.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395077.12.jpg"},
-{
-name: "Plant image",
-valu: "plant/395077.12.jpg"},
-{
-name: "Flower image",
-valu: "flower/395077.12.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395077.12.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395077.12.jpg"}, 
 
+{name: "Fry image", valu: "Fry/395077.12.jpg"}, 
+
+{name: "Chips image", valu: "Chips/395077.12.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395077.12.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391586.109 x 393053.6"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -11512,30 +7624,12 @@ valu: "finger/CIP395077.12.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395084.9': {name: "CIP395084.9",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395084.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/395084.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/395084.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395084.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/395084.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/395084.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395084.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395084.9.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/395084.9.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392633.6 x 393053.6"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -11557,30 +7651,16 @@ valu: "finger/CIP395084.9.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395096.2': {name: "CIP395096.2",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395096.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/395096.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/395096.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395096.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/395096.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/395096.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395096.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395096.2.jpg"}, 
 
+{name: "Fry image", valu: "Fry/395096.2.jpg"}, 
+
+{name: "Chips image", valu: "Chips/395096.2.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395096.2.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393085.5 x 393053.6"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In areas around the eyes (splashed)"},
@@ -11612,30 +7692,14 @@ valu: "finger/CIP395096.2.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395109.29': {name: "CIP395109.29",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395109.29.jpg"},
-{
-name: "Fry image",
-valu: "fry/395109.29.jpg"},
-{
-name: "Chips image",
-valu: "chips/395109.29.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395109.29.jpg"},
-{
-name: "Plant image",
-valu: "plant/395109.29.jpg"},
-{
-name: "Flower image",
-valu: "flower/395109.29.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395109.29.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395109.29.jpg"}, 
 
+{name: "Chips image", valu: "Chips/395109.29.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395109.29.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391589.26 x 393079.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11658,30 +7722,16 @@ valu: "finger/CIP395109.29.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395109.34': {name: "CIP395109.34",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395109.34.jpg"},
-{
-name: "Fry image",
-valu: "fry/395109.34.jpg"},
-{
-name: "Chips image",
-valu: "chips/395109.34.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395109.34.jpg"},
-{
-name: "Plant image",
-valu: "plant/395109.34.jpg"},
-{
-name: "Flower image",
-valu: "flower/395109.34.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395109.34.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395109.34.jpg"}, 
 
+{name: "Fry image", valu: "Fry/395109.34.jpg"}, 
+
+{name: "Chips image", valu: "Chips/395109.34.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395109.34.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391589.26 x 393079.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -11713,30 +7763,12 @@ valu: "finger/CIP395109.34.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395111.13': {name: "CIP395111.13",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395111.13.jpg"},
-{
-name: "Fry image",
-valu: "fry/395111.13.jpg"},
-{
-name: "Chips image",
-valu: "chips/395111.13.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395111.13.jpg"},
-{
-name: "Plant image",
-valu: "plant/395111.13.jpg"},
-{
-name: "Flower image",
-valu: "flower/395111.13.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395111.13.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395111.13.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/395111.13.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391686.5 x 393079.4"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11767,30 +7799,16 @@ valu: "finger/CIP395111.13.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395112.19': {name: "CIP395112.19",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395112.19.jpg"},
-{
-name: "Fry image",
-valu: "fry/395112.19.jpg"},
-{
-name: "Chips image",
-valu: "chips/395112.19.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395112.19.jpg"},
-{
-name: "Plant image",
-valu: "plant/395112.19.jpg"},
-{
-name: "Flower image",
-valu: "flower/395112.19.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395112.19.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395112.19.jpg"}, 
 
+{name: "Fry image", valu: "Fry/395112.19.jpg"}, 
+
+{name: "Chips image", valu: "Chips/395112.19.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395112.19.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391686.15 x 393079.4"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11821,30 +7839,16 @@ valu: "finger/CIP395112.19.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395112.32': {name: "CIP395112.32",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395112.32.jpg"},
-{
-name: "Fry image",
-valu: "fry/395112.32.jpg"},
-{
-name: "Chips image",
-valu: "chips/395112.32.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395112.32.jpg"},
-{
-name: "Plant image",
-valu: "plant/395112.32.jpg"},
-{
-name: "Flower image",
-valu: "flower/395112.32.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395112.32.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395112.32.jpg"}, 
 
+{name: "Fry image", valu: "Fry/395112.32.jpg"}, 
+
+{name: "Chips image", valu: "Chips/395112.32.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395112.32.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391686.15 x 393079.4"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11875,30 +7879,14 @@ valu: "finger/CIP395112.32.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395112.36': {name: "CIP395112.36",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395112.36.jpg"},
-{
-name: "Fry image",
-valu: "fry/395112.36.jpg"},
-{
-name: "Chips image",
-valu: "chips/395112.36.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395112.36.jpg"},
-{
-name: "Plant image",
-valu: "plant/395112.36.jpg"},
-{
-name: "Flower image",
-valu: "flower/395112.36.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395112.36.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395112.36.jpg"}, 
 
+{name: "Chips image", valu: "Chips/395112.36.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395112.36.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391686.15 x 393079.4"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11929,30 +7917,16 @@ valu: "finger/CIP395112.36.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395112.6': {name: "CIP395112.6",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395112.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/395112.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/395112.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395112.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/395112.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/395112.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395112.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395112.6.jpg"}, 
 
+{name: "Fry image", valu: "Fry/395112.6.jpg"}, 
+
+{name: "Chips image", valu: "Chips/395112.6.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395112.6.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391686.15 x 393079.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -11984,30 +7958,12 @@ valu: "finger/CIP395112.6.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395112.9': {name: "CIP395112.9",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395112.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/395112.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/395112.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395112.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/395112.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/395112.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395112.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395112.9.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/395112.9.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391686.15 x 393079.4"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -12040,30 +7996,12 @@ valu: "finger/CIP395112.9.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395114.5': {name: "CIP395114.5",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395114.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/395114.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/395114.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395114.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/395114.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/395114.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395114.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395114.5.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/395114.5.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392633.2 x 393079.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -12096,30 +8034,14 @@ valu: "finger/CIP395114.5.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395123.6': {name: "CIP395123.6",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395123.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/395123.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/395123.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395123.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/395123.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/395123.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395123.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395123.6.jpg"}, 
 
+{name: "Chips image", valu: "Chips/395123.6.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395123.6.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393046.7 x 393079.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Purple"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -12151,30 +8073,16 @@ valu: "finger/CIP395123.6.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395169.17': {name: "CIP395169.17",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395169.17.jpg"},
-{
-name: "Fry image",
-valu: "fry/395169.17.jpg"},
-{
-name: "Chips image",
-valu: "chips/395169.17.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395169.17.jpg"},
-{
-name: "Plant image",
-valu: "plant/395169.17.jpg"},
-{
-name: "Flower image",
-valu: "flower/395169.17.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395169.17.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395169.17.jpg"}, 
 
+{name: "Fry image", valu: "Fry/395169.17.jpg"}, 
+
+{name: "Chips image", valu: "Chips/395169.17.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395169.17.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392652.8 x 391679.12"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -12206,30 +8114,12 @@ valu: "finger/CIP395169.17.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395169.4': {name: "CIP395169.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395169.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/395169.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/395169.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395169.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/395169.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/395169.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395169.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395169.4.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/395169.4.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392652.8 x 391679.12"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -12251,30 +8141,14 @@ valu: "finger/CIP395169.4.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395192.1': {name: "CIP395192.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395192.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/395192.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/395192.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395192.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/395192.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/395192.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395192.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395192.1.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/395192.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395192.1.jpg"}, 
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22 (C91.612) x C92.044"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato Leaf Roll Virus (PRLV)", valu: "Resistant"},
@@ -12290,31 +8164,17 @@ valu: "finger/CIP395192.1.jpg"},
 {name: "Pollen viability (%)", valu: "90.3"}]},
  
 'CIP395193.6': {name: "CIP395193.6",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395193.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/395193.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/395193.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395193.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/395193.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/395193.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395193.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395193.6.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/395193.6.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395193.6.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395193.6.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C95.416"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22 (C91.612) x C92.030"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato virus X (PVX)", valu: "Resistant"},
@@ -12332,30 +8192,16 @@ valu: "finger/CIP395193.6.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP395194.9': {name: "CIP395194.9",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395194.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/395194.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/395194.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395194.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/395194.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/395194.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395194.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395194.9.jpg"}, 
 
+{name: "Chips image", valu: "Chips/395194.9.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395194.9.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395194.9.jpg"}, 
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "C93.059 x C93.030"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -12377,30 +8223,14 @@ valu: "finger/CIP395194.9.jpg"},
 {name: "Sprouting pattern", valu: "Multiple"}]},
  
 'CIP395195.7': {name: "CIP395195.7",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395195.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/395195.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/395195.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395195.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/395195.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/395195.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395195.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395195.7.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/395195.7.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395195.7.jpg"}, 
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22 (C91.612) x C92.167"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato Leaf Roll Virus (PRLV)", valu: "Resistant"},
@@ -12418,31 +8248,15 @@ valu: "finger/CIP395195.7.jpg"},
 {name: "Pollen viability (%)", valu: "69.4"}]},
  
 'CIP395196.4': {name: "CIP395196.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395196.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/395196.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/395196.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395196.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/395196.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/395196.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395196.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395196.4.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/395196.4.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395196.4.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "N93.014"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "ES-92.005 x BK-RKN-1"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Bacterial Wilt (BW)", valu: "Susceptible"},
@@ -12458,31 +8272,15 @@ valu: "finger/CIP395196.4.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP395197.5': {name: "CIP395197.5",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395197.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/395197.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/395197.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395197.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/395197.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/395197.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395197.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395197.5.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/395197.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395197.5.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "N93.035"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "C91.921 x BK-RKN-3"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato Leaf Roll Virus (PRLV)", valu: "Highly resistant"},
@@ -12499,31 +8297,15 @@ valu: "finger/CIP395197.5.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP395432.51': {name: "CIP395432.51",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395432.51.jpg"},
-{
-name: "Fry image",
-valu: "fry/395432.51.jpg"},
-{
-name: "Chips image",
-valu: "chips/395432.51.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395432.51.jpg"},
-{
-name: "Plant image",
-valu: "plant/395432.51.jpg"},
-{
-name: "Flower image",
-valu: "flower/395432.51.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395432.51.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395432.51.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/395432.51.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395432.51.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C97.214"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388615.22 (C91.640) x C92.030"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -12549,31 +8331,15 @@ valu: "finger/CIP395432.51.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP395434.1': {name: "CIP395434.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395434.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/395434.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/395434.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395434.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/395434.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/395434.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395434.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395434.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/395434.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395434.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C97.270"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22 (C91.612) x N93.067"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Medium susceptible"},
@@ -12592,31 +8358,15 @@ valu: "finger/CIP395434.1.jpg"},
 {name: "Pollen viability (%)", valu: "84.8"}]},
  
 'CIP395436.8': {name: "CIP395436.8",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395436.8.jpg"},
-{
-name: "Fry image",
-valu: "fry/395436.8.jpg"},
-{
-name: "Chips image",
-valu: "chips/395436.8.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395436.8.jpg"},
-{
-name: "Plant image",
-valu: "plant/395436.8.jpg"},
-{
-name: "Flower image",
-valu: "flower/395436.8.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395436.8.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395436.8.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/395436.8.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395436.8.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C97.288"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388615.22 (C91.640) x 388615.22 (C91.640)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -12640,31 +8390,15 @@ valu: "finger/CIP395436.8.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP395438.1': {name: "CIP395438.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395438.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/395438.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/395438.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395438.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/395438.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/395438.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395438.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395438.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "1322"},
+{name: "Sprout image", valu: "Sprout/395438.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395438.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "1322.000000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "BWH-87.344R x 393617.1 (TXY.11)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -12688,31 +8422,15 @@ valu: "finger/CIP395438.1.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP395445.16': {name: "CIP395445.16",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395445.16.jpg"},
-{
-name: "Fry image",
-valu: "fry/395445.16.jpg"},
-{
-name: "Chips image",
-valu: "chips/395445.16.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395445.16.jpg"},
-{
-name: "Plant image",
-valu: "plant/395445.16.jpg"},
-{
-name: "Flower image",
-valu: "flower/395445.16.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395445.16.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395445.16.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/395445.16.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395445.16.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "1021"},
 {name: "Population Group", valu: "BW"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "BWH-87.415 x 391894.7=(DXY.7)"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Red"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -12744,30 +8462,14 @@ valu: "finger/CIP395445.16.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP395446.1': {name: "CIP395446.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395446.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/395446.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/395446.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395446.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/395446.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/395446.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395446.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395446.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "1342"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/395446.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395446.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "1342.000000"},
+{name: "Parentage", valu: "BWH-87.446R x 393613.2 (TXY.2)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -12799,31 +8501,13 @@ valu: "finger/CIP395446.1.jpg"},
 {name: "Pollen viability (%)", valu: "82.8"}]},
  
 'CIP395448.1': {name: "CIP395448.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395448.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/395448.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/395448.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395448.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/395448.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/395448.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395448.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395448.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "146"},
+{name: "Flower image", valu: "Flower/395448.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "146.000000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393617.1 (TXY.11) x BWH-87.344R"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -12848,30 +8532,12 @@ valu: "finger/CIP395448.1.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP396004.225': {name: "CIP396004.225",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396004.225.jpg"},
-{
-name: "Fry image",
-valu: "fry/396004.225.jpg"},
-{
-name: "Chips image",
-valu: "chips/396004.225.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396004.225.jpg"},
-{
-name: "Plant image",
-valu: "plant/396004.225.jpg"},
-{
-name: "Flower image",
-valu: "flower/396004.225.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396004.225.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396004.225.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396004.225.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391002.6 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -12899,30 +8565,14 @@ valu: "finger/CIP396004.225.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396004.263': {name: "CIP396004.263",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396004.263.jpg"},
-{
-name: "Fry image",
-valu: "fry/396004.263.jpg"},
-{
-name: "Chips image",
-valu: "chips/396004.263.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396004.263.jpg"},
-{
-name: "Plant image",
-valu: "plant/396004.263.jpg"},
-{
-name: "Flower image",
-valu: "flower/396004.263.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396004.263.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396004.263.jpg"}, 
 
+{name: "Chips image", valu: "Chips/396004.263.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396004.263.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391002.6 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -12941,30 +8591,16 @@ valu: "finger/CIP396004.263.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396004.337': {name: "CIP396004.337",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396004.337.jpg"},
-{
-name: "Fry image",
-valu: "fry/396004.337.jpg"},
-{
-name: "Chips image",
-valu: "chips/396004.337.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396004.337.jpg"},
-{
-name: "Plant image",
-valu: "plant/396004.337.jpg"},
-{
-name: "Flower image",
-valu: "flower/396004.337.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396004.337.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396004.337.jpg"}, 
 
+{name: "Fry image", valu: "Fry/396004.337.jpg"}, 
+
+{name: "Chips image", valu: "Chips/396004.337.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396004.337.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391002.6 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -12995,30 +8631,16 @@ valu: "finger/CIP396004.337.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396008.104': {name: "CIP396008.104",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396008.104.jpg"},
-{
-name: "Fry image",
-valu: "fry/396008.104.jpg"},
-{
-name: "Chips image",
-valu: "chips/396008.104.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396008.104.jpg"},
-{
-name: "Plant image",
-valu: "plant/396008.104.jpg"},
-{
-name: "Flower image",
-valu: "flower/396008.104.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396008.104.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396008.104.jpg"}, 
 
+{name: "Fry image", valu: "Fry/396008.104.jpg"}, 
+
+{name: "Chips image", valu: "Chips/396008.104.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396008.104.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391002.15 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13040,30 +8662,14 @@ valu: "finger/CIP396008.104.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP396009.239': {name: "CIP396009.239",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396009.239.jpg"},
-{
-name: "Fry image",
-valu: "fry/396009.239.jpg"},
-{
-name: "Chips image",
-valu: "chips/396009.239.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396009.239.jpg"},
-{
-name: "Plant image",
-valu: "plant/396009.239.jpg"},
-{
-name: "Flower image",
-valu: "flower/396009.239.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396009.239.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396009.239.jpg"}, 
 
+{name: "Chips image", valu: "Chips/396009.239.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396009.239.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391004.4 x 393280.58"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -13091,30 +8697,16 @@ valu: "finger/CIP396009.239.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396009.240': {name: "CIP396009.240",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396009.240.jpg"},
-{
-name: "Fry image",
-valu: "fry/396009.240.jpg"},
-{
-name: "Chips image",
-valu: "chips/396009.240.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396009.240.jpg"},
-{
-name: "Plant image",
-valu: "plant/396009.240.jpg"},
-{
-name: "Flower image",
-valu: "flower/396009.240.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396009.240.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396009.240.jpg"}, 
 
+{name: "Fry image", valu: "Fry/396009.240.jpg"}, 
+
+{name: "Chips image", valu: "Chips/396009.240.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396009.240.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391004.4 x 393280.58"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -13142,30 +8734,14 @@ valu: "finger/CIP396009.240.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396009.258': {name: "CIP396009.258",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396009.258.jpg"},
-{
-name: "Fry image",
-valu: "fry/396009.258.jpg"},
-{
-name: "Chips image",
-valu: "chips/396009.258.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396009.258.jpg"},
-{
-name: "Plant image",
-valu: "plant/396009.258.jpg"},
-{
-name: "Flower image",
-valu: "flower/396009.258.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396009.258.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396009.258.jpg"}, 
 
+{name: "Chips image", valu: "Chips/396009.258.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396009.258.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391004.4 x 393280.58"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13197,30 +8773,16 @@ valu: "finger/CIP396009.258.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396012.266': {name: "CIP396012.266",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396012.266.jpg"},
-{
-name: "Fry image",
-valu: "fry/396012.266.jpg"},
-{
-name: "Chips image",
-valu: "chips/396012.266.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396012.266.jpg"},
-{
-name: "Plant image",
-valu: "plant/396012.266.jpg"},
-{
-name: "Flower image",
-valu: "flower/396012.266.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396012.266.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396012.266.jpg"}, 
 
+{name: "Fry image", valu: "Fry/396012.266.jpg"}, 
+
+{name: "Chips image", valu: "Chips/396012.266.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396012.266.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391004.10 x 393280.58"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13239,30 +8801,12 @@ valu: "finger/CIP396012.266.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396018.241': {name: "CIP396018.241",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396018.241.jpg"},
-{
-name: "Fry image",
-valu: "fry/396018.241.jpg"},
-{
-name: "Chips image",
-valu: "chips/396018.241.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396018.241.jpg"},
-{
-name: "Plant image",
-valu: "plant/396018.241.jpg"},
-{
-name: "Flower image",
-valu: "flower/396018.241.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396018.241.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396018.241.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396018.241.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391046.14 x 393280.58"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13280,30 +8824,12 @@ valu: "finger/CIP396018.241.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396023.109': {name: "CIP396023.109",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396023.109.jpg"},
-{
-name: "Fry image",
-valu: "fry/396023.109.jpg"},
-{
-name: "Chips image",
-valu: "chips/396023.109.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396023.109.jpg"},
-{
-name: "Plant image",
-valu: "plant/396023.109.jpg"},
-{
-name: "Flower image",
-valu: "flower/396023.109.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396023.109.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396023.109.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396023.109.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391047.34 x 393280.57"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Purple"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -13335,30 +8861,12 @@ valu: "finger/CIP396023.109.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396026.101': {name: "CIP396026.101",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396026.101.jpg"},
-{
-name: "Fry image",
-valu: "fry/396026.101.jpg"},
-{
-name: "Chips image",
-valu: "chips/396026.101.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396026.101.jpg"},
-{
-name: "Plant image",
-valu: "plant/396026.101.jpg"},
-{
-name: "Flower image",
-valu: "flower/396026.101.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396026.101.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396026.101.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396026.101.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392633.4 x 393280.64"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13390,30 +8898,12 @@ valu: "finger/CIP396026.101.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396026.103': {name: "CIP396026.103",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396026.103.jpg"},
-{
-name: "Fry image",
-valu: "fry/396026.103.jpg"},
-{
-name: "Chips image",
-valu: "chips/396026.103.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396026.103.jpg"},
-{
-name: "Plant image",
-valu: "plant/396026.103.jpg"},
-{
-name: "Flower image",
-valu: "flower/396026.103.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396026.103.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396026.103.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396026.103.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392633.4 x 393280.64"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13435,30 +8925,16 @@ valu: "finger/CIP396026.103.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396027.111': {name: "CIP396027.111",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396027.111.jpg"},
-{
-name: "Fry image",
-valu: "fry/396027.111.jpg"},
-{
-name: "Chips image",
-valu: "chips/396027.111.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396027.111.jpg"},
-{
-name: "Plant image",
-valu: "plant/396027.111.jpg"},
-{
-name: "Flower image",
-valu: "flower/396027.111.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396027.111.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396027.111.jpg"}, 
 
+{name: "Fry image", valu: "Fry/396027.111.jpg"}, 
+
+{name: "Chips image", valu: "Chips/396027.111.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396027.111.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392633.23 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13480,30 +8956,12 @@ valu: "finger/CIP396027.111.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP396029.205': {name: "CIP396029.205",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396029.205.jpg"},
-{
-name: "Fry image",
-valu: "fry/396029.205.jpg"},
-{
-name: "Chips image",
-valu: "chips/396029.205.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396029.205.jpg"},
-{
-name: "Plant image",
-valu: "plant/396029.205.jpg"},
-{
-name: "Flower image",
-valu: "flower/396029.205.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396029.205.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396029.205.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396029.205.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392633.54 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13535,30 +8993,14 @@ valu: "finger/CIP396029.205.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396029.250': {name: "CIP396029.250",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396029.250.jpg"},
-{
-name: "Fry image",
-valu: "fry/396029.250.jpg"},
-{
-name: "Chips image",
-valu: "chips/396029.250.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396029.250.jpg"},
-{
-name: "Plant image",
-valu: "plant/396029.250.jpg"},
-{
-name: "Flower image",
-valu: "flower/396029.250.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396029.250.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396029.250.jpg"}, 
 
+{name: "Chips image", valu: "Chips/396029.250.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396029.250.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392633.54 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13577,30 +9019,14 @@ valu: "finger/CIP396029.250.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396031.108': {name: "CIP396031.108",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396031.108.jpg"},
-{
-name: "Fry image",
-valu: "fry/396031.108.jpg"},
-{
-name: "Chips image",
-valu: "chips/396031.108.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396031.108.jpg"},
-{
-name: "Plant image",
-valu: "plant/396031.108.jpg"},
-{
-name: "Flower image",
-valu: "flower/396031.108.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396031.108.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396031.108.jpg"}, 
 
+{name: "Chips image", valu: "Chips/396031.108.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396031.108.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392633.64 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13632,30 +9058,14 @@ valu: "finger/CIP396031.108.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396031.119': {name: "CIP396031.119",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396031.119.jpg"},
-{
-name: "Fry image",
-valu: "fry/396031.119.jpg"},
-{
-name: "Chips image",
-valu: "chips/396031.119.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396031.119.jpg"},
-{
-name: "Plant image",
-valu: "plant/396031.119.jpg"},
-{
-name: "Flower image",
-valu: "flower/396031.119.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396031.119.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396031.119.jpg"}, 
 
+{name: "Fry image", valu: "Fry/396031.119.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396031.119.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392633.64 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "White-cream"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -13678,30 +9088,12 @@ valu: "finger/CIP396031.119.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396033.102': {name: "CIP396033.102",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396033.102.jpg"},
-{
-name: "Fry image",
-valu: "fry/396033.102.jpg"},
-{
-name: "Chips image",
-valu: "chips/396033.102.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396033.102.jpg"},
-{
-name: "Plant image",
-valu: "plant/396033.102.jpg"},
-{
-name: "Flower image",
-valu: "flower/396033.102.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396033.102.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396033.102.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396033.102.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392639.53 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13724,30 +9116,16 @@ valu: "finger/CIP396033.102.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396034.103': {name: "CIP396034.103",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396034.103.jpg"},
-{
-name: "Fry image",
-valu: "fry/396034.103.jpg"},
-{
-name: "Chips image",
-valu: "chips/396034.103.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396034.103.jpg"},
-{
-name: "Plant image",
-valu: "plant/396034.103.jpg"},
-{
-name: "Flower image",
-valu: "flower/396034.103.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396034.103.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396034.103.jpg"}, 
 
+{name: "Fry image", valu: "Fry/396034.103.jpg"}, 
+
+{name: "Chips image", valu: "Chips/396034.103.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396034.103.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393042.50 x 393280.64"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13769,30 +9147,14 @@ valu: "finger/CIP396034.103.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396034.268': {name: "CIP396034.268",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396034.268.jpg"},
-{
-name: "Fry image",
-valu: "fry/396034.268.jpg"},
-{
-name: "Chips image",
-valu: "chips/396034.268.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396034.268.jpg"},
-{
-name: "Plant image",
-valu: "plant/396034.268.jpg"},
-{
-name: "Flower image",
-valu: "flower/396034.268.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396034.268.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396034.268.jpg"}, 
 
+{name: "Chips image", valu: "Chips/396034.268.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396034.268.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393042.50 x 393280.64"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13811,30 +9173,14 @@ valu: "finger/CIP396034.268.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396037.215': {name: "CIP396037.215",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396037.215.jpg"},
-{
-name: "Fry image",
-valu: "fry/396037.215.jpg"},
-{
-name: "Chips image",
-valu: "chips/396037.215.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396037.215.jpg"},
-{
-name: "Plant image",
-valu: "plant/396037.215.jpg"},
-{
-name: "Flower image",
-valu: "flower/396037.215.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396037.215.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396037.215.jpg"}, 
 
+{name: "Chips image", valu: "Chips/396037.215.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396037.215.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13854,30 +9200,12 @@ valu: "finger/CIP396037.215.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP396038.101': {name: "CIP396038.101",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396038.101.jpg"},
-{
-name: "Fry image",
-valu: "fry/396038.101.jpg"},
-{
-name: "Chips image",
-valu: "chips/396038.101.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396038.101.jpg"},
-{
-name: "Plant image",
-valu: "plant/396038.101.jpg"},
-{
-name: "Flower image",
-valu: "flower/396038.101.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396038.101.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396038.101.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396038.101.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 393280.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -13907,30 +9235,12 @@ valu: "finger/CIP396038.101.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396038.105': {name: "CIP396038.105",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396038.105.jpg"},
-{
-name: "Fry image",
-valu: "fry/396038.105.jpg"},
-{
-name: "Chips image",
-valu: "chips/396038.105.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396038.105.jpg"},
-{
-name: "Plant image",
-valu: "plant/396038.105.jpg"},
-{
-name: "Flower image",
-valu: "flower/396038.105.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396038.105.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396038.105.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396038.105.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 393280.64"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -13960,30 +9270,12 @@ valu: "finger/CIP396038.105.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396038.107': {name: "CIP396038.107",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396038.107.jpg"},
-{
-name: "Fry image",
-valu: "fry/396038.107.jpg"},
-{
-name: "Chips image",
-valu: "chips/396038.107.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396038.107.jpg"},
-{
-name: "Plant image",
-valu: "plant/396038.107.jpg"},
-{
-name: "Flower image",
-valu: "flower/396038.107.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396038.107.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396038.107.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396038.107.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 393280.64"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "White-cream"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -14006,30 +9298,12 @@ valu: "finger/CIP396038.107.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396043.226': {name: "CIP396043.226",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396043.226.jpg"},
-{
-name: "Fry image",
-valu: "fry/396043.226.jpg"},
-{
-name: "Chips image",
-valu: "chips/396043.226.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396043.226.jpg"},
-{
-name: "Plant image",
-valu: "plant/396043.226.jpg"},
-{
-name: "Flower image",
-valu: "flower/396043.226.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396043.226.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396043.226.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396043.226.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393401.55 x 393280.57"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -14050,30 +9324,16 @@ valu: "finger/CIP396043.226.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP396046.105': {name: "CIP396046.105",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396046.105.jpg"},
-{
-name: "Fry image",
-valu: "fry/396046.105.jpg"},
-{
-name: "Chips image",
-valu: "chips/396046.105.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396046.105.jpg"},
-{
-name: "Plant image",
-valu: "plant/396046.105.jpg"},
-{
-name: "Flower image",
-valu: "flower/396046.105.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396046.105.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396046.105.jpg"}, 
 
+{name: "Fry image", valu: "Fry/396046.105.jpg"}, 
+
+{name: "Chips image", valu: "Chips/396046.105.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396046.105.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "TXY.4 x 393280.64"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -14105,30 +9365,14 @@ valu: "finger/CIP396046.105.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396236.20': {name: "CIP396236.20",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396236.20.jpg"},
-{
-name: "Fry image",
-valu: "fry/396236.20.jpg"},
-{
-name: "Chips image",
-valu: "chips/396236.20.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396236.20.jpg"},
-{
-name: "Plant image",
-valu: "plant/396236.20.jpg"},
-{
-name: "Flower image",
-valu: "flower/396236.20.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396236.20.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396236.20.jpg"}, 
 
+{name: "Chips image", valu: "Chips/396236.20.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396236.20.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393072.55 x 391679.7"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -14155,30 +9399,12 @@ valu: "finger/CIP396236.20.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396240.2': {name: "CIP396240.2",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396240.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/396240.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/396240.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396240.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/396240.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/396240.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396240.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396240.2.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396240.2.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 391679.12"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -14197,30 +9423,14 @@ valu: "finger/CIP396240.2.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396240.23': {name: "CIP396240.23",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396240.23.jpg"},
-{
-name: "Fry image",
-valu: "fry/396240.23.jpg"},
-{
-name: "Chips image",
-valu: "chips/396240.23.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396240.23.jpg"},
-{
-name: "Plant image",
-valu: "plant/396240.23.jpg"},
-{
-name: "Flower image",
-valu: "flower/396240.23.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396240.23.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396240.23.jpg"}, 
 
+{name: "Chips image", valu: "Chips/396240.23.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396240.23.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 391679.12"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -14237,30 +9447,14 @@ valu: "finger/CIP396240.23.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396241.4': {name: "CIP396241.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396241.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/396241.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/396241.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396241.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/396241.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/396241.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396241.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396241.4.jpg"}, 
 
+{name: "Chips image", valu: "Chips/396241.4.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396241.4.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392634.52 x 392626.9"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Purple"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -14279,30 +9473,14 @@ valu: "finger/CIP396241.4.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396244.12': {name: "CIP396244.12",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396244.12.jpg"},
-{
-name: "Fry image",
-valu: "fry/396244.12.jpg"},
-{
-name: "Chips image",
-valu: "chips/396244.12.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396244.12.jpg"},
-{
-name: "Plant image",
-valu: "plant/396244.12.jpg"},
-{
-name: "Flower image",
-valu: "flower/396244.12.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396244.12.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396244.12.jpg"}, 
 
+{name: "Chips image", valu: "Chips/396244.12.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/396244.12.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391580.30 x 392633.10"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -14321,30 +9499,12 @@ valu: "finger/CIP396244.12.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP396244.17': {name: "CIP396244.17",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396244.17.jpg"},
-{
-name: "Fry image",
-valu: "fry/396244.17.jpg"},
-{
-name: "Chips image",
-valu: "chips/396244.17.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396244.17.jpg"},
-{
-name: "Plant image",
-valu: "plant/396244.17.jpg"},
-{
-name: "Flower image",
-valu: "flower/396244.17.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396244.17.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396244.17.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396244.17.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391580.30 x 391580.30"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -14368,30 +9528,12 @@ valu: "finger/CIP396244.17.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP396247.15': {name: "CIP396247.15",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396247.15.jpg"},
-{
-name: "Fry image",
-valu: "fry/396247.15.jpg"},
-{
-name: "Chips image",
-valu: "chips/396247.15.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396247.15.jpg"},
-{
-name: "Plant image",
-valu: "plant/396247.15.jpg"},
-{
-name: "Flower image",
-valu: "flower/396247.15.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396247.15.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396247.15.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396247.15.jpg"}, 
 {name: "Population Group", valu: "B3C2"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392637.27 x 391580.30"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -14413,31 +9555,15 @@ valu: "finger/CIP396247.15.jpg"},
 {name: "Adaptability", valu: "Lowland and highland tropics"}]},
  
 'CIP396285.1': {name: "CIP396285.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396285.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/396285.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/396285.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396285.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/396285.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/396285.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396285.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396285.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/396285.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/396285.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "H96.070"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393617.1 (TXY.11) x 104.12 LB"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato Leaf Roll Virus (PRLV)", valu: "Medium resistant"},
@@ -14452,31 +9578,15 @@ valu: "finger/CIP396285.1.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP396311.1': {name: "CIP396311.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396311.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/396311.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/396311.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396311.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/396311.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/396311.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396311.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396311.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/396311.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/396311.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C95.276"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391925.2 x C92.030"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato Leaf Roll Virus (PRLV)", valu: "Medium susceptible"},
@@ -14494,31 +9604,15 @@ valu: "finger/CIP396311.1.jpg"},
 {name: "Pollen viability (%)", valu: "85.8"}]},
  
 'CIP397006.18': {name: "CIP397006.18",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397006.18.jpg"},
-{
-name: "Fry image",
-valu: "fry/397006.18.jpg"},
-{
-name: "Chips image",
-valu: "chips/397006.18.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397006.18.jpg"},
-{
-name: "Plant image",
-valu: "plant/397006.18.jpg"},
-{
-name: "Flower image",
-valu: "flower/397006.18.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397006.18.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397006.18.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "102.18"},
+{name: "Sprout image", valu: "Sprout/397006.18.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397006.18.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "102.180000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "389468.3 (92.119) x 88.052"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "General tuber shape", valu: "Oblong"},
@@ -14546,31 +9640,15 @@ valu: "finger/CIP397006.18.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397012.22': {name: "CIP397012.22",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397012.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/397012.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/397012.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397012.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/397012.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/397012.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397012.22.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397012.22.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "104.22"},
+{name: "Sprout image", valu: "Sprout/397012.22.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397012.22.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "104.220000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391846.5 (LR93.309) x 88.052"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -14596,31 +9674,15 @@ valu: "finger/CIP397012.22.jpg"},
 {name: "Pollen viability (%)", valu: "77.2"}]},
  
 'CIP397016.7': {name: "CIP397016.7",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397016.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/397016.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/397016.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397016.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/397016.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/397016.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397016.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397016.7.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "402.7"},
+{name: "Sprout image", valu: "Sprout/397016.7.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397016.7.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "402.700000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "92.119 x 88.108"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato virus Y (PVY)", valu: "Resistant"},
@@ -14646,31 +9708,15 @@ valu: "finger/CIP397016.7.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP397029.21': {name: "CIP397029.21",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397029.21.jpg"},
-{
-name: "Fry image",
-valu: "fry/397029.21.jpg"},
-{
-name: "Chips image",
-valu: "chips/397029.21.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397029.21.jpg"},
-{
-name: "Plant image",
-valu: "plant/397029.21.jpg"},
-{
-name: "Flower image",
-valu: "flower/397029.21.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397029.21.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397029.21.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "364.21"},
+{name: "Sprout image", valu: "Sprout/397029.21.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397029.21.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "364.210000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "92.118 x 92.187"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -14696,31 +9742,15 @@ valu: "finger/CIP397029.21.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397036.7': {name: "CIP397036.7",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397036.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/397036.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/397036.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397036.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/397036.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/397036.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397036.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397036.7.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "427.7"},
+{name: "Sprout image", valu: "Sprout/397036.7.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397036.7.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "427.700000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392011.1 (LR93.160) x 392745.7 (92.187)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -14746,31 +9776,15 @@ valu: "finger/CIP397036.7.jpg"},
 {name: "Pollen viability (%)", valu: "80.1"}]},
  
 'CIP397039.51': {name: "CIP397039.51",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397039.51.jpg"},
-{
-name: "Fry image",
-valu: "fry/397039.51.jpg"},
-{
-name: "Chips image",
-valu: "chips/397039.51.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397039.51.jpg"},
-{
-name: "Plant image",
-valu: "plant/397039.51.jpg"},
-{
-name: "Flower image",
-valu: "flower/397039.51.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397039.51.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397039.51.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/397039.51.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397039.51.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C97.181"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388615.22 (C91.640) x 388972.22 (C89.315)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -14789,31 +9803,15 @@ valu: "finger/CIP397039.51.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397039.53': {name: "CIP397039.53",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397039.53.jpg"},
-{
-name: "Fry image",
-valu: "fry/397039.53.jpg"},
-{
-name: "Chips image",
-valu: "chips/397039.53.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397039.53.jpg"},
-{
-name: "Plant image",
-valu: "plant/397039.53.jpg"},
-{
-name: "Flower image",
-valu: "flower/397039.53.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397039.53.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397039.53.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/397039.53.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397039.53.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C97.182"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388615.22 (C91.640) x 388972.22 (C89.315)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -14838,31 +9836,15 @@ valu: "finger/CIP397039.53.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397044.25': {name: "CIP397044.25",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397044.25.jpg"},
-{
-name: "Fry image",
-valu: "fry/397044.25.jpg"},
-{
-name: "Chips image",
-valu: "chips/397044.25.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397044.25.jpg"},
-{
-name: "Plant image",
-valu: "plant/397044.25.jpg"},
-{
-name: "Flower image",
-valu: "flower/397044.25.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397044.25.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397044.25.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/397044.25.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397044.25.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "WA.055"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388611.22 (C91.612) x 391180.6 (C90.266)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -14880,31 +9862,15 @@ valu: "finger/CIP397044.25.jpg"},
 {name: "Pollen viability (%)", valu: "73.8"}]},
  
 'CIP397055.2': {name: "CIP397055.2",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397055.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/397055.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/397055.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397055.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/397055.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/397055.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397055.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397055.2.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "405.2"},
+{name: "Sprout image", valu: "Sprout/397055.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397055.2.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "405.200000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "88052 x 392820.1 (C93.154)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato Leaf Roll Virus (PRLV)", valu: "Susceptible"},
@@ -14932,31 +9898,15 @@ valu: "finger/CIP397055.2.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397060.19': {name: "CIP397060.19",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397060.19.jpg"},
-{
-name: "Fry image",
-valu: "fry/397060.19.jpg"},
-{
-name: "Chips image",
-valu: "chips/397060.19.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397060.19.jpg"},
-{
-name: "Plant image",
-valu: "plant/397060.19.jpg"},
-{
-name: "Flower image",
-valu: "flower/397060.19.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397060.19.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397060.19.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "221.19"},
+{name: "Sprout image", valu: "Sprout/397060.19.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397060.19.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "221.190000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392739.4 (92.062) x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "Yellow"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -14987,31 +9937,15 @@ valu: "finger/CIP397060.19.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP397065.2': {name: "CIP397065.2",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397065.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/397065.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/397065.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397065.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/397065.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/397065.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397065.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397065.2.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "241.2"},
+{name: "Sprout image", valu: "Sprout/397065.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397065.2.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "241.200000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391180.6 (C90.266) x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
@@ -15042,31 +9976,15 @@ valu: "finger/CIP397065.2.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397065.28': {name: "CIP397065.28",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397065.28.jpg"},
-{
-name: "Fry image",
-valu: "fry/397065.28.jpg"},
-{
-name: "Chips image",
-valu: "chips/397065.28.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397065.28.jpg"},
-{
-name: "Plant image",
-valu: "plant/397065.28.jpg"},
-{
-name: "Flower image",
-valu: "flower/397065.28.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397065.28.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397065.28.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "141.28"},
+{name: "Sprout image", valu: "Sprout/397065.28.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397065.28.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "141.280000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391180.6 (C90.266) x 392820.1 (C93.154)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato Leaf Roll Virus (PRLV)", valu: "Susceptible"},
@@ -15093,31 +10011,15 @@ valu: "finger/CIP397065.28.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397067.2': {name: "CIP397067.2",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397067.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/397067.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/397067.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397067.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/397067.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/397067.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397067.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397067.2.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "346.2"},
+{name: "Sprout image", valu: "Sprout/397067.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397067.2.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "346.200000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "390663.8 (C91.628) x 392820.1 (C93.154)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -15147,31 +10049,15 @@ valu: "finger/CIP397067.2.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397069.11': {name: "CIP397069.11",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397069.11.jpg"},
-{
-name: "Fry image",
-valu: "fry/397069.11.jpg"},
-{
-name: "Chips image",
-valu: "chips/397069.11.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397069.11.jpg"},
-{
-name: "Plant image",
-valu: "plant/397069.11.jpg"},
-{
-name: "Flower image",
-valu: "flower/397069.11.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397069.11.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397069.11.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "233.11"},
+{name: "Sprout image", valu: "Sprout/397069.11.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397069.11.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "233.110000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392797.22 (C92.140) x 392820.1 (C93.154)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -15200,31 +10086,17 @@ valu: "finger/CIP397069.11.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP397069.5': {name: "CIP397069.5",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397069.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/397069.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/397069.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397069.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/397069.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/397069.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397069.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397069.5.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/397069.5.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/397069.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397069.5.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C99.795"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392797.22 (C92.140) x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -15256,31 +10128,15 @@ valu: "finger/CIP397069.5.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397073.7': {name: "CIP397073.7",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397073.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/397073.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/397073.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397073.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/397073.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/397073.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397073.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397073.7.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "255.7"},
+{name: "Sprout image", valu: "Sprout/397073.7.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397073.7.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "255.700000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392823.4 (LR93.120) x 392820.1 (C93.154)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato Leaf Roll Virus (PRLV)", valu: "Medium susceptible"},
@@ -15308,31 +10164,15 @@ valu: "finger/CIP397073.7.jpg"},
 {name: "Pollen viability (%)", valu: "86.2"}]},
  
 'CIP397079.26': {name: "CIP397079.26",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397079.26.jpg"},
-{
-name: "Fry image",
-valu: "fry/397079.26.jpg"},
-{
-name: "Chips image",
-valu: "chips/397079.26.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397079.26.jpg"},
-{
-name: "Plant image",
-valu: "plant/397079.26.jpg"},
-{
-name: "Flower image",
-valu: "flower/397079.26.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397079.26.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397079.26.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "157.26"},
+{name: "Sprout image", valu: "Sprout/397079.26.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397079.26.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "157.260000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "386768.10 (MARIA TAMBEÑA) x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -15366,31 +10206,15 @@ valu: "finger/CIP397079.26.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397079.6': {name: "CIP397079.6",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397079.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/397079.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/397079.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397079.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/397079.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/397079.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397079.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397079.6.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "317.6"},
+{name: "Sprout image", valu: "Sprout/397079.6.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397079.6.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "317.600000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "386768.10 (MARIA TAMBEÑA) x 392820.1 (C93.154)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -15420,31 +10244,15 @@ valu: "finger/CIP397079.6.jpg"},
 {name: "Pollen viability (%)", valu: "86.5"}]},
  
 'CIP397098.12': {name: "CIP397098.12",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397098.12.jpg"},
-{
-name: "Fry image",
-valu: "fry/397098.12.jpg"},
-{
-name: "Chips image",
-valu: "chips/397098.12.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397098.12.jpg"},
-{
-name: "Plant image",
-valu: "plant/397098.12.jpg"},
-{
-name: "Flower image",
-valu: "flower/397098.12.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397098.12.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397098.12.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "406.12"},
+{name: "Sprout image", valu: "Sprout/397098.12.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397098.12.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "406.120000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391533.1 (LR93.060) x 391207.2 (LR93.050)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "General tuber shape", valu: "Oblong"},
@@ -15469,31 +10277,11 @@ valu: "finger/CIP397098.12.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397099.4': {name: "CIP397099.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397099.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/397099.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/397099.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397099.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/397099.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/397099.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397099.4.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/397099.4.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "WA.073"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392822.3 (LR93.073) x 391207.2 (LR93.050)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -15517,31 +10305,15 @@ valu: "finger/CIP397099.4.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397100.9': {name: "CIP397100.9",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397100.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/397100.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/397100.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397100.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/397100.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/397100.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397100.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397100.9.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "163.9"},
+{name: "Sprout image", valu: "Sprout/397100.9.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397100.9.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "163.900000"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392823.4 (LR93.120) x 391207.2 (LR93.050)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato Leaf Roll Virus (PRLV)", valu: "Resistant"},
@@ -15569,31 +10341,15 @@ valu: "finger/CIP397100.9.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP397196.3': {name: "CIP397196.3",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397196.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/397196.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/397196.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397196.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/397196.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/397196.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397196.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397196.3.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/397196.3.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397196.3.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C99.253"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392797.22 x 388611.22 (C91.612)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -15625,31 +10381,15 @@ valu: "finger/CIP397196.3.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP397196.8': {name: "CIP397196.8",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397196.8.jpg"},
-{
-name: "Fry image",
-valu: "fry/397196.8.jpg"},
-{
-name: "Chips image",
-valu: "chips/397196.8.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397196.8.jpg"},
-{
-name: "Plant image",
-valu: "plant/397196.8.jpg"},
-{
-name: "Flower image",
-valu: "flower/397196.8.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397196.8.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397196.8.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/397196.8.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397196.8.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C99.250"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392797.22 x 388611.22 (C91.612)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -15680,31 +10420,15 @@ valu: "finger/CIP397196.8.jpg"},
 {name: "Pollen viability (%)", valu: "85.6"}]},
  
 'CIP397197.9': {name: "CIP397197.9",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397197.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/397197.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/397197.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397197.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/397197.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/397197.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397197.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397197.9.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/397197.9.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397197.9.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "LR-99.089"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "388615.22 (C91.640) x 388972.22"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -15727,30 +10451,14 @@ valu: "finger/CIP397197.9.jpg"},
 {name: "Adaptability", valu: "lowland tropics"}]},
  
 'CIP398017.53': {name: "CIP398017.53",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398017.53.jpg"},
-{
-name: "Fry image",
-valu: "fry/398017.53.jpg"},
-{
-name: "Chips image",
-valu: "chips/398017.53.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398017.53.jpg"},
-{
-name: "Plant image",
-valu: "plant/398017.53.jpg"},
-{
-name: "Flower image",
-valu: "flower/398017.53.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398017.53.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398017.53.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398017.53.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398017.53.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391002.6 x 392639.31"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -15772,30 +10480,14 @@ valu: "finger/CIP398017.53.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398098.119': {name: "CIP398098.119",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398098.119.jpg"},
-{
-name: "Fry image",
-valu: "fry/398098.119.jpg"},
-{
-name: "Chips image",
-valu: "chips/398098.119.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398098.119.jpg"},
-{
-name: "Plant image",
-valu: "plant/398098.119.jpg"},
-{
-name: "Flower image",
-valu: "flower/398098.119.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398098.119.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398098.119.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398098.119.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398098.119.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392639.31"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -15818,30 +10510,14 @@ valu: "finger/CIP398098.119.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398098.203': {name: "CIP398098.203",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398098.203.jpg"},
-{
-name: "Fry image",
-valu: "fry/398098.203.jpg"},
-{
-name: "Chips image",
-valu: "chips/398098.203.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398098.203.jpg"},
-{
-name: "Plant image",
-valu: "plant/398098.203.jpg"},
-{
-name: "Flower image",
-valu: "flower/398098.203.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398098.203.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398098.203.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398098.203.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398098.203.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392639.31"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -15863,30 +10539,14 @@ valu: "finger/CIP398098.203.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398098.204': {name: "CIP398098.204",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398098.204.jpg"},
-{
-name: "Fry image",
-valu: "fry/398098.204.jpg"},
-{
-name: "Chips image",
-valu: "chips/398098.204.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398098.204.jpg"},
-{
-name: "Plant image",
-valu: "plant/398098.204.jpg"},
-{
-name: "Flower image",
-valu: "flower/398098.204.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398098.204.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398098.204.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398098.204.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398098.204.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392639.31"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -15907,30 +10567,14 @@ valu: "finger/CIP398098.204.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398098.205': {name: "CIP398098.205",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398098.205.jpg"},
-{
-name: "Fry image",
-valu: "fry/398098.205.jpg"},
-{
-name: "Chips image",
-valu: "chips/398098.205.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398098.205.jpg"},
-{
-name: "Plant image",
-valu: "plant/398098.205.jpg"},
-{
-name: "Flower image",
-valu: "flower/398098.205.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398098.205.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398098.205.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398098.205.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398098.205.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392639.31"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -15952,30 +10596,12 @@ valu: "finger/CIP398098.205.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398098.231': {name: "CIP398098.231",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398098.231.jpg"},
-{
-name: "Fry image",
-valu: "fry/398098.231.jpg"},
-{
-name: "Chips image",
-valu: "chips/398098.231.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398098.231.jpg"},
-{
-name: "Plant image",
-valu: "plant/398098.231.jpg"},
-{
-name: "Flower image",
-valu: "flower/398098.231.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398098.231.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398098.231.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398098.231.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392639.31"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -15997,30 +10623,12 @@ valu: "finger/CIP398098.231.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398098.570': {name: "CIP398098.570",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398098.570.jpg"},
-{
-name: "Fry image",
-valu: "fry/398098.570.jpg"},
-{
-name: "Chips image",
-valu: "chips/398098.570.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398098.570.jpg"},
-{
-name: "Plant image",
-valu: "plant/398098.570.jpg"},
-{
-name: "Flower image",
-valu: "flower/398098.570.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398098.570.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398098.570.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398098.570.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392639.31"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16041,30 +10649,14 @@ valu: "finger/CIP398098.570.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398098.65': {name: "CIP398098.65",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398098.65.jpg"},
-{
-name: "Fry image",
-valu: "fry/398098.65.jpg"},
-{
-name: "Chips image",
-valu: "chips/398098.65.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398098.65.jpg"},
-{
-name: "Plant image",
-valu: "plant/398098.65.jpg"},
-{
-name: "Flower image",
-valu: "flower/398098.65.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398098.65.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398098.65.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398098.65.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398098.65.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392639.31"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -16087,30 +10679,14 @@ valu: "finger/CIP398098.65.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398098.98': {name: "CIP398098.98",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398098.98.jpg"},
-{
-name: "Fry image",
-valu: "fry/398098.98.jpg"},
-{
-name: "Chips image",
-valu: "chips/398098.98.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398098.98.jpg"},
-{
-name: "Plant image",
-valu: "plant/398098.98.jpg"},
-{
-name: "Flower image",
-valu: "flower/398098.98.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398098.98.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398098.98.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398098.98.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398098.98.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392639.31"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16132,30 +10708,14 @@ valu: "finger/CIP398098.98.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398180.144': {name: "CIP398180.144",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398180.144.jpg"},
-{
-name: "Fry image",
-valu: "fry/398180.144.jpg"},
-{
-name: "Chips image",
-valu: "chips/398180.144.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398180.144.jpg"},
-{
-name: "Plant image",
-valu: "plant/398180.144.jpg"},
-{
-name: "Flower image",
-valu: "flower/398180.144.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398180.144.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398180.144.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398180.144.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398180.144.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392657.171 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16179,30 +10739,14 @@ valu: "finger/CIP398180.144.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398180.289': {name: "CIP398180.289",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398180.289.jpg"},
-{
-name: "Fry image",
-valu: "fry/398180.289.jpg"},
-{
-name: "Chips image",
-valu: "chips/398180.289.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398180.289.jpg"},
-{
-name: "Plant image",
-valu: "plant/398180.289.jpg"},
-{
-name: "Flower image",
-valu: "flower/398180.289.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398180.289.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398180.289.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398180.289.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398180.289.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392657.171 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16225,30 +10769,14 @@ valu: "finger/CIP398180.289.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398180.292': {name: "CIP398180.292",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398180.292.jpg"},
-{
-name: "Fry image",
-valu: "fry/398180.292.jpg"},
-{
-name: "Chips image",
-valu: "chips/398180.292.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398180.292.jpg"},
-{
-name: "Plant image",
-valu: "plant/398180.292.jpg"},
-{
-name: "Flower image",
-valu: "flower/398180.292.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398180.292.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398180.292.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398180.292.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398180.292.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392657.171 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16269,30 +10797,14 @@ valu: "finger/CIP398180.292.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398190.200': {name: "CIP398190.200",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398190.200.jpg"},
-{
-name: "Fry image",
-valu: "fry/398190.200.jpg"},
-{
-name: "Chips image",
-valu: "chips/398190.200.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398190.200.jpg"},
-{
-name: "Plant image",
-valu: "plant/398190.200.jpg"},
-{
-name: "Flower image",
-valu: "flower/398190.200.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398190.200.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398190.200.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398190.200.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398190.200.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392639.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -16316,30 +10828,12 @@ valu: "finger/CIP398190.200.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398190.404': {name: "CIP398190.404",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398190.404.jpg"},
-{
-name: "Fry image",
-valu: "fry/398190.404.jpg"},
-{
-name: "Chips image",
-valu: "chips/398190.404.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398190.404.jpg"},
-{
-name: "Plant image",
-valu: "plant/398190.404.jpg"},
-{
-name: "Flower image",
-valu: "flower/398190.404.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398190.404.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398190.404.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398190.404.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392639.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16362,30 +10856,14 @@ valu: "finger/CIP398190.404.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398190.571': {name: "CIP398190.571",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398190.571.jpg"},
-{
-name: "Fry image",
-valu: "fry/398190.571.jpg"},
-{
-name: "Chips image",
-valu: "chips/398190.571.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398190.571.jpg"},
-{
-name: "Plant image",
-valu: "plant/398190.571.jpg"},
-{
-name: "Flower image",
-valu: "flower/398190.571.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398190.571.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398190.571.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398190.571.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398190.571.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392639.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16406,30 +10884,14 @@ valu: "finger/CIP398190.571.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398190.605': {name: "CIP398190.605",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398190.605.jpg"},
-{
-name: "Fry image",
-valu: "fry/398190.605.jpg"},
-{
-name: "Chips image",
-valu: "chips/398190.605.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398190.605.jpg"},
-{
-name: "Plant image",
-valu: "plant/398190.605.jpg"},
-{
-name: "Flower image",
-valu: "flower/398190.605.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398190.605.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398190.605.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398190.605.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398190.605.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392639.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -16452,30 +10914,12 @@ valu: "finger/CIP398190.605.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398190.615': {name: "CIP398190.615",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398190.615.jpg"},
-{
-name: "Fry image",
-valu: "fry/398190.615.jpg"},
-{
-name: "Chips image",
-valu: "chips/398190.615.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398190.615.jpg"},
-{
-name: "Plant image",
-valu: "plant/398190.615.jpg"},
-{
-name: "Flower image",
-valu: "flower/398190.615.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398190.615.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398190.615.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398190.615.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392639.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16498,30 +10942,14 @@ valu: "finger/CIP398190.615.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398190.735': {name: "CIP398190.735",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398190.735.jpg"},
-{
-name: "Fry image",
-valu: "fry/398190.735.jpg"},
-{
-name: "Chips image",
-valu: "chips/398190.735.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398190.735.jpg"},
-{
-name: "Plant image",
-valu: "plant/398190.735.jpg"},
-{
-name: "Flower image",
-valu: "flower/398190.735.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398190.735.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398190.735.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398190.735.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398190.735.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392639.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -16543,30 +10971,10 @@ valu: "finger/CIP398190.735.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398190.89': {name: "CIP398190.89",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398190.89.jpg"},
-{
-name: "Fry image",
-valu: "fry/398190.89.jpg"},
-{
-name: "Chips image",
-valu: "chips/398190.89.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398190.89.jpg"},
-{
-name: "Plant image",
-valu: "plant/398190.89.jpg"},
-{
-name: "Flower image",
-valu: "flower/398190.89.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398190.89.jpg"},
-
+attr: [
+{name: "Tuber image", valu: "Tuber/398190.89.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392639.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16590,30 +10998,14 @@ valu: "finger/CIP398190.89.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398192.213': {name: "CIP398192.213",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398192.213.jpg"},
-{
-name: "Fry image",
-valu: "fry/398192.213.jpg"},
-{
-name: "Chips image",
-valu: "chips/398192.213.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398192.213.jpg"},
-{
-name: "Plant image",
-valu: "plant/398192.213.jpg"},
-{
-name: "Flower image",
-valu: "flower/398192.213.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398192.213.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398192.213.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398192.213.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398192.213.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392633.54"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -16636,30 +11028,12 @@ valu: "finger/CIP398192.213.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398192.41': {name: "CIP398192.41",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398192.41.jpg"},
-{
-name: "Fry image",
-valu: "fry/398192.41.jpg"},
-{
-name: "Chips image",
-valu: "chips/398192.41.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398192.41.jpg"},
-{
-name: "Plant image",
-valu: "plant/398192.41.jpg"},
-{
-name: "Flower image",
-valu: "flower/398192.41.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398192.41.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398192.41.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398192.41.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392633.54"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16681,30 +11055,14 @@ valu: "finger/CIP398192.41.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398192.553': {name: "CIP398192.553",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398192.553.jpg"},
-{
-name: "Fry image",
-valu: "fry/398192.553.jpg"},
-{
-name: "Chips image",
-valu: "chips/398192.553.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398192.553.jpg"},
-{
-name: "Plant image",
-valu: "plant/398192.553.jpg"},
-{
-name: "Flower image",
-valu: "flower/398192.553.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398192.553.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398192.553.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398192.553.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398192.553.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392633.54"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -16726,30 +11084,12 @@ valu: "finger/CIP398192.553.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398192.592': {name: "CIP398192.592",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398192.592.jpg"},
-{
-name: "Fry image",
-valu: "fry/398192.592.jpg"},
-{
-name: "Chips image",
-valu: "chips/398192.592.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398192.592.jpg"},
-{
-name: "Plant image",
-valu: "plant/398192.592.jpg"},
-{
-name: "Flower image",
-valu: "flower/398192.592.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398192.592.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398192.592.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398192.592.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392633.54"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16771,30 +11111,14 @@ valu: "finger/CIP398192.592.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398193.158': {name: "CIP398193.158",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398193.158.jpg"},
-{
-name: "Fry image",
-valu: "fry/398193.158.jpg"},
-{
-name: "Chips image",
-valu: "chips/398193.158.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398193.158.jpg"},
-{
-name: "Plant image",
-valu: "plant/398193.158.jpg"},
-{
-name: "Flower image",
-valu: "flower/398193.158.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398193.158.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398193.158.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398193.158.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398193.158.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -16816,30 +11140,14 @@ valu: "finger/CIP398193.158.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398193.511': {name: "CIP398193.511",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398193.511.jpg"},
-{
-name: "Fry image",
-valu: "fry/398193.511.jpg"},
-{
-name: "Chips image",
-valu: "chips/398193.511.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398193.511.jpg"},
-{
-name: "Plant image",
-valu: "plant/398193.511.jpg"},
-{
-name: "Flower image",
-valu: "flower/398193.511.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398193.511.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398193.511.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398193.511.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398193.511.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16862,30 +11170,12 @@ valu: "finger/CIP398193.511.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398193.553': {name: "CIP398193.553",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398193.553.jpg"},
-{
-name: "Fry image",
-valu: "fry/398193.553.jpg"},
-{
-name: "Chips image",
-valu: "chips/398193.553.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398193.553.jpg"},
-{
-name: "Plant image",
-valu: "plant/398193.553.jpg"},
-{
-name: "Flower image",
-valu: "flower/398193.553.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398193.553.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398193.553.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398193.553.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -16907,30 +11197,12 @@ valu: "finger/CIP398193.553.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398193.650': {name: "CIP398193.650",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398193.650.jpg"},
-{
-name: "Fry image",
-valu: "fry/398193.650.jpg"},
-{
-name: "Chips image",
-valu: "chips/398193.650.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398193.650.jpg"},
-{
-name: "Plant image",
-valu: "plant/398193.650.jpg"},
-{
-name: "Flower image",
-valu: "flower/398193.650.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398193.650.jpg"},
+attr: [
+{name: "Sprout image", valu: "Sprout/398193.650.jpg"}, 
 
+{name: "Flower image", valu: "Flower/398193.650.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.54 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16952,30 +11224,14 @@ valu: "finger/CIP398193.650.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398201.510': {name: "CIP398201.510",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398201.510.jpg"},
-{
-name: "Fry image",
-valu: "fry/398201.510.jpg"},
-{
-name: "Chips image",
-valu: "chips/398201.510.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398201.510.jpg"},
-{
-name: "Plant image",
-valu: "plant/398201.510.jpg"},
-{
-name: "Flower image",
-valu: "flower/398201.510.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398201.510.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398201.510.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398201.510.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398201.510.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393242.5 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -16996,30 +11252,14 @@ valu: "finger/CIP398201.510.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398203.244': {name: "CIP398203.244",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398203.244.jpg"},
-{
-name: "Fry image",
-valu: "fry/398203.244.jpg"},
-{
-name: "Chips image",
-valu: "chips/398203.244.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398203.244.jpg"},
-{
-name: "Plant image",
-valu: "plant/398203.244.jpg"},
-{
-name: "Flower image",
-valu: "flower/398203.244.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398203.244.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398203.244.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398203.244.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398203.244.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393280.82 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17042,30 +11282,14 @@ valu: "finger/CIP398203.244.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398203.5': {name: "CIP398203.5",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398203.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/398203.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/398203.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398203.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/398203.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/398203.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398203.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398203.5.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398203.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398203.5.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393280.82 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17087,30 +11311,14 @@ valu: "finger/CIP398203.5.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398203.509': {name: "CIP398203.509",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398203.509.jpg"},
-{
-name: "Fry image",
-valu: "fry/398203.509.jpg"},
-{
-name: "Chips image",
-valu: "chips/398203.509.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398203.509.jpg"},
-{
-name: "Plant image",
-valu: "plant/398203.509.jpg"},
-{
-name: "Flower image",
-valu: "flower/398203.509.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398203.509.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398203.509.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398203.509.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398203.509.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393280.82 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17127,30 +11335,14 @@ valu: "finger/CIP398203.509.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398208.219': {name: "CIP398208.219",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398208.219.jpg"},
-{
-name: "Fry image",
-valu: "fry/398208.219.jpg"},
-{
-name: "Chips image",
-valu: "chips/398208.219.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398208.219.jpg"},
-{
-name: "Plant image",
-valu: "plant/398208.219.jpg"},
-{
-name: "Flower image",
-valu: "flower/398208.219.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398208.219.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398208.219.jpg"}, 
 
+{name: "Chips image", valu: "Chips/398208.219.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/398208.219.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17172,30 +11364,12 @@ valu: "finger/CIP398208.219.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398208.29': {name: "CIP398208.29",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398208.29.jpg"},
-{
-name: "Fry image",
-valu: "fry/398208.29.jpg"},
-{
-name: "Chips image",
-valu: "chips/398208.29.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398208.29.jpg"},
-{
-name: "Plant image",
-valu: "plant/398208.29.jpg"},
-{
-name: "Flower image",
-valu: "flower/398208.29.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398208.29.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398208.29.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398208.29.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17217,30 +11391,14 @@ valu: "finger/CIP398208.29.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398208.33': {name: "CIP398208.33",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398208.33.jpg"},
-{
-name: "Fry image",
-valu: "fry/398208.33.jpg"},
-{
-name: "Chips image",
-valu: "chips/398208.33.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398208.33.jpg"},
-{
-name: "Plant image",
-valu: "plant/398208.33.jpg"},
-{
-name: "Flower image",
-valu: "flower/398208.33.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398208.33.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398208.33.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398208.33.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398208.33.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17261,30 +11419,12 @@ valu: "finger/CIP398208.33.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398208.505': {name: "CIP398208.505",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398208.505.jpg"},
-{
-name: "Fry image",
-valu: "fry/398208.505.jpg"},
-{
-name: "Chips image",
-valu: "chips/398208.505.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398208.505.jpg"},
-{
-name: "Plant image",
-valu: "plant/398208.505.jpg"},
-{
-name: "Flower image",
-valu: "flower/398208.505.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398208.505.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398208.505.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398208.505.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17305,30 +11445,12 @@ valu: "finger/CIP398208.505.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398208.620': {name: "CIP398208.620",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398208.620.jpg"},
-{
-name: "Fry image",
-valu: "fry/398208.620.jpg"},
-{
-name: "Chips image",
-valu: "chips/398208.620.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398208.620.jpg"},
-{
-name: "Plant image",
-valu: "plant/398208.620.jpg"},
-{
-name: "Flower image",
-valu: "flower/398208.620.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398208.620.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398208.620.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398208.620.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17349,30 +11471,14 @@ valu: "finger/CIP398208.620.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398208.670': {name: "CIP398208.670",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398208.670.jpg"},
-{
-name: "Fry image",
-valu: "fry/398208.670.jpg"},
-{
-name: "Chips image",
-valu: "chips/398208.670.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398208.670.jpg"},
-{
-name: "Plant image",
-valu: "plant/398208.670.jpg"},
-{
-name: "Flower image",
-valu: "flower/398208.670.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398208.670.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398208.670.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398208.670.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398208.670.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17392,30 +11498,14 @@ valu: "finger/CIP398208.670.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398208.704': {name: "CIP398208.704",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398208.704.jpg"},
-{
-name: "Fry image",
-valu: "fry/398208.704.jpg"},
-{
-name: "Chips image",
-valu: "chips/398208.704.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398208.704.jpg"},
-{
-name: "Plant image",
-valu: "plant/398208.704.jpg"},
-{
-name: "Flower image",
-valu: "flower/398208.704.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398208.704.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398208.704.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398208.704.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398208.704.jpg"}, 
 {name: "Population Group", valu: "LBHT-1"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393371.58 x 392633.64"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -17436,31 +11526,15 @@ valu: "finger/CIP398208.704.jpg"},
 {name: "Heat", valu: "Tolerant"}]},
  
 'CIP398211.35': {name: "CIP398211.35",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/398211.35.jpg"},
-{
-name: "Fry image",
-valu: "fry/398211.35.jpg"},
-{
-name: "Chips image",
-valu: "chips/398211.35.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/398211.35.jpg"},
-{
-name: "Plant image",
-valu: "plant/398211.35.jpg"},
-{
-name: "Flower image",
-valu: "flower/398211.35.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP398211.35.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/398211.35.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/398211.35.jpg"}, 
+
+{name: "Flower image", valu: "Flower/398211.35.jpg"}, 
 {name: "Collecting number/Breeder code", valu: "Musuq Tomasa"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "720072 (TOMASA CONDEMAYTA) x 393613.2 (TXY.2)"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Potato virus X (PVX)", valu: "Resistant"},
@@ -17484,31 +11558,17 @@ valu: "finger/CIP398211.35.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399001.16': {name: "CIP399001.16",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399001.16.jpg"},
-{
-name: "Fry image",
-valu: "fry/399001.16.jpg"},
-{
-name: "Chips image",
-valu: "chips/399001.16.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399001.16.jpg"},
-{
-name: "Plant image",
-valu: "plant/399001.16.jpg"},
-{
-name: "Flower image",
-valu: "flower/399001.16.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399001.16.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399001.16.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399001.16.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399001.16.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399001.16.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5024.16"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395259.2 (BIC4-039.2) x 395255.3 (B1C4035.3)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17539,31 +11599,17 @@ valu: "finger/CIP399001.16.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399001.44': {name: "CIP399001.44",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399001.44.jpg"},
-{
-name: "Fry image",
-valu: "fry/399001.44.jpg"},
-{
-name: "Chips image",
-valu: "chips/399001.44.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399001.44.jpg"},
-{
-name: "Plant image",
-valu: "plant/399001.44.jpg"},
-{
-name: "Flower image",
-valu: "flower/399001.44.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399001.44.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399001.44.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399001.44.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399001.44.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399001.44.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5024.44"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395259.2 (BIC4-039.2) x 395255.3 (B1C4035.3)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17594,31 +11640,17 @@ valu: "finger/CIP399001.44.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399001.53': {name: "CIP399001.53",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399001.53.jpg"},
-{
-name: "Fry image",
-valu: "fry/399001.53.jpg"},
-{
-name: "Chips image",
-valu: "chips/399001.53.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399001.53.jpg"},
-{
-name: "Plant image",
-valu: "plant/399001.53.jpg"},
-{
-name: "Flower image",
-valu: "flower/399001.53.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399001.53.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399001.53.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399001.53.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399001.53.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399001.53.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5024.53"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395259.2 (BIC4-039.2) x 395255.3 (B1C4035.3)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17649,31 +11681,17 @@ valu: "finger/CIP399001.53.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399002.38': {name: "CIP399002.38",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399002.38.jpg"},
-{
-name: "Fry image",
-valu: "fry/399002.38.jpg"},
-{
-name: "Chips image",
-valu: "chips/399002.38.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399002.38.jpg"},
-{
-name: "Plant image",
-valu: "plant/399002.38.jpg"},
-{
-name: "Flower image",
-valu: "flower/399002.38.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399002.38.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399002.38.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399002.38.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399002.38.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399002.38.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5027.38"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (BIC4-042.2) x 395292.3 (B1C4072.3)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17708,31 +11726,17 @@ valu: "finger/CIP399002.38.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399002.42': {name: "CIP399002.42",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399002.42.jpg"},
-{
-name: "Fry image",
-valu: "fry/399002.42.jpg"},
-{
-name: "Chips image",
-valu: "chips/399002.42.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399002.42.jpg"},
-{
-name: "Plant image",
-valu: "plant/399002.42.jpg"},
-{
-name: "Flower image",
-valu: "flower/399002.42.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399002.42.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399002.42.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399002.42.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399002.42.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399002.42.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5027.42"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (BIC4-042.2) x 395292.3 (B1C4072.3)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17767,31 +11771,17 @@ valu: "finger/CIP399002.42.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399002.52': {name: "CIP399002.52",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399002.52.jpg"},
-{
-name: "Fry image",
-valu: "fry/399002.52.jpg"},
-{
-name: "Chips image",
-valu: "chips/399002.52.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399002.52.jpg"},
-{
-name: "Plant image",
-valu: "plant/399002.52.jpg"},
-{
-name: "Flower image",
-valu: "flower/399002.52.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399002.52.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399002.52.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399002.52.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399002.52.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399002.52.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5027.52"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (BIC4-042.2) x 395292.3 (B1C4072.3)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17826,31 +11816,15 @@ valu: "finger/CIP399002.52.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399002.57': {name: "CIP399002.57",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399002.57.jpg"},
-{
-name: "Fry image",
-valu: "fry/399002.57.jpg"},
-{
-name: "Chips image",
-valu: "chips/399002.57.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399002.57.jpg"},
-{
-name: "Plant image",
-valu: "plant/399002.57.jpg"},
-{
-name: "Flower image",
-valu: "flower/399002.57.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399002.57.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399002.57.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399002.57.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399002.57.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5027.57"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (BIC4-042.2) x 395292.3 (B1C4072.3)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17881,31 +11855,17 @@ valu: "finger/CIP399002.57.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399002.7': {name: "CIP399002.7",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399002.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/399002.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/399002.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399002.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/399002.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/399002.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399002.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399002.7.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399002.7.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399002.7.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399002.7.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5027.7"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (BIC4-042.2) x 395292.3 (B1C4072.3)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -17940,31 +11900,15 @@ valu: "finger/CIP399002.7.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399003.9': {name: "CIP399003.9",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399003.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/399003.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/399003.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399003.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/399003.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/399003.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399003.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399003.9.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399003.9.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399003.9.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5034.9"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395266.3 (BIC4-046.3) x 395272.2 (B1C4025.2)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Purple"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -17999,31 +11943,17 @@ valu: "finger/CIP399003.9.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399004.19': {name: "CIP399004.19",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399004.19.jpg"},
-{
-name: "Fry image",
-valu: "fry/399004.19.jpg"},
-{
-name: "Chips image",
-valu: "chips/399004.19.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399004.19.jpg"},
-{
-name: "Plant image",
-valu: "plant/399004.19.jpg"},
-{
-name: "Flower image",
-valu: "flower/399004.19.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399004.19.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399004.19.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399004.19.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399004.19.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399004.19.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5046.19"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395309.7 (BIC4-089.7) x 395255.3 (B1C4035.3)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18054,31 +11984,15 @@ valu: "finger/CIP399004.19.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399048.39': {name: "CIP399048.39",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399048.39.jpg"},
-{
-name: "Fry image",
-valu: "fry/399048.39.jpg"},
-{
-name: "Chips image",
-valu: "chips/399048.39.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399048.39.jpg"},
-{
-name: "Plant image",
-valu: "plant/399048.39.jpg"},
-{
-name: "Flower image",
-valu: "flower/399048.39.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399048.39.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399048.39.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399048.39.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399048.39.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5015.39"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395272.2 x 395257.6"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18113,31 +12027,15 @@ valu: "finger/CIP399048.39.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399049.14': {name: "CIP399049.14",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399049.14.jpg"},
-{
-name: "Fry image",
-valu: "fry/399049.14.jpg"},
-{
-name: "Chips image",
-valu: "chips/399049.14.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399049.14.jpg"},
-{
-name: "Plant image",
-valu: "plant/399049.14.jpg"},
-{
-name: "Flower image",
-valu: "flower/399049.14.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399049.14.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399049.14.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399049.14.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399049.14.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5029.14"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (B1C4042.2) x 395273.1 (B1C4053.1)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18168,31 +12066,15 @@ valu: "finger/CIP399049.14.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399049.16': {name: "CIP399049.16",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399049.16.jpg"},
-{
-name: "Fry image",
-valu: "fry/399049.16.jpg"},
-{
-name: "Chips image",
-valu: "chips/399049.16.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399049.16.jpg"},
-{
-name: "Plant image",
-valu: "plant/399049.16.jpg"},
-{
-name: "Flower image",
-valu: "flower/399049.16.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399049.16.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399049.16.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399049.16.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399049.16.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5029.16"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (B1C4042.2) x 395273.1 (B1C4053.1)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18223,31 +12105,17 @@ valu: "finger/CIP399049.16.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399049.22': {name: "CIP399049.22",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399049.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/399049.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/399049.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399049.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/399049.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/399049.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399049.22.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399049.22.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399049.22.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399049.22.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399049.22.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5029.22"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (B1C4042.2) x 395273.1 (B1C4053.1)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18278,31 +12146,13 @@ valu: "finger/CIP399049.22.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399049.27': {name: "CIP399049.27",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399049.27.jpg"},
-{
-name: "Fry image",
-valu: "fry/399049.27.jpg"},
-{
-name: "Chips image",
-valu: "chips/399049.27.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399049.27.jpg"},
-{
-name: "Plant image",
-valu: "plant/399049.27.jpg"},
-{
-name: "Flower image",
-valu: "flower/399049.27.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399049.27.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399049.27.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/399049.27.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5029.27"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (B1C4042.2) x 395273.1 (B1C4053.1)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18333,31 +12183,15 @@ valu: "finger/CIP399049.27.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399050.3': {name: "CIP399050.3",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399050.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/399050.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/399050.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399050.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/399050.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/399050.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399050.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399050.3.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399050.3.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399050.3.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5001.3"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395257.2 x 395300.6"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18378,31 +12212,15 @@ valu: "finger/CIP399050.3.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399051.1': {name: "CIP399051.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399051.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/399051.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/399051.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399051.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/399051.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/399051.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399051.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399051.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399051.1.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399051.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5002.1"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395273.2 x 395257.6"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18437,31 +12255,17 @@ valu: "finger/CIP399051.1.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399051.10': {name: "CIP399051.10",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399051.10.jpg"},
-{
-name: "Fry image",
-valu: "fry/399051.10.jpg"},
-{
-name: "Chips image",
-valu: "chips/399051.10.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399051.10.jpg"},
-{
-name: "Plant image",
-valu: "plant/399051.10.jpg"},
-{
-name: "Flower image",
-valu: "flower/399051.10.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399051.10.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399051.10.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399051.10.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399051.10.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399051.10.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5002.10"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395273.2 x 395257.6"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18486,31 +12290,15 @@ valu: "finger/CIP399051.10.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399051.9': {name: "CIP399051.9",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399051.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/399051.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/399051.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399051.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/399051.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/399051.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399051.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399051.9.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399051.9.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399051.9.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5002.9"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395273.2 x 395257.6"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18545,31 +12333,15 @@ valu: "finger/CIP399051.9.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399052.3': {name: "CIP399052.3",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399052.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/399052.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/399052.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399052.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/399052.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/399052.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399052.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399052.3.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399052.3.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399052.3.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5003.3"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395296.2 x 395292.3"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -18600,31 +12372,15 @@ valu: "finger/CIP399052.3.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399053.11': {name: "CIP399053.11",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399053.11.jpg"},
-{
-name: "Fry image",
-valu: "fry/399053.11.jpg"},
-{
-name: "Chips image",
-valu: "chips/399053.11.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399053.11.jpg"},
-{
-name: "Plant image",
-valu: "plant/399053.11.jpg"},
-{
-name: "Flower image",
-valu: "flower/399053.11.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399053.11.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399053.11.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399053.11.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399053.11.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5004.11"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395230.1 x 395322.11"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18655,31 +12411,15 @@ valu: "finger/CIP399053.11.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399053.12': {name: "CIP399053.12",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399053.12.jpg"},
-{
-name: "Fry image",
-valu: "fry/399053.12.jpg"},
-{
-name: "Chips image",
-valu: "chips/399053.12.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399053.12.jpg"},
-{
-name: "Plant image",
-valu: "plant/399053.12.jpg"},
-{
-name: "Flower image",
-valu: "flower/399053.12.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399053.12.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399053.12.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399053.12.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399053.12.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5004.12"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395230.1 x 395322.11"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18714,31 +12454,15 @@ valu: "finger/CIP399053.12.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399053.15': {name: "CIP399053.15",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399053.15.jpg"},
-{
-name: "Fry image",
-valu: "fry/399053.15.jpg"},
-{
-name: "Chips image",
-valu: "chips/399053.15.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399053.15.jpg"},
-{
-name: "Plant image",
-valu: "plant/399053.15.jpg"},
-{
-name: "Flower image",
-valu: "flower/399053.15.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399053.15.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399053.15.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399053.15.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399053.15.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5004.15"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395230.1 x 395322.11"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18768,31 +12492,15 @@ valu: "finger/CIP399053.15.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399053.7': {name: "CIP399053.7",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399053.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/399053.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/399053.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399053.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/399053.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/399053.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399053.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399053.7.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399053.7.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399053.7.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5004.7"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395230.1 x 395322.11"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18824,31 +12532,17 @@ valu: "finger/CIP399053.7.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399054.1': {name: "CIP399054.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399054.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/399054.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/399054.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399054.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/399054.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/399054.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399054.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399054.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399054.1.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399054.1.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399054.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5005.1"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395230.1 x 395299.3"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18883,31 +12577,17 @@ valu: "finger/CIP399054.1.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399054.16': {name: "CIP399054.16",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399054.16.jpg"},
-{
-name: "Fry image",
-valu: "fry/399054.16.jpg"},
-{
-name: "Chips image",
-valu: "chips/399054.16.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399054.16.jpg"},
-{
-name: "Plant image",
-valu: "plant/399054.16.jpg"},
-{
-name: "Flower image",
-valu: "flower/399054.16.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399054.16.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399054.16.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399054.16.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399054.16.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399054.16.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5005.16"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395230.1 x 395299.3"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18938,31 +12618,15 @@ valu: "finger/CIP399054.16.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399058.12': {name: "CIP399058.12",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399058.12.jpg"},
-{
-name: "Fry image",
-valu: "fry/399058.12.jpg"},
-{
-name: "Chips image",
-valu: "chips/399058.12.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399058.12.jpg"},
-{
-name: "Plant image",
-valu: "plant/399058.12.jpg"},
-{
-name: "Flower image",
-valu: "flower/399058.12.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399058.12.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399058.12.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399058.12.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399058.12.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5009.12"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395274.1 x 395319.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -18993,31 +12657,17 @@ valu: "finger/CIP399058.12.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399062.108': {name: "CIP399062.108",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399062.108.jpg"},
-{
-name: "Fry image",
-valu: "fry/399062.108.jpg"},
-{
-name: "Chips image",
-valu: "chips/399062.108.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399062.108.jpg"},
-{
-name: "Plant image",
-valu: "plant/399062.108.jpg"},
-{
-name: "Flower image",
-valu: "flower/399062.108.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399062.108.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399062.108.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399062.108.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399062.108.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399062.108.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5013.108"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395285.5 x 395282.3"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19048,31 +12698,17 @@ valu: "finger/CIP399062.108.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399062.115': {name: "CIP399062.115",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399062.115.jpg"},
-{
-name: "Fry image",
-valu: "fry/399062.115.jpg"},
-{
-name: "Chips image",
-valu: "chips/399062.115.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399062.115.jpg"},
-{
-name: "Plant image",
-valu: "plant/399062.115.jpg"},
-{
-name: "Flower image",
-valu: "flower/399062.115.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399062.115.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399062.115.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399062.115.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399062.115.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399062.115.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5013.115"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395285.5 x 395282.3"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19103,31 +12739,17 @@ valu: "finger/CIP399062.115.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399062.118': {name: "CIP399062.118",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399062.118.jpg"},
-{
-name: "Fry image",
-valu: "fry/399062.118.jpg"},
-{
-name: "Chips image",
-valu: "chips/399062.118.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399062.118.jpg"},
-{
-name: "Plant image",
-valu: "plant/399062.118.jpg"},
-{
-name: "Flower image",
-valu: "flower/399062.118.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399062.118.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399062.118.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399062.118.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399062.118.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399062.118.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5013.118"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395285.5 x 395282.3"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19162,31 +12784,15 @@ valu: "finger/CIP399062.118.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399062.119': {name: "CIP399062.119",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399062.119.jpg"},
-{
-name: "Fry image",
-valu: "fry/399062.119.jpg"},
-{
-name: "Chips image",
-valu: "chips/399062.119.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399062.119.jpg"},
-{
-name: "Plant image",
-valu: "plant/399062.119.jpg"},
-{
-name: "Flower image",
-valu: "flower/399062.119.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399062.119.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399062.119.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399062.119.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399062.119.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5013.119"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395285.5 x 395282.3"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19217,31 +12823,17 @@ valu: "finger/CIP399062.119.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399064.12': {name: "CIP399064.12",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399064.12.jpg"},
-{
-name: "Fry image",
-valu: "fry/399064.12.jpg"},
-{
-name: "Chips image",
-valu: "chips/399064.12.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399064.12.jpg"},
-{
-name: "Plant image",
-valu: "plant/399064.12.jpg"},
-{
-name: "Flower image",
-valu: "flower/399064.12.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399064.12.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399064.12.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399064.12.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399064.12.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399064.12.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5016.12"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395272.2 x 395233.8"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -19271,31 +12863,15 @@ valu: "finger/CIP399064.12.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399064.3': {name: "CIP399064.3",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399064.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/399064.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/399064.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399064.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/399064.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/399064.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399064.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399064.3.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399064.3.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399064.3.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5016.3"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395272.2 x 395233.8"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19325,31 +12901,17 @@ valu: "finger/CIP399064.3.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399067.14': {name: "CIP399067.14",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399067.14.jpg"},
-{
-name: "Fry image",
-valu: "fry/399067.14.jpg"},
-{
-name: "Chips image",
-valu: "chips/399067.14.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399067.14.jpg"},
-{
-name: "Plant image",
-valu: "plant/399067.14.jpg"},
-{
-name: "Flower image",
-valu: "flower/399067.14.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399067.14.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399067.14.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399067.14.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399067.14.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399067.14.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5019.14"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395257.2 x 395271.6"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19380,31 +12942,17 @@ valu: "finger/CIP399067.14.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399067.22': {name: "CIP399067.22",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399067.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/399067.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/399067.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399067.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/399067.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/399067.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399067.22.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399067.22.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399067.22.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399067.22.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399067.22.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5019.22"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395257.2 x 395271.6"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19439,31 +12987,17 @@ valu: "finger/CIP399067.22.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399071.17': {name: "CIP399071.17",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399071.17.jpg"},
-{
-name: "Fry image",
-valu: "fry/399071.17.jpg"},
-{
-name: "Chips image",
-valu: "chips/399071.17.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399071.17.jpg"},
-{
-name: "Plant image",
-valu: "plant/399071.17.jpg"},
-{
-name: "Flower image",
-valu: "flower/399071.17.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399071.17.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399071.17.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399071.17.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399071.17.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399071.17.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5023.17"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395230.1 (B1C4010.1) x 395235.8 (B1C4015.8)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19494,31 +13028,15 @@ valu: "finger/CIP399071.17.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399072.11': {name: "CIP399072.11",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399072.11.jpg"},
-{
-name: "Fry image",
-valu: "fry/399072.11.jpg"},
-{
-name: "Chips image",
-valu: "chips/399072.11.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399072.11.jpg"},
-{
-name: "Plant image",
-valu: "plant/399072.11.jpg"},
-{
-name: "Flower image",
-valu: "flower/399072.11.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399072.11.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399072.11.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399072.11.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399072.11.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5025.11"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395259.2 x 395271.6"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19549,31 +13067,17 @@ valu: "finger/CIP399072.11.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399072.2': {name: "CIP399072.2",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399072.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/399072.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/399072.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399072.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/399072.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/399072.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399072.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399072.2.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399072.2.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399072.2.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399072.2.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5025.2"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395259.2 x 395271.6"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19604,31 +13108,17 @@ valu: "finger/CIP399072.2.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399072.21': {name: "CIP399072.21",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399072.21.jpg"},
-{
-name: "Fry image",
-valu: "fry/399072.21.jpg"},
-{
-name: "Chips image",
-valu: "chips/399072.21.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399072.21.jpg"},
-{
-name: "Plant image",
-valu: "plant/399072.21.jpg"},
-{
-name: "Flower image",
-valu: "flower/399072.21.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399072.21.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399072.21.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399072.21.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399072.21.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399072.21.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5025.21"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395259.2 x 395271.6"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19659,31 +13149,17 @@ valu: "finger/CIP399072.21.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399072.28': {name: "CIP399072.28",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399072.28.jpg"},
-{
-name: "Fry image",
-valu: "fry/399072.28.jpg"},
-{
-name: "Chips image",
-valu: "chips/399072.28.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399072.28.jpg"},
-{
-name: "Plant image",
-valu: "plant/399072.28.jpg"},
-{
-name: "Flower image",
-valu: "flower/399072.28.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399072.28.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399072.28.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399072.28.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399072.28.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399072.28.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5025.28"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395259.2 x 395271.6"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19714,31 +13190,15 @@ valu: "finger/CIP399072.28.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399073.18': {name: "CIP399073.18",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399073.18.jpg"},
-{
-name: "Fry image",
-valu: "fry/399073.18.jpg"},
-{
-name: "Chips image",
-valu: "chips/399073.18.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399073.18.jpg"},
-{
-name: "Plant image",
-valu: "plant/399073.18.jpg"},
-{
-name: "Flower image",
-valu: "flower/399073.18.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399073.18.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399073.18.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399073.18.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399073.18.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5026.18"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (B1C4042.2) x 395256.1 (B1C4036.1)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19773,31 +13233,17 @@ valu: "finger/CIP399073.18.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399073.23': {name: "CIP399073.23",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399073.23.jpg"},
-{
-name: "Fry image",
-valu: "fry/399073.23.jpg"},
-{
-name: "Chips image",
-valu: "chips/399073.23.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399073.23.jpg"},
-{
-name: "Plant image",
-valu: "plant/399073.23.jpg"},
-{
-name: "Flower image",
-valu: "flower/399073.23.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399073.23.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399073.23.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399073.23.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399073.23.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399073.23.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5026.23"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (B1C4042.2) x 395256.1 (B1C4036.1)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19829,31 +13275,17 @@ valu: "finger/CIP399073.23.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399073.8': {name: "CIP399073.8",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399073.8.jpg"},
-{
-name: "Fry image",
-valu: "fry/399073.8.jpg"},
-{
-name: "Chips image",
-valu: "chips/399073.8.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399073.8.jpg"},
-{
-name: "Plant image",
-valu: "plant/399073.8.jpg"},
-{
-name: "Flower image",
-valu: "flower/399073.8.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399073.8.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399073.8.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399073.8.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399073.8.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399073.8.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5026.8"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (B1C4042.2) x 395256.1 (B1C4036.1)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19884,31 +13316,15 @@ valu: "finger/CIP399073.8.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399073.9': {name: "CIP399073.9",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399073.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/399073.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/399073.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399073.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/399073.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/399073.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399073.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399073.9.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399073.9.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399073.9.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5026.9"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (B1C4042.2) x 395256.1 (B1C4036.1)"},
 {name: "Predominant tuber skin color", valu: "Blackish"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19939,31 +13355,15 @@ valu: "finger/CIP399073.9.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399074.23': {name: "CIP399074.23",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399074.23.jpg"},
-{
-name: "Fry image",
-valu: "fry/399074.23.jpg"},
-{
-name: "Chips image",
-valu: "chips/399074.23.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399074.23.jpg"},
-{
-name: "Plant image",
-valu: "plant/399074.23.jpg"},
-{
-name: "Flower image",
-valu: "flower/399074.23.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399074.23.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399074.23.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399074.23.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399074.23.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5028.23"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (B1C4042.2) x 395247.1 (B1C4027.1)"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -19994,31 +13394,17 @@ valu: "finger/CIP399074.23.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399074.32': {name: "CIP399074.32",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399074.32.jpg"},
-{
-name: "Fry image",
-valu: "fry/399074.32.jpg"},
-{
-name: "Chips image",
-valu: "chips/399074.32.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399074.32.jpg"},
-{
-name: "Plant image",
-valu: "plant/399074.32.jpg"},
-{
-name: "Flower image",
-valu: "flower/399074.32.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399074.32.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399074.32.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399074.32.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399074.32.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399074.32.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5028.32"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395262.2 (B1C4042.2) x 395247.1 (B1C4027.1)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20049,31 +13435,17 @@ valu: "finger/CIP399074.32.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399075.20': {name: "CIP399075.20",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399075.20.jpg"},
-{
-name: "Fry image",
-valu: "fry/399075.20.jpg"},
-{
-name: "Chips image",
-valu: "chips/399075.20.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399075.20.jpg"},
-{
-name: "Plant image",
-valu: "plant/399075.20.jpg"},
-{
-name: "Flower image",
-valu: "flower/399075.20.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399075.20.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399075.20.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399075.20.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399075.20.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399075.20.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5030.20"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395266.2 (B1C4046.2) x 395282.3 (B1C4062.3)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20102,31 +13474,17 @@ valu: "finger/CIP399075.20.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399075.22': {name: "CIP399075.22",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399075.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/399075.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/399075.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399075.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/399075.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/399075.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399075.22.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399075.22.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399075.22.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399075.22.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399075.22.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5030.22"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395266.2 (B1C4046.2) x 395282.3 (B1C4062.3)"},
 {name: "Predominant tuber skin color", valu: "Yellow"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20157,31 +13515,17 @@ valu: "finger/CIP399075.22.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399075.26': {name: "CIP399075.26",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399075.26.jpg"},
-{
-name: "Fry image",
-valu: "fry/399075.26.jpg"},
-{
-name: "Chips image",
-valu: "chips/399075.26.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399075.26.jpg"},
-{
-name: "Plant image",
-valu: "plant/399075.26.jpg"},
-{
-name: "Flower image",
-valu: "flower/399075.26.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399075.26.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399075.26.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399075.26.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399075.26.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399075.26.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5030.26"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395266.2 (B1C4046.2) x 395282.3 (B1C4062.3)"},
 {name: "Predominant tuber skin color", valu: "Purplish-red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20215,31 +13559,17 @@ valu: "finger/CIP399075.26.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399075.32': {name: "CIP399075.32",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399075.32.jpg"},
-{
-name: "Fry image",
-valu: "fry/399075.32.jpg"},
-{
-name: "Chips image",
-valu: "chips/399075.32.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399075.32.jpg"},
-{
-name: "Plant image",
-valu: "plant/399075.32.jpg"},
-{
-name: "Flower image",
-valu: "flower/399075.32.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399075.32.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399075.32.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399075.32.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399075.32.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399075.32.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5030.32"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395266.2 (B1C4046.2) x 395282.3 (B1C4062.3)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20270,31 +13600,15 @@ valu: "finger/CIP399075.32.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399075.6': {name: "CIP399075.6",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399075.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/399075.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/399075.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399075.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/399075.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/399075.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399075.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399075.6.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399075.6.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399075.6.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5030.6"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395266.2 (B1C4046.2) x 395282.3 (B1C4062.3)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20329,31 +13643,17 @@ valu: "finger/CIP399075.6.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399076.12': {name: "CIP399076.12",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399076.12.jpg"},
-{
-name: "Fry image",
-valu: "fry/399076.12.jpg"},
-{
-name: "Chips image",
-valu: "chips/399076.12.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399076.12.jpg"},
-{
-name: "Plant image",
-valu: "plant/399076.12.jpg"},
-{
-name: "Flower image",
-valu: "flower/399076.12.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399076.12.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399076.12.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399076.12.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399076.12.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399076.12.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5031.12"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395266.2 (B1C4046.2) x 395235.8 (B1C4015.8)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20388,31 +13688,17 @@ valu: "finger/CIP399076.12.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399076.16': {name: "CIP399076.16",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399076.16.jpg"},
-{
-name: "Fry image",
-valu: "fry/399076.16.jpg"},
-{
-name: "Chips image",
-valu: "chips/399076.16.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399076.16.jpg"},
-{
-name: "Plant image",
-valu: "plant/399076.16.jpg"},
-{
-name: "Flower image",
-valu: "flower/399076.16.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399076.16.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399076.16.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399076.16.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399076.16.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399076.16.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5031.16"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395266.2 (B1C4046.2) x 395235.8 (B1C4015.8)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20443,31 +13729,17 @@ valu: "finger/CIP399076.16.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399078.11': {name: "CIP399078.11",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399078.11.jpg"},
-{
-name: "Fry image",
-valu: "fry/399078.11.jpg"},
-{
-name: "Chips image",
-valu: "chips/399078.11.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399078.11.jpg"},
-{
-name: "Plant image",
-valu: "plant/399078.11.jpg"},
-{
-name: "Flower image",
-valu: "flower/399078.11.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399078.11.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399078.11.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399078.11.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399078.11.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399078.11.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5033.11"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395266.3 (B1C4046.3) x 395260.8 (B1C4040.8)"},
 {name: "Predominant tuber skin color", valu: "Purplish-red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20498,31 +13770,17 @@ valu: "finger/CIP399078.11.jpg"},
 {name: "Pollen viability (%)", valu: "79.1"}]},
  
 'CIP399079.22': {name: "CIP399079.22",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399079.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/399079.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/399079.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399079.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/399079.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/399079.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399079.22.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399079.22.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399079.22.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399079.22.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399079.22.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5035.22"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395274.1 x 395257.6"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20554,31 +13812,15 @@ valu: "finger/CIP399079.22.jpg"},
 {name: "Pollen viability (%)", valu: "76.9"}]},
  
 'CIP399079.27': {name: "CIP399079.27",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399079.27.jpg"},
-{
-name: "Fry image",
-valu: "fry/399079.27.jpg"},
-{
-name: "Chips image",
-valu: "chips/399079.27.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399079.27.jpg"},
-{
-name: "Plant image",
-valu: "plant/399079.27.jpg"},
-{
-name: "Flower image",
-valu: "flower/399079.27.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399079.27.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399079.27.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399079.27.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399079.27.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5035.27"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395274.1 x 395257.6"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20608,31 +13850,15 @@ valu: "finger/CIP399079.27.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399079.28': {name: "CIP399079.28",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399079.28.jpg"},
-{
-name: "Fry image",
-valu: "fry/399079.28.jpg"},
-{
-name: "Chips image",
-valu: "chips/399079.28.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399079.28.jpg"},
-{
-name: "Plant image",
-valu: "plant/399079.28.jpg"},
-{
-name: "Flower image",
-valu: "flower/399079.28.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399079.28.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399079.28.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Chips image", valu: "Chips/399079.28.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399079.28.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5035.28"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395274.1 x 395257.6"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20663,31 +13889,17 @@ valu: "finger/CIP399079.28.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399079.42': {name: "CIP399079.42",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399079.42.jpg"},
-{
-name: "Fry image",
-valu: "fry/399079.42.jpg"},
-{
-name: "Chips image",
-valu: "chips/399079.42.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399079.42.jpg"},
-{
-name: "Plant image",
-valu: "plant/399079.42.jpg"},
-{
-name: "Flower image",
-valu: "flower/399079.42.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399079.42.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399079.42.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399079.42.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399079.42.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399079.42.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5035.42"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395274.1 x 395257.6"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -20717,31 +13929,17 @@ valu: "finger/CIP399079.42.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399083.4': {name: "CIP399083.4",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399083.4.jpg"},
-{
-name: "Fry image",
-valu: "fry/399083.4.jpg"},
-{
-name: "Chips image",
-valu: "chips/399083.4.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399083.4.jpg"},
-{
-name: "Plant image",
-valu: "plant/399083.4.jpg"},
-{
-name: "Flower image",
-valu: "flower/399083.4.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399083.4.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399083.4.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399083.4.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399083.4.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399083.4.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5039.4"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395296.2 (B1C4076.2) x 395247.1 (B1C4027.1)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20775,31 +13973,17 @@ valu: "finger/CIP399083.4.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399085.17': {name: "CIP399085.17",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399085.17.jpg"},
-{
-name: "Fry image",
-valu: "fry/399085.17.jpg"},
-{
-name: "Chips image",
-valu: "chips/399085.17.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399085.17.jpg"},
-{
-name: "Plant image",
-valu: "plant/399085.17.jpg"},
-{
-name: "Flower image",
-valu: "flower/399085.17.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399085.17.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399085.17.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399085.17.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399085.17.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399085.17.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5041.17"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395296.2 (B1C4076.2) x 395256.1 (B1C4036.1)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20830,31 +14014,13 @@ valu: "finger/CIP399085.17.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399090.48': {name: "CIP399090.48",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399090.48.jpg"},
-{
-name: "Fry image",
-valu: "fry/399090.48.jpg"},
-{
-name: "Chips image",
-valu: "chips/399090.48.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399090.48.jpg"},
-{
-name: "Plant image",
-valu: "plant/399090.48.jpg"},
-{
-name: "Flower image",
-valu: "flower/399090.48.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399090.48.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399090.48.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/399090.48.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5045.48"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395299.2 (B1C4079.2) x 395256.1 (B1C4036.1)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20885,31 +14051,17 @@ valu: "finger/CIP399090.48.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399092.116': {name: "CIP399092.116",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399092.116.jpg"},
-{
-name: "Fry image",
-valu: "fry/399092.116.jpg"},
-{
-name: "Chips image",
-valu: "chips/399092.116.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399092.116.jpg"},
-{
-name: "Plant image",
-valu: "plant/399092.116.jpg"},
-{
-name: "Flower image",
-valu: "flower/399092.116.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399092.116.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399092.116.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399092.116.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399092.116.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399092.116.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5048.116"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395311.1 (B1C4091.1) x 395255.3 (B1C4035.3)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20944,31 +14096,17 @@ valu: "finger/CIP399092.116.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399092.36': {name: "CIP399092.36",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399092.36.jpg"},
-{
-name: "Fry image",
-valu: "fry/399092.36.jpg"},
-{
-name: "Chips image",
-valu: "chips/399092.36.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399092.36.jpg"},
-{
-name: "Plant image",
-valu: "plant/399092.36.jpg"},
-{
-name: "Flower image",
-valu: "flower/399092.36.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399092.36.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399092.36.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399092.36.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399092.36.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399092.36.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5048.36"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395311.1 (B1C4091.1) x 395255.3 (B1C4035.3)"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -20999,31 +14137,15 @@ valu: "finger/CIP399092.36.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399094.16': {name: "CIP399094.16",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399094.16.jpg"},
-{
-name: "Fry image",
-valu: "fry/399094.16.jpg"},
-{
-name: "Chips image",
-valu: "chips/399094.16.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399094.16.jpg"},
-{
-name: "Plant image",
-valu: "plant/399094.16.jpg"},
-{
-name: "Flower image",
-valu: "flower/399094.16.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399094.16.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399094.16.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399094.16.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399094.16.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5051.16"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395322.3 (B1C4102.3) x 395256.1 (B1C4036.1)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -21055,31 +14177,17 @@ valu: "finger/CIP399094.16.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399094.25': {name: "CIP399094.25",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399094.25.jpg"},
-{
-name: "Fry image",
-valu: "fry/399094.25.jpg"},
-{
-name: "Chips image",
-valu: "chips/399094.25.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399094.25.jpg"},
-{
-name: "Plant image",
-valu: "plant/399094.25.jpg"},
-{
-name: "Flower image",
-valu: "flower/399094.25.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399094.25.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399094.25.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Fry image", valu: "Fry/399094.25.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399094.25.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399094.25.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "B1C5051.25"},
 {name: "Population Group", valu: "B1C5"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395322.3 (B1C4102.3) x 395256.1 (B1C4036.1)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -21110,31 +14218,15 @@ valu: "finger/CIP399094.25.jpg"},
 {name: "Adaptability", valu: "Highland tropics"}]},
  
 'CIP399101.1': {name: "CIP399101.1",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399101.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/399101.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/399101.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399101.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/399101.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/399101.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399101.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399101.1.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/399101.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/399101.1.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "C99.551"},
 {name: "Population Group", valu: "LTVR"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "391213. 1 x 388972.22"},
 {name: "Tuber flesh secondary color", valu: "Absent"},
 {name: "Distribution of secondary flesh color", valu: "Absent"},
 {name: "Resistance to Late Blight", valu: "Susceptible"},
@@ -21159,30 +14251,14 @@ valu: "finger/CIP399101.1.jpg"},
 {name: "Sprouting pattern", valu: "Partial dominance"}]},
  
 'CIP694474.16': {name: "CIP694474.16",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/694474.16.jpg"},
-{
-name: "Fry image",
-valu: "fry/694474.16.jpg"},
-{
-name: "Chips image",
-valu: "chips/694474.16.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/694474.16.jpg"},
-{
-name: "Plant image",
-valu: "plant/694474.16.jpg"},
-{
-name: "Flower image",
-valu: "flower/694474.16.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP694474.16.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/694474.16.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
-{name: "Parentage", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/694474.16.jpg"}, 
+
+{name: "Flower image", valu: "Flower/694474.16.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "JH-1474.16"},
+{name: "Parentage", valu: "4x-84.1 x 2x-5.26"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -21218,31 +14294,15 @@ valu: "finger/CIP694474.16.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP694474.33': {name: "CIP694474.33",description: "",
-attr: [{
-name: "Tuber image",
-valu: "tuber/694474.33.jpg"},
-{
-name: "Fry image",
-valu: "fry/694474.33.jpg"},
-{
-name: "Chips image",
-valu: "chips/694474.33.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/694474.33.jpg"},
-{
-name: "Plant image",
-valu: "plant/694474.33.jpg"},
-{
-name: "Flower image",
-valu: "flower/694474.33.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP694474.33.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/694474.33.jpg"}, 
 
-{name: "Collecting number/Breeder code", valu: "NA"},
+{name: "Sprout image", valu: "Sprout/694474.33.jpg"}, 
+
+{name: "Flower image", valu: "Flower/694474.33.jpg"}, 
+{name: "Collecting number/Breeder code", valu: "JH-1474.33"},
 {name: "Population Group", valu: "Pre-breeding"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "4x-84.1 x 2x-5.26"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -21267,30 +14327,16 @@ valu: "finger/CIP694474.33.jpg"},
 {name: "Sprouting pattern", valu: "Apical dominance"}]},
  
 'CIP279139.5': {name: "CIP279139.5",description: "Santa Ana: Is moderately resistant to late blight with long vegetative period. The tubers have shallow eyes and have high dry mater content. It can be used as table potato and for fried chips; in storage the tubers have short dormancy and multiple sprouts. It has a decumbent growth habit with lilac flower. The variety was release in Peru in 1977.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/279139.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/279139.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/279139.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/279139.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/279139.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/279139.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP279139.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/279139.5.jpg"}, 
 
+{name: "Chips image", valu: "Chips/279139.5.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/279139.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/279139.5.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "(AM66-426 x 275164.30) x (700031 x 701535)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -21309,30 +14355,14 @@ valu: "finger/CIP279139.5.jpg"},
 {name: "Year of release", valu: "1977"}]},
  
 'CIP279142.12': {name: "CIP279142.12",description: "Maria Huanca: Is resistant to Globodera Pallida also is tolerant to frost. The plant has decumbent growth habit with late vegetative period and with lilac flowers with white acumen in abaxial surface. The tubers have reddish purple skin with long-oblong shape is appreciated in the high lands of Peru because of its high dry matter content it can be use as table potato and for processing as “chuño” and also as chips (crisps). Variety released in Peru in 1987.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/279142.12.jpg"},
-{
-name: "Fry image",
-valu: "fry/279142.12.jpg"},
-{
-name: "Chips image",
-valu: "chips/279142.12.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/279142.12.jpg"},
-{
-name: "Plant image",
-valu: "plant/279142.12.jpg"},
-{
-name: "Flower image",
-valu: "flower/279142.12.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP279142.12.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/279142.12.jpg"}, 
 
+{name: "Chips image", valu: "Chips/279142.12.jpg"}, 
+
+{name: "Flower image", valu: "Flower/279142.12.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "AM 66-426 x 276012.24"},
 {name: "Predominant tuber skin color", valu: "Purplish-red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -21359,28 +14389,12 @@ valu: "finger/CIP279142.12.jpg"},
 {name: "Year of release", valu: "1987"}]},
  
 'CIP370120': {name: "CIP370120",description: "Fries",
-attr: [{
-name: "Tuber image",
-valu: "tuber/370120.jpg"},
-{
-name: "Fry image",
-valu: "fry/370120.jpg"},
-{
-name: "Chips image",
-valu: "chips/370120.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/370120.jpg"},
-{
-name: "Plant image",
-valu: "plant/370120.jpg"},
-{
-name: "Flower image",
-valu: "flower/370120.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP370120.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/370120.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/370120.jpg"}, 
+
+{name: "Flower image", valu: "Flower/370120.jpg"}, 
 {name: "Country Selection", valu: "Indonesia"},
 {name: "Parentage", valu: "JH-222  Kufri Jawarhar x PS-4904"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
@@ -21404,28 +14418,12 @@ valu: "finger/CIP370120.jpg"},
 {name: "Year of release", valu: "2010"}]},
  
 'CIP374080.1': {name: "CIP374080.1",description: "Tahuaqueña: The variety has a plant with medium vegetative period with a semi-erect growth habit with intense lilac flowers with white acumen in both surfaces; it is highly appreciated in the Altiplano of the Andes for their rounded tubers with white-cream flesh and shallow eyes; there can be process as “chuño” and for table potato and chips (crisps). The variety was released in Peru in 1988.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/374080.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/374080.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/374080.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/374080.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/374080.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/374080.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP374080.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/374080.1.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/374080.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/374080.1.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
 {name: "Parentage", valu: "801013 x 700764"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
@@ -21446,28 +14444,12 @@ valu: "finger/CIP374080.1.jpg"},
 {name: "Year of release", valu: "1988"}]},
  
 'CIP374080.5': {name: "CIP374080.5",description: "Perricholi: Is highly appreciated for its tolerant to frost and hail. It is moderately resistant to late blight. It has a medium growing period with a semi-erect plant habit with deep purple flowers with white acumen in both surfaces. Tubers have an oblong shape. Perricholi can be used as table potato, chips and French fry.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/374080.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/374080.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/374080.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/374080.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/374080.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/374080.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP374080.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/374080.5.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/374080.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/374080.5.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
 {name: "Countries where cultivated", valu: "Bolivia, Burundi,  Uganda, Vietnam,  Ethiopia,  Guatemala, Peru"},
 {name: "Parentage", valu: "I-1058 x 700764"},
@@ -21498,30 +14480,14 @@ valu: "finger/CIP374080.5.jpg"},
 {name: "Year of release", valu: "1984"}]},
  
 'CIP376180.6': {name: "CIP376180.6",description: "Atahualpa: Is appreciated for its high yield. It is moderately resistant to late blight. The plant has long vegetative period with decumbent growth habit with lilac flowers with white acumen in both surfaces. The tubers are white with red-pigmented eyebrows; are good for table potato use and also for processing as chips (crisps). In storage the tubers have short dormancy and multiple sprouts. The variety was released in Peru in 1998.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/376180.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/376180.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/376180.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/376180.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/376180.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/376180.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP376180.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/376180.6.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/376180.6.jpg"}, 
+
+{name: "Flower image", valu: "Flower/376180.6.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "373076.10 x BULK (701452+702269)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Red"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -21539,28 +14505,12 @@ valu: "finger/CIP376180.6.jpg"},
 {name: "Year of release", valu: "1998"}]},
  
 'CIP377740.2': {name: "CIP377740.2",description: "INIA - 301: Is moderately resistant to late blight. The plant has medium vegetative period with erect habit and intense lilac flowers with white acumen in abaxial surface, it can grow in cool tropical climates under short days. The tubers have ovoid shape and the skin is white-cream with purple-pigmented eyes, with white flesh and is good as table potato use. The variety was released in Peru 1999.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/377740.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/377740.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/377740.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/377740.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/377740.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/377740.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP377740.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/377740.2.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/377740.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/377740.2.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
 {name: "Parentage", valu: "703810 x STN BULK"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
@@ -21580,30 +14530,14 @@ valu: "finger/CIP377740.2.jpg"},
 {name: "Year of release", valu: "1999"}]},
  
 'CIP377744.1': {name: "CIP377744.1",description: "Kori - INIA: Is moderately resistant to late blight, resistant to frost. The plant has long vegetative period and decumbent plant habit with intense purple flowers. It is appreciated because of its high yield and the high dry matter of the tubers with white-cream color with purple-pigmented eyebrows skin, the flesh is cream; are good for table potato use and for chips (crisps). It was released in Peru in 1993.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/377744.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/377744.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/377744.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/377744.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/377744.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/377744.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP377744.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/377744.1.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/377744.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/377744.1.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "M-1266-14 MEX x 374035.1"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Purple"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -21622,30 +14556,14 @@ valu: "finger/CIP377744.1.jpg"},
 {name: "Year of release", valu: "1993"}]},
  
 'CIP377744.2': {name: "CIP377744.2",description: "P-9: Has a moderately resistant to late blight. The plant have long vegetative period with decumbent habit and intense lilac flowers, is adapted to cool tropical climate under short days. Tubers have white-cream with purple spots skin and cream color flesh with oblong shape. It is a table potato suitable for processing as chips (crisps). Was released in Peru.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/377744.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/377744.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/377744.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/377744.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/377744.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/377744.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP377744.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/377744.2.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/377744.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/377744.2.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "M-1266-14 MEX x 374035.1"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Purple"},
 {name: "Distribution of secondary tuber skin colour", valu: "Other"},
@@ -21667,30 +14585,14 @@ valu: "finger/CIP377744.2.jpg"},
 {name: "Use", valu: "Table and chips"}]},
  
 'CIP377852.1': {name: "CIP377852.1",description: "Kinga: Is susceptible to late blight, has a very short growing period with decumbent plant habit and pale white flowers. It is adapted to a cool tropical climate. The tubers have cream colored flesh and are good for table use and for processing as chips Kinga was selected for its moderately resistant to bacterial wilt, disease produced by Ralstonia solanacearum.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/377852.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/377852.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/377852.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/377852.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/377852.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/377852.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP377852.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/377852.1.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/377852.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/377852.1.jpg"}, 
 {name: "Country Selection", valu: "Madagascar"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "BR-63.74  x  WRF-1923.1"},
 {name: "Predominant tuber skin color", valu: "Yellow"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -21709,30 +14611,14 @@ valu: "finger/CIP377852.1.jpg"},
 {name: "Year of release", valu: "1987"}]},
  
 'CIP377957.5': {name: "CIP377957.5",description: "Meva: Is Moderately resistant to late blight, has a very short growing period with decumbent plant habit and white flowers. Tubers have white flesh with oblong shape and high dry matter. Meva is used as a table potato and for processing as chips .",
-attr: [{
-name: "Tuber image",
-valu: "tuber/377957.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/377957.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/377957.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/377957.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/377957.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/377957.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP377957.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/377957.5.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/377957.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/377957.5.jpg"}, 
 {name: "Country Selection", valu: "Madagascar"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "SNOW FLAKE x N551.12"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -21751,28 +14637,12 @@ valu: "finger/CIP377957.5.jpg"},
 {name: "Year of release", valu: "1991"}]},
  
 'CIP378501.16': {name: "CIP378501.16",description: "Sissay: Is moderately resistant to Late blight, with short growing period, decumbent plant habit with pale lilac flowers. The tubers are white with purplish red scattered, cream colored flesh and an oblong shape. Sissay is used as a table potato and for processing as chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/378501.16.jpg"},
-{
-name: "Fry image",
-valu: "fry/378501.16.jpg"},
-{
-name: "Chips image",
-valu: "chips/378501.16.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/378501.16.jpg"},
-{
-name: "Plant image",
-valu: "plant/378501.16.jpg"},
-{
-name: "Flower image",
-valu: "flower/378501.16.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP378501.16.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/378501.16.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/378501.16.jpg"}, 
+
+{name: "Flower image", valu: "Flower/378501.16.jpg"}, 
 {name: "Country Selection", valu: "Ethiopia"},
 {name: "Parentage", valu: "I-1058B x 700111"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
@@ -21792,28 +14662,12 @@ valu: "finger/CIP378501.16.jpg"},
 {name: "Year of release", valu: "1987"}]},
  
 'CIP378501.3': {name: "CIP378501.3",description: "Awash: Is moderately resistant to late blight, it has a very early growing period with decumbent plant habit with pale purple flowers. Tubers have an long-oblong shape with white flesh and can be use for the table and as chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/378501.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/378501.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/378501.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/378501.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/378501.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/378501.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP378501.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/378501.3.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/378501.3.jpg"}, 
+
+{name: "Flower image", valu: "Flower/378501.3.jpg"}, 
 {name: "Country Selection", valu: "Ethiopia"},
 {name: "Parentage", valu: "I-1058B x 700111"},
 {name: "Predominant tuber skin color", valu: "Yellow"},
@@ -21834,28 +14688,12 @@ valu: "finger/CIP378501.3.jpg"},
 {name: "Year of release", valu: "1991"}]},
  
 'CIP378699.2': {name: "CIP378699.2",description: "Kinigi: Is moderately resistant to late blight and tolerant to drought; it has a long growing period; decumbent plant habit, purple flowers with white acumen in both surfaces. The tubers have a round shape with reddish skin and cream flesh. Kinigi is used as a table potato and can be used also as chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/378699.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/378699.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/378699.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/378699.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/378699.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/378699.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP378699.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/378699.2.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/378699.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/378699.2.jpg"}, 
 {name: "Country Selection", valu: "Rwanda"},
 {name: "Countries where cultivated", valu: "Burundi, Zaire,Rwanda"},
 {name: "Parentage", valu: "65-ZA-5 x YY.1"},
@@ -21877,28 +14715,12 @@ valu: "finger/CIP378699.2.jpg"},
 {name: "Year of release", valu: "1983"}]},
  
 'CIP378711.5': {name: "CIP378711.5",description: "Muziranzara: Is resistant to late blight and moderately resistant to drought. It has a medium growing period with decumbent plant habit and pale lilac flowers with white acumen in both surfaces. Tubers have white flesh with oblong shape and shallow eyes. Muziranzara is a good table potato and can be used also for chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/378711.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/378711.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/378711.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/378711.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/378711.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/378711.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP378711.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/378711.5.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/378711.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/378711.5.jpg"}, 
 {name: "Country Selection", valu: "Burundi"},
 {name: "Parentage", valu: "65-ZA-5 x DTO-28"},
 {name: "Predominant tuber skin color", valu: "Orange"},
@@ -21918,30 +14740,14 @@ valu: "finger/CIP378711.5.jpg"},
 {name: "Use", valu: "Table and chips"}]},
  
 'CIP379055.1': {name: "CIP379055.1",description: "Ica Zipa: Is moderately resistant to late blight, slightly tolerant to frost. The plant has long vegetative period with a decumbent plant habit with scarce flowers of lilac color with white acumens in both surfaces. The tubers have rounded shape with white flesh are good for table use and also for French fry (chips).  The variety was released in Colombia in 1995.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/379055.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/379055.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/379055.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/379055.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/379055.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/379055.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP379055.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/379055.1.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/379055.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/379055.1.jpg"}, 
 {name: "Country Selection", valu: "Colombia"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "376932.4 x 374124.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Red"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -21958,30 +14764,14 @@ valu: "finger/CIP379055.1.jpg"},
 {name: "Year of release", valu: "1995"}]},
  
 'CIP379666.501': {name: "CIP379666.501",description: "Heera: Is moderately resistant to late blight. It has a medium growing period, with decumbent plant habit and pale white flowers. Tubers have white flesh with an oblong shape. Heera is a table potato.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/379666.501.jpg"},
-{
-name: "Fry image",
-valu: "fry/379666.501.jpg"},
-{
-name: "Chips image",
-valu: "chips/379666.501.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/379666.501.jpg"},
-{
-name: "Plant image",
-valu: "plant/379666.501.jpg"},
-{
-name: "Flower image",
-valu: "flower/379666.501.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP379666.501.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/379666.501.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/379666.501.jpg"}, 
+
+{name: "Flower image", valu: "Flower/379666.501.jpg"}, 
 {name: "Country Selection", valu: "Bangladesh"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "377831.1 x MARIA TROPICAL"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22000,30 +14790,14 @@ valu: "finger/CIP379666.501.jpg"},
 {name: "Year of release", valu: "1990"}]},
  
 'CIP379706.27': {name: "CIP379706.27",description: "Costanera: Carries an extreme resistant to PVY is a moderately resistant to late blight. The plant has a very short vegetative period with a semi-erect habit with white pale flowers. The tubers are oblong with white flesh with high dry mater. It is an excellent variety for processing as chips (crisps) and French fry. The variety was released in Peru in 1994.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/379706.27.jpg"},
-{
-name: "Fry image",
-valu: "fry/379706.27.jpg"},
-{
-name: "Chips image",
-valu: "chips/379706.27.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/379706.27.jpg"},
-{
-name: "Plant image",
-valu: "plant/379706.27.jpg"},
-{
-name: "Flower image",
-valu: "flower/379706.27.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP379706.27.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/379706.27.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/379706.27.jpg"}, 
+
+{name: "Flower image", valu: "Flower/379706.27.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "377257.1 x PVX + PVY BULK"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22042,30 +14816,14 @@ valu: "finger/CIP379706.27.jpg"},
 {name: "Year of release", valu: "1994"}]},
  
 'CIP379735.1': {name: "CIP379735.1",description: "Muru: Is a variety with extreme resistant to PVY. The plant has long vegetative period with semi-erect habit with intense purple flowers with white acumen in abaxial surface. The tubers have white with areas in purple flesh are good for table potato use. The variety was released in Peru in 1987.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/379735.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/379735.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/379735.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/379735.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/379735.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/379735.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP379735.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/379735.1.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/379735.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/379735.1.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "XY14.7 x 720026"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "White-cream"},
 {name: "Distribution of secondary tuber skin colour", valu: "Other"},
@@ -22083,30 +14841,14 @@ valu: "finger/CIP379735.1.jpg"},
 {name: "Year of release", valu: "1987"}]},
  
 'CIP379735.3': {name: "CIP379735.3",description: "Yana: Has an extreme resistant to PVY. The plant have long vegetative period with a semi-erect plant habit with intense purple flowers with white acumen in abaxial surface. The tubers have white flesh with violet narrow vascular ring. It is a table potato. It was released in Peru in 1987.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/379735.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/379735.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/379735.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/379735.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/379735.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/379735.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP379735.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/379735.3.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/379735.3.jpg"}, 
+
+{name: "Flower image", valu: "Flower/379735.3.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "XY14.7 x 720026"},
 {name: "Predominant tuber skin color", valu: "Blackish"},
 {name: "Tuber skin secondary color", valu: "White-cream"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -22124,28 +14866,12 @@ valu: "finger/CIP379735.3.jpg"},
 {name: "Year of release", valu: "1987"}]},
  
 'CIP380013.12': {name: "CIP380013.12",description: "Andinita: Is moderately resistant to late blight, the plant have long vegetative period and erect growth habit with pale purple flowers with white acumen in abaxial surface. The tuber flesh is white with oblong shape, can be use as table potato and chips (crisps). The variety was released in Venezuela in 1987.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/380013.12.jpg"},
-{
-name: "Fry image",
-valu: "fry/380013.12.jpg"},
-{
-name: "Chips image",
-valu: "chips/380013.12.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/380013.12.jpg"},
-{
-name: "Plant image",
-valu: "plant/380013.12.jpg"},
-{
-name: "Flower image",
-valu: "flower/380013.12.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP380013.12.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/380013.12.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/380013.12.jpg"}, 
+
+{name: "Flower image", valu: "Flower/380013.12.jpg"}, 
 {name: "Country Selection", valu: "Venezuela"},
 {name: "Parentage", valu: "GRETA x 378502"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
@@ -22166,30 +14892,14 @@ valu: "finger/CIP380013.12.jpg"},
 {name: "Year of release", valu: "1987"}]},
  
 'CIP380109.30': {name: "CIP380109.30",description: "UNALM Guisi: Is tolerant to frost. The plant has a late vegetative period and a semi-erect plant habit, with abundant lilac flowers with white acumen in abaxial surface. The tuber skin color is smoothly pink and the flesh is white with violet spots are good for table potato use. It was released in Peru in 1996.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/380109.30.jpg"},
-{
-name: "Fry image",
-valu: "fry/380109.30.jpg"},
-{
-name: "Chips image",
-valu: "chips/380109.30.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/380109.30.jpg"},
-{
-name: "Plant image",
-valu: "plant/380109.30.jpg"},
-{
-name: "Flower image",
-valu: "flower/380109.30.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP380109.30.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/380109.30.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/380109.30.jpg"}, 
+
+{name: "Flower image", valu: "Flower/380109.30.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "377389.2 x WILA IMILLA"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22207,30 +14917,16 @@ valu: "finger/CIP380109.30.jpg"},
 {name: "Year of release", valu: "1996"}]},
  
 'CIP380389.1': {name: "CIP380389.1",description: "Canchan-INIA: Is a variety with a moderately resistant to late blight and tolerant to PLRV and drought. The plant has a long vegetative period and decumbent habit with intense purple flowers with white acumen in both surfaces. The tuber skin color is red with pale yellow flesh, with high dry mater, are good for table use, processing as chips (crisps) and French fry (chips). The variety was released in Peru in 1990.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/380389.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/380389.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/380389.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/380389.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/380389.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/380389.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP380389.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/380389.1.jpg"}, 
 
+{name: "Chips image", valu: "Chips/380389.1.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/380389.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/380389.1.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "BL-1.2 x MURILLO III-80"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22257,28 +14953,12 @@ valu: "finger/CIP380389.1.jpg"},
 {name: "Year of release", valu: "1990"}]},
  
 'CIP380496.6': {name: "CIP380496.6",description: "Chagllina-INIA: Variety appreciated for its good yield (30 to 40 tons per hectare) it has an extreme resistant to PVY   and a moderately resistant to late blight. The plant have long vegetative period with decumbent habit and purple flowers with white acumen in adaxial surface; is adapted to tropical climate under short days. Tubers have cream flesh with oblong shape; are good for table use. The variety was released in Peru in 1995.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/380496.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/380496.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/380496.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/380496.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/380496.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/380496.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP380496.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/380496.6.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/380496.6.jpg"}, 
+
+{name: "Flower image", valu: "Flower/380496.6.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
 {name: "Parentage", valu: "I-1058 B x XY BULK (XY.9+XY.13+XY.14+XY.16)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
@@ -22297,30 +14977,14 @@ valu: "finger/CIP380496.6.jpg"},
 {name: "Year of release", valu: "1995"}]},
  
 'CIP380506.10': {name: "CIP380506.10",description: "Muruta: Is moderately resistant to late blight and to bacterial wilt. It is widely accepted in the SSA region because of its high yielding. The plant has long growing period and a semi-erect habit with pale white flowers. It is well adapted tropical to sub tropical climate. Tubers have pale yellow flesh with compressed shape. Muruta is good for table use and for processing as chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/380506.10.jpg"},
-{
-name: "Fry image",
-valu: "fry/380506.10.jpg"},
-{
-name: "Chips image",
-valu: "chips/380506.10.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/380506.10.jpg"},
-{
-name: "Plant image",
-valu: "plant/380506.10.jpg"},
-{
-name: "Flower image",
-valu: "flower/380506.10.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP380506.10.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/380506.10.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/380506.10.jpg"}, 
+
+{name: "Flower image", valu: "Flower/380506.10.jpg"}, 
 {name: "Country Selection", valu: "Burundi"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "CFK-69.1 x 14XY.4"},
 {name: "Predominant tuber skin color", valu: "Yellow"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22338,30 +15002,14 @@ valu: "finger/CIP380506.10.jpg"},
 {name: "Year of release", valu: "1986"}]},
  
 'CIP380543.2': {name: "CIP380543.2",description: "Yayla Kizi: Variety has been selected for its culinary quality. Is susceptible to late blight. The plant has a medium growing period with a decumbent plant habit and pale white flowers. It is adapted to a normal temperate zone climate under long days. The tubers are oblong with white flesh. Yayla Kizi is a table potato and good also for chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/380543.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/380543.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/380543.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/380543.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/380543.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/380543.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP380543.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/380543.2.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/380543.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/380543.2.jpg"}, 
 {name: "Country Selection", valu: "Turkey"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "SERRANA x XY15.4"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22380,28 +15028,12 @@ valu: "finger/CIP380543.2.jpg"},
 {name: "Year of release", valu: "1992"}]},
  
 'CIP380583.8': {name: "CIP380583.8",description: "Baseko: Is a variety moderately resistant to late blight, well appreciated for its high tuber production. The plant has a very short growing period with a semi-erect habit and pale white flowers. It is adapted to a cool tropical climate in short days. The tubers are oblong with pale yellow flesh. Baseko is good as a table potato.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/380583.8.jpg"},
-{
-name: "Fry image",
-valu: "fry/380583.8.jpg"},
-{
-name: "Chips image",
-valu: "chips/380583.8.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/380583.8.jpg"},
-{
-name: "Plant image",
-valu: "plant/380583.8.jpg"},
-{
-name: "Flower image",
-valu: "flower/380583.8.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP380583.8.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/380583.8.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/380583.8.jpg"}, 
+
+{name: "Flower image", valu: "Flower/380583.8.jpg"}, 
 {name: "Country Selection", valu: "Congo"},
 {name: "Countries where cultivated", valu: "Zaire, Congo"},
 {name: "Parentage", valu: "SERRANA x ATZIMBA"},
@@ -22423,31 +15055,15 @@ valu: "finger/CIP380583.8.jpg"},
 {name: "Year of release", valu: "1994"}]},
  
 'CIP380606.6': {name: "CIP380606.6",description: "Enfula: Is a variety moderately resistant to late blight and to drought. The plant has a medium growing period with decumbent plant habit, abundant light purple flowers with a white acumen abaxial surface. It is adapted to a cool tropical climate with short days. The tubers have an oblong shape with pink skin and yellow flesh. Enfula is good for table use.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/380606.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/380606.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/380606.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/380606.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/380606.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/380606.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP380606.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/380606.6.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/380606.6.jpg"}, 
+
+{name: "Flower image", valu: "Flower/380606.6.jpg"}, 
 {name: "Country Selection", valu: "Congo"},
 {name: "Countries where cultivated", valu: "Zaire, Congo"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "65-ZA-5  x CFK 69.1"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22466,30 +15082,14 @@ valu: "finger/CIP380606.6.jpg"},
 {name: "Year of release", valu: "1994"}]},
  
 'CIP381379.9': {name: "CIP381379.9",description: "Kisoro: Is resistant to Late blight. The plant has a medium growing period with decumbent habit and lilac flowers with white acumen in both surfaces. It is adapted to mid elevations in cool tropical climate and short days. Tubers have an oblong shape with cream flesh. Kisoro is good for table use.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/381379.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/381379.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/381379.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/381379.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/381379.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/381379.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP381379.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/381379.9.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/381379.9.jpg"}, 
+
+{name: "Flower image", valu: "Flower/381379.9.jpg"}, 
 {name: "Country Selection", valu: "Uganda"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "378356.895 x BULK PRECOZ"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "Other"},
@@ -22508,31 +15108,15 @@ valu: "finger/CIP381379.9.jpg"},
 {name: "Year of release", valu: "1991"}]},
  
 'CIP381381.13': {name: "CIP381381.13",description: "Cipira: Is resistant to late blight. The plant have a medium growing period with decumbent habit and pale white flowers. It is adapted to a cool tropical climate and short days. Tubers are oblong with white flesh with high dry matter. Cipira is used as a table potato, chips and French fry.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/381381.13.jpg"},
-{
-name: "Fry image",
-valu: "fry/381381.13.jpg"},
-{
-name: "Chips image",
-valu: "chips/381381.13.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/381381.13.jpg"},
-{
-name: "Plant image",
-valu: "plant/381381.13.jpg"},
-{
-name: "Flower image",
-valu: "flower/381381.13.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP381381.13.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/381381.13.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/381381.13.jpg"}, 
+
+{name: "Flower image", valu: "Flower/381381.13.jpg"}, 
 {name: "Country Selection", valu: "Cameroon"},
 {name: "Countries where cultivated", valu: "Panama, Madagascar, Kenya, Uganda ,Malawi,Cameroon"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "378493.915 x BULK PRECOZ"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22568,31 +15152,15 @@ valu: "finger/CIP381381.13.jpg"},
 {name: "Year of release", valu: "1992"}]},
  
 'CIP381381.20': {name: "CIP381381.20",description: "Victoria: Is resistant to late blight. The plant has a very short growing period with decumbent habit and light purple flowers, adapted to a cool tropical climate and short days. The tubers are compressed with cream flesh. Victoria is good as a table potato.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/381381.20.jpg"},
-{
-name: "Fry image",
-valu: "fry/381381.20.jpg"},
-{
-name: "Chips image",
-valu: "chips/381381.20.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/381381.20.jpg"},
-{
-name: "Plant image",
-valu: "plant/381381.20.jpg"},
-{
-name: "Flower image",
-valu: "flower/381381.20.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP381381.20.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/381381.20.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/381381.20.jpg"}, 
+
+{name: "Flower image", valu: "Flower/381381.20.jpg"}, 
 {name: "Country Selection", valu: "Uganda"},
 {name: "Countries where cultivated", valu: "Congo, Rwanda, Kenya, Madagascar,Uganda, Malawi"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "378493.915 x BULK PRECOZ"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22609,30 +15177,14 @@ valu: "finger/CIP381381.20.jpg"},
 {name: "Year of release", valu: "1991"}]},
  
 'CIP381381.26': {name: "CIP381381.26",description: "Ingabire: Is moderately resistant to late blight and to drought. It has a long growing period and decumbent plant habit and pale lilac flowers. It is adapted to a cool tropical climate. Tubers are oblong with cream flesh. Ingabire is a table potato.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/381381.26.jpg"},
-{
-name: "Fry image",
-valu: "fry/381381.26.jpg"},
-{
-name: "Chips image",
-valu: "chips/381381.26.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/381381.26.jpg"},
-{
-name: "Plant image",
-valu: "plant/381381.26.jpg"},
-{
-name: "Flower image",
-valu: "flower/381381.26.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP381381.26.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/381381.26.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/381381.26.jpg"}, 
+
+{name: "Flower image", valu: "Flower/381381.26.jpg"}, 
 {name: "Country Selection", valu: "Burundi"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "378493.915 x BULK PRECOZ"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Red"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -22651,31 +15203,15 @@ valu: "finger/CIP381381.26.jpg"},
 {name: "Year of release", valu: "1992"}]},
  
 'CIP381381.9': {name: "CIP381381.9",description: "Rukinzo: Is resistant to late blight. It has a long growing period with semi-erect plant habit and pale white flowers. It is adapted to short days and cool tropical climate. Tubers are compressed with pale yellow flesh. Rukinzo is good as a table potato.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/381381.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/381381.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/381381.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/381381.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/381381.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/381381.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP381381.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/381381.9.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/381381.9.jpg"}, 
+
+{name: "Flower image", valu: "Flower/381381.9.jpg"}, 
 {name: "Country Selection", valu: "Burundi"},
 {name: "Countries where cultivated", valu: "Madagaspar, Burundi"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "378493.915 x BULK PRECOZ"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22710,31 +15246,15 @@ valu: "finger/CIP381381.9.jpg"},
 {name: "Year of release", valu: "1993"}]},
  
 'CIP381390.30': {name: "CIP381390.30",description: "IDIAFRIT: Is moderately resistant to late blight. The plant has medium vegetative period, with an erect habit and lilac flowers. The tubers have long oblong shape with cream color flesh are excellent for processing as chips (crisps) and French fry (chips). The variety was released in Panama in 1992 in Costa Rica in 1996 and was also released in Guatemala.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/381390.30.jpg"},
-{
-name: "Fry image",
-valu: "fry/381390.30.jpg"},
-{
-name: "Chips image",
-valu: "chips/381390.30.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/381390.30.jpg"},
-{
-name: "Plant image",
-valu: "plant/381390.30.jpg"},
-{
-name: "Flower image",
-valu: "flower/381390.30.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP381390.30.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/381390.30.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/381390.30.jpg"}, 
+
+{name: "Flower image", valu: "Flower/381390.30.jpg"}, 
 {name: "Country Selection", valu: "Panama"},
 {name: "Countries where cultivated", valu: "Costa Rica, Panama"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "378972.557 x BULK MEX"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Red"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -22751,30 +15271,14 @@ valu: "finger/CIP381390.30.jpg"},
 {name: "Year of release", valu: "1992"}]},
  
 'CIP381406.6': {name: "CIP381406.6",description: "Tubira: Is moderately resistant to late blight and to drought. It has a very short growing period, and is high yielding. It has a decumbent plant habit with pale white flowers. Tubers have an oblong shape, with pink skin and white flesh. Tubira is used as a table potato.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/381406.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/381406.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/381406.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/381406.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/381406.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/381406.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP381406.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/381406.6.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/381406.6.jpg"}, 
+
+{name: "Flower image", valu: "Flower/381406.6.jpg"}, 
 {name: "Country Selection", valu: "Cameroon"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "378493.915 x BULK MEX"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22792,30 +15296,14 @@ valu: "finger/CIP381406.6.jpg"},
 {name: "Year of release", valu: "1992"}]},
  
 'CIP382147.18': {name: "CIP382147.18",description: "Jubile: Is moderately resistant to Late blight. It has a medium growing period, decumbent plant habit with purple flower with white acumen in both surfaces. The tuber has an oblong shape with white flesh. Jubile is used as a table potato and can be used for processing as chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/382147.18.jpg"},
-{
-name: "Fry image",
-valu: "fry/382147.18.jpg"},
-{
-name: "Chips image",
-valu: "chips/382147.18.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/382147.18.jpg"},
-{
-name: "Plant image",
-valu: "plant/382147.18.jpg"},
-{
-name: "Flower image",
-valu: "flower/382147.18.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP382147.18.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/382147.18.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/382147.18.jpg"}, 
+
+{name: "Flower image", valu: "Flower/382147.18.jpg"}, 
 {name: "Country Selection", valu: "Burundi"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "377880.31 x BULK MEX"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22834,30 +15322,12 @@ valu: "finger/CIP382147.18.jpg"},
 {name: "Year of release", valu: "1992"}]},
  
 'CIP382171.10': {name: "CIP382171.10",description: "PRECODEPA: Is moderately resistant to late blight. The plant have short vegetative period with semi erect habit and pale white flowers and with good yield. The tubers are white-cream with pink-pigmented eyes with round shape and pale yellow flesh, are good for table potato use. The variety was released in Panama 1992.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/382171.10.jpg"},
-{
-name: "Fry image",
-valu: "fry/382171.10.jpg"},
-{
-name: "Chips image",
-valu: "chips/382171.10.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/382171.10.jpg"},
-{
-name: "Plant image",
-valu: "plant/382171.10.jpg"},
-{
-name: "Flower image",
-valu: "flower/382171.10.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP382171.10.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/382171.10.jpg"}, 
 
+{name: "Flower image", valu: "Flower/382171.10.jpg"}, 
 {name: "Country Selection", valu: "Panama"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "380086.3 x BULK MEX"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -22875,30 +15345,14 @@ valu: "finger/CIP382171.10.jpg"},
 {name: "Year of release", valu: "1992"}]},
  
 'CIP382171.11': {name: "CIP382171.11",description: "Tibisay: Is moderately resistant to late blight.  The plant has a medium vegetative period with a semi erect plant habit and pale white flowers. Tubers are rounded with cream flesh are good for table potato use. The variety was released in Venezuela 1995.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/382171.11.jpg"},
-{
-name: "Fry image",
-valu: "fry/382171.11.jpg"},
-{
-name: "Chips image",
-valu: "chips/382171.11.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/382171.11.jpg"},
-{
-name: "Plant image",
-valu: "plant/382171.11.jpg"},
-{
-name: "Flower image",
-valu: "flower/382171.11.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP382171.11.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/382171.11.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/382171.11.jpg"}, 
+
+{name: "Flower image", valu: "Flower/382171.11.jpg"}, 
 {name: "Country Selection", valu: "Venezuela"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "380086.3 x BULK MEX"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22914,30 +15368,14 @@ valu: "finger/CIP382171.11.jpg"},
 {name: "Year of release", valu: "1995"}]},
  
 'CIP383120.14': {name: "CIP383120.14",description: "Kigega: Is resistant to Late blight and moderately resistant to drought. It has a medium growing period with decumbent plant habit and purple flowers with white acumen in both surfaces. Tubers have an oblong shape with pink skin and white flesh. Kigega is a table potato and can be used for processing as chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/383120.14.jpg"},
-{
-name: "Fry image",
-valu: "fry/383120.14.jpg"},
-{
-name: "Chips image",
-valu: "chips/383120.14.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/383120.14.jpg"},
-{
-name: "Plant image",
-valu: "plant/383120.14.jpg"},
-{
-name: "Flower image",
-valu: "flower/383120.14.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP383120.14.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/383120.14.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/383120.14.jpg"}, 
+
+{name: "Flower image", valu: "Flower/383120.14.jpg"}, 
 {name: "Country Selection", valu: "Rwanda"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "VHF-69.1 x PHY MEX BULK"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22954,30 +15392,14 @@ valu: "finger/CIP383120.14.jpg"},
 {name: "Year of release", valu: "1992"}]},
  
 'CIP384073.457': {name: "CIP384073.457",description: "Chamak: Has extreme resistance to PVY and is susceptible to Late blight. It has a very short growing period wide adaptation to short days in tropical and sub tropical areas. It has decumbent plant habit, the flowers are pale purple and the tubers are round with cream flesh. Chamak is a table potato and can be used for processing as chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/384073.457.jpg"},
-{
-name: "Fry image",
-valu: "fry/384073.457.jpg"},
-{
-name: "Chips image",
-valu: "chips/384073.457.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/384073.457.jpg"},
-{
-name: "Plant image",
-valu: "plant/384073.457.jpg"},
-{
-name: "Flower image",
-valu: "flower/384073.457.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP384073.457.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/384073.457.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/384073.457.jpg"}, 
+
+{name: "Flower image", valu: "Flower/384073.457.jpg"}, 
 {name: "Country Selection", valu: "Bangladesh"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "720087 x 378017.2"},
 {name: "Predominant tuber skin color", valu: "Yellow"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -22995,28 +15417,12 @@ valu: "finger/CIP384073.457.jpg"},
 {name: "Year of release", valu: "1993"}]},
  
 'CIP384688.2': {name: "CIP384688.2",description: "Chata Roja: Have a moderately resistant to late blight. The plant have long vegetative period with decumbent habit is adapted to short days the flowers are lilac.  The tubers are rounded with red skin and cream tuber flesh, are good for table potato use. The variety was released in Peru in year 2000.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/384688.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/384688.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/384688.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/384688.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/384688.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/384688.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP384688.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/384688.2.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/384688.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/384688.2.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
 {name: "Parentage", valu: "379452 x BULK LB"},
 {name: "Predominant tuber skin color", valu: "Red"},
@@ -23045,30 +15451,14 @@ valu: "finger/CIP384688.2.jpg"},
 {name: "Year of release", valu: "2000"}]},
  
 'CIP384866.5': {name: "CIP384866.5",description: "Amarilis-INIA: Have a moderately resistant to late blight and to Spongopora subterranean; and moderately resistant to late blight. The plant have medium vegetative period with decumbent habit, adapted to cool tropical climate in short days flowers are pale white. Tubers are rounded with pale yellow flesh are susceptible to greening in storage but gives good yield with more amount of big tuber size, are excellent for processing as chips (crisps). The variety was released in Peru in 1993.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/384866.5.jpg"},
-{
-name: "Fry image",
-valu: "fry/384866.5.jpg"},
-{
-name: "Chips image",
-valu: "chips/384866.5.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/384866.5.jpg"},
-{
-name: "Plant image",
-valu: "plant/384866.5.jpg"},
-{
-name: "Flower image",
-valu: "flower/384866.5.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP384866.5.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/384866.5.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/384866.5.jpg"}, 
+
+{name: "Flower image", valu: "Flower/384866.5.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "376724.1 x BULK PRECOZ"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23099,30 +15489,14 @@ valu: "finger/CIP384866.5.jpg"},
 {name: "Year of release", valu: "1993"}]},
  
 'CIP385079.364': {name: "CIP385079.364",description: "Dheera: Is moderately resistant to late blight and to drought. It has a long growing period with decumbent plant habit and is adapted to a warm tropical climate. Flowers are light violet; tubers are round with cream flesh. Dheera is used as a table potato and as chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/385079.364.jpg"},
-{
-name: "Fry image",
-valu: "fry/385079.364.jpg"},
-{
-name: "Chips image",
-valu: "chips/385079.364.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/385079.364.jpg"},
-{
-name: "Plant image",
-valu: "plant/385079.364.jpg"},
-{
-name: "Flower image",
-valu: "flower/385079.364.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP385079.364.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/385079.364.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/385079.364.jpg"}, 
+
+{name: "Flower image", valu: "Flower/385079.364.jpg"}, 
 {name: "Country Selection", valu: "Bangladesh"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "MAINE-53 x 377888.8"},
 {name: "Predominant tuber skin color", valu: "Yellow"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23141,30 +15515,14 @@ valu: "finger/CIP385079.364.jpg"},
 {name: "Year of release", valu: "1993"}]},
  
 'CIP385130.11': {name: "CIP385130.11",description: "Raniag (Eben): Is moderately resistant to late blight. It has a very short growing period with decumbent plant habit. It is adapted to a warm tropical climate. The flowers are white and scarce. Tubers are oblong with cream flesh and high dry matter. Raniag is a table potato and can be used for processing as chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/385130.11.jpg"},
-{
-name: "Fry image",
-valu: "fry/385130.11.jpg"},
-{
-name: "Chips image",
-valu: "chips/385130.11.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/385130.11.jpg"},
-{
-name: "Plant image",
-valu: "plant/385130.11.jpg"},
-{
-name: "Flower image",
-valu: "flower/385130.11.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP385130.11.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/385130.11.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/385130.11.jpg"}, 
+
+{name: "Flower image", valu: "Flower/385130.11.jpg"}, 
 {name: "Country Selection", valu: "Philippines"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "Y84.025 x 378015.16"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -23183,30 +15541,16 @@ valu: "finger/CIP385130.11.jpg"},
 {name: "Year of release", valu: "2000"}]},
  
 'CIP385524.9': {name: "CIP385524.9",description: "Durán",
-attr: [{
-name: "Tuber image",
-valu: "tuber/385524.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/385524.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/385524.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/385524.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/385524.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/385524.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP385524.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/385524.9.jpg"}, 
 
+{name: "Chips image", valu: "Chips/385524.9.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/385524.9.jpg"}, 
+
+{name: "Flower image", valu: "Flower/385524.9.jpg"}, 
 {name: "Country Selection", valu: "Costa Rica"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "380475.4 x BULK-1 (85LB54.11)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23231,28 +15575,12 @@ valu: "finger/CIP385524.9.jpg"},
 {name: "Year of release", valu: "2011"}]},
  
 'CIP386040.9': {name: "CIP386040.9",description: "Birris: Is a variety with moderately resistant to late blight. The plant has a medium vegetative period with decumbent plant habit; adapted to short days in cool tropical climate, the flowers are lilac with white acumen abaxial surface. The tubers are oblong with white flesh can be use as table potato. The variety was released in Guatemala as ICTA- Mercedes in 1991 and in Costa Rica as Birris in 1996.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/386040.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/386040.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/386040.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/386040.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/386040.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/386040.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP386040.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/386040.9.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/386040.9.jpg"}, 
+
+{name: "Flower image", valu: "Flower/386040.9.jpg"}, 
 {name: "Country Selection", valu: "Costa Rica"},
 {name: "Parentage", valu: "720084 x LB GROUP I (BULK)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
@@ -23271,30 +15599,14 @@ valu: "finger/CIP386040.9.jpg"},
 {name: "Year of release", valu: "1996"}]},
  
 'CIP386056.7': {name: "CIP386056.7",description: "Floresta: Is a variety with a medium vegetative period adapted to short days in cool tropical climates with a decumbent plant habit with white flowers. Tubers have with long oblong shape and white flesh; are good for processing as chips (crisps); almost the 82% of the production is designed for the industry. The variety was released in Costa Rica 1996.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/386056.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/386056.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/386056.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/386056.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/386056.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/386056.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP386056.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/386056.7.jpg"}, 
 
+{name: "Chips image", valu: "Chips/386056.7.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/386056.7.jpg"}, 
 {name: "Country Selection", valu: "Costa Rica"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "380493.1 x 377250.7"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23311,30 +15623,14 @@ valu: "finger/CIP386056.7.jpg"},
 {name: "Year of release", valu: "1996"}]},
  
 'CIP386292.3': {name: "CIP386292.3",description: "Ira - 92: Has extreme resistance to PVY and moderate resistance to late blight. It has a short growing period with decumbent plant habit and pale lilac flowers with white acumen in both surfaces. Tubers are round with cream flesh. Ira - 92 can be used as a table potato and processing as chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/386292.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/386292.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/386292.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/386292.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/386292.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/386292.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP386292.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/386292.3.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/386292.3.jpg"}, 
+
+{name: "Flower image", valu: "Flower/386292.3.jpg"}, 
 {name: "Country Selection", valu: "Cameroon"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "RENSKA x 375333.1"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23351,28 +15647,12 @@ valu: "finger/CIP386292.3.jpg"},
 {name: "Year of release", valu: "1992"}]},
  
 'CIP386768.10': {name: "CIP386768.10",description: "Maria Tambeña: Variety with an extreme resistant to PVX   and moderately resistant to late blight it also has a high resistant to leaf minor fly (Liriomyza huidobrensis). The plant has medium vegetative period with decumbent habit and pale lilac flowers with white acumen in both surfaces, is well adapted to short days, since cool to war tropical climate. The tubers are oblong with pale yellow flesh are good for table use. The variety was realized in Peru in 1996.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/386768.10.jpg"},
-{
-name: "Fry image",
-valu: "fry/386768.10.jpg"},
-{
-name: "Chips image",
-valu: "chips/386768.10.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/386768.10.jpg"},
-{
-name: "Plant image",
-valu: "plant/386768.10.jpg"},
-{
-name: "Flower image",
-valu: "flower/386768.10.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP386768.10.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/386768.10.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/386768.10.jpg"}, 
+
+{name: "Flower image", valu: "Flower/386768.10.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
 {name: "Parentage", valu: "(SYN-25 LM86B) 10 x TBR x NEO TBR."},
 {name: "Predominant tuber skin color", valu: "Yellow"},
@@ -23391,30 +15671,14 @@ valu: "finger/CIP386768.10.jpg"},
 {name: "Year of release", valu: "1996"}]},
  
 'CIP387233.24': {name: "CIP387233.24",description: "Gikungu: Has extreme resistance to PVY, moderate resistance to late blight and to drought. It is appreciated for it high yield. It has a medium growing period and decumbent plant habit with lilac flowers. Tubers are oblong with pale yellow flesh. Gikungu can be used as a table potato and for processing as chips.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/387233.24.jpg"},
-{
-name: "Fry image",
-valu: "fry/387233.24.jpg"},
-{
-name: "Chips image",
-valu: "chips/387233.24.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/387233.24.jpg"},
-{
-name: "Plant image",
-valu: "plant/387233.24.jpg"},
-{
-name: "Flower image",
-valu: "flower/387233.24.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP387233.24.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/387233.24.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/387233.24.jpg"}, 
+
+{name: "Flower image", valu: "Flower/387233.24.jpg"}, 
 {name: "Country Selection", valu: "Rwanda"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "382134.26 x 676008"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23432,30 +15696,14 @@ valu: "finger/CIP387233.24.jpg"},
 {name: "Year of release", valu: "1992"}]},
  
 'CIP388611.22': {name: "CIP388611.22",description: "Reiche: Is extreme resistant to PVY and PVX, is tolerant to draught and hot climate. The plant has a medium vegetative period with decumbent habit the flowering is abundant and the color is pale white. The tubers have obovoid shape with pale yellow flesh are good for processing specially for chips (crisps) and French fry (chips). The Variety was released in Peru in 1998.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/388611.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/388611.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/388611.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/388611.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/388611.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/388611.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP388611.22.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/388611.22.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/388611.22.jpg"}, 
+
+{name: "Flower image", valu: "Flower/388611.22.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "720091 x 385305.1"},
 {name: "Predominant tuber skin color", valu: "Yellow"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23484,30 +15732,14 @@ valu: "finger/CIP388611.22.jpg"},
 {name: "Year of release", valu: "1998"}]},
  
 'CIP388676.1': {name: "CIP388676.1",description: "Maria Bonita-INIA: Have extreme resistant to PVY, is moderately resistant to late blight, tolerant to draught stress and hot climate. The plant have short vegetative period with a decumbent plant habit, flowers are purple with white acumen in abaxial surface. This variety has good bulking and is adapted to low and arid lands. The tubers have oblong shape with cream flesh are good for processing as chips (crisps) and French fry (chips). Variety released in Peru in 1995.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/388676.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/388676.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/388676.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/388676.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/388676.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/388676.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP388676.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/388676.1.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/388676.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/388676.1.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "378015.18 x PVY-BULK"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23530,30 +15762,14 @@ valu: "finger/CIP388676.1.jpg"},
 {name: "Year of release", valu: "1995"}]},
  
 'CIP388749.3': {name: "CIP388749.3",description: "INIAP Margarita: Is a variety with a moderately resistant to late blight. The plant have long vegetative period with a decumbent plant habit, the flowers are lilac with white acumen in both surfaces. The variety is adapted to short days and tropical climate. The tubers are oblong with cream flesh good for processing as chips (crisps). It was released in Ecuador in 1995.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/388749.3.jpg"},
-{
-name: "Fry image",
-valu: "fry/388749.3.jpg"},
-{
-name: "Chips image",
-valu: "chips/388749.3.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/388749.3.jpg"},
-{
-name: "Plant image",
-valu: "plant/388749.3.jpg"},
-{
-name: "Flower image",
-valu: "flower/388749.3.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP388749.3.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/388749.3.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/388749.3.jpg"}, 
+
+{name: "Flower image", valu: "Flower/388749.3.jpg"}, 
 {name: "Country Selection", valu: "Ecuador"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "381382.1 x IVP-CE-10"},
 {name: "Predominant tuber skin color", valu: "Yellow"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyes"},
@@ -23571,30 +15787,14 @@ valu: "finger/CIP388749.3.jpg"},
 {name: "Year of release", valu: "1995"}]},
  
 'CIP388790.24': {name: "CIP388790.24",description: "INIAP Fripapa 99: This variety is moderately resistant to late blight. The plant has long vegetative period and decumbent habit with lilac flowers with white acumen in both surfaces. The tubers are oblong with red skin and pale yellow flesh; good for processing as chips (crisps) and French fry (chips). The variety was released in Ecuador during 1995.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/388790.24.jpg"},
-{
-name: "Fry image",
-valu: "fry/388790.24.jpg"},
-{
-name: "Chips image",
-valu: "chips/388790.24.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/388790.24.jpg"},
-{
-name: "Plant image",
-valu: "plant/388790.24.jpg"},
-{
-name: "Flower image",
-valu: "flower/388790.24.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP388790.24.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/388790.24.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/388790.24.jpg"}, 
+
+{name: "Flower image", valu: "Flower/388790.24.jpg"}, 
 {name: "Country Selection", valu: "Ecuador"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "676008 x 381397.16"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23612,30 +15812,14 @@ valu: "finger/CIP388790.24.jpg"},
 {name: "Year of release", valu: "1995"}]},
  
 'CIP390478.9': {name: "CIP390478.9",description: "Tacna: Is a variety with extreme resistance to PVY and resistance to PLRV; is also tolerant to draught and salinity. The plant can grow in tropical climate and is insensible to photoperiod; have an early vegetative period with decumbent habit with pale white flowers. The tubers have ovoid shape with cream flesh, with good yield production are good for processing as chips (crisps) and French fry (chips). The variety was realized in Peru in 1993.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/390478.9.jpg"},
-{
-name: "Fry image",
-valu: "fry/390478.9.jpg"},
-{
-name: "Chips image",
-valu: "chips/390478.9.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/390478.9.jpg"},
-{
-name: "Plant image",
-valu: "plant/390478.9.jpg"},
-{
-name: "Flower image",
-valu: "flower/390478.9.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP390478.9.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/390478.9.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/390478.9.jpg"}, 
+
+{name: "Flower image", valu: "Flower/390478.9.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "720087 x 386287.1"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23654,30 +15838,16 @@ valu: "finger/CIP390478.9.jpg"},
 {name: "Year of release", valu: "1993"}]},
  
 'CIP391691.96': {name: "CIP391691.96",description: "INIA 309, SERRANITA: This variety is moderately resistant to late blight (horizontal), resistant to PVX and PLRV . Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, purple flower color and regular flowering habit. Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have round shape with cream flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/391691.96.jpg"},
-{
-name: "Fry image",
-valu: "fry/391691.96.jpg"},
-{
-name: "Chips image",
-valu: "chips/391691.96.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/391691.96.jpg"},
-{
-name: "Plant image",
-valu: "plant/391691.96.jpg"},
-{
-name: "Flower image",
-valu: "flower/391691.96.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP391691.96.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/391691.96.jpg"}, 
 
+{name: "Chips image", valu: "Chips/391691.96.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/391691.96.jpg"}, 
+
+{name: "Flower image", valu: "Flower/391691.96.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "381381.9 x LB-CUZ.1"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23713,30 +15883,14 @@ valu: "finger/CIP391691.96.jpg"},
 {name: "Year of release", valu: "2005"}]},
  
 'CIP392781.1': {name: "CIP392781.1",description: "Primavera: This variety is extreme resistant to   PVY and moderately resistant to late blight. The plant has medium vegetative period with semi erect habit with pale white flowers. The tubers have oblong shape and cream flesh, are good for table use and for processing as chips (crisps). The variety was released in Peru in 1996.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392781.1.jpg"},
-{
-name: "Fry image",
-valu: "fry/392781.1.jpg"},
-{
-name: "Chips image",
-valu: "chips/392781.1.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392781.1.jpg"},
-{
-name: "Plant image",
-valu: "plant/392781.1.jpg"},
-{
-name: "Flower image",
-valu: "flower/392781.1.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392781.1.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392781.1.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/392781.1.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392781.1.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "720160 x 385280.1"},
 {name: "Predominant tuber skin color", valu: "Yellow"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23754,31 +15908,15 @@ valu: "finger/CIP392781.1.jpg"},
 {name: "Year of release", valu: "1996"}]},
  
 'CIP392797.22': {name: "CIP392797.22",description: "UNICA: Is a variety resistant to PVY. The plant have medium vegetative period with decumbent plant habit and lilac flowers with white acumen abaxial surface. The variety has a wide adaptation to the tropics under short days. The tubers are oblong with cream flesh are excellent for processing as chips (crisps) and French fry (chips). The variety was realized in Peru in 1998.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/392797.22.jpg"},
-{
-name: "Fry image",
-valu: "fry/392797.22.jpg"},
-{
-name: "Chips image",
-valu: "chips/392797.22.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/392797.22.jpg"},
-{
-name: "Plant image",
-valu: "plant/392797.22.jpg"},
-{
-name: "Flower image",
-valu: "flower/392797.22.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP392797.22.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/392797.22.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/392797.22.jpg"}, 
+
+{name: "Flower image", valu: "Flower/392797.22.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
 {name: "Countries where cultivated", valu: "Vietnam, Laos, Uzbekistan, Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387521.3 x APHRODITE"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23813,30 +15951,18 @@ valu: "finger/CIP392797.22.jpg"},
 {name: "Year of release", valu: "1998"}]},
  
 'CIP393077.54': {name: "CIP393077.54",description: "Wa kaya: This variety is highly resistance to late blight (horizontal), extreme resistance to PVX and  moderately resistant to BW. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit.Wide range of adaptation within short and intermediate day lengths, prefer cool temperature in highlands.The tubers have long-oblong  shape with white flesh, with good yield production are good for processing as chips (crisps) , French fry and Table.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393077.54.jpg"},
-{
-name: "Fry image",
-valu: "fry/393077.54.jpg"},
-{
-name: "Chips image",
-valu: "chips/393077.54.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393077.54.jpg"},
-{
-name: "Plant image",
-valu: "plant/393077.54.jpg"},
-{
-name: "Flower image",
-valu: "flower/393077.54.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393077.54.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393077.54.jpg"}, 
 
+{name: "Fry image", valu: "Fry/393077.54.jpg"}, 
+
+{name: "Chips image", valu: "Chips/393077.54.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393077.54.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393077.54.jpg"}, 
 {name: "Country Selection", valu: "Mozambique"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387348.2 x 389746.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In scattered areas"},
@@ -23873,30 +15999,16 @@ valu: "finger/CIP393077.54.jpg"},
 {name: "Year of release", valu: "2011"}]},
  
 'CIP393280.64': {name: "CIP393280.64",description: "Pasquí: This variety is resistant to late blight (horizontal), resistant to PLRV and PVX, moderately resistant to leaf miner fly. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, purple flower color and regular flowering habit . Tubers have oblong shape and pale yellow flesh with superficial eyes, medium to large tuber sizes, high tuber number per plant with wide range of adaptation within short and intermediate day lengths, and cool low and high lands. Variety with good yield production are good for processing as chips (crisps) and French fry .",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393280.64.jpg"},
-{
-name: "Fry image",
-valu: "fry/393280.64.jpg"},
-{
-name: "Chips image",
-valu: "chips/393280.64.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393280.64.jpg"},
-{
-name: "Plant image",
-valu: "plant/393280.64.jpg"},
-{
-name: "Flower image",
-valu: "flower/393280.64.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393280.64.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393280.64.jpg"}, 
 
+{name: "Chips image", valu: "Chips/393280.64.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393280.64.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393280.64.jpg"}, 
 {name: "Country Selection", valu: "Costa Rica"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387015.3 x 386316.14 (XY.14)"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -23933,31 +16045,15 @@ valu: "finger/CIP393280.64.jpg"},
 {name: "Year of release", valu: "2011"}]},
  
 'CIP393371.58': {name: "CIP393371.58",description: "INIA 310;Chucmarina: This variety is resistant to late blight (horizontal) and extreme resistance to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, white flower color and regular flowering habit. Tubers have oblong shape, cream flesh with superficial eyes, medium to large tuber sizes, intermediate tuber number per plant.Yield  high under LB disease. Tubers are good for processing specially for chips (crisps) and French fry (chips). The Variety was released in Peru in 2007",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393371.58.jpg"},
-{
-name: "Fry image",
-valu: "fry/393371.58.jpg"},
-{
-name: "Chips image",
-valu: "chips/393371.58.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393371.58.jpg"},
-{
-name: "Plant image",
-valu: "plant/393371.58.jpg"},
-{
-name: "Flower image",
-valu: "flower/393371.58.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393371.58.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393371.58.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/393371.58.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393371.58.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
 {name: "Countries where cultivated", valu: "Costa Rica, Ethiopia, Kenya, Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387170.16 x 389746.2"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Pink"},
 {name: "Distribution of secondary tuber skin colour", valu: "In the eyebrows"},
@@ -23987,30 +16083,18 @@ valu: "finger/CIP393371.58.jpg"},
 {name: "Year of release", valu: "2007"}]},
  
 'CIP393385.39': {name: "CIP393385.39",description: "Sherekea: This variety is resistant to late blight (horizontal) and resistant to PVX. Intermediate between tbr and adg, medium size plant, semi-erect, strong stems, small to medium size leaves, light purple flower color and regular flowering habit. Tubers with red skin color with pink eyes, cream flesh, oblong shape with intermediate eyes, medium to large tuber sizes, intermediate tuber number per plant with good yield production are good for processing as chips (crisps) and French fry . Variety  with wide range of adaptation within short and intermediate day lengths, and cool low and high lands.",
-attr: [{
-name: "Tuber image",
-valu: "tuber/393385.39.jpg"},
-{
-name: "Fry image",
-valu: "fry/393385.39.jpg"},
-{
-name: "Chips image",
-valu: "chips/393385.39.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/393385.39.jpg"},
-{
-name: "Plant image",
-valu: "plant/393385.39.jpg"},
-{
-name: "Flower image",
-valu: "flower/393385.39.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP393385.39.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/393385.39.jpg"}, 
 
+{name: "Fry image", valu: "Fry/393385.39.jpg"}, 
+
+{name: "Chips image", valu: "Chips/393385.39.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/393385.39.jpg"}, 
+
+{name: "Flower image", valu: "Flower/393385.39.jpg"}, 
 {name: "Country Selection", valu: "Kenya"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "387231.7 x 387170.9"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -24041,30 +16125,14 @@ valu: "finger/CIP393385.39.jpg"},
 {name: "Year of release", valu: "2010"}]},
  
 'CIP395011.2': {name: "CIP395011.2",description: "Kholophethe",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395011.2.jpg"},
-{
-name: "Fry image",
-valu: "fry/395011.2.jpg"},
-{
-name: "Chips image",
-valu: "chips/395011.2.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395011.2.jpg"},
-{
-name: "Plant image",
-valu: "plant/395011.2.jpg"},
-{
-name: "Flower image",
-valu: "flower/395011.2.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395011.2.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395011.2.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/395011.2.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395011.2.jpg"}, 
 {name: "Country Selection", valu: "Mozambique"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393085.5 x 392639.8"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -24087,31 +16155,17 @@ valu: "finger/CIP395011.2.jpg"},
 {name: "Year of release", valu: "2011"}]},
  
 'CIP395015.6': {name: "CIP395015.6",description: "Chitukuko",
-attr: [{
-name: "Tuber image",
-valu: "tuber/395015.6.jpg"},
-{
-name: "Fry image",
-valu: "fry/395015.6.jpg"},
-{
-name: "Chips image",
-valu: "chips/395015.6.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/395015.6.jpg"},
-{
-name: "Plant image",
-valu: "plant/395015.6.jpg"},
-{
-name: "Flower image",
-valu: "flower/395015.6.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP395015.6.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/395015.6.jpg"}, 
 
+{name: "Chips image", valu: "Chips/395015.6.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/395015.6.jpg"}, 
+
+{name: "Flower image", valu: "Flower/395015.6.jpg"}, 
 {name: "Country Selection", valu: "Mozambique"},
 {name: "Countries where cultivated", valu: "Malawi, Mozambique"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393083.2 x 391679.12"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -24144,30 +16198,14 @@ valu: "finger/CIP395015.6.jpg"},
 {name: "Year of release", valu: "2011"}]},
  
 'CIP396027.205': {name: "CIP396027.205",description: "Njuli",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396027.205.jpg"},
-{
-name: "Fry image",
-valu: "fry/396027.205.jpg"},
-{
-name: "Chips image",
-valu: "chips/396027.205.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396027.205.jpg"},
-{
-name: "Plant image",
-valu: "plant/396027.205.jpg"},
-{
-name: "Flower image",
-valu: "flower/396027.205.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396027.205.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396027.205.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396027.205.jpg"}, 
+
+{name: "Flower image", valu: "Flower/396027.205.jpg"}, 
 {name: "Country Selection", valu: "Malawi"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392633.23 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -24199,30 +16237,14 @@ valu: "finger/CIP396027.205.jpg"},
 {name: "Year of release", valu: "2011"}]},
  
 'CIP396036.201': {name: "CIP396036.201",description: "Mwai",
-attr: [{
-name: "Tuber image",
-valu: "tuber/396036.201.jpg"},
-{
-name: "Fry image",
-valu: "fry/396036.201.jpg"},
-{
-name: "Chips image",
-valu: "chips/396036.201.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/396036.201.jpg"},
-{
-name: "Plant image",
-valu: "plant/396036.201.jpg"},
-{
-name: "Flower image",
-valu: "flower/396036.201.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP396036.201.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/396036.201.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/396036.201.jpg"}, 
+
+{name: "Flower image", valu: "Flower/396036.201.jpg"}, 
 {name: "Country Selection", valu: "Malawi"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "393077.51 x 393382.64"},
 {name: "Predominant tuber skin color", valu: "Red"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -24241,30 +16263,14 @@ valu: "finger/CIP396036.201.jpg"},
 {name: "Year of release", valu: "2011"}]},
  
 'CIP397073.16': {name: "CIP397073.16",description: "Serkhosil",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397073.16.jpg"},
-{
-name: "Fry image",
-valu: "fry/397073.16.jpg"},
-{
-name: "Chips image",
-valu: "chips/397073.16.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397073.16.jpg"},
-{
-name: "Plant image",
-valu: "plant/397073.16.jpg"},
-{
-name: "Flower image",
-valu: "flower/397073.16.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397073.16.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397073.16.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/397073.16.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397073.16.jpg"}, 
 {name: "Country Selection", valu: "Uzbekistan"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392823.4 (LR93.120) x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "Yellow"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -24293,31 +16299,15 @@ valu: "finger/CIP397073.16.jpg"},
 {name: "Year of release", valu: "2010"}]},
  
 'CIP397077.16': {name: "CIP397077.16",description: "Alliance",
-attr: [{
-name: "Tuber image",
-valu: "tuber/397077.16.jpg"},
-{
-name: "Fry image",
-valu: "fry/397077.16.jpg"},
-{
-name: "Chips image",
-valu: "chips/397077.16.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/397077.16.jpg"},
-{
-name: "Plant image",
-valu: "plant/397077.16.jpg"},
-{
-name: "Flower image",
-valu: "flower/397077.16.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP397077.16.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/397077.16.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/397077.16.jpg"}, 
+
+{name: "Flower image", valu: "Flower/397077.16.jpg"}, 
 {name: "Country Selection", valu: "Kazakhstan"},
 {name: "Countries where cultivated", valu: "Tajikistan, Uzbekistan, Kazakhstan"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "392025.7 (LR93.221) x 392820.1 (C93.154)"},
 {name: "Predominant tuber skin color", valu: "White-cream"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -24353,30 +16343,18 @@ valu: "finger/CIP397077.16.jpg"},
 {name: "Year of release", valu: "2009"}]},
  
 'CIP399075.7': {name: "CIP399075.7",description: "Puca Lliclla INIA 312: This variety is resistant to late blight (horizontal) and resistant to PVY. Is highly appreciated for its tolerant to frost and hail. Plant with light purple flower color. Tubers have oblong shape with  cream flesh. It is a good table potato and can be used also for chips.  At the experimental level has proved good for frying. With  high yield under LB disease. The Variety was released in Peru in 2007",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399075.7.jpg"},
-{
-name: "Fry image",
-valu: "fry/399075.7.jpg"},
-{
-name: "Chips image",
-valu: "chips/399075.7.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399075.7.jpg"},
-{
-name: "Plant image",
-valu: "plant/399075.7.jpg"},
-{
-name: "Flower image",
-valu: "flower/399075.7.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399075.7.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399075.7.jpg"}, 
 
+{name: "Fry image", valu: "Fry/399075.7.jpg"}, 
+
+{name: "Chips image", valu: "Chips/399075.7.jpg"}, 
+
+{name: "Sprout image", valu: "Sprout/399075.7.jpg"}, 
+
+{name: "Flower image", valu: "Flower/399075.7.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395266.2 (B1C4046.2) x 395282.3 (B1C4062.3)"},
 {name: "Predominant tuber skin color", valu: "Pink"},
 {name: "Tuber skin secondary color", valu: "Absent"},
 {name: "Distribution of secondary tuber skin colour", valu: "Absent"},
@@ -24408,30 +16386,14 @@ valu: "finger/CIP399075.7.jpg"},
 {name: "Year of release", valu: "2007"}]},
  
 'CIP399085.23': {name: "CIP399085.23",description: "INIA 311, Pallay Poncho: This variety is resistant to late blight (horizontal), PVX and  PLRV. Is highly appreciated for its tolerant to frost and hail. Plant with purple flower color. Tubers have long-oblong shape with  white flesh. It is a good table potato and can be used also for chips.  At the experimental level has proved good for frying. The Variety was released in Peru in 2007",
-attr: [{
-name: "Tuber image",
-valu: "tuber/399085.23.jpg"},
-{
-name: "Fry image",
-valu: "fry/399085.23.jpg"},
-{
-name: "Chips image",
-valu: "chips/399085.23.jpg"},
-{
-name: "Sprout image",
-valu: "sprout/399085.23.jpg"},
-{
-name: "Plant image",
-valu: "plant/399085.23.jpg"},
-{
-name: "Flower image",
-valu: "flower/399085.23.jpg"},
-{
-name: "Fingerprint image",
-valu: "finger/CIP399085.23.jpg"},
+attr: [
+{name: "Tuber image", valu: "Tuber/399085.23.jpg"}, 
 
+{name: "Sprout image", valu: "Sprout/399085.23.jpg"}, 
+
+{name: "Flower image", valu: "Flower/399085.23.jpg"}, 
 {name: "Country Selection", valu: "Peru"},
-{name: "Parentage", valu: "NA"},
+{name: "Parentage", valu: "395296.2(B1C4076.2) x 395256.1(B1C4036.1)"},
 {name: "Predominant tuber skin color", valu: "Purple"},
 {name: "Tuber skin secondary color", valu: "White-cream"},
 {name: "Distribution of secondary tuber skin colour", valu: "areas around eyes do not show secondary color but reminder of tuber does (spectacled)"},

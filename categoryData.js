@@ -503,6 +503,6 @@ var categoryData = {
 {name: "CIP399101.1"} ,
 {name: "CIP694474.16"} ,
 {name: "CIP694474.33"} 
-]}	
+]}
 };
             
