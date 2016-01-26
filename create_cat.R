@@ -27,8 +27,10 @@ code_to_val <- function(avar, acode){
 fil = "D:/data/catalogs/potato_2014/Catalogo2014_03_28.xls"
 dat = readxl::read_excel(fil)
 
-vrs = dat[dat$`Variety or Clone` == "V", ]
+#vrs = dat[dat$`Variety or Clone` == "V", ]
 cls = dat[dat$`Variety or Clone` == "C", ]
+
+
 
 to_item = function(x){
   txt = ""
