@@ -70,7 +70,7 @@ to_cat_item <- function(rec){
       val = code_to_val(names(rec)[j], as.character(rec[j]))
       val = stringr::str_trim(val)
       if (length(val) > 0 ) {
-        if (val != "NA" & !is.na(val)) {
+        if (val != "NA" & !is.na(val) & val != "-") {
         txt = paste0(txt, "\n{name: \"", stringr::str_trim(names(rec)[j]),"\",")
         if(stringr::str_detect(val, "[0-9]{1}\\.[0-9]{1,7}")
            & !stringr::str_detect(val, " x ")
